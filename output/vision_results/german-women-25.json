@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/german-women/25.jpeg",
+    "search_query": "german-women",
+    "position": 25,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9793047308921814,
+            "topicality": 0.9793047308921814,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9790719747543335,
+            "topicality": 0.9790719747543335,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9469591379165649,
+            "topicality": 0.9469591379165649,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/033rq4",
+            "score": 0.9326508045196533,
+            "topicality": 0.9326508045196533,
+            "description": "Street light"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9021329283714294,
+            "topicality": 0.9021329283714294,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/014dsx",
+            "score": 0.878749430179596,
+            "topicality": 0.878749430179596,
+            "description": "Travel"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8610196113586426,
+            "topicality": 0.8610196113586426,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8172767162322998,
+            "topicality": 0.8172767162322998,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/027qw1p",
+            "score": 0.8052809834480286,
+            "topicality": 0.8052809834480286,
+            "description": "Feathered hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

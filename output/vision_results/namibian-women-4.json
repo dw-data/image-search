@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/namibian-women/4.jpeg",
+    "search_query": "namibian-women",
+    "position": 4,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9884675741195679,
+            "topicality": 0.9884675741195679,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.978626012802124,
+            "topicality": 0.978626012802124,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738749265670776,
+            "topicality": 0.9738749265670776,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9722762703895569,
+            "topicality": 0.9722762703895569,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9618041515350342,
+            "topicality": 0.9618041515350342,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9513573050498962,
+            "topicality": 0.9513573050498962,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9447053074836731,
+            "topicality": 0.9447053074836731,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9322976469993591,
+            "topicality": 0.9322976469993591,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9240334033966064,
+            "topicality": 0.9240334033966064,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.91692054271698,
+            "topicality": 0.91692054271698,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

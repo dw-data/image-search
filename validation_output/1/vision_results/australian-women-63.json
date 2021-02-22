@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/australian-women/63.jpeg",
+    "search_query": "australian-women",
+    "position": 63,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9853010177612305,
+            "topicality": 0.9853010177612305,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9826101064682007,
+            "topicality": 0.9826101064682007,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9719728827476501,
+            "topicality": 0.9719728827476501,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9332833290100098,
+            "topicality": 0.9332833290100098,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9075939059257507,
+            "topicality": 0.9075939059257507,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.8693253397941589,
+            "topicality": 0.8693253397941589,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8467630743980408,
+            "topicality": 0.8467630743980408,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01h1dd",
+            "score": 0.8257410526275635,
+            "topicality": 0.8257410526275635,
+            "description": "Publication"
+        },
+        {
+            "mid": "/m/01n5jq",
+            "score": 0.8106168508529663,
+            "topicality": 0.8106168508529663,
+            "description": "Poster"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.8082853555679321,
+            "topicality": 0.8082853555679321,
+            "description": "Community"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

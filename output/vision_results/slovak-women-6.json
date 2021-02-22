@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/slovak-women/6.jpeg",
+    "search_query": "slovak-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9887144565582275,
+            "topicality": 0.9887144565582275,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880536198616028,
+            "topicality": 0.9880536198616028,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9845441579818726,
+            "topicality": 0.9845441579818726,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790177345275879,
+            "topicality": 0.9790177345275879,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9787148833274841,
+            "topicality": 0.9787148833274841,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9756670594215393,
+            "topicality": 0.9756670594215393,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/09q2t",
+            "score": 0.9750709533691406,
+            "topicality": 0.9750709533691406,
+            "description": "Brown"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740414023399353,
+            "topicality": 0.9740414023399353,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.972906768321991,
+            "topicality": 0.972906768321991,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.969224214553833,
+            "topicality": 0.969224214553833,
+            "description": "Chin"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

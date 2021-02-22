@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/afghan-women/40.jpeg",
+    "search_query": "afghan-women",
+    "position": 40,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9878917932510376,
+            "topicality": 0.9878917932510376,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9789398312568665,
+            "topicality": 0.9789398312568665,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9787119030952454,
+            "topicality": 0.9787119030952454,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774434566497803,
+            "topicality": 0.9774434566497803,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9646145105361938,
+            "topicality": 0.9646145105361938,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9414131045341492,
+            "topicality": 0.9414131045341492,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9405176043510437,
+            "topicality": 0.9405176043510437,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/086mh",
+            "score": 0.9240005016326904,
+            "topicality": 0.9240005016326904,
+            "description": "Winter"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.901930570602417,
+            "topicality": 0.901930570602417,
+            "description": "Tooth"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

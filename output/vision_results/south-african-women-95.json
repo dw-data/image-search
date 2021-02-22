@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/south-african-women/95.png",
+    "search_query": "south-african-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/07s6nbt",
+            "score": 0.9582425355911255,
+            "topicality": 0.9582425355911255,
+            "description": "Text"
+        },
+        {
+            "mid": "/m/01vkl",
+            "score": 0.7470754981040955,
+            "topicality": 0.7470754981040955,
+            "description": "Circle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

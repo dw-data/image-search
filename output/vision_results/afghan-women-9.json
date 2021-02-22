@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/afghan-women/9.jpeg",
+    "search_query": "afghan-women",
+    "position": 9,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9766259789466858,
+            "topicality": 0.9766259789466858,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9595345258712769,
+            "topicality": 0.9595345258712769,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828185200691223,
+            "topicality": 0.8828185200691223,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.7461146712303162,
+            "topicality": 0.7461146712303162,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.7412522435188293,
+            "topicality": 0.7412522435188293,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.6807116866111755,
+            "topicality": 0.6807116866111755,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.6589517593383789,
+            "topicality": 0.6589517593383789,
+            "description": "Tradition"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "POSSIBLE"
+        }
+    }
+}

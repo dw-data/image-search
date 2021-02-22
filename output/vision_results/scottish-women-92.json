@@ -1,0 +1,72 @@
+{
+    "path": "../output/imgs/scottish-women/92.jpeg",
+    "search_query": "scottish-women",
+    "position": 92,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9797959327697754,
+            "topicality": 0.9797959327697754,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9787940382957458,
+            "topicality": 0.9787940382957458,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/04xz_5",
+            "score": 0.9035899043083191,
+            "topicality": 0.9035899043083191,
+            "description": "Blazer"
+        },
+        {
+            "mid": "/m/01kq3x",
+            "score": 0.7269461154937744,
+            "topicality": 0.7269461154937744,
+            "description": "White-collar worker"
+        },
+        {
+            "mid": "/m/01j3sz",
+            "score": 0.7215738296508789,
+            "topicality": 0.7215738296508789,
+            "description": "Laugh"
+        },
+        {
+            "mid": "/j/4kr7kk",
+            "score": 0.69805508852005,
+            "topicality": 0.69805508852005,
+            "description": "Pleased"
+        },
+        {
+            "mid": "/m/011s0",
+            "score": 0.6078431010246277,
+            "topicality": 0.6078431010246277,
+            "description": "Advertising"
+        },
+        {
+            "mid": "/m/01xsb3",
+            "score": 0.5303180813789368,
+            "topicality": 0.5303180813789368,
+            "description": "Classic car"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

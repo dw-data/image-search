@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mujeres-colombianas/23.jpeg",
+    "search_query": "mujeres-colombianas",
+    "position": 23,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9832450151443481,
+            "topicality": 0.9832450151443481,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9825679063796997,
+            "topicality": 0.9825679063796997,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9446161389350891,
+            "topicality": 0.9446161389350891,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9227502346038818,
+            "topicality": 0.9227502346038818,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.886976420879364,
+            "topicality": 0.886976420879364,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.86122065782547,
+            "topicality": 0.86122065782547,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.860602080821991,
+            "topicality": 0.860602080821991,
+            "description": "Swimwear"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8522740602493286,
+            "topicality": 0.8522740602493286,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.8263025879859924,
+            "topicality": 0.8263025879859924,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/09hyx",
+            "score": 0.7970690131187439,
+            "topicality": 0.7970690131187439,
+            "description": "Lingerie"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

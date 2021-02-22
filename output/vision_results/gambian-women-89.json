@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/gambian-women/89.jpeg",
+    "search_query": "gambian-women",
+    "position": 89,
+    "label_annotations": [
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.887416422367096,
+            "topicality": 0.887416422367096,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/03fp41",
+            "score": 0.8578346371650696,
+            "topicality": 0.8578346371650696,
+            "description": "Houseplant"
+        },
+        {
+            "mid": "/m/0fm3zh",
+            "score": 0.8462023138999939,
+            "topicality": 0.8462023138999939,
+            "description": "Flowerpot"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6212273240089417,
+            "topicality": 0.6212273240089417,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/025dyy",
+            "score": 0.6050238013267517,
+            "topicality": 0.6050238013267517,
+            "description": "Box"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

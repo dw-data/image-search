@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/malaysian-women/70.jpeg",
+    "search_query": "malaysian-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9846287369728088,
+            "topicality": 0.9846287369728088,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9835408926010132,
+            "topicality": 0.9835408926010132,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.975998044013977,
+            "topicality": 0.975998044013977,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.97286057472229,
+            "topicality": 0.97286057472229,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9705085158348083,
+            "topicality": 0.9705085158348083,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9665040969848633,
+            "topicality": 0.9665040969848633,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9655086994171143,
+            "topicality": 0.9655086994171143,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9529706835746765,
+            "topicality": 0.9529706835746765,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9380441904067993,
+            "topicality": 0.9380441904067993,
+            "description": "Eye"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/syrian-women/6.jpeg",
+    "search_query": "syrian-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.984155535697937,
+            "topicality": 0.984155535697937,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9787446856498718,
+            "topicality": 0.9787446856498718,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9766648411750793,
+            "topicality": 0.9766648411750793,
+            "description": "People"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639050960540771,
+            "topicality": 0.9639050960540771,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.903546929359436,
+            "topicality": 0.903546929359436,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8521266579627991,
+            "topicality": 0.8521266579627991,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.7878080010414124,
+            "topicality": 0.7878080010414124,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.5253121852874756,
+            "topicality": 0.5253121852874756,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.5013387799263,
+            "topicality": 0.5013387799263,
+            "description": "Hood"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

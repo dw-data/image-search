@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/monacan-women/1.jpeg",
+    "search_query": "monacan-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/018xm",
+            "score": 0.9390210509300232,
+            "topicality": 0.9390210509300232,
+            "description": "Ball"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.7372388243675232,
+            "topicality": 0.7372388243675232,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/0hjbz",
+            "score": 0.7142895460128784,
+            "topicality": 0.7142895460128784,
+            "description": "Drinking"
+        },
+        {
+            "mid": "/m/07ptj3n",
+            "score": 0.69401615858078,
+            "topicality": 0.69401615858078,
+            "description": "Cup"
+        },
+        {
+            "mid": "/m/0138tl",
+            "score": 0.5346531271934509,
+            "topicality": 0.5346531271934509,
+            "description": "Toy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

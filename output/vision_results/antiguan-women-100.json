@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/antiguan-women/100.jpeg",
+    "search_query": "antiguan-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/0838f",
+            "score": 0.9622375965118408,
+            "topicality": 0.9622375965118408,
+            "description": "Water"
+        },
+        {
+            "mid": "/m/04g3r",
+            "score": 0.950744092464447,
+            "topicality": 0.950744092464447,
+            "description": "Leisure"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9474303126335144,
+            "topicality": 0.9474303126335144,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/078qz",
+            "score": 0.9353922605514526,
+            "topicality": 0.9353922605514526,
+            "description": "Summer"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.906944215297699,
+            "topicality": 0.906944215297699,
+            "description": "Swimwear"
+        },
+        {
+            "mid": "/m/01rzcn",
+            "score": 0.8997011780738831,
+            "topicality": 0.8997011780738831,
+            "description": "Watercraft"
+        },
+        {
+            "mid": "/m/02jwqh",
+            "score": 0.8955487012863159,
+            "topicality": 0.8955487012863159,
+            "description": "Vacation"
+        },
+        {
+            "mid": "/m/019jd",
+            "score": 0.8816264867782593,
+            "topicality": 0.8816264867782593,
+            "description": "Boat"
+        },
+        {
+            "mid": "/m/04h4w",
+            "score": 0.8483371734619141,
+            "topicality": 0.8483371734619141,
+            "description": "Lake"
+        },
+        {
+            "mid": "/m/09hyx",
+            "score": 0.8387647867202759,
+            "topicality": 0.8387647867202759,
+            "description": "Lingerie"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

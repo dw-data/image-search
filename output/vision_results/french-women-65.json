@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/french-women/65.jpeg",
+    "search_query": "french-women",
+    "position": 65,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739540815353394,
+            "topicality": 0.9739540815353394,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0438n2",
+            "score": 0.9682363271713257,
+            "topicality": 0.9682363271713257,
+            "description": "Jheri curl"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9652765989303589,
+            "topicality": 0.9652765989303589,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.9651955962181091,
+            "topicality": 0.9651955962181091,
+            "description": "Denim"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9539144039154053,
+            "topicality": 0.9539144039154053,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9485464096069336,
+            "topicality": 0.9485464096069336,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9318035840988159,
+            "topicality": 0.9318035840988159,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9295592904090881,
+            "topicality": 0.9295592904090881,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/019swr",
+            "score": 0.8976524472236633,
+            "topicality": 0.8976524472236633,
+            "description": "Knee"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8947014212608337,
+            "topicality": 0.8947014212608337,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/french-women/20.jpeg",
+    "search_query": "french-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9533380270004272,
+            "topicality": 0.9533380270004272,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/02rfdq",
+            "score": 0.9438283443450928,
+            "topicality": 0.9438283443450928,
+            "description": "Interior design"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9291527271270752,
+            "topicality": 0.9291527271270752,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.9264408349990845,
+            "topicality": 0.9264408349990845,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/019swr",
+            "score": 0.8825045228004456,
+            "topicality": 0.8825045228004456,
+            "description": "Knee"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8585702180862427,
+            "topicality": 0.8585702180862427,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/031n1",
+            "score": 0.8570261597633362,
+            "topicality": 0.8570261597633362,
+            "description": "Foot"
+        },
+        {
+            "mid": "/m/0d1pc",
+            "score": 0.8018360137939453,
+            "topicality": 0.8018360137939453,
+            "description": "Model"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.7940866351127625,
+            "topicality": 0.7940866351127625,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.7845889329910278,
+            "topicality": 0.7845889329910278,
+            "description": "Fashion model"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/emirati-women/4.jpeg",
+    "search_query": "emirati-women",
+    "position": 4,
+    "label_annotations": [
+        {
+            "mid": "/m/062581",
+            "score": 0.9710032939910889,
+            "topicality": 0.9710032939910889,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8661054968833923,
+            "topicality": 0.8661054968833923,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/01z8xg",
+            "score": 0.652612566947937,
+            "topicality": 0.652612566947937,
+            "description": "Transparent material"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.6076065301895142,
+            "topicality": 0.6076065301895142,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.5609802007675171,
+            "topicality": 0.5609802007675171,
+            "description": "Hood"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

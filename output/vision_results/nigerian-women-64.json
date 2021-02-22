@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/nigerian-women/64.jpeg",
+    "search_query": "nigerian-women",
+    "position": 64,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9893798828125,
+            "topicality": 0.9893798828125,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9890671372413635,
+            "topicality": 0.9890671372413635,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9878421425819397,
+            "topicality": 0.9878421425819397,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9863212704658508,
+            "topicality": 0.9863212704658508,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9601967930793762,
+            "topicality": 0.9601967930793762,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9576045274734497,
+            "topicality": 0.9576045274734497,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9405742287635803,
+            "topicality": 0.9405742287635803,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/06h12k",
+            "score": 0.9114553928375244,
+            "topicality": 0.9114553928375244,
+            "description": "Sharing"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.8927895426750183,
+            "topicality": 0.8927895426750183,
+            "description": "Fashion accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

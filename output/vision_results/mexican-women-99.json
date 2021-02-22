@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/99.jpeg",
+    "search_query": "mexican-women",
+    "position": 99,
+    "label_annotations": [
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9887344241142273,
+            "topicality": 0.9887344241142273,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9822961091995239,
+            "topicality": 0.9822961091995239,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9686702489852905,
+            "topicality": 0.9686702489852905,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9599205255508423,
+            "topicality": 0.9599205255508423,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/02wzbmj",
+            "score": 0.951279878616333,
+            "topicality": 0.951279878616333,
+            "description": "Standing"
+        },
+        {
+            "mid": "/m/031bff",
+            "score": 0.929629921913147,
+            "topicality": 0.929629921913147,
+            "description": "Window covering"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.9113003015518188,
+            "topicality": 0.9113003015518188,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8733067512512207,
+            "topicality": 0.8733067512512207,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/0hf58v5",
+            "score": 0.8699846863746643,
+            "topicality": 0.8699846863746643,
+            "description": "Luggage and bags"
+        },
+        {
+            "mid": "/m/0n42jw2",
+            "score": 0.835693359375,
+            "topicality": 0.835693359375,
+            "description": "Window treatment"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

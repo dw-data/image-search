@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/british-women/76.jpeg",
+    "search_query": "british-women",
+    "position": 76,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9899978637695312,
+            "topicality": 0.9899978637695312,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9795190095901489,
+            "topicality": 0.9795190095901489,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9714739322662354,
+            "topicality": 0.9714739322662354,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9326438307762146,
+            "topicality": 0.9326438307762146,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9120383858680725,
+            "topicality": 0.9120383858680725,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9036092162132263,
+            "topicality": 0.9036092162132263,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/0hgs526",
+            "score": 0.8991930484771729,
+            "topicality": 0.8991930484771729,
+            "description": "Costume accessory"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0rytcc5",
+            "score": 0.8870401382446289,
+            "topicality": 0.8870401382446289,
+            "description": "Strapless dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

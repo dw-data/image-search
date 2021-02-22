@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/australian-women/60.jpeg",
+    "search_query": "australian-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9895434379577637,
+            "topicality": 0.9895434379577637,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9889166355133057,
+            "topicality": 0.9889166355133057,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9799533486366272,
+            "topicality": 0.9799533486366272,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.949184000492096,
+            "topicality": 0.949184000492096,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9423118829727173,
+            "topicality": 0.9423118829727173,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9070407152175903,
+            "topicality": 0.9070407152175903,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8989881277084351,
+            "topicality": 0.8989881277084351,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8704435229301453,
+            "topicality": 0.8704435229301453,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/01krhy",
+            "score": 0.8323267102241516,
+            "topicality": 0.8323267102241516,
+            "description": "Tiara"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

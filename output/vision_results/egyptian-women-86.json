@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/egyptian-women/86.jpeg",
+    "search_query": "egyptian-women",
+    "position": 86,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9885692000389099,
+            "topicality": 0.9885692000389099,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.988038957118988,
+            "topicality": 0.988038957118988,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9824938774108887,
+            "topicality": 0.9824938774108887,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774324893951416,
+            "topicality": 0.9774324893951416,
+            "description": "People"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9692308306694031,
+            "topicality": 0.9692308306694031,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9666640758514404,
+            "topicality": 0.9666640758514404,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9655444622039795,
+            "topicality": 0.9655444622039795,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9405903816223145,
+            "topicality": 0.9405903816223145,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.9361793398857117,
+            "topicality": 0.9361793398857117,
+            "description": "Protest"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8706431984901428,
+            "topicality": 0.8706431984901428,
+            "description": "Public event"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/70.jpeg",
+    "search_query": "mexican-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9766464829444885,
+            "topicality": 0.9766464829444885,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.9135025143623352,
+            "topicality": 0.9135025143623352,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/0gkxy13",
+            "score": 0.8624202609062195,
+            "topicality": 0.8624202609062195,
+            "description": "Handwriting"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8215311169624329,
+            "topicality": 0.8215311169624329,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/02k88w",
+            "score": 0.7431691884994507,
+            "topicality": 0.7431691884994507,
+            "description": "Rebellion"
+        },
+        {
+            "mid": "/m/01kr41",
+            "score": 0.657274067401886,
+            "topicality": 0.657274067401886,
+            "description": "Mask"
+        },
+        {
+            "mid": "/m/0jyt6",
+            "score": 0.6546853184700012,
+            "topicality": 0.6546853184700012,
+            "description": "Masque"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.6286147236824036,
+            "topicality": 0.6286147236824036,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/012qgt",
+            "score": 0.5799711346626282,
+            "topicality": 0.5799711346626282,
+            "description": "Social work"
+        },
+        {
+            "mid": "/m/0hgs526",
+            "score": 0.561643123626709,
+            "topicality": 0.561643123626709,
+            "description": "Costume accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

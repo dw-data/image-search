@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/honduran-women/67.jpeg",
+    "search_query": "honduran-women",
+    "position": 67,
+    "label_annotations": [
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9586583971977234,
+            "topicality": 0.9586583971977234,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.9185757637023926,
+            "topicality": 0.9185757637023926,
+            "description": "Team"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8772973418235779,
+            "topicality": 0.8772973418235779,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/040h04",
+            "score": 0.7746084332466125,
+            "topicality": 0.7746084332466125,
+            "description": "Hill station"
+        },
+        {
+            "mid": "/m/01zpz",
+            "score": 0.7646636366844177,
+            "topicality": 0.7646636366844177,
+            "description": "Crew"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

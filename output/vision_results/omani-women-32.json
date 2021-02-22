@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/omani-women/32.jpeg",
+    "search_query": "omani-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9771405458450317,
+            "topicality": 0.9771405458450317,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9032460451126099,
+            "topicality": 0.9032460451126099,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.8893448114395142,
+            "topicality": 0.8893448114395142,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828220963478088,
+            "topicality": 0.8828220963478088,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/016c4t",
+            "score": 0.5016531348228455,
+            "topicality": 0.5016531348228455,
+            "description": "Ceremony"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

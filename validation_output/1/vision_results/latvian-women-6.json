@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/latvian-women/6.jpeg",
+    "search_query": "latvian-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9838210940361023,
+            "topicality": 0.9838210940361023,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9836961627006531,
+            "topicality": 0.9836961627006531,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9762362241744995,
+            "topicality": 0.9762362241744995,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9715753793716431,
+            "topicality": 0.9715753793716431,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9701585173606873,
+            "topicality": 0.9701585173606873,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9590306878089905,
+            "topicality": 0.9590306878089905,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009718894958,
+            "topicality": 0.9509009718894958,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9422205090522766,
+            "topicality": 0.9422205090522766,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9182588458061218,
+            "topicality": 0.9182588458061218,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8948452472686768,
+            "topicality": 0.8948452472686768,
+            "description": "Eyelash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

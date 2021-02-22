@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/ugandan-women/83.jpeg",
+    "search_query": "ugandan-women",
+    "position": 83,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9777719974517822,
+            "topicality": 0.9777719974517822,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.9701775908470154,
+            "topicality": 0.9701775908470154,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/03jvv0",
+            "score": 0.8434438705444336,
+            "topicality": 0.8434438705444336,
+            "description": "Teal"
+        },
+        {
+            "mid": "/m/06xzh",
+            "score": 0.5622245669364929,
+            "topicality": 0.5622245669364929,
+            "description": "Sleep"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.5173097252845764,
+            "topicality": 0.5173097252845764,
+            "description": "Flesh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

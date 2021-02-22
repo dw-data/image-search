@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/welsh-women/50.jpeg",
+    "search_query": "welsh-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9850963950157166,
+            "topicality": 0.9850963950157166,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9839943647384644,
+            "topicality": 0.9839943647384644,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9685675501823425,
+            "topicality": 0.9685675501823425,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9436652064323425,
+            "topicality": 0.9436652064323425,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8883901834487915,
+            "topicality": 0.8883901834487915,
+            "description": "Neck"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8757319450378418,
+            "topicality": 0.8757319450378418,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724504709243774,
+            "topicality": 0.8724504709243774,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8588518500328064,
+            "topicality": 0.8588518500328064,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8481428623199463,
+            "topicality": 0.8481428623199463,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

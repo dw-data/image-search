@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/estonian-women/15.jpeg",
+    "search_query": "estonian-women",
+    "position": 15,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9826672077178955,
+            "topicality": 0.9826672077178955,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9684826135635376,
+            "topicality": 0.9684826135635376,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8755355477333069,
+            "topicality": 0.8755355477333069,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8679983019828796,
+            "topicality": 0.8679983019828796,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/08t9c_",
+            "score": 0.8393694162368774,
+            "topicality": 0.8393694162368774,
+            "description": "Grass"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8322737216949463,
+            "topicality": 0.8322737216949463,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/05s2s",
+            "score": 0.8199761509895325,
+            "topicality": 0.8199761509895325,
+            "description": "Plant"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.7802391052246094,
+            "topicality": 0.7802391052246094,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7445990443229675,
+            "topicality": 0.7445990443229675,
+            "description": "Long hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

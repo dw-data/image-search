@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/deutsche-frauen/63.jpeg",
+    "search_query": "deutsche-frauen",
+    "position": 63,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9845569729804993,
+            "topicality": 0.9845569729804993,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9726565480232239,
+            "topicality": 0.9726565480232239,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9655939936637878,
+            "topicality": 0.9655939936637878,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/0h8mhzd",
+            "score": 0.9584776759147644,
+            "topicality": 0.9584776759147644,
+            "description": "Sports uniform"
+        },
+        {
+            "mid": "/m/02vzx9",
+            "score": 0.8650877475738525,
+            "topicality": 0.8650877475738525,
+            "description": "Player"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8455700874328613,
+            "topicality": 0.8455700874328613,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/026_x9",
+            "score": 0.816977858543396,
+            "topicality": 0.816977858543396,
+            "description": "Ponytail"
+        },
+        {
+            "mid": "/m/020m7t",
+            "score": 0.8136326670646667,
+            "topicality": 0.8136326670646667,
+            "description": "Ball game"
+        },
+        {
+            "mid": "/m/03x045",
+            "score": 0.7954461574554443,
+            "topicality": 0.7954461574554443,
+            "description": "Team sport"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

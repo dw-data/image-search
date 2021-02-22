@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swiss-women/9.jpeg",
+    "search_query": "swiss-women",
+    "position": 9,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9836177229881287,
+            "topicality": 0.9836177229881287,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9824578762054443,
+            "topicality": 0.9824578762054443,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9797995686531067,
+            "topicality": 0.9797995686531067,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9586169123649597,
+            "topicality": 0.9586169123649597,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/02d46y",
+            "score": 0.9493825435638428,
+            "topicality": 0.9493825435638428,
+            "description": "Cap"
+        },
+        {
+            "mid": "/m/09ggk",
+            "score": 0.9075351357460022,
+            "topicality": 0.9075351357460022,
+            "description": "Purple"
+        },
+        {
+            "mid": "/m/09gg3",
+            "score": 0.846851110458374,
+            "topicality": 0.846851110458374,
+            "description": "Violet"
+        },
+        {
+            "mid": "/m/027xyl",
+            "score": 0.8054976463317871,
+            "topicality": 0.8054976463317871,
+            "description": "Baseball cap"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.8032783269882202,
+            "topicality": 0.8032783269882202,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/m/053hz1",
+            "score": 0.6716260313987732,
+            "topicality": 0.6716260313987732,
+            "description": "Cheering"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

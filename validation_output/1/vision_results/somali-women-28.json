@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/somali-women/28.jpeg",
+    "search_query": "somali-women",
+    "position": 28,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9716002345085144,
+            "topicality": 0.9716002345085144,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9686983823776245,
+            "topicality": 0.9686983823776245,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9462428092956543,
+            "topicality": 0.9462428092956543,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9379919767379761,
+            "topicality": 0.9379919767379761,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.9142249822616577,
+            "topicality": 0.9142249822616577,
+            "description": "One-piece garment"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.909026563167572,
+            "topicality": 0.909026563167572,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8959715962409973,
+            "topicality": 0.8959715962409973,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.886637270450592,
+            "topicality": 0.886637270450592,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724504709243774,
+            "topicality": 0.8724504709243774,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8714049458503723,
+            "topicality": 0.8714049458503723,
+            "description": "Waist"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

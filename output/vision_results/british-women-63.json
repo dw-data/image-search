@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/british-women/63.jpg",
+    "search_query": "british-women",
+    "position": 63,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.992292582988739,
+            "topicality": 0.992292582988739,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9898744821548462,
+            "topicality": 0.9898744821548462,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9888342022895813,
+            "topicality": 0.9888342022895813,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9838194847106934,
+            "topicality": 0.9838194847106934,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739599227905273,
+            "topicality": 0.9739599227905273,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9729494452476501,
+            "topicality": 0.9729494452476501,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9336701035499573,
+            "topicality": 0.9336701035499573,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.919481635093689,
+            "topicality": 0.919481635093689,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/026mhtg",
+            "score": 0.9093117117881775,
+            "topicality": 0.9093117117881775,
+            "description": "Step cutting"
+        },
+        {
+            "mid": "/m/0rytcc5",
+            "score": 0.8978167176246643,
+            "topicality": 0.8978167176246643,
+            "description": "Strapless dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

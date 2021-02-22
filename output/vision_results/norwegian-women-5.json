@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/norwegian-women/5.jpeg",
+    "search_query": "norwegian-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9798409342765808,
+            "topicality": 0.9798409342765808,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9777635931968689,
+            "topicality": 0.9777635931968689,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9561667442321777,
+            "topicality": 0.9561667442321777,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9548547863960266,
+            "topicality": 0.9548547863960266,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/0hg7b",
+            "score": 0.9356503486633301,
+            "topicality": 0.9356503486633301,
+            "description": "Microphone"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9196419715881348,
+            "topicality": 0.9196419715881348,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.898810863494873,
+            "topicality": 0.898810863494873,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/01bmhj",
+            "score": 0.872196614742279,
+            "topicality": 0.872196614742279,
+            "description": "Thumb"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.870815634727478,
+            "topicality": 0.870815634727478,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.7716359496116638,
+            "topicality": 0.7716359496116638,
+            "description": "Conversation"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

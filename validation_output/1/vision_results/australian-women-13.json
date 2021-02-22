@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/australian-women/13.jpeg",
+    "search_query": "australian-women",
+    "position": 13,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9837214350700378,
+            "topicality": 0.9837214350700378,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9729267358779907,
+            "topicality": 0.9729267358779907,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9668593406677246,
+            "topicality": 0.9668593406677246,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/09x8z",
+            "score": 0.9597617983818054,
+            "topicality": 0.9597617983818054,
+            "description": "Stomach"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9573016166687012,
+            "topicality": 0.9573016166687012,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9463680386543274,
+            "topicality": 0.9463680386543274,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9217112064361572,
+            "topicality": 0.9217112064361572,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9190322756767273,
+            "topicality": 0.9190322756767273,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.888992965221405,
+            "topicality": 0.888992965221405,
+            "description": "Swimwear"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.8845017552375793,
+            "topicality": 0.8845017552375793,
+            "description": "Human body"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

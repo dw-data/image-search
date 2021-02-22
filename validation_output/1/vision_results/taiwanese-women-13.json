@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/taiwanese-women/13.jpeg",
+    "search_query": "taiwanese-women",
+    "position": 13,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9752457141876221,
+            "topicality": 0.9752457141876221,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702085852622986,
+            "topicality": 0.9702085852622986,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9662394523620605,
+            "topicality": 0.9662394523620605,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9643732309341431,
+            "topicality": 0.9643732309341431,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9586071372032166,
+            "topicality": 0.9586071372032166,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9369205236434937,
+            "topicality": 0.9369205236434937,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9168403744697571,
+            "topicality": 0.9168403744697571,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8933578133583069,
+            "topicality": 0.8933578133583069,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8907449841499329,
+            "topicality": 0.8907449841499329,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

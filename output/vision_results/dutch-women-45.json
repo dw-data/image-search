@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/dutch-women/45.jpeg",
+    "search_query": "dutch-women",
+    "position": 45,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9921702742576599,
+            "topicality": 0.9921702742576599,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9809480309486389,
+            "topicality": 0.9809480309486389,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9676229357719421,
+            "topicality": 0.9676229357719421,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.931875467300415,
+            "topicality": 0.931875467300415,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/019swr",
+            "score": 0.8999045491218567,
+            "topicality": 0.8999045491218567,
+            "description": "Knee"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.8978181481361389,
+            "topicality": 0.8978181481361389,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.8911896347999573,
+            "topicality": 0.8911896347999573,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8889304399490356,
+            "topicality": 0.8889304399490356,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8542776703834534,
+            "topicality": 0.8542776703834534,
+            "description": "Blond"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

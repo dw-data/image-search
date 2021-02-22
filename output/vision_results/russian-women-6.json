@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/russian-women/6.jpeg",
+    "search_query": "russian-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9735900163650513,
+            "topicality": 0.9735900163650513,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9396084547042847,
+            "topicality": 0.9396084547042847,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0bby24z",
+            "score": 0.6481416821479797,
+            "topicality": 0.6481416821479797,
+            "description": "Moustache"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

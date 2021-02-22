@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/swazi-women/54.jpeg",
+    "search_query": "swazi-women",
+    "position": 54,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9846298098564148,
+            "topicality": 0.9846298098564148,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9835507869720459,
+            "topicality": 0.9835507869720459,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9763261079788208,
+            "topicality": 0.9763261079788208,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9725526571273804,
+            "topicality": 0.9725526571273804,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.969123125076294,
+            "topicality": 0.969123125076294,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9499388933181763,
+            "topicality": 0.9499388933181763,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9435895681381226,
+            "topicality": 0.9435895681381226,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9394509792327881,
+            "topicality": 0.9394509792327881,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9182747006416321,
+            "topicality": 0.9182747006416321,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/079f77",
+            "score": 0.908719539642334,
+            "topicality": 0.908719539642334,
+            "description": "Undershirt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/peruvian-women/100.jpeg",
+    "search_query": "peruvian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/09dhj",
+            "score": 0.662178099155426,
+            "topicality": 0.662178099155426,
+            "description": "Family"
+        },
+        {
+            "mid": "/m/02w3fc",
+            "score": 0.620079755783081,
+            "topicality": 0.620079755783081,
+            "description": "Tarpaulin"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.5359787344932556,
+            "topicality": 0.5359787344932556,
+            "description": "One-piece garment"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.5283256769180298,
+            "topicality": 0.5283256769180298,
+            "description": "Scarf"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

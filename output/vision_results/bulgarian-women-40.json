@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/bulgarian-women/40.jpeg",
+    "search_query": "bulgarian-women",
+    "position": 40,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9856764078140259,
+            "topicality": 0.9856764078140259,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9786470532417297,
+            "topicality": 0.9786470532417297,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656355381011963,
+            "topicality": 0.9656355381011963,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9579280614852905,
+            "topicality": 0.9579280614852905,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540449976921082,
+            "topicality": 0.9540449976921082,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/0hg7b",
+            "score": 0.9418500661849976,
+            "topicality": 0.9418500661849976,
+            "description": "Microphone"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9379214644432068,
+            "topicality": 0.9379214644432068,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.935609757900238,
+            "topicality": 0.935609757900238,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.915599524974823,
+            "topicality": 0.915599524974823,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8820615410804749,
+            "topicality": 0.8820615410804749,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

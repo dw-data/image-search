@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/botswanan-women/49.png",
+    "search_query": "botswanan-women",
+    "position": 49,
+    "label_annotations": [
+        {
+            "mid": "/m/07s6nbt",
+            "score": 0.9571148157119751,
+            "topicality": 0.9571148157119751,
+            "description": "Text"
+        },
+        {
+            "mid": "/m/01n5jq",
+            "score": 0.8541527390480042,
+            "topicality": 0.8541527390480042,
+            "description": "Poster"
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.5890158414840698,
+            "topicality": 0.5890158414840698,
+            "description": "Photo caption"
+        },
+        {
+            "mid": "/m/07sk94",
+            "score": 0.5048642158508301,
+            "topicality": 0.5048642158508301,
+            "description": "Headband"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

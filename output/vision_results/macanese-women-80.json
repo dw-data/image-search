@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/macanese-women/80.jpeg",
+    "search_query": "macanese-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9815548658370972,
+            "topicality": 0.9815548658370972,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774509072303772,
+            "topicality": 0.9774509072303772,
+            "description": "People"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9717357158660889,
+            "topicality": 0.9717357158660889,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9678553938865662,
+            "topicality": 0.9678553938865662,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9383522868156433,
+            "topicality": 0.9383522868156433,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.884465754032135,
+            "topicality": 0.884465754032135,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8761804103851318,
+            "topicality": 0.8761804103851318,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.8477649688720703,
+            "topicality": 0.8477649688720703,
+            "description": "Team"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

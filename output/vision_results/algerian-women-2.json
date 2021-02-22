@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/algerian-women/2.jpeg",
+    "search_query": "algerian-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9895818829536438,
+            "topicality": 0.9895818829536438,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9886391758918762,
+            "topicality": 0.9886391758918762,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9821715354919434,
+            "topicality": 0.9821715354919434,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9790394306182861,
+            "topicality": 0.9790394306182861,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773374795913696,
+            "topicality": 0.9773374795913696,
+            "description": "People"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9772605895996094,
+            "topicality": 0.9772605895996094,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9741923213005066,
+            "topicality": 0.9741923213005066,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9555822610855103,
+            "topicality": 0.9555822610855103,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9480896592140198,
+            "topicality": 0.9480896592140198,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9469446539878845,
+            "topicality": 0.9469446539878845,
+            "description": "Jewellery"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

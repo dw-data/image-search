@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/nauruan-women/74.jpeg",
+    "search_query": "nauruan-women",
+    "position": 74,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9855101108551025,
+            "topicality": 0.9855101108551025,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9854517579078674,
+            "topicality": 0.9854517579078674,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9751733541488647,
+            "topicality": 0.9751733541488647,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.967294454574585,
+            "topicality": 0.967294454574585,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9079540967941284,
+            "topicality": 0.9079540967941284,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8956401944160461,
+            "topicality": 0.8956401944160461,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.8490902781486511,
+            "topicality": 0.8490902781486511,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/013x8v",
+            "score": 0.8323655128479004,
+            "topicality": 0.8323655128479004,
+            "description": "Fan"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.829220175743103,
+            "topicality": 0.829220175743103,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/013s93",
+            "score": 0.8289316892623901,
+            "topicality": 0.8289316892623901,
+            "description": "T-shirt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

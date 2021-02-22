@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/cypriot-women/52.jpeg",
+    "search_query": "cypriot-women",
+    "position": 52,
+    "label_annotations": [
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9219492673873901,
+            "topicality": 0.9219492673873901,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.7408781051635742,
+            "topicality": 0.7408781051635742,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.6383987665176392,
+            "topicality": 0.6383987665176392,
+            "description": "Photo caption"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

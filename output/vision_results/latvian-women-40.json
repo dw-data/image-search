@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/latvian-women/40.jpeg",
+    "search_query": "latvian-women",
+    "position": 40,
+    "label_annotations": [
+        {
+            "mid": "/m/01cbzq",
+            "score": 0.908795177936554,
+            "topicality": 0.908795177936554,
+            "description": "Rock"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8813930153846741,
+            "topicality": 0.8813930153846741,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8168250918388367,
+            "topicality": 0.8168250918388367,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7848501801490784,
+            "topicality": 0.7848501801490784,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/0276krm",
+            "score": 0.7602819204330444,
+            "topicality": 0.7602819204330444,
+            "description": "Fawn"
+        },
+        {
+            "mid": "/m/031n1",
+            "score": 0.7062146067619324,
+            "topicality": 0.7062146067619324,
+            "description": "Foot"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6653134226799011,
+            "topicality": 0.6653134226799011,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/02qbl1m",
+            "score": 0.6455379724502563,
+            "topicality": 0.6455379724502563,
+            "description": "Photo shoot"
+        },
+        {
+            "mid": "/m/0d1pc",
+            "score": 0.5168875455856323,
+            "topicality": 0.5168875455856323,
+            "description": "Model"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

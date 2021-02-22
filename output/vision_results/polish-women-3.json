@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/polish-women/3.jpeg",
+    "search_query": "polish-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9888251423835754,
+            "topicality": 0.9888251423835754,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9844092726707458,
+            "topicality": 0.9844092726707458,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9791823625564575,
+            "topicality": 0.9791823625564575,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9774025678634644,
+            "topicality": 0.9774025678634644,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9772863388061523,
+            "topicality": 0.9772863388061523,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9710810780525208,
+            "topicality": 0.9710810780525208,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0fjkt",
+            "score": 0.9345094561576843,
+            "topicality": 0.9345094561576843,
+            "description": "Tongue"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.8802645802497864,
+            "topicality": 0.8802645802497864,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.8706523180007935,
+            "topicality": 0.8706523180007935,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8664229512214661,
+            "topicality": 0.8664229512214661,
+            "description": "Public event"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

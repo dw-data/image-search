@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/macanese-women/2.jpeg",
+    "search_query": "macanese-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9756397604942322,
+            "topicality": 0.9756397604942322,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9718075394630432,
+            "topicality": 0.9718075394630432,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9693135023117065,
+            "topicality": 0.9693135023117065,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9621303677558899,
+            "topicality": 0.9621303677558899,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.942034125328064,
+            "topicality": 0.942034125328064,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9394378662109375,
+            "topicality": 0.9394378662109375,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.876918613910675,
+            "topicality": 0.876918613910675,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.865300178527832,
+            "topicality": 0.865300178527832,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8618457317352295,
+            "topicality": 0.8618457317352295,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.8157821893692017,
+            "topicality": 0.8157821893692017,
+            "description": "Wrinkle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/taiwanese-women/99.jpeg",
+    "search_query": "taiwanese-women",
+    "position": 99,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9843485951423645,
+            "topicality": 0.9843485951423645,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.983955979347229,
+            "topicality": 0.983955979347229,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9756694436073303,
+            "topicality": 0.9756694436073303,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9734174013137817,
+            "topicality": 0.9734174013137817,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9586989879608154,
+            "topicality": 0.9586989879608154,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9456793665885925,
+            "topicality": 0.9456793665885925,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9370359778404236,
+            "topicality": 0.9370359778404236,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/06hwcd",
+            "score": 0.8854300379753113,
+            "topicality": 0.8854300379753113,
+            "description": "Dress shirt"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8827602863311768,
+            "topicality": 0.8827602863311768,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8818513751029968,
+            "topicality": 0.8818513751029968,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

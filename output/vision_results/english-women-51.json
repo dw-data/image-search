@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/english-women/51.jpeg",
+    "search_query": "english-women",
+    "position": 51,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9925479888916016,
+            "topicality": 0.9925479888916016,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9653939008712769,
+            "topicality": 0.9653939008712769,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01xygc",
+            "score": 0.9535059928894043,
+            "topicality": 0.9535059928894043,
+            "description": "Coat"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.951636791229248,
+            "topicality": 0.951636791229248,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/02w3_2",
+            "score": 0.9413955211639404,
+            "topicality": 0.9413955211639404,
+            "description": "Formal wear"
+        },
+        {
+            "mid": "/m/01xyhv",
+            "score": 0.9361491799354553,
+            "topicality": 0.9361491799354553,
+            "description": "Suit"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9056888818740845,
+            "topicality": 0.9056888818740845,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/02c66t",
+            "score": 0.8750726580619812,
+            "topicality": 0.8750726580619812,
+            "description": "Wedding dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

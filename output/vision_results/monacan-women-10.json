@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/monacan-women/10.jpeg",
+    "search_query": "monacan-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9922683238983154,
+            "topicality": 0.9922683238983154,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9885594248771667,
+            "topicality": 0.9885594248771667,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9640553593635559,
+            "topicality": 0.9640553593635559,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9617813229560852,
+            "topicality": 0.9617813229560852,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/06rrc",
+            "score": 0.952460765838623,
+            "topicality": 0.952460765838623,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.941394567489624,
+            "topicality": 0.941394567489624,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9321260452270508,
+            "topicality": 0.9321260452270508,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.9210265278816223,
+            "topicality": 0.9210265278816223,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9206110835075378,
+            "topicality": 0.9206110835075378,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/01lynh",
+            "score": 0.9023235440254211,
+            "topicality": 0.9023235440254211,
+            "description": "Stairs"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

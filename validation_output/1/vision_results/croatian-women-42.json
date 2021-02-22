@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/croatian-women/42.jpeg",
+    "search_query": "croatian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9841622114181519,
+            "topicality": 0.9841622114181519,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9747743606567383,
+            "topicality": 0.9747743606567383,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9692009687423706,
+            "topicality": 0.9692009687423706,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9400352239608765,
+            "topicality": 0.9400352239608765,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9360745549201965,
+            "topicality": 0.9360745549201965,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0h8k6fc",
+            "score": 0.9048992991447449,
+            "topicality": 0.9048992991447449,
+            "description": "Lingerie top"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.8951421976089478,
+            "topicality": 0.8951421976089478,
+            "description": "Swimwear"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8841882348060608,
+            "topicality": 0.8841882348060608,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.8598401546478271,
+            "topicality": 0.8598401546478271,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.8513128161430359,
+            "topicality": 0.8513128161430359,
+            "description": "Swimsuit top"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/thai-women/25.jpeg",
+    "search_query": "thai-women",
+    "position": 25,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9889463782310486,
+            "topicality": 0.9889463782310486,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9878432750701904,
+            "topicality": 0.9878432750701904,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9831176996231079,
+            "topicality": 0.9831176996231079,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9781705737113953,
+            "topicality": 0.9781705737113953,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9765142798423767,
+            "topicality": 0.9765142798423767,
+            "description": "People"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.9626394510269165,
+            "topicality": 0.9626394510269165,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9530745148658752,
+            "topicality": 0.9530745148658752,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9491727352142334,
+            "topicality": 0.9491727352142334,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/078qz",
+            "score": 0.9281327724456787,
+            "topicality": 0.9281327724456787,
+            "description": "Summer"
+        },
+        {
+            "mid": "/m/079f77",
+            "score": 0.9130383133888245,
+            "topicality": 0.9130383133888245,
+            "description": "Undershirt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/central-african-women/99.jpeg",
+    "search_query": "central-african-women",
+    "position": 99,
+    "label_annotations": [
+        {
+            "mid": "/m/0n5v01m",
+            "score": 0.8875199556350708,
+            "topicality": 0.8875199556350708,
+            "description": "Bag"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.6228440403938293,
+            "topicality": 0.6228440403938293,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/07sk94",
+            "score": 0.5810756087303162,
+            "topicality": 0.5810756087303162,
+            "description": "Headband"
+        },
+        {
+            "mid": "/m/0h8k4j9",
+            "score": 0.555031955242157,
+            "topicality": 0.555031955242157,
+            "description": "Hair accessory"
+        },
+        {
+            "mid": "/m/05gqfk",
+            "score": 0.5545386075973511,
+            "topicality": 0.5545386075973511,
+            "description": "Plastic bag"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

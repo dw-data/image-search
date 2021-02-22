@@ -1,0 +1,60 @@
+{
+    "path": "../output_gcg/imgs/qatari-women/29.jpeg",
+    "search_query": "qatari-women",
+    "position": 29,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9834033846855164,
+            "topicality": 0.9834033846855164,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9718679785728455,
+            "topicality": 0.9718679785728455,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0jjw",
+            "score": 0.6774588823318481,
+            "topicality": 0.6774588823318481,
+            "description": "Art"
+        },
+        {
+            "mid": "/m/0151nd",
+            "score": 0.6664412021636963,
+            "topicality": 0.6664412021636963,
+            "description": "Balaclava"
+        },
+        {
+            "mid": "/m/02vwbzz",
+            "score": 0.6026346683502197,
+            "topicality": 0.6026346683502197,
+            "description": "Electric blue"
+        },
+        {
+            "mid": "/m/015h_t",
+            "score": 0.5205066204071045,
+            "topicality": 0.5205066204071045,
+            "description": "Beard"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

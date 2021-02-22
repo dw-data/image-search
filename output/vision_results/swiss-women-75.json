@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swiss-women/75.jpeg",
+    "search_query": "swiss-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.989466667175293,
+            "topicality": 0.989466667175293,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9849131107330322,
+            "topicality": 0.9849131107330322,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9814378619194031,
+            "topicality": 0.9814378619194031,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9789100885391235,
+            "topicality": 0.9789100885391235,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/0bs7_0t",
+            "score": 0.9722205400466919,
+            "topicality": 0.9722205400466919,
+            "description": "Electronic device"
+        },
+        {
+            "mid": "/m/03qtgjk",
+            "score": 0.9499775767326355,
+            "topicality": 0.9499775767326355,
+            "description": "Office equipment"
+        },
+        {
+            "mid": "/m/07c1v",
+            "score": 0.9447926878929138,
+            "topicality": 0.9447926878929138,
+            "description": "Technology"
+        },
+        {
+            "mid": "/m/0h8n5k2",
+            "score": 0.9447848200798035,
+            "topicality": 0.9447848200798035,
+            "description": "Laptop part"
+        },
+        {
+            "mid": "/m/01c648",
+            "score": 0.9334534406661987,
+            "topicality": 0.9334534406661987,
+            "description": "Laptop"
+        },
+        {
+            "mid": "/m/01m3v",
+            "score": 0.9146274924278259,
+            "topicality": 0.9146274924278259,
+            "description": "Computer"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/polish-women/100.jpeg",
+    "search_query": "polish-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639065861701965,
+            "topicality": 0.9639065861701965,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/02d46y",
+            "score": 0.9177502989768982,
+            "topicality": 0.9177502989768982,
+            "description": "Cap"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9078022241592407,
+            "topicality": 0.9078022241592407,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8863203525543213,
+            "topicality": 0.8863203525543213,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8817068934440613,
+            "topicality": 0.8817068934440613,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/05wkw",
+            "score": 0.8633670806884766,
+            "topicality": 0.8633670806884766,
+            "description": "Photography"
+        },
+        {
+            "mid": "/m/01bsxb",
+            "score": 0.758079469203949,
+            "topicality": 0.758079469203949,
+            "description": "Collage"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.7219383716583252,
+            "topicality": 0.7219383716583252,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6497876644134521,
+            "topicality": 0.6497876644134521,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/0sgh53y",
+            "score": 0.6380447745323181,
+            "topicality": 0.6380447745323181,
+            "description": "Selfie"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "POSSIBLE"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/saint-lucian-women/3.jpeg",
+    "search_query": "saint-lucian-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9895282983779907,
+            "topicality": 0.9895282983779907,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9882023930549622,
+            "topicality": 0.9882023930549622,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.979775607585907,
+            "topicality": 0.979775607585907,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.97748863697052,
+            "topicality": 0.97748863697052,
+            "description": "People"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9692862629890442,
+            "topicality": 0.9692862629890442,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9474921822547913,
+            "topicality": 0.9474921822547913,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9406136274337769,
+            "topicality": 0.9406136274337769,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9331967234611511,
+            "topicality": 0.9331967234611511,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.8955014944076538,
+            "topicality": 0.8955014944076538,
+            "description": "Fashion accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

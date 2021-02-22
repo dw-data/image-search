@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/saint-pierrais-women/74.png",
+    "search_query": "saint-pierrais-women",
+    "position": 74,
+    "label_annotations": [
+        {
+            "mid": "/m/07s6nbt",
+            "score": 0.966068685054779,
+            "topicality": 0.966068685054779,
+            "description": "Text"
+        },
+        {
+            "mid": "/m/03scnj",
+            "score": 0.9326574802398682,
+            "topicality": 0.9326574802398682,
+            "description": "Line"
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.9148502349853516,
+            "topicality": 0.9148502349853516,
+            "description": "Font"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

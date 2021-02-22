@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/mauritanian-women/63.jpeg",
+    "search_query": "mauritanian-women",
+    "position": 63,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789832234382629,
+            "topicality": 0.9789832234382629,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9478617906570435,
+            "topicality": 0.9478617906570435,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/05wkw",
+            "score": 0.7995713949203491,
+            "topicality": 0.7995713949203491,
+            "description": "Photography"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6965796947479248,
+            "topicality": 0.6965796947479248,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/01j3sz",
+            "score": 0.6655800938606262,
+            "topicality": 0.6655800938606262,
+            "description": "Laugh"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.6483716368675232,
+            "topicality": 0.6483716368675232,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.5888538956642151,
+            "topicality": 0.5888538956642151,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.5562094449996948,
+            "topicality": 0.5562094449996948,
+            "description": "Photo caption"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

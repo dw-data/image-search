@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/antiguan-women/89.jpeg",
+    "search_query": "antiguan-women",
+    "position": 89,
+    "label_annotations": [
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9718175530433655,
+            "topicality": 0.9718175530433655,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.9468979835510254,
+            "topicality": 0.9468979835510254,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/0bg7b",
+            "score": 0.5434054136276245,
+            "topicality": 0.5434054136276245,
+            "description": "Shield"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

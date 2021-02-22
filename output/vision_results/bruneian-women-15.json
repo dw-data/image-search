@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/bruneian-women/15.jpeg",
+    "search_query": "bruneian-women",
+    "position": 15,
+    "label_annotations": [
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9441554546356201,
+            "topicality": 0.9441554546356201,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01mzpv",
+            "score": 0.8813787698745728,
+            "topicality": 0.8813787698745728,
+            "description": "Chair"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8715768456459045,
+            "topicality": 0.8715768456459045,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7487533092498779,
+            "topicality": 0.7487533092498779,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6588716506958008,
+            "topicality": 0.6588716506958008,
+            "description": "Makeover"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

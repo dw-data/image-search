@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/irish-women/38.jpeg",
+    "search_query": "irish-women",
+    "position": 38,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9696034789085388,
+            "topicality": 0.9696034789085388,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.965458869934082,
+            "topicality": 0.965458869934082,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9574187994003296,
+            "topicality": 0.9574187994003296,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9538435935974121,
+            "topicality": 0.9538435935974121,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9409967660903931,
+            "topicality": 0.9409967660903931,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.933407187461853,
+            "topicality": 0.933407187461853,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9322348833084106,
+            "topicality": 0.9322348833084106,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9226964712142944,
+            "topicality": 0.9226964712142944,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.9221302270889282,
+            "topicality": 0.9221302270889282,
+            "description": "Fashion model"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9185190796852112,
+            "topicality": 0.9185190796852112,
+            "description": "Jewellery"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

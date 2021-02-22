@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/zambian-women/32.jpeg",
+    "search_query": "zambian-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9470381140708923,
+            "topicality": 0.9470381140708923,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/02d46y",
+            "score": 0.9451948404312134,
+            "topicality": 0.9451948404312134,
+            "description": "Cap"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9399277567863464,
+            "topicality": 0.9399277567863464,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/027xyl",
+            "score": 0.8103054761886597,
+            "topicality": 0.8103054761886597,
+            "description": "Baseball cap"
+        },
+        {
+            "mid": "/m/01zpz",
+            "score": 0.5370725989341736,
+            "topicality": 0.5370725989341736,
+            "description": "Crew"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/french-women/4.jpeg",
+    "search_query": "french-women",
+    "position": 4,
+    "label_annotations": [
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.919367253780365,
+            "topicality": 0.919367253780365,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/01c8br",
+            "score": 0.8872227668762207,
+            "topicality": 0.8872227668762207,
+            "description": "Street"
+        },
+        {
+            "mid": "/m/06pg22",
+            "score": 0.7981768846511841,
+            "topicality": 0.7981768846511841,
+            "description": "Snapshot"
+        },
+        {
+            "mid": "/m/025rw19",
+            "score": 0.7736566662788391,
+            "topicality": 0.7736566662788391,
+            "description": "Iron"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.5700362920761108,
+            "topicality": 0.5700362920761108,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/01748f",
+            "score": 0.5308408141136169,
+            "topicality": 0.5308408141136169,
+            "description": "Balcony"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/kazakhstani-women/3.jpeg",
+    "search_query": "kazakhstani-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9845804572105408,
+            "topicality": 0.9845804572105408,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9830867052078247,
+            "topicality": 0.9830867052078247,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9828486442565918,
+            "topicality": 0.9828486442565918,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9756536483764648,
+            "topicality": 0.9756536483764648,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9733685255050659,
+            "topicality": 0.9733685255050659,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9353395104408264,
+            "topicality": 0.9353395104408264,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9328057169914246,
+            "topicality": 0.9328057169914246,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9154198169708252,
+            "topicality": 0.9154198169708252,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9031170010566711,
+            "topicality": 0.9031170010566711,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8546568751335144,
+            "topicality": 0.8546568751335144,
+            "description": "Flash photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

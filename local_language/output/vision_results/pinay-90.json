@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/pinay/90.jpeg",
+    "search_query": "pinay",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9851062297821045,
+            "topicality": 0.9851062297821045,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9846121668815613,
+            "topicality": 0.9846121668815613,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.979444146156311,
+            "topicality": 0.979444146156311,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9767306447029114,
+            "topicality": 0.9767306447029114,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9731540083885193,
+            "topicality": 0.9731540083885193,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9727259278297424,
+            "topicality": 0.9727259278297424,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9480712413787842,
+            "topicality": 0.9480712413787842,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9368870258331299,
+            "topicality": 0.9368870258331299,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9217637777328491,
+            "topicality": 0.9217637777328491,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9048089981079102,
+            "topicality": 0.9048089981079102,
+            "description": "Organ"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

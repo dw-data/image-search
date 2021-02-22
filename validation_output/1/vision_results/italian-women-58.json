@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/italian-women/58.jpeg",
+    "search_query": "italian-women",
+    "position": 58,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9846526980400085,
+            "topicality": 0.9846526980400085,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9832910895347595,
+            "topicality": 0.9832910895347595,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.977492094039917,
+            "topicality": 0.977492094039917,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9725582003593445,
+            "topicality": 0.9725582003593445,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9700899124145508,
+            "topicality": 0.9700899124145508,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9489558935165405,
+            "topicality": 0.9489558935165405,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9444875717163086,
+            "topicality": 0.9444875717163086,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.8871176242828369,
+            "topicality": 0.8871176242828369,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8867194652557373,
+            "topicality": 0.8867194652557373,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/albanian-women/5.jpeg",
+    "search_query": "albanian-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9701882004737854,
+            "topicality": 0.9701882004737854,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.9538108110427856,
+            "topicality": 0.9538108110427856,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9485576748847961,
+            "topicality": 0.9485576748847961,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9218776226043701,
+            "topicality": 0.9218776226043701,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01g5v",
+            "score": 0.908951997756958,
+            "topicality": 0.908951997756958,
+            "description": "Blue"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8818979859352112,
+            "topicality": 0.8818979859352112,
+            "description": "Neck"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8809548616409302,
+            "topicality": 0.8809548616409302,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.8484272956848145,
+            "topicality": 0.8484272956848145,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8481082320213318,
+            "topicality": 0.8481082320213318,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/02qqd4n",
+            "score": 0.8209865093231201,
+            "topicality": 0.8209865093231201,
+            "description": "Fashion design"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

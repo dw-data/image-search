@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swiss-women/3.jpeg",
+    "search_query": "swiss-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9887372255325317,
+            "topicality": 0.9887372255325317,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9882054924964905,
+            "topicality": 0.9882054924964905,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773648381233215,
+            "topicality": 0.9773648381233215,
+            "description": "People"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9698454737663269,
+            "topicality": 0.9698454737663269,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9615274667739868,
+            "topicality": 0.9615274667739868,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.9565051198005676,
+            "topicality": 0.9565051198005676,
+            "description": "Denim"
+        },
+        {
+            "mid": "/m/0fly7",
+            "score": 0.9550122618675232,
+            "topicality": 0.9550122618675232,
+            "description": "Jeans"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.9336809515953064,
+            "topicality": 0.9336809515953064,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/0gkxy13",
+            "score": 0.9133893847465515,
+            "topicality": 0.9133893847465515,
+            "description": "Handwriting"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.8745589256286621,
+            "topicality": 0.8745589256286621,
+            "description": "Sunglasses"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

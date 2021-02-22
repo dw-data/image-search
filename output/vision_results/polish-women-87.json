@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/polish-women/87.png",
+    "search_query": "polish-women",
+    "position": 87,
+    "label_annotations": [
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.9009923934936523,
+            "topicality": 0.9009923934936523,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/05t_yt",
+            "score": 0.8953775763511658,
+            "topicality": 0.8953775763511658,
+            "description": "Carmine"
+        },
+        {
+            "mid": "/m/021sdg",
+            "score": 0.7008515000343323,
+            "topicality": 0.7008515000343323,
+            "description": "Graphics"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

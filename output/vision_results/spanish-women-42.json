@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/spanish-women/42.jpeg",
+    "search_query": "spanish-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9885368943214417,
+            "topicality": 0.9885368943214417,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790047407150269,
+            "topicality": 0.9790047407150269,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9775345325469971,
+            "topicality": 0.9775345325469971,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9761768579483032,
+            "topicality": 0.9761768579483032,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9748042225837708,
+            "topicality": 0.9748042225837708,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740169644355774,
+            "topicality": 0.9740169644355774,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9736655354499817,
+            "topicality": 0.9736655354499817,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9696241617202759,
+            "topicality": 0.9696241617202759,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.969334602355957,
+            "topicality": 0.969334602355957,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681845903396606,
+            "topicality": 0.9681845903396606,
+            "description": "Forehead"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/american-women/70.jpeg",
+    "search_query": "american-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9894225597381592,
+            "topicality": 0.9894225597381592,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837102293968201,
+            "topicality": 0.9837102293968201,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740380048751831,
+            "topicality": 0.9740380048751831,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9713559150695801,
+            "topicality": 0.9713559150695801,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639004468917847,
+            "topicality": 0.9639004468917847,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.911174476146698,
+            "topicality": 0.911174476146698,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.881867527961731,
+            "topicality": 0.881867527961731,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8808144927024841,
+            "topicality": 0.8808144927024841,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/027qw1p",
+            "score": 0.8052273988723755,
+            "topicality": 0.8052273988723755,
+            "description": "Feathered hair"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.7979476451873779,
+            "topicality": 0.7979476451873779,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

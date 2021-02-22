@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/surinamese-women/83.jpeg",
+    "search_query": "surinamese-women",
+    "position": 83,
+    "label_annotations": [
+        {
+            "mid": "/m/025dq0",
+            "score": 0.5757866501808167,
+            "topicality": 0.5757866501808167,
+            "description": "Sari"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.574291467666626,
+            "topicality": 0.574291467666626,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.5072274804115295,
+            "topicality": 0.5072274804115295,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/0fqt361",
+            "score": 0.5013552904129028,
+            "topicality": 0.5013552904129028,
+            "description": "Stool"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

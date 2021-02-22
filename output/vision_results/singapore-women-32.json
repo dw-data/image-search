@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/singapore-women/32.jpeg",
+    "search_query": "singapore-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879137277603149,
+            "topicality": 0.9879137277603149,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9790546894073486,
+            "topicality": 0.9790546894073486,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9735985398292542,
+            "topicality": 0.9735985398292542,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9454635381698608,
+            "topicality": 0.9454635381698608,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8960368633270264,
+            "topicality": 0.8960368633270264,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.7883097529411316,
+            "topicality": 0.7883097529411316,
+            "description": "Tooth"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.758674144744873,
+            "topicality": 0.758674144744873,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/01h1dd",
+            "score": 0.7478898167610168,
+            "topicality": 0.7478898167610168,
+            "description": "Publication"
+        },
+        {
+            "mid": "/m/04yclrg",
+            "score": 0.7378857731819153,
+            "topicality": 0.7378857731819153,
+            "description": "Reading"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

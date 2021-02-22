@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/american-women/75.jpeg",
+    "search_query": "american-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9794304370880127,
+            "topicality": 0.9794304370880127,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790019392967224,
+            "topicality": 0.9790019392967224,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9778993725776672,
+            "topicality": 0.9778993725776672,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738278985023499,
+            "topicality": 0.9738278985023499,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9692474007606506,
+            "topicality": 0.9692474007606506,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681845307350159,
+            "topicality": 0.9681845307350159,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9672879576683044,
+            "topicality": 0.9672879576683044,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639068841934204,
+            "topicality": 0.9639068841934204,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.9354756474494934,
+            "topicality": 0.9354756474494934,
+            "description": "Tooth"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9353187084197998,
+            "topicality": 0.9353187084197998,
+            "description": "Fashion accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

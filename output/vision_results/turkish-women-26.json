@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/turkish-women/26.jpeg",
+    "search_query": "turkish-women",
+    "position": 26,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9890440106391907,
+            "topicality": 0.9890440106391907,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9215032458305359,
+            "topicality": 0.9215032458305359,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9021093845367432,
+            "topicality": 0.9021093845367432,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8217548131942749,
+            "topicality": 0.8217548131942749,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.7185164093971252,
+            "topicality": 0.7185164093971252,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/02k88w",
+            "score": 0.5171419978141785,
+            "topicality": 0.5171419978141785,
+            "description": "Rebellion"
+        },
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.5004194378852844,
+            "topicality": 0.5004194378852844,
+            "description": "Hood"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/british-women/12.jpeg",
+    "search_query": "british-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9892865419387817,
+            "topicality": 0.9892865419387817,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9885745048522949,
+            "topicality": 0.9885745048522949,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9722489714622498,
+            "topicality": 0.9722489714622498,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8863856792449951,
+            "topicality": 0.8863856792449951,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7921339273452759,
+            "topicality": 0.7921339273452759,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.7304204702377319,
+            "topicality": 0.7304204702377319,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/026mhtg",
+            "score": 0.6780511140823364,
+            "topicality": 0.6780511140823364,
+            "description": "Step cutting"
+        },
+        {
+            "mid": "/m/0hgn_pr",
+            "score": 0.6436941027641296,
+            "topicality": 0.6436941027641296,
+            "description": "Active pants"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.5687239766120911,
+            "topicality": 0.5687239766120911,
+            "description": "Fashion model"
+        },
+        {
+            "mid": "/m/015mm6",
+            "score": 0.5519351363182068,
+            "topicality": 0.5519351363182068,
+            "description": "Tights"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

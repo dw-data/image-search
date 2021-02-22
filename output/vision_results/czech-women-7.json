@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/czech-women/7.jpeg",
+    "search_query": "czech-women",
+    "position": 7,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.992125391960144,
+            "topicality": 0.992125391960144,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.968654453754425,
+            "topicality": 0.968654453754425,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9507130980491638,
+            "topicality": 0.9507130980491638,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.9351375699043274,
+            "topicality": 0.9351375699043274,
+            "description": "Swimwear"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9260305166244507,
+            "topicality": 0.9260305166244507,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9196789264678955,
+            "topicality": 0.9196789264678955,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9172999858856201,
+            "topicality": 0.9172999858856201,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/01g8j",
+            "score": 0.9145825505256653,
+            "topicality": 0.9145825505256653,
+            "description": "Bikini"
+        },
+        {
+            "mid": "/m/09hyx",
+            "score": 0.9124904274940491,
+            "topicality": 0.9124904274940491,
+            "description": "Lingerie"
+        },
+        {
+            "mid": "/m/09j1x",
+            "score": 0.909988284111023,
+            "topicality": 0.909988284111023,
+            "description": "Undergarment"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

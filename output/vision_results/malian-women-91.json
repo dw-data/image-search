@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/malian-women/91.jpeg",
+    "search_query": "malian-women",
+    "position": 91,
+    "label_annotations": [
+        {
+            "mid": "/m/01mzpv",
+            "score": 0.8980583548545837,
+            "topicality": 0.8980583548545837,
+            "description": "Chair"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.8959057927131653,
+            "topicality": 0.8959057927131653,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/09fwz6",
+            "score": 0.6436208486557007,
+            "topicality": 0.6436208486557007,
+            "description": "Lap"
+        },
+        {
+            "mid": "/m/0bvn8w",
+            "score": 0.5953069925308228,
+            "topicality": 0.5953069925308228,
+            "description": "Folding chair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

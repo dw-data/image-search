@@ -1,0 +1,30 @@
+{
+    "path": "../output/imgs/ecuadorian-women/62.jpeg",
+    "search_query": "ecuadorian-women",
+    "position": 62,
+    "label_annotations": [
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.5712752342224121,
+            "topicality": 0.5712752342224121,
+            "description": "Photo caption"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

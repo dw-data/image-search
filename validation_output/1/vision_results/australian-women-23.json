@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/australian-women/23.jpeg",
+    "search_query": "australian-women",
+    "position": 23,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9830700159072876,
+            "topicality": 0.9830700159072876,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/01bqvp",
+            "score": 0.9668883085250854,
+            "topicality": 0.9668883085250854,
+            "description": "Sky"
+        },
+        {
+            "mid": "/m/0838f",
+            "score": 0.9459725022315979,
+            "topicality": 0.9459725022315979,
+            "description": "Water"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9432920217514038,
+            "topicality": 0.9432920217514038,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/0csby",
+            "score": 0.9402239322662354,
+            "topicality": 0.9402239322662354,
+            "description": "Cloud"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9391438961029053,
+            "topicality": 0.9391438961029053,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8813018202781677,
+            "topicality": 0.8813018202781677,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8806889653205872,
+            "topicality": 0.8806889653205872,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0blz9",
+            "score": 0.8761372566223145,
+            "topicality": 0.8761372566223145,
+            "description": "Fence"
+        },
+        {
+            "mid": "/m/014dsx",
+            "score": 0.8518325686454773,
+            "topicality": 0.8518325686454773,
+            "description": "Travel"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

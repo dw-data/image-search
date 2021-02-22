@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/afghan-women/96.jpeg",
+    "search_query": "afghan-women",
+    "position": 96,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879122972488403,
+            "topicality": 0.9879122972488403,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.97141432762146,
+            "topicality": 0.97141432762146,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9697887301445007,
+            "topicality": 0.9697887301445007,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.7915349006652832,
+            "topicality": 0.7915349006652832,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.7536432147026062,
+            "topicality": 0.7536432147026062,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.6666651368141174,
+            "topicality": 0.6666651368141174,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/0670sh",
+            "score": 0.5735183954238892,
+            "topicality": 0.5735183954238892,
+            "description": "Stole"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

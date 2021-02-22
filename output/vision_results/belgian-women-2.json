@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/belgian-women/2.jpeg",
+    "search_query": "belgian-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.9155576825141907,
+            "topicality": 0.9155576825141907,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9149829149246216,
+            "topicality": 0.9149829149246216,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.9018796682357788,
+            "topicality": 0.9018796682357788,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/0hgs526",
+            "score": 0.9017286896705627,
+            "topicality": 0.9017286896705627,
+            "description": "Costume accessory"
+        },
+        {
+            "mid": "/m/0h8k4j9",
+            "score": 0.8918583393096924,
+            "topicality": 0.8918583393096924,
+            "description": "Hair accessory"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.8910913467407227,
+            "topicality": 0.8910913467407227,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.8830999135971069,
+            "topicality": 0.8830999135971069,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8702883124351501,
+            "topicality": 0.8702883124351501,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/0hr5k",
+            "score": 0.7510111927986145,
+            "topicality": 0.7510111927986145,
+            "description": "Festival"
+        },
+        {
+            "mid": "/m/09l9f",
+            "score": 0.7372094392776489,
+            "topicality": 0.7372094392776489,
+            "description": "Carnival"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/palestinian-women/57.png",
+    "search_query": "palestinian-women",
+    "position": 57,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9763364195823669,
+            "topicality": 0.9763364195823669,
+            "description": "People"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9427751898765564,
+            "topicality": 0.9427751898765564,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.902834415435791,
+            "topicality": 0.902834415435791,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.6829488277435303,
+            "topicality": 0.6829488277435303,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.5986765027046204,
+            "topicality": 0.5986765027046204,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.5951664447784424,
+            "topicality": 0.5951664447784424,
+            "description": "Photo caption"
+        },
+        {
+            "mid": "/m/02gw_5",
+            "score": 0.5261329412460327,
+            "topicality": 0.5261329412460327,
+            "description": "Beanie"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "path": "../output/imgs/saudi-women/16.jpeg",
+    "search_query": "saudi-women",
+    "position": 16,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837539792060852,
+            "topicality": 0.9837539792060852,
+            "description": "Nose"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

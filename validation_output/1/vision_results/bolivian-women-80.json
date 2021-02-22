@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/bolivian-women/80.jpeg",
+    "search_query": "bolivian-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.983616292476654,
+            "topicality": 0.983616292476654,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9831634163856506,
+            "topicality": 0.9831634163856506,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9765576720237732,
+            "topicality": 0.9765576720237732,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06rrc",
+            "score": 0.9507319927215576,
+            "topicality": 0.9507319927215576,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9437989592552185,
+            "topicality": 0.9437989592552185,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9417268633842468,
+            "topicality": 0.9417268633842468,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9370653033256531,
+            "topicality": 0.9370653033256531,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.8867709636688232,
+            "topicality": 0.8867709636688232,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8859634399414062,
+            "topicality": 0.8859634399414062,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/019swr",
+            "score": 0.8748602867126465,
+            "topicality": 0.8748602867126465,
+            "description": "Knee"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

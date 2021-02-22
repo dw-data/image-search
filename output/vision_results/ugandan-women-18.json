@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/ugandan-women/18.jpeg",
+    "search_query": "ugandan-women",
+    "position": 18,
+    "label_annotations": [
+        {
+            "mid": "/m/01qls",
+            "score": 0.9404764771461487,
+            "topicality": 0.9404764771461487,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828234076499939,
+            "topicality": 0.8828234076499939,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/06h12k",
+            "score": 0.881655752658844,
+            "topicality": 0.881655752658844,
+            "description": "Sharing"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.7733852863311768,
+            "topicality": 0.7733852863311768,
+            "description": "Village"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

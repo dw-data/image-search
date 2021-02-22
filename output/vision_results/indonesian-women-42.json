@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/indonesian-women/42.jpeg",
+    "search_query": "indonesian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9828047752380371,
+            "topicality": 0.9828047752380371,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9651302695274353,
+            "topicality": 0.9651302695274353,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.955968976020813,
+            "topicality": 0.955968976020813,
+            "description": "Denim"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9539458155632019,
+            "topicality": 0.9539458155632019,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9508233070373535,
+            "topicality": 0.9508233070373535,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9419822096824646,
+            "topicality": 0.9419822096824646,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.9321994185447693,
+            "topicality": 0.9321994185447693,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.931909441947937,
+            "topicality": 0.931909441947937,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9152417182922363,
+            "topicality": 0.9152417182922363,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

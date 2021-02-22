@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/saudi-women/1.jpeg",
+    "search_query": "saudi-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0fm3zh",
+            "score": 0.9698715806007385,
+            "topicality": 0.9698715806007385,
+            "description": "Flowerpot"
+        },
+        {
+            "mid": "/m/03fp41",
+            "score": 0.8841046094894409,
+            "topicality": 0.8841046094894409,
+            "description": "Houseplant"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8715064525604248,
+            "topicality": 0.8715064525604248,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/050k8",
+            "score": 0.7056534886360168,
+            "topicality": 0.7056534886360168,
+            "description": "Mobile phone"
+        },
+        {
+            "mid": "/m/0bhmh",
+            "score": 0.5987783074378967,
+            "topicality": 0.5987783074378967,
+            "description": "Telephony"
+        },
+        {
+            "mid": "/m/020fsy",
+            "score": 0.5474843978881836,
+            "topicality": 0.5474843978881836,
+            "description": "Portable communications device"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

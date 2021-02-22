@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/polish-women/98.jpeg",
+    "search_query": "polish-women",
+    "position": 98,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9887216687202454,
+            "topicality": 0.9887216687202454,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880951642990112,
+            "topicality": 0.9880951642990112,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9838452935218811,
+            "topicality": 0.9838452935218811,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9780588746070862,
+            "topicality": 0.9780588746070862,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774889349937439,
+            "topicality": 0.9774889349937439,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9589338898658752,
+            "topicality": 0.9589338898658752,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9586555361747742,
+            "topicality": 0.9586555361747742,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.9287152886390686,
+            "topicality": 0.9287152886390686,
+            "description": "Protest"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8591738343238831,
+            "topicality": 0.8591738343238831,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/02k88w",
+            "score": 0.7286355495452881,
+            "topicality": 0.7286355495452881,
+            "description": "Rebellion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

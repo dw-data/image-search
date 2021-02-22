@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/algerian-women/18.jpeg",
+    "search_query": "algerian-women",
+    "position": 18,
+    "label_annotations": [
+        {
+            "mid": "/m/07djv",
+            "score": 0.9030770063400269,
+            "topicality": 0.9030770063400269,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.7216144800186157,
+            "topicality": 0.7216144800186157,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.602972686290741,
+            "topicality": 0.602972686290741,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/0hr5k",
+            "score": 0.5407471656799316,
+            "topicality": 0.5407471656799316,
+            "description": "Festival"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

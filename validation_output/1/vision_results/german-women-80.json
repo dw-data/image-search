@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/german-women/80.jpeg",
+    "search_query": "german-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9771848320960999,
+            "topicality": 0.9771848320960999,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/07mhn",
+            "score": 0.9677082300186157,
+            "topicality": 0.9677082300186157,
+            "description": "Trousers"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9323273301124573,
+            "topicality": 0.9323273301124573,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9140690565109253,
+            "topicality": 0.9140690565109253,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8551668524742126,
+            "topicality": 0.8551668524742126,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.8376399278640747,
+            "topicality": 0.8376399278640747,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.8369548320770264,
+            "topicality": 0.8369548320770264,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.8250101804733276,
+            "topicality": 0.8250101804733276,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/04g3r",
+            "score": 0.8173627257347107,
+            "topicality": 0.8173627257347107,
+            "description": "Leisure"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.8105815649032593,
+            "topicality": 0.8105815649032593,
+            "description": "Community"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

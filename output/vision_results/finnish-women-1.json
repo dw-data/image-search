@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/finnish-women/1.jpeg",
+    "search_query": "finnish-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/01kq3x",
+            "score": 0.8242047429084778,
+            "topicality": 0.8242047429084778,
+            "description": "White-collar worker"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8013544678688049,
+            "topicality": 0.8013544678688049,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.7932555079460144,
+            "topicality": 0.7932555079460144,
+            "description": "Conversation"
+        },
+        {
+            "mid": "/m/01tqrk",
+            "score": 0.7327399849891663,
+            "topicality": 0.7327399849891663,
+            "description": "Employment"
+        },
+        {
+            "mid": "/m/012t_z",
+            "score": 0.5424635410308838,
+            "topicality": 0.5424635410308838,
+            "description": "Businessperson"
+        },
+        {
+            "mid": "/m/0d8qb",
+            "score": 0.5102209448814392,
+            "topicality": 0.5102209448814392,
+            "description": "Journalist"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

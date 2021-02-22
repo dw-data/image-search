@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/samoan-women/60.jpeg",
+    "search_query": "samoan-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/01llwg",
+            "score": 0.7248882055282593,
+            "topicality": 0.7248882055282593,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/01mtb",
+            "score": 0.7113855481147766,
+            "topicality": 0.7113855481147766,
+            "description": "Cooking"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

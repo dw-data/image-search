@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/nicaraguan-women/2.jpeg",
+    "search_query": "nicaraguan-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9893865585327148,
+            "topicality": 0.9893865585327148,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9890596270561218,
+            "topicality": 0.9890596270561218,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880256652832031,
+            "topicality": 0.9880256652832031,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9845333099365234,
+            "topicality": 0.9845333099365234,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9841718673706055,
+            "topicality": 0.9841718673706055,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9811944365501404,
+            "topicality": 0.9811944365501404,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9780277013778687,
+            "topicality": 0.9780277013778687,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9753240942955017,
+            "topicality": 0.9753240942955017,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9706728458404541,
+            "topicality": 0.9706728458404541,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9689651727676392,
+            "topicality": 0.9689651727676392,
+            "description": "Chin"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/finnish-women/90.jpeg",
+    "search_query": "finnish-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9648649096488953,
+            "topicality": 0.9648649096488953,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.7121405601501465,
+            "topicality": 0.7121405601501465,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.7029013633728027,
+            "topicality": 0.7029013633728027,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.6380546689033508,
+            "topicality": 0.6380546689033508,
+            "description": "Day dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

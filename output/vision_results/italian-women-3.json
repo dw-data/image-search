@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/italian-women/3.jpeg",
+    "search_query": "italian-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9923483729362488,
+            "topicality": 0.9923483729362488,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738830924034119,
+            "topicality": 0.9738830924034119,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9654973149299622,
+            "topicality": 0.9654973149299622,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.948433518409729,
+            "topicality": 0.948433518409729,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9358521699905396,
+            "topicality": 0.9358521699905396,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9108577370643616,
+            "topicality": 0.9108577370643616,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9104943871498108,
+            "topicality": 0.9104943871498108,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9070688486099243,
+            "topicality": 0.9070688486099243,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.8937629461288452,
+            "topicality": 0.8937629461288452,
+            "description": "Fashion model"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

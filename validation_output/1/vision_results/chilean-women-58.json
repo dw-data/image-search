@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/chilean-women/58.jpeg",
+    "search_query": "chilean-women",
+    "position": 58,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9853094816207886,
+            "topicality": 0.9853094816207886,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9846614003181458,
+            "topicality": 0.9846614003181458,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9772770404815674,
+            "topicality": 0.9772770404815674,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702625870704651,
+            "topicality": 0.9702625870704651,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9437018632888794,
+            "topicality": 0.9437018632888794,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9436302781105042,
+            "topicality": 0.9436302781105042,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9142856597900391,
+            "topicality": 0.9142856597900391,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/019sc",
+            "score": 0.8951030969619751,
+            "topicality": 0.8951030969619751,
+            "description": "Black"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.8849767446517944,
+            "topicality": 0.8849767446517944,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8821249604225159,
+            "topicality": 0.8821249604225159,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

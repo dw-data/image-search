@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/french-women/41.jpeg",
+    "search_query": "french-women",
+    "position": 41,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9921067953109741,
+            "topicality": 0.9921067953109741,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9900029897689819,
+            "topicality": 0.9900029897689819,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.98798668384552,
+            "topicality": 0.98798668384552,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9762972593307495,
+            "topicality": 0.9762972593307495,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740398526191711,
+            "topicality": 0.9740398526191711,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9723197817802429,
+            "topicality": 0.9723197817802429,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.971017062664032,
+            "topicality": 0.971017062664032,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.956622838973999,
+            "topicality": 0.956622838973999,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.882826566696167,
+            "topicality": 0.882826566696167,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8820862770080566,
+            "topicality": 0.8820862770080566,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

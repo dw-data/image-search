@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/swedish-women/95.png",
+    "search_query": "swedish-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9857032299041748,
+            "topicality": 0.9857032299041748,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9852620363235474,
+            "topicality": 0.9852620363235474,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9789428114891052,
+            "topicality": 0.9789428114891052,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9772067070007324,
+            "topicality": 0.9772067070007324,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9730435609817505,
+            "topicality": 0.9730435609817505,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.970635175704956,
+            "topicality": 0.970635175704956,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9688481688499451,
+            "topicality": 0.9688481688499451,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9554640054702759,
+            "topicality": 0.9554640054702759,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009718894958,
+            "topicality": 0.9509009718894958,
+            "description": "Hairstyle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

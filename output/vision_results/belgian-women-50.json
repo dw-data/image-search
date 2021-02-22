@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/belgian-women/50.jpeg",
+    "search_query": "belgian-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9815122485160828,
+            "topicality": 0.9815122485160828,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0fly7",
+            "score": 0.9509283900260925,
+            "topicality": 0.9509283900260925,
+            "description": "Jeans"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9274827241897583,
+            "topicality": 0.9274827241897583,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.8471972346305847,
+            "topicality": 0.8471972346305847,
+            "description": "One-piece garment"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.8328348994255066,
+            "topicality": 0.8328348994255066,
+            "description": "Denim"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.8055201172828674,
+            "topicality": 0.8055201172828674,
+            "description": "Day dress"
+        },
+        {
+            "mid": "/m/06pg22",
+            "score": 0.7973443865776062,
+            "topicality": 0.7973443865776062,
+            "description": "Snapshot"
+        },
+        {
+            "mid": "/m/05sfw_",
+            "score": 0.7067176103591919,
+            "topicality": 0.7067176103591919,
+            "description": "Cocktail dress"
+        },
+        {
+            "mid": "/m/09jc2n",
+            "score": 0.6901163458824158,
+            "topicality": 0.6901163458824158,
+            "description": "Back"
+        },
+        {
+            "mid": "/m/02x4gxs",
+            "score": 0.6114773154258728,
+            "topicality": 0.6114773154258728,
+            "description": "Sheath dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

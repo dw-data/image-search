@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/chilean-women/24.jpeg",
+    "search_query": "chilean-women",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9832133650779724,
+            "topicality": 0.9832133650779724,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9767595529556274,
+            "topicality": 0.9767595529556274,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703599214553833,
+            "topicality": 0.9703599214553833,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9247026443481445,
+            "topicality": 0.9247026443481445,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9213331341743469,
+            "topicality": 0.9213331341743469,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8830079436302185,
+            "topicality": 0.8830079436302185,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8822906613349915,
+            "topicality": 0.8822906613349915,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.880336344242096,
+            "topicality": 0.880336344242096,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.8545969724655151,
+            "topicality": 0.8545969724655151,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/02qqd4n",
+            "score": 0.8218921422958374,
+            "topicality": 0.8218921422958374,
+            "description": "Fashion design"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

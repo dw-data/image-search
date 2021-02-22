@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/french-women/96.jpeg",
+    "search_query": "french-women",
+    "position": 96,
+    "label_annotations": [
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.5888937711715698,
+            "topicality": 0.5888937711715698,
+            "description": "Hood"
+        },
+        {
+            "mid": "/m/0h8k3ng",
+            "score": 0.5213322639465332,
+            "topicality": 0.5213322639465332,
+            "description": "Sweatshirt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

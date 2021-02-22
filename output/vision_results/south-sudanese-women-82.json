@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/south-sudanese-women/82.jpeg",
+    "search_query": "south-sudanese-women",
+    "position": 82,
+    "label_annotations": [
+        {
+            "mid": "/m/0n5v01m",
+            "score": 0.8834545612335205,
+            "topicality": 0.8834545612335205,
+            "description": "Bag"
+        },
+        {
+            "mid": "/m/0hf58v5",
+            "score": 0.8056693077087402,
+            "topicality": 0.8056693077087402,
+            "description": "Luggage and bags"
+        },
+        {
+            "mid": "/m/09y4pm",
+            "score": 0.6736387014389038,
+            "topicality": 0.6736387014389038,
+            "description": "Market"
+        },
+        {
+            "mid": "/m/02kvytt",
+            "score": 0.5971806049346924,
+            "topicality": 0.5971806049346924,
+            "description": "Thread"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "POSSIBLE"
+        }
+    }
+}

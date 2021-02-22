@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/syrian-women/48.jpeg",
+    "search_query": "syrian-women",
+    "position": 48,
+    "label_annotations": [
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.8272973299026489,
+            "topicality": 0.8272973299026489,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.6564536094665527,
+            "topicality": 0.6564536094665527,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.5742053389549255,
+            "topicality": 0.5742053389549255,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/0670sh",
+            "score": 0.5643565058708191,
+            "topicality": 0.5643565058708191,
+            "description": "Stole"
+        },
+        {
+            "mid": "/m/0174n1",
+            "score": 0.5278171300888062,
+            "topicality": 0.5278171300888062,
+            "description": "Glove"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

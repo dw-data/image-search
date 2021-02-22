@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/dutch-women/42.jpeg",
+    "search_query": "dutch-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9688690304756165,
+            "topicality": 0.9688690304756165,
+            "description": "Human body"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.941322386264801,
+            "topicality": 0.941322386264801,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9233188629150391,
+            "topicality": 0.9233188629150391,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/0hgn_pr",
+            "score": 0.9106766581535339,
+            "topicality": 0.9106766581535339,
+            "description": "Active pants"
+        },
+        {
+            "mid": "/m/056f2w",
+            "score": 0.9008985757827759,
+            "topicality": 0.9008985757827759,
+            "description": "sweatpant"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.8766003251075745,
+            "topicality": 0.8766003251075745,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.8643801212310791,
+            "topicality": 0.8643801212310791,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/0hgntgw",
+            "score": 0.8251625299453735,
+            "topicality": 0.8251625299453735,
+            "description": "Active tank"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.8072366118431091,
+            "topicality": 0.8072366118431091,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.8066036701202393,
+            "topicality": 0.8066036701202393,
+            "description": "Trunk"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

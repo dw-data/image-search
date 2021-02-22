@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/danish-women/11.jpeg",
+    "search_query": "danish-women",
+    "position": 11,
+    "label_annotations": [
+        {
+            "mid": "/m/06hwcd",
+            "score": 0.9748826026916504,
+            "topicality": 0.9748826026916504,
+            "description": "Dress shirt"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.9727533459663391,
+            "topicality": 0.9727533459663391,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710308313369751,
+            "topicality": 0.9710308313369751,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.965575098991394,
+            "topicality": 0.965575098991394,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01n4qj",
+            "score": 0.9590906500816345,
+            "topicality": 0.9590906500816345,
+            "description": "Shirt"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540064334869385,
+            "topicality": 0.9540064334869385,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/0gjkl",
+            "score": 0.9525852799415588,
+            "topicality": 0.9525852799415588,
+            "description": "Watch"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9153848886489868,
+            "topicality": 0.9153848886489868,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8971983194351196,
+            "topicality": 0.8971983194351196,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.8903863430023193,
+            "topicality": 0.8903863430023193,
+            "description": "Fashion accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/australian-women/24.jpeg",
+    "search_query": "australian-women",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9838151335716248,
+            "topicality": 0.9838151335716248,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9587383270263672,
+            "topicality": 0.9587383270263672,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.9587295651435852,
+            "topicality": 0.9587295651435852,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/04stdlw",
+            "score": 0.9397481083869934,
+            "topicality": 0.9397481083869934,
+            "description": "Competition event"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9303986430168152,
+            "topicality": 0.9303986430168152,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.9112998843193054,
+            "topicality": 0.9112998843193054,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/0b4_rz",
+            "score": 0.9051448702812195,
+            "topicality": 0.9051448702812195,
+            "description": "Championship"
+        },
+        {
+            "mid": "/m/01445t",
+            "score": 0.8968026041984558,
+            "topicality": 0.8968026041984558,
+            "description": "Athlete"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.8918182849884033,
+            "topicality": 0.8918182849884033,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/02vzx9",
+            "score": 0.8575078248977661,
+            "topicality": 0.8575078248977661,
+            "description": "Player"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/irish-women/90.jpeg",
+    "search_query": "irish-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9854660034179688,
+            "topicality": 0.9854660034179688,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9845377206802368,
+            "topicality": 0.9845377206802368,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9764673113822937,
+            "topicality": 0.9764673113822937,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9750203490257263,
+            "topicality": 0.9750203490257263,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9699166417121887,
+            "topicality": 0.9699166417121887,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9671778082847595,
+            "topicality": 0.9671778082847595,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009718894958,
+            "topicality": 0.9509009718894958,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9441783428192139,
+            "topicality": 0.9441783428192139,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9420543909072876,
+            "topicality": 0.9420543909072876,
+            "description": "Eyebrow"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

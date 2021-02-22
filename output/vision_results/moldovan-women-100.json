@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/moldovan-women/100.jpeg",
+    "search_query": "moldovan-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639039635658264,
+            "topicality": 0.9639039635658264,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9398865699768066,
+            "topicality": 0.9398865699768066,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8589918613433838,
+            "topicality": 0.8589918613433838,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8043214678764343,
+            "topicality": 0.8043214678764343,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.7494820356369019,
+            "topicality": 0.7494820356369019,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.5937363505363464,
+            "topicality": 0.5937363505363464,
+            "description": "Flesh"
+        },
+        {
+            "mid": "/m/06q_t_",
+            "score": 0.5411292910575867,
+            "topicality": 0.5411292910575867,
+            "description": "Bun"
+        },
+        {
+            "mid": "/m/014trl",
+            "score": 0.537856936454773,
+            "topicality": 0.537856936454773,
+            "description": "Cosmetics"
+        },
+        {
+            "mid": "/m/028mzr",
+            "score": 0.5164350271224976,
+            "topicality": 0.5164350271224976,
+            "description": "Hair coloring"
+        },
+        {
+            "mid": "/m/043zsw",
+            "score": 0.5018911957740784,
+            "topicality": 0.5018911957740784,
+            "description": "Curious"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

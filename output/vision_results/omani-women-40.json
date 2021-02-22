@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/omani-women/40.png",
+    "search_query": "omani-women",
+    "position": 40,
+    "label_annotations": [
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.7080786824226379,
+            "topicality": 0.7080786824226379,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.6376762390136719,
+            "topicality": 0.6376762390136719,
+            "description": "Hood"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.6269206404685974,
+            "topicality": 0.6269206404685974,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.517257571220398,
+            "topicality": 0.517257571220398,
+            "description": "Flesh"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.5145964622497559,
+            "topicality": 0.5145964622497559,
+            "description": "Abaya"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

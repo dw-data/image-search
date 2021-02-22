@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/emirati-women/95.jpeg",
+    "search_query": "emirati-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/088fh",
+            "score": 0.9737423658370972,
+            "topicality": 0.9737423658370972,
+            "description": "Yellow"
+        },
+        {
+            "mid": "/m/01xqvb",
+            "score": 0.7074376344680786,
+            "topicality": 0.7074376344680786,
+            "description": "Academic dress"
+        },
+        {
+            "mid": "/m/05km25g",
+            "score": 0.6279063820838928,
+            "topicality": 0.6279063820838928,
+            "description": "Scholar"
+        },
+        {
+            "mid": "/m/016c3c",
+            "score": 0.5968413352966309,
+            "topicality": 0.5968413352966309,
+            "description": "Graduation"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

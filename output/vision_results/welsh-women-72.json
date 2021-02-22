@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/welsh-women/72.jpeg",
+    "search_query": "welsh-women",
+    "position": 72,
+    "label_annotations": [
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9810687303543091,
+            "topicality": 0.9810687303543091,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9681552648544312,
+            "topicality": 0.9681552648544312,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/06rrc",
+            "score": 0.9571300148963928,
+            "topicality": 0.9571300148963928,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9539384841918945,
+            "topicality": 0.9539384841918945,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9362987875938416,
+            "topicality": 0.9362987875938416,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/06k2mb",
+            "score": 0.9254447817802429,
+            "topicality": 0.9254447817802429,
+            "description": "High heels"
+        },
+        {
+            "mid": "/m/03rszm",
+            "score": 0.9254142045974731,
+            "topicality": 0.9254142045974731,
+            "description": "Curtain"
+        },
+        {
+            "mid": "/m/02w3_2",
+            "score": 0.9200259447097778,
+            "topicality": 0.9200259447097778,
+            "description": "Formal wear"
+        },
+        {
+            "mid": "/m/019swr",
+            "score": 0.9176276326179504,
+            "topicality": 0.9176276326179504,
+            "description": "Knee"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.911577582359314,
+            "topicality": 0.911577582359314,
+            "description": "Sitting"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

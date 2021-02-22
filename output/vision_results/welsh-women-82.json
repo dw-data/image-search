@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/welsh-women/82.jpeg",
+    "search_query": "welsh-women",
+    "position": 82,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9923607110977173,
+            "topicality": 0.9923607110977173,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.988490879535675,
+            "topicality": 0.988490879535675,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9838333129882812,
+            "topicality": 0.9838333129882812,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9734147787094116,
+            "topicality": 0.9734147787094116,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9689227938652039,
+            "topicality": 0.9689227938652039,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9505966901779175,
+            "topicality": 0.9505966901779175,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.9461961388587952,
+            "topicality": 0.9461961388587952,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9001709222793579,
+            "topicality": 0.9001709222793579,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/03rszm",
+            "score": 0.8977075219154358,
+            "topicality": 0.8977075219154358,
+            "description": "Curtain"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8820037841796875,
+            "topicality": 0.8820037841796875,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

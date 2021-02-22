@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/guatemalan-women/72.jpeg",
+    "search_query": "guatemalan-women",
+    "position": 72,
+    "label_annotations": [
+        {
+            "mid": "/m/0404d",
+            "score": 0.9377663135528564,
+            "topicality": 0.9377663135528564,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0n1h",
+            "score": 0.8091009855270386,
+            "topicality": 0.8091009855270386,
+            "description": "Artist"
+        },
+        {
+            "mid": "/m/02rdsp",
+            "score": 0.5988809466362,
+            "topicality": 0.5988809466362,
+            "description": "Office supplies"
+        },
+        {
+            "mid": "/m/0cmsl0l",
+            "score": 0.5926204919815063,
+            "topicality": 0.5926204919815063,
+            "description": "Electrical supply"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

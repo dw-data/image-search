@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/malagasy-women/1.jpeg",
+    "search_query": "malagasy-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0404d",
+            "score": 0.9388105273246765,
+            "topicality": 0.9388105273246765,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8568100333213806,
+            "topicality": 0.8568100333213806,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.7177144885063171,
+            "topicality": 0.7177144885063171,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.6690642237663269,
+            "topicality": 0.6690642237663269,
+            "description": "Portrait"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6257359981536865,
+            "topicality": 0.6257359981536865,
+            "description": "Portrait photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/british-women/98.jpeg",
+    "search_query": "british-women",
+    "position": 98,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9840793609619141,
+            "topicality": 0.9840793609619141,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9783093929290771,
+            "topicality": 0.9783093929290771,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.9580414891242981,
+            "topicality": 0.9580414891242981,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9435359835624695,
+            "topicality": 0.9435359835624695,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9069650769233704,
+            "topicality": 0.9069650769233704,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8940693140029907,
+            "topicality": 0.8940693140029907,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8887521624565125,
+            "topicality": 0.8887521624565125,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8299103379249573,
+            "topicality": 0.8299103379249573,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.8264580965042114,
+            "topicality": 0.8264580965042114,
+            "description": "Social group"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

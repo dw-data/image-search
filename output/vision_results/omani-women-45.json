@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/omani-women/45.jpeg",
+    "search_query": "omani-women",
+    "position": 45,
+    "label_annotations": [
+        {
+            "mid": "/m/0gvss07",
+            "score": 0.8152072429656982,
+            "topicality": 0.8152072429656982,
+            "description": "Combat vehicle"
+        },
+        {
+            "mid": "/m/07cmd",
+            "score": 0.5956099629402161,
+            "topicality": 0.5956099629402161,
+            "description": "Tank"
+        },
+        {
+            "mid": "/m/0g54v5d",
+            "score": 0.5806019902229309,
+            "topicality": 0.5806019902229309,
+            "description": "Military vehicle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

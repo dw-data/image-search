@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/turkish-women/58.jpeg",
+    "search_query": "turkish-women",
+    "position": 58,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9885801076889038,
+            "topicality": 0.9885801076889038,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773436188697815,
+            "topicality": 0.9773436188697815,
+            "description": "People"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9448680281639099,
+            "topicality": 0.9448680281639099,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9121491312980652,
+            "topicality": 0.9121491312980652,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.7979397177696228,
+            "topicality": 0.7979397177696228,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/02fbqn",
+            "score": 0.523013710975647,
+            "topicality": 0.523013710975647,
+            "description": "Headpiece"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

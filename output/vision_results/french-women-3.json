@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/french-women/3.jpeg",
+    "search_query": "french-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8579750061035156,
+            "topicality": 0.8579750061035156,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8336150050163269,
+            "topicality": 0.8336150050163269,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7683735489845276,
+            "topicality": 0.7683735489845276,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.751154363155365,
+            "topicality": 0.751154363155365,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.7403967380523682,
+            "topicality": 0.7403967380523682,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6148970723152161,
+            "topicality": 0.6148970723152161,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.6021389961242676,
+            "topicality": 0.6021389961242676,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/09_2bb",
+            "score": 0.5304604172706604,
+            "topicality": 0.5304604172706604,
+            "description": "Curtained hair"
+        },
+        {
+            "mid": "/m/026mhtg",
+            "score": 0.5168049931526184,
+            "topicality": 0.5168049931526184,
+            "description": "Step cutting"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

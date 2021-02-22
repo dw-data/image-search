@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/croatian-women/80.jpeg",
+    "search_query": "croatian-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9842304587364197,
+            "topicality": 0.9842304587364197,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9769178628921509,
+            "topicality": 0.9769178628921509,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/07fhr3",
+            "score": 0.8739618062973022,
+            "topicality": 0.8739618062973022,
+            "description": "White coat"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8722628355026245,
+            "topicality": 0.8722628355026245,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/0fsbk0",
+            "score": 0.8478526473045349,
+            "topicality": 0.8478526473045349,
+            "description": "Health care provider"
+        },
+        {
+            "mid": "/m/06yrfc",
+            "score": 0.8012744188308716,
+            "topicality": 0.8012744188308716,
+            "description": "Medical assistant"
+        },
+        {
+            "mid": "/m/01mw2x",
+            "score": 0.8001642823219299,
+            "topicality": 0.8001642823219299,
+            "description": "Health care"
+        },
+        {
+            "mid": "/m/073g6",
+            "score": 0.8000965118408203,
+            "topicality": 0.8000965118408203,
+            "description": "Stethoscope"
+        },
+        {
+            "mid": "/m/018tkd",
+            "score": 0.7741580009460449,
+            "topicality": 0.7741580009460449,
+            "description": "Service"
+        },
+        {
+            "mid": "/m/06mq7",
+            "score": 0.7403832674026489,
+            "topicality": 0.7403832674026489,
+            "description": "Science"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

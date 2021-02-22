@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/cambodian-women/50.jpeg",
+    "search_query": "cambodian-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9898192286491394,
+            "topicality": 0.9898192286491394,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880093336105347,
+            "topicality": 0.9880093336105347,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9845437407493591,
+            "topicality": 0.9845437407493591,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9842404723167419,
+            "topicality": 0.9842404723167419,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9825735688209534,
+            "topicality": 0.9825735688209534,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.981701672077179,
+            "topicality": 0.981701672077179,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.979598879814148,
+            "topicality": 0.979598879814148,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9785990118980408,
+            "topicality": 0.9785990118980408,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9766644239425659,
+            "topicality": 0.9766644239425659,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.956518292427063,
+            "topicality": 0.956518292427063,
+            "description": "Hand"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/mexican-women/3.jpeg",
+    "search_query": "mexican-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.976024329662323,
+            "topicality": 0.976024329662323,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0fly7",
+            "score": 0.9623318910598755,
+            "topicality": 0.9623318910598755,
+            "description": "Jeans"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9326899647712708,
+            "topicality": 0.9326899647712708,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/01g5v",
+            "score": 0.9178763628005981,
+            "topicality": 0.9178763628005981,
+            "description": "Blue"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9099686145782471,
+            "topicality": 0.9099686145782471,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/01bqk0",
+            "score": 0.8848695158958435,
+            "topicality": 0.8848695158958435,
+            "description": "Bicycle wheel"
+        },
+        {
+            "mid": "/m/05s2s",
+            "score": 0.8803479075431824,
+            "topicality": 0.8803479075431824,
+            "description": "Plant"
+        },
+        {
+            "mid": "/m/0h9mv",
+            "score": 0.8743947148323059,
+            "topicality": 0.8743947148323059,
+            "description": "Tire"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.867547869682312,
+            "topicality": 0.867547869682312,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8543969392776489,
+            "topicality": 0.8543969392776489,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/kenyan-women/13.jpeg",
+    "search_query": "kenyan-women",
+    "position": 13,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9852762222290039,
+            "topicality": 0.9852762222290039,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.982845664024353,
+            "topicality": 0.982845664024353,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9721966981887817,
+            "topicality": 0.9721966981887817,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9694650769233704,
+            "topicality": 0.9694650769233704,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06rrc",
+            "score": 0.9495118856430054,
+            "topicality": 0.9495118856430054,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9426200985908508,
+            "topicality": 0.9426200985908508,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.935097873210907,
+            "topicality": 0.935097873210907,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9332628846168518,
+            "topicality": 0.9332628846168518,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.9226165413856506,
+            "topicality": 0.9226165413856506,
+            "description": "One-piece garment"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8769627809524536,
+            "topicality": 0.8769627809524536,
+            "description": "Dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

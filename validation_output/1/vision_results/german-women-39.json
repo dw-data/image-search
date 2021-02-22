@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/german-women/39.jpeg",
+    "search_query": "german-women",
+    "position": 39,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9845478534698486,
+            "topicality": 0.9845478534698486,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9727749824523926,
+            "topicality": 0.9727749824523926,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01bqvp",
+            "score": 0.9624322652816772,
+            "topicality": 0.9624322652816772,
+            "description": "Sky"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9460076689720154,
+            "topicality": 0.9460076689720154,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9407420754432678,
+            "topicality": 0.9407420754432678,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9340196251869202,
+            "topicality": 0.9340196251869202,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/0h8k6fc",
+            "score": 0.9276750087738037,
+            "topicality": 0.9276750087738037,
+            "description": "Lingerie top"
+        },
+        {
+            "mid": "/m/083jv",
+            "score": 0.9218688011169434,
+            "topicality": 0.9218688011169434,
+            "description": "White"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9000785946846008,
+            "topicality": 0.9000785946846008,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/03jn2m",
+            "score": 0.8947302103042603,
+            "topicality": 0.8947302103042603,
+            "description": "Azure"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

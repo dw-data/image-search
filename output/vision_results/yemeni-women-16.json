@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/yemeni-women/16.jpeg",
+    "search_query": "yemeni-women",
+    "position": 16,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9836409687995911,
+            "topicality": 0.9836409687995911,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/02rlncx",
+            "score": 0.9093448519706726,
+            "topicality": 0.9093448519706726,
+            "description": "Plastic bottle"
+        },
+        {
+            "mid": "/m/084rsc",
+            "score": 0.8365285992622375,
+            "topicality": 0.8365285992622375,
+            "description": "Aqua"
+        },
+        {
+            "mid": "/m/018tkd",
+            "score": 0.6461635828018188,
+            "topicality": 0.6461635828018188,
+            "description": "Service"
+        },
+        {
+            "mid": "/m/04dr76w",
+            "score": 0.6095089316368103,
+            "topicality": 0.6095089316368103,
+            "description": "Bottle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/greek-women/1.jpeg",
+    "search_query": "greek-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740028977394104,
+            "topicality": 0.9740028977394104,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9730350375175476,
+            "topicality": 0.9730350375175476,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681838750839233,
+            "topicality": 0.9681838750839233,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9531831741333008,
+            "topicality": 0.9531831741333008,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9329853653907776,
+            "topicality": 0.9329853653907776,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0h8k4j9",
+            "score": 0.9311756491661072,
+            "topicality": 0.9311756491661072,
+            "description": "Hair accessory"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9260814189910889,
+            "topicality": 0.9260814189910889,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9121131300926208,
+            "topicality": 0.9121131300926208,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9092923402786255,
+            "topicality": 0.9092923402786255,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0h8kxbv",
+            "score": 0.89769047498703,
+            "topicality": 0.89769047498703,
+            "description": "Body jewelry"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

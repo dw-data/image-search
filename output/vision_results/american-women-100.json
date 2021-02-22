@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/american-women/100.jpeg",
+    "search_query": "american-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9922029376029968,
+            "topicality": 0.9922029376029968,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9717081785202026,
+            "topicality": 0.9717081785202026,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9692445397377014,
+            "topicality": 0.9692445397377014,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639031291007996,
+            "topicality": 0.9639031291007996,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9497804641723633,
+            "topicality": 0.9497804641723633,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.9390872716903687,
+            "topicality": 0.9390872716903687,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344746470451355,
+            "topicality": 0.9344746470451355,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.91703861951828,
+            "topicality": 0.91703861951828,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/04xz_5",
+            "score": 0.8980894684791565,
+            "topicality": 0.8980894684791565,
+            "description": "Blazer"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.8937567472457886,
+            "topicality": 0.8937567472457886,
+            "description": "Necklace"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

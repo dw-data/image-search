@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/maltese-women/93.jpeg",
+    "search_query": "maltese-women",
+    "position": 93,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9809622168540955,
+            "topicality": 0.9809622168540955,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9246159791946411,
+            "topicality": 0.9246159791946411,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.8809189200401306,
+            "topicality": 0.8809189200401306,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8752973079681396,
+            "topicality": 0.8752973079681396,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.8555373549461365,
+            "topicality": 0.8555373549461365,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/019_nn",
+            "score": 0.7571116089820862,
+            "topicality": 0.7571116089820862,
+            "description": "Friendship"
+        },
+        {
+            "mid": "/m/0ckc5",
+            "score": 0.7125592231750488,
+            "topicality": 0.7125592231750488,
+            "description": "Magenta"
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.6679815053939819,
+            "topicality": 0.6679815053939819,
+            "description": "Photo caption"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.659976601600647,
+            "topicality": 0.659976601600647,
+            "description": "Event"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

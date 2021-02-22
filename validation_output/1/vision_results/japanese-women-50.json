@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/japanese-women/50.jpeg",
+    "search_query": "japanese-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9830428957939148,
+            "topicality": 0.9830428957939148,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.967096209526062,
+            "topicality": 0.967096209526062,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.9178451299667358,
+            "topicality": 0.9178451299667358,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.8727376461029053,
+            "topicality": 0.8727376461029053,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724486827850342,
+            "topicality": 0.8724486827850342,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/02crq1",
+            "score": 0.8641695976257324,
+            "topicality": 0.8641695976257324,
+            "description": "Couch"
+        },
+        {
+            "mid": "/m/083vt",
+            "score": 0.862809419631958,
+            "topicality": 0.862809419631958,
+            "description": "Wood"
+        },
+        {
+            "mid": "/m/04bcr3",
+            "score": 0.8506414294242859,
+            "topicality": 0.8506414294242859,
+            "description": "Table"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8134036064147949,
+            "topicality": 0.8134036064147949,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/01c34b",
+            "score": 0.8114494681358337,
+            "topicality": 0.8114494681358337,
+            "description": "Flooring"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

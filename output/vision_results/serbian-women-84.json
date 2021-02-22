@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/serbian-women/84.jpeg",
+    "search_query": "serbian-women",
+    "position": 84,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.8952198028564453,
+            "topicality": 0.8952198028564453,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.8313093185424805,
+            "topicality": 0.8313093185424805,
+            "description": "Tradition"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

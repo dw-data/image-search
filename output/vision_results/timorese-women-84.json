@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/timorese-women/84.jpeg",
+    "search_query": "timorese-women",
+    "position": 84,
+    "label_annotations": [
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9668035507202148,
+            "topicality": 0.9668035507202148,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9403571486473083,
+            "topicality": 0.9403571486473083,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8710191249847412,
+            "topicality": 0.8710191249847412,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.8439975380897522,
+            "topicality": 0.8439975380897522,
+            "description": "Team"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.7795126438140869,
+            "topicality": 0.7795126438140869,
+            "description": "Audience"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

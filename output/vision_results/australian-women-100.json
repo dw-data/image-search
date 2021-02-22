@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/australian-women/100.jpeg",
+    "search_query": "australian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835742115974426,
+            "topicality": 0.9835742115974426,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9798171520233154,
+            "topicality": 0.9798171520233154,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.979594349861145,
+            "topicality": 0.979594349861145,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739763140678406,
+            "topicality": 0.9739763140678406,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9703121185302734,
+            "topicality": 0.9703121185302734,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9575093388557434,
+            "topicality": 0.9575093388557434,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0rytcc5",
+            "score": 0.9483944177627563,
+            "topicality": 0.9483944177627563,
+            "description": "Strapless dress"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9305647015571594,
+            "topicality": 0.9305647015571594,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9225325584411621,
+            "topicality": 0.9225325584411621,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

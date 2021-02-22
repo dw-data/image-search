@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/maltese-women/45.png",
+    "search_query": "maltese-women",
+    "position": 45,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9888283610343933,
+            "topicality": 0.9888283610343933,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9841179847717285,
+            "topicality": 0.9841179847717285,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9800595641136169,
+            "topicality": 0.9800595641136169,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789931774139404,
+            "topicality": 0.9789931774139404,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9463347792625427,
+            "topicality": 0.9463347792625427,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/01bsxb",
+            "score": 0.9274685978889465,
+            "topicality": 0.9274685978889465,
+            "description": "Collage"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6842178702354431,
+            "topicality": 0.6842178702354431,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/0sgh53y",
+            "score": 0.6246465444564819,
+            "topicality": 0.6246465444564819,
+            "description": "Selfie"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.6063004732131958,
+            "topicality": 0.6063004732131958,
+            "description": "Day dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

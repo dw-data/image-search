@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/hungarian-women/42.jpeg",
+    "search_query": "hungarian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789982438087463,
+            "topicality": 0.9789982438087463,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9782528281211853,
+            "topicality": 0.9782528281211853,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.8997280597686768,
+            "topicality": 0.8997280597686768,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.8936102986335754,
+            "topicality": 0.8936102986335754,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.888536274433136,
+            "topicality": 0.888536274433136,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8780070543289185,
+            "topicality": 0.8780070543289185,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8676533102989197,
+            "topicality": 0.8676533102989197,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.8639208078384399,
+            "topicality": 0.8639208078384399,
+            "description": "Fashion model"
+        },
+        {
+            "mid": "/m/0d1pc",
+            "score": 0.8495762944221497,
+            "topicality": 0.8495762944221497,
+            "description": "Model"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.8219358921051025,
+            "topicality": 0.8219358921051025,
+            "description": "Long hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

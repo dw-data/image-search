@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/polish-women/20.jpeg",
+    "search_query": "polish-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9840344190597534,
+            "topicality": 0.9840344190597534,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9816102385520935,
+            "topicality": 0.9816102385520935,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9808714389801025,
+            "topicality": 0.9808714389801025,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9797419905662537,
+            "topicality": 0.9797419905662537,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774422645568848,
+            "topicality": 0.9774422645568848,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9657399654388428,
+            "topicality": 0.9657399654388428,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9602037072181702,
+            "topicality": 0.9602037072181702,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.9292670488357544,
+            "topicality": 0.9292670488357544,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8809226751327515,
+            "topicality": 0.8809226751327515,
+            "description": "Youth"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

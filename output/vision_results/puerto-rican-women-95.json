@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/puerto-rican-women/95.jpeg",
+    "search_query": "puerto-rican-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639062881469727,
+            "topicality": 0.9639062881469727,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9301271438598633,
+            "topicality": 0.9301271438598633,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.8535224795341492,
+            "topicality": 0.8535224795341492,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/0hgntgw",
+            "score": 0.7201268672943115,
+            "topicality": 0.7201268672943115,
+            "description": "Active tank"
+        },
+        {
+            "mid": "/m/01sdv7",
+            "score": 0.6611186265945435,
+            "topicality": 0.6611186265945435,
+            "description": "Vest"
+        },
+        {
+            "mid": "/m/079f77",
+            "score": 0.6427873373031616,
+            "topicality": 0.6427873373031616,
+            "description": "Undershirt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "POSSIBLE"
+        }
+    }
+}

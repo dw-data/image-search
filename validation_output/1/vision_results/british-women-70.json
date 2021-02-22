@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/british-women/70.jpeg",
+    "search_query": "british-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9842310547828674,
+            "topicality": 0.9842310547828674,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9790027737617493,
+            "topicality": 0.9790027737617493,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702367782592773,
+            "topicality": 0.9702367782592773,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9361414313316345,
+            "topicality": 0.9361414313316345,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9284805059432983,
+            "topicality": 0.9284805059432983,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.8787591457366943,
+            "topicality": 0.8787591457366943,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8759951591491699,
+            "topicality": 0.8759951591491699,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8484281301498413,
+            "topicality": 0.8484281301498413,
+            "description": "Iris"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

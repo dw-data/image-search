@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/new-zealand-women/65.jpeg",
+    "search_query": "new-zealand-women",
+    "position": 65,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9901130795478821,
+            "topicality": 0.9901130795478821,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9894170165061951,
+            "topicality": 0.9894170165061951,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9882912635803223,
+            "topicality": 0.9882912635803223,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774652719497681,
+            "topicality": 0.9774652719497681,
+            "description": "People"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9534040093421936,
+            "topicality": 0.9534040093421936,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.8685539364814758,
+            "topicality": 0.8685539364814758,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/01h2w7",
+            "score": 0.6034459471702576,
+            "topicality": 0.6034459471702576,
+            "description": "Retro style"
+        },
+        {
+            "mid": "/m/09dhj",
+            "score": 0.5990749001502991,
+            "topicality": 0.5990749001502991,
+            "description": "Family"
+        },
+        {
+            "mid": "/m/03g3w",
+            "score": 0.5651323795318604,
+            "topicality": 0.5651323795318604,
+            "description": "History"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

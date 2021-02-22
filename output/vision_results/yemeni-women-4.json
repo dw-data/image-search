@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/yemeni-women/4.jpeg",
+    "search_query": "yemeni-women",
+    "position": 4,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.916269063949585,
+            "topicality": 0.916269063949585,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8454030156135559,
+            "topicality": 0.8454030156135559,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/02gw_5",
+            "score": 0.5124568939208984,
+            "topicality": 0.5124568939208984,
+            "description": "Beanie"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

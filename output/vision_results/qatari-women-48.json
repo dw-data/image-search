@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/qatari-women/48.jpeg",
+    "search_query": "qatari-women",
+    "position": 48,
+    "label_annotations": [
+        {
+            "mid": "/m/05t_yt",
+            "score": 0.8815906047821045,
+            "topicality": 0.8815906047821045,
+            "description": "Carmine"
+        },
+        {
+            "mid": "/m/03gkl",
+            "score": 0.5988168716430664,
+            "topicality": 0.5988168716430664,
+            "description": "Holiday"
+        },
+        {
+            "mid": "/m/01jfsr",
+            "score": 0.5394586324691772,
+            "topicality": 0.5394586324691772,
+            "description": "Lantern"
+        },
+        {
+            "mid": "/m/048knlz",
+            "score": 0.5229960680007935,
+            "topicality": 0.5229960680007935,
+            "description": "Love"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

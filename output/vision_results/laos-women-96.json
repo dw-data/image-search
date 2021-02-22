@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/laos-women/96.jpeg",
+    "search_query": "laos-women",
+    "position": 96,
+    "label_annotations": [
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9688977599143982,
+            "topicality": 0.9688977599143982,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828213214874268,
+            "topicality": 0.8828213214874268,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.8322676420211792,
+            "topicality": 0.8322676420211792,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.5025066137313843,
+            "topicality": 0.5025066137313843,
+            "description": "Portrait"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

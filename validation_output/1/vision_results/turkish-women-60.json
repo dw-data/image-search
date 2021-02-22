@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/turkish-women/60.jpeg",
+    "search_query": "turkish-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9830039143562317,
+            "topicality": 0.9830039143562317,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9765375852584839,
+            "topicality": 0.9765375852584839,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9696343541145325,
+            "topicality": 0.9696343541145325,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9399300217628479,
+            "topicality": 0.9399300217628479,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9189314246177673,
+            "topicality": 0.9189314246177673,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8865517973899841,
+            "topicality": 0.8865517973899841,
+            "description": "Neck"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8853143453598022,
+            "topicality": 0.8853143453598022,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.8813726305961609,
+            "topicality": 0.8813726305961609,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8780558705329895,
+            "topicality": 0.8780558705329895,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.855958878993988,
+            "topicality": 0.855958878993988,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/honduran-women/96.jpeg",
+    "search_query": "honduran-women",
+    "position": 96,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9786096215248108,
+            "topicality": 0.9786096215248108,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977146565914154,
+            "topicality": 0.977146565914154,
+            "description": "People"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9452835321426392,
+            "topicality": 0.9452835321426392,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.940542995929718,
+            "topicality": 0.940542995929718,
+            "description": "Community"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

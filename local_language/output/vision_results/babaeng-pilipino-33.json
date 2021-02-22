@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/babaeng-pilipino/33.jpeg",
+    "search_query": "babaeng-pilipino",
+    "position": 33,
+    "label_annotations": [
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.7978371381759644,
+            "topicality": 0.7978371381759644,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/01vkl",
+            "score": 0.5299656987190247,
+            "topicality": 0.5299656987190247,
+            "description": "Circle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

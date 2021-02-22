@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/syrian-women/28.jpeg",
+    "search_query": "syrian-women",
+    "position": 28,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9893803000450134,
+            "topicality": 0.9893803000450134,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9838342666625977,
+            "topicality": 0.9838342666625977,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9800244569778442,
+            "topicality": 0.9800244569778442,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9798122644424438,
+            "topicality": 0.9798122644424438,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9777235984802246,
+            "topicality": 0.9777235984802246,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774952530860901,
+            "topicality": 0.9774952530860901,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0hwky",
+            "score": 0.9611241817474365,
+            "topicality": 0.9611241817474365,
+            "description": "Pattern"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9458627700805664,
+            "topicality": 0.9458627700805664,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9398584961891174,
+            "topicality": 0.9398584961891174,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

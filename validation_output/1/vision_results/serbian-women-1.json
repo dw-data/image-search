@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/serbian-women/1.jpeg",
+    "search_query": "serbian-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9845504760742188,
+            "topicality": 0.9845504760742188,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9837642908096313,
+            "topicality": 0.9837642908096313,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9770818948745728,
+            "topicality": 0.9770818948745728,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703177809715271,
+            "topicality": 0.9703177809715271,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9456295967102051,
+            "topicality": 0.9456295967102051,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9226168394088745,
+            "topicality": 0.9226168394088745,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0d4v4",
+            "score": 0.9161053895950317,
+            "topicality": 0.9161053895950317,
+            "description": "Window"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8895884156227112,
+            "topicality": 0.8895884156227112,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8865472078323364,
+            "topicality": 0.8865472078323364,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

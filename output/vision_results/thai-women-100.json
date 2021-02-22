@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/thai-women/100.jpeg",
+    "search_query": "thai-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9887463450431824,
+            "topicality": 0.9887463450431824,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.988070547580719,
+            "topicality": 0.988070547580719,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/01g5v",
+            "score": 0.9786396026611328,
+            "topicality": 0.9786396026611328,
+            "description": "Blue"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9772201776504517,
+            "topicality": 0.9772201776504517,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9771196842193604,
+            "topicality": 0.9771196842193604,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9593684673309326,
+            "topicality": 0.9593684673309326,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/083jv",
+            "score": 0.9503129124641418,
+            "topicality": 0.9503129124641418,
+            "description": "White"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9404812455177307,
+            "topicality": 0.9404812455177307,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.9329243898391724,
+            "topicality": 0.9329243898391724,
+            "description": "Denim"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

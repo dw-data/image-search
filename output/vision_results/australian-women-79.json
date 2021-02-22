@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/australian-women/79.jpeg",
+    "search_query": "australian-women",
+    "position": 79,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9798803925514221,
+            "topicality": 0.9798803925514221,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710302948951721,
+            "topicality": 0.9710302948951721,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9653459191322327,
+            "topicality": 0.9653459191322327,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9564530253410339,
+            "topicality": 0.9564530253410339,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/02wzbmj",
+            "score": 0.9552494883537292,
+            "topicality": 0.9552494883537292,
+            "description": "Standing"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9538624286651611,
+            "topicality": 0.9538624286651611,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9453498125076294,
+            "topicality": 0.9453498125076294,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9417443871498108,
+            "topicality": 0.9417443871498108,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9231399893760681,
+            "topicality": 0.9231399893760681,
+            "description": "Elbow"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

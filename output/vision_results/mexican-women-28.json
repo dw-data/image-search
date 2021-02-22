@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/28.jpeg",
+    "search_query": "mexican-women",
+    "position": 28,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9787939786911011,
+            "topicality": 0.9787939786911011,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710061550140381,
+            "topicality": 0.9710061550140381,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.965025782585144,
+            "topicality": 0.965025782585144,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9547230005264282,
+            "topicality": 0.9547230005264282,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9219575524330139,
+            "topicality": 0.9219575524330139,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9099403619766235,
+            "topicality": 0.9099403619766235,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/0gjkl",
+            "score": 0.9011173844337463,
+            "topicality": 0.9011173844337463,
+            "description": "Watch"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8873061537742615,
+            "topicality": 0.8873061537742615,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8768025040626526,
+            "topicality": 0.8768025040626526,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

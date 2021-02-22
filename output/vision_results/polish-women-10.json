@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/polish-women/10.jpeg",
+    "search_query": "polish-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9921596050262451,
+            "topicality": 0.9921596050262451,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.988878607749939,
+            "topicality": 0.988878607749939,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9768335223197937,
+            "topicality": 0.9768335223197937,
+            "description": "People"
+        },
+        {
+            "mid": "/m/07mhn",
+            "score": 0.9702144265174866,
+            "topicality": 0.9702144265174866,
+            "description": "Trousers"
+        },
+        {
+            "mid": "/m/01xygc",
+            "score": 0.9525512456893921,
+            "topicality": 0.9525512456893921,
+            "description": "Coat"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.951636791229248,
+            "topicality": 0.951636791229248,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9500936269760132,
+            "topicality": 0.9500936269760132,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01lqfm",
+            "score": 0.9437443614006042,
+            "topicality": 0.9437443614006042,
+            "description": "Public space"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9326751828193665,
+            "topicality": 0.9326751828193665,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01c8br",
+            "score": 0.9310069680213928,
+            "topicality": 0.9310069680213928,
+            "description": "Street"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

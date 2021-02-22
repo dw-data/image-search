@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/nigerien-women/60.jpeg",
+    "search_query": "nigerien-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/06ht1",
+            "score": 0.9405052661895752,
+            "topicality": 0.9405052661895752,
+            "description": "Room"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.9332451820373535,
+            "topicality": 0.9332451820373535,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/09fwz6",
+            "score": 0.7120329141616821,
+            "topicality": 0.7120329141616821,
+            "description": "Lap"
+        },
+        {
+            "mid": "/m/07c52",
+            "score": 0.5355005264282227,
+            "topicality": 0.5355005264282227,
+            "description": "Television"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

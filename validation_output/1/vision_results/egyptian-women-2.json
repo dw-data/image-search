@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/egyptian-women/2.png",
+    "search_query": "egyptian-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9838375449180603,
+            "topicality": 0.9838375449180603,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9826515913009644,
+            "topicality": 0.9826515913009644,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9666889309883118,
+            "topicality": 0.9666889309883118,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9442749619483948,
+            "topicality": 0.9442749619483948,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9387830495834351,
+            "topicality": 0.9387830495834351,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8816696405410767,
+            "topicality": 0.8816696405410767,
+            "description": "Neck"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8793684244155884,
+            "topicality": 0.8793684244155884,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8694573640823364,
+            "topicality": 0.8694573640823364,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8094618320465088,
+            "topicality": 0.8094618320465088,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/02vwbzz",
+            "score": 0.7530952095985413,
+            "topicality": 0.7530952095985413,
+            "description": "Electric blue"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

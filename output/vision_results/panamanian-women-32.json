@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/panamanian-women/32.jpeg",
+    "search_query": "panamanian-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9895084500312805,
+            "topicality": 0.9895084500312805,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9884517192840576,
+            "topicality": 0.9884517192840576,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.983813464641571,
+            "topicality": 0.983813464641571,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9796491861343384,
+            "topicality": 0.9796491861343384,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9796445965766907,
+            "topicality": 0.9796445965766907,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9772664308547974,
+            "topicality": 0.9772664308547974,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9736313223838806,
+            "topicality": 0.9736313223838806,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9640510082244873,
+            "topicality": 0.9640510082244873,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9498481750488281,
+            "topicality": 0.9498481750488281,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9402795433998108,
+            "topicality": 0.9402795433998108,
+            "description": "Community"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

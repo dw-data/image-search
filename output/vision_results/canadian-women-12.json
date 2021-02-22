@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/canadian-women/12.jpeg",
+    "search_query": "canadian-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9899139404296875,
+            "topicality": 0.9899139404296875,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9892169833183289,
+            "topicality": 0.9892169833183289,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879887104034424,
+            "topicality": 0.9879887104034424,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9802297949790955,
+            "topicality": 0.9802297949790955,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9798112511634827,
+            "topicality": 0.9798112511634827,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9763238430023193,
+            "topicality": 0.9763238430023193,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9754573702812195,
+            "topicality": 0.9754573702812195,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9688738584518433,
+            "topicality": 0.9688738584518433,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9497562050819397,
+            "topicality": 0.9497562050819397,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

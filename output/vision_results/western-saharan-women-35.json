@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/western-saharan-women/35.jpeg",
+    "search_query": "western-saharan-women",
+    "position": 35,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.9035967588424683,
+            "topicality": 0.9035967588424683,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/02fbqn",
+            "score": 0.6320704817771912,
+            "topicality": 0.6320704817771912,
+            "description": "Headpiece"
+        },
+        {
+            "mid": "/m/07sk94",
+            "score": 0.5737871527671814,
+            "topicality": 0.5737871527671814,
+            "description": "Headband"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.5135504603385925,
+            "topicality": 0.5135504603385925,
+            "description": "Day dress"
+        },
+        {
+            "mid": "/m/0h8k4j9",
+            "score": 0.5017375946044922,
+            "topicality": 0.5017375946044922,
+            "description": "Hair accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

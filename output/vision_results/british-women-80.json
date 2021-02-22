@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/british-women/80.jpeg",
+    "search_query": "british-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9922105073928833,
+            "topicality": 0.9922105073928833,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837911128997803,
+            "topicality": 0.9837911128997803,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739972352981567,
+            "topicality": 0.9739972352981567,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9690790772438049,
+            "topicality": 0.9690790772438049,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681845903396606,
+            "topicality": 0.9681845903396606,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.96390700340271,
+            "topicality": 0.96390700340271,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9509258270263672,
+            "topicality": 0.9509258270263672,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9301765561103821,
+            "topicality": 0.9301765561103821,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.920477032661438,
+            "topicality": 0.920477032661438,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9150421023368835,
+            "topicality": 0.9150421023368835,
+            "description": "Black hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

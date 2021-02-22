@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/south-sudanese-women/75.jpeg",
+    "search_query": "south-sudanese-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.7275465130805969,
+            "topicality": 0.7275465130805969,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/0cbtm",
+            "score": 0.7198630571365356,
+            "topicality": 0.7198630571365356,
+            "description": "Tribe"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.7026453614234924,
+            "topicality": 0.7026453614234924,
+            "description": "Tradition"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

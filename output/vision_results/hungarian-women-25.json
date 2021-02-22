@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/hungarian-women/25.jpeg",
+    "search_query": "hungarian-women",
+    "position": 25,
+    "label_annotations": [
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9647446870803833,
+            "topicality": 0.9647446870803833,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9360166192054749,
+            "topicality": 0.9360166192054749,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8894314169883728,
+            "topicality": 0.8894314169883728,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8886552453041077,
+            "topicality": 0.8886552453041077,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0d1pc",
+            "score": 0.8348198533058167,
+            "topicality": 0.8348198533058167,
+            "description": "Model"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8315467238426208,
+            "topicality": 0.8315467238426208,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.8309374451637268,
+            "topicality": 0.8309374451637268,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.826357901096344,
+            "topicality": 0.826357901096344,
+            "description": "Fashion model"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.8099284768104553,
+            "topicality": 0.8099284768104553,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.7896112203598022,
+            "topicality": 0.7896112203598022,
+            "description": "Trunk"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

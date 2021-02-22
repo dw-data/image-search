@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/kenyan-women/100.jpeg",
+    "search_query": "kenyan-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9840403199195862,
+            "topicality": 0.9840403199195862,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9808861017227173,
+            "topicality": 0.9808861017227173,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9784225225448608,
+            "topicality": 0.9784225225448608,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977422297000885,
+            "topicality": 0.977422297000885,
+            "description": "People"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.970047652721405,
+            "topicality": 0.970047652721405,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9555205702781677,
+            "topicality": 0.9555205702781677,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0q0d2",
+            "score": 0.9480295181274414,
+            "topicality": 0.9480295181274414,
+            "description": "Thatching"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9420210719108582,
+            "topicality": 0.9420210719108582,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.939627468585968,
+            "topicality": 0.939627468585968,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/0ytgt",
+            "score": 0.9380096197128296,
+            "topicality": 0.9380096197128296,
+            "description": "Child"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

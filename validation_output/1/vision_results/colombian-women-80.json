@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/colombian-women/80.jpeg",
+    "search_query": "colombian-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9856811761856079,
+            "topicality": 0.9856811761856079,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9835957288742065,
+            "topicality": 0.9835957288742065,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.976506233215332,
+            "topicality": 0.976506233215332,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9748871922492981,
+            "topicality": 0.9748871922492981,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.973525881767273,
+            "topicality": 0.973525881767273,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9704244136810303,
+            "topicality": 0.9704244136810303,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9661073684692383,
+            "topicality": 0.9661073684692383,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9368174076080322,
+            "topicality": 0.9368174076080322,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9364218711853027,
+            "topicality": 0.9364218711853027,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9164791703224182,
+            "topicality": 0.9164791703224182,
+            "description": "Eyelash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

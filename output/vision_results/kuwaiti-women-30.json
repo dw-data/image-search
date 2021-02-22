@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/kuwaiti-women/30.jpeg",
+    "search_query": "kuwaiti-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9895584583282471,
+            "topicality": 0.9895584583282471,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9894716739654541,
+            "topicality": 0.9894716739654541,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9882742762565613,
+            "topicality": 0.9882742762565613,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9843021631240845,
+            "topicality": 0.9843021631240845,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9816223382949829,
+            "topicality": 0.9816223382949829,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9796050190925598,
+            "topicality": 0.9796050190925598,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9771454334259033,
+            "topicality": 0.9771454334259033,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.976144552230835,
+            "topicality": 0.976144552230835,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9741019606590271,
+            "topicality": 0.9741019606590271,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639059901237488,
+            "topicality": 0.9639059901237488,
+            "description": "Eyebrow"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

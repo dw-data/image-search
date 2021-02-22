@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/belgian-women/61.jpeg",
+    "search_query": "belgian-women",
+    "position": 61,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9924277067184448,
+            "topicality": 0.9924277067184448,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9894809722900391,
+            "topicality": 0.9894809722900391,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9888148903846741,
+            "topicality": 0.9888148903846741,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9830299019813538,
+            "topicality": 0.9830299019813538,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9714149832725525,
+            "topicality": 0.9714149832725525,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/02d46y",
+            "score": 0.9637479186058044,
+            "topicality": 0.9637479186058044,
+            "description": "Cap"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9610133171081543,
+            "topicality": 0.9610133171081543,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9475303292274475,
+            "topicality": 0.9475303292274475,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/01bfm9",
+            "score": 0.928428053855896,
+            "topicality": 0.928428053855896,
+            "description": "Shorts"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9217791557312012,
+            "topicality": 0.9217791557312012,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "LIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

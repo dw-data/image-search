@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/australian-women/34.jpeg",
+    "search_query": "australian-women",
+    "position": 34,
+    "label_annotations": [
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9889447093009949,
+            "topicality": 0.9889447093009949,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9867005944252014,
+            "topicality": 0.9867005944252014,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9811135530471802,
+            "topicality": 0.9811135530471802,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9779597520828247,
+            "topicality": 0.9779597520828247,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0hg7b",
+            "score": 0.9715434312820435,
+            "topicality": 0.9715434312820435,
+            "description": "Microphone"
+        },
+        {
+            "mid": "/m/01yttv",
+            "score": 0.9652401208877563,
+            "topicality": 0.9652401208877563,
+            "description": "Audio equipment"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9332960247993469,
+            "topicality": 0.9332960247993469,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/03qpft",
+            "score": 0.9329110980033875,
+            "topicality": 0.9329110980033875,
+            "description": "Podium"
+        },
+        {
+            "mid": "/m/068k4",
+            "score": 0.9103649854660034,
+            "topicality": 0.9103649854660034,
+            "description": "Public speaking"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.9087299704551697,
+            "topicality": 0.9087299704551697,
+            "description": "Abdomen"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

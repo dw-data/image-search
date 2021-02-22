@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/yemeni-women/44.png",
+    "search_query": "yemeni-women",
+    "position": 44,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880316257476807,
+            "topicality": 0.9880316257476807,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.984220027923584,
+            "topicality": 0.984220027923584,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9799668192863464,
+            "topicality": 0.9799668192863464,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.859530508518219,
+            "topicality": 0.859530508518219,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/0ds5b",
+            "score": 0.8188130855560303,
+            "topicality": 0.8188130855560303,
+            "description": "Facial hair"
+        },
+        {
+            "mid": "/m/0bby24z",
+            "score": 0.720725417137146,
+            "topicality": 0.720725417137146,
+            "description": "Moustache"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.6796317100524902,
+            "topicality": 0.6796317100524902,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.6514014601707458,
+            "topicality": 0.6514014601707458,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/015h_t",
+            "score": 0.6317946314811707,
+            "topicality": 0.6317946314811707,
+            "description": "Beard"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

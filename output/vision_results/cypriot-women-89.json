@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/cypriot-women/89.jpeg",
+    "search_query": "cypriot-women",
+    "position": 89,
+    "label_annotations": [
+        {
+            "mid": "/m/03r18y",
+            "score": 0.6808677315711975,
+            "topicality": 0.6808677315711975,
+            "description": "Peach"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.6063458919525146,
+            "topicality": 0.6063458919525146,
+            "description": "Day dress"
+        },
+        {
+            "mid": "/m/01l97f",
+            "score": 0.5204025506973267,
+            "topicality": 0.5204025506973267,
+            "description": "Pulpit"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

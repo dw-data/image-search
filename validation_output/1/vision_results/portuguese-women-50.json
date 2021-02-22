@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/portuguese-women/50.jpeg",
+    "search_query": "portuguese-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9851585626602173,
+            "topicality": 0.9851585626602173,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9843576550483704,
+            "topicality": 0.9843576550483704,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9791534543037415,
+            "topicality": 0.9791534543037415,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9727964401245117,
+            "topicality": 0.9727964401245117,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703051447868347,
+            "topicality": 0.9703051447868347,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9671403765678406,
+            "topicality": 0.9671403765678406,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9478316307067871,
+            "topicality": 0.9478316307067871,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9444376826286316,
+            "topicality": 0.9444376826286316,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9244034290313721,
+            "topicality": 0.9244034290313721,
+            "description": "Eyelash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

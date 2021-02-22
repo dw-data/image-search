@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/polish-women/45.jpeg",
+    "search_query": "polish-women",
+    "position": 45,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9832393527030945,
+            "topicality": 0.9832393527030945,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9830320477485657,
+            "topicality": 0.9830320477485657,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9740777015686035,
+            "topicality": 0.9740777015686035,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9733346104621887,
+            "topicality": 0.9733346104621887,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0838f",
+            "score": 0.957374632358551,
+            "topicality": 0.957374632358551,
+            "description": "Water"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9455769658088684,
+            "topicality": 0.9455769658088684,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9324106574058533,
+            "topicality": 0.9324106574058533,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8902602791786194,
+            "topicality": 0.8902602791786194,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8642895817756653,
+            "topicality": 0.8642895817756653,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8619742393493652,
+            "topicality": 0.8619742393493652,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

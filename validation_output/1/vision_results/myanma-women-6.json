@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/myanma-women/6.jpeg",
+    "search_query": "myanma-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.985453188419342,
+            "topicality": 0.985453188419342,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9846925735473633,
+            "topicality": 0.9846925735473633,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9774490594863892,
+            "topicality": 0.9774490594863892,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9759039282798767,
+            "topicality": 0.9759039282798767,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9729772210121155,
+            "topicality": 0.9729772210121155,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9689661264419556,
+            "topicality": 0.9689661264419556,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.956635057926178,
+            "topicality": 0.956635057926178,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9525827765464783,
+            "topicality": 0.9525827765464783,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9467747807502747,
+            "topicality": 0.9467747807502747,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9444356560707092,
+            "topicality": 0.9444356560707092,
+            "description": "Arm"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

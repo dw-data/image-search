@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/botswanan-women/50.jpeg",
+    "search_query": "botswanan-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9834813475608826,
+            "topicality": 0.9834813475608826,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9827544689178467,
+            "topicality": 0.9827544689178467,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9767892956733704,
+            "topicality": 0.9767892956733704,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9459013938903809,
+            "topicality": 0.9459013938903809,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9377822279930115,
+            "topicality": 0.9377822279930115,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9134489893913269,
+            "topicality": 0.9134489893913269,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.885985255241394,
+            "topicality": 0.885985255241394,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.8842770457267761,
+            "topicality": 0.8842770457267761,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8841814398765564,
+            "topicality": 0.8841814398765564,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8829192519187927,
+            "topicality": 0.8829192519187927,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

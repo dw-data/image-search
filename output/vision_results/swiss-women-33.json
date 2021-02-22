@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swiss-women/33.jpeg",
+    "search_query": "swiss-women",
+    "position": 33,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9887017607688904,
+            "topicality": 0.9887017607688904,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9878115653991699,
+            "topicality": 0.9878115653991699,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9778653979301453,
+            "topicality": 0.9778653979301453,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9763795137405396,
+            "topicality": 0.9763795137405396,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.964487612247467,
+            "topicality": 0.964487612247467,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/06h12k",
+            "score": 0.9075838923454285,
+            "topicality": 0.9075838923454285,
+            "description": "Sharing"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828063011169434,
+            "topicality": 0.8828063011169434,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.8780222535133362,
+            "topicality": 0.8780222535133362,
+            "description": "Conversation"
+        },
+        {
+            "mid": "/m/03yf6k",
+            "score": 0.6848564743995667,
+            "topicality": 0.6848564743995667,
+            "description": "Family reunion"
+        },
+        {
+            "mid": "/m/0krfg",
+            "score": 0.6060000061988831,
+            "topicality": 0.6060000061988831,
+            "description": "Meal"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

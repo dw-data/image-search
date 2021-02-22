@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/american-women/98.jpeg",
+    "search_query": "american-women",
+    "position": 98,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9895368218421936,
+            "topicality": 0.9895368218421936,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879010915756226,
+            "topicality": 0.9879010915756226,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9847796559333801,
+            "topicality": 0.9847796559333801,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9800968170166016,
+            "topicality": 0.9800968170166016,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9790929555892944,
+            "topicality": 0.9790929555892944,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9683114290237427,
+            "topicality": 0.9683114290237427,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9357315897941589,
+            "topicality": 0.9357315897941589,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.9103587865829468,
+            "topicality": 0.9103587865829468,
+            "description": "Sun hat"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.9088526964187622,
+            "topicality": 0.9088526964187622,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/0hgs526",
+            "score": 0.8945616483688354,
+            "topicality": 0.8945616483688354,
+            "description": "Costume accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

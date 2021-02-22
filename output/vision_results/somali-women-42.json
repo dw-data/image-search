@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/somali-women/42.jpeg",
+    "search_query": "somali-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9889035820960999,
+            "topicality": 0.9889035820960999,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9798834919929504,
+            "topicality": 0.9798834919929504,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.9776836633682251,
+            "topicality": 0.9776836633682251,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/086mh",
+            "score": 0.9462732672691345,
+            "topicality": 0.9462732672691345,
+            "description": "Winter"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.8906759023666382,
+            "topicality": 0.8906759023666382,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/0670sh",
+            "score": 0.8863540291786194,
+            "topicality": 0.8863540291786194,
+            "description": "Stole"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.8810314536094666,
+            "topicality": 0.8810314536094666,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/01j3sz",
+            "score": 0.7811573147773743,
+            "topicality": 0.7811573147773743,
+            "description": "Laugh"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.7782984972000122,
+            "topicality": 0.7782984972000122,
+            "description": "Shawl"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

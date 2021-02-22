@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/belarusian-women/30.jpeg",
+    "search_query": "belarusian-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.98581862449646,
+            "topicality": 0.98581862449646,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9843934178352356,
+            "topicality": 0.9843934178352356,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9734029769897461,
+            "topicality": 0.9734029769897461,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9629140496253967,
+            "topicality": 0.9629140496253967,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9426149725914001,
+            "topicality": 0.9426149725914001,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9416376352310181,
+            "topicality": 0.9416376352310181,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9371883869171143,
+            "topicality": 0.9371883869171143,
+            "description": "Eye"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8858051896095276,
+            "topicality": 0.8858051896095276,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8760732412338257,
+            "topicality": 0.8760732412338257,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8732016086578369,
+            "topicality": 0.8732016086578369,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

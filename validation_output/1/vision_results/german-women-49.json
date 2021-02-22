@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/german-women/49.jpg",
+    "search_query": "german-women",
+    "position": 49,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9831857085227966,
+            "topicality": 0.9831857085227966,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9079738259315491,
+            "topicality": 0.9079738259315491,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8912909626960754,
+            "topicality": 0.8912909626960754,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8821405172348022,
+            "topicality": 0.8821405172348022,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8575804829597473,
+            "topicality": 0.8575804829597473,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.8091316819190979,
+            "topicality": 0.8091316819190979,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/09spj9",
+            "score": 0.80189448595047,
+            "topicality": 0.80189448595047,
+            "description": "Layered hair"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7579988837242126,
+            "topicality": 0.7579988837242126,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.7539726495742798,
+            "topicality": 0.7539726495742798,
+            "description": "Youth"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/saudi-women/30.jpeg",
+    "search_query": "saudi-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/0250x",
+            "score": 0.7899374961853027,
+            "topicality": 0.7899374961853027,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.7648220062255859,
+            "topicality": 0.7648220062255859,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/0w7c",
+            "score": 0.5310014486312866,
+            "topicality": 0.5310014486312866,
+            "description": "Acting"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/hungarian-women/15.jpeg",
+    "search_query": "hungarian-women",
+    "position": 15,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9849806427955627,
+            "topicality": 0.9849806427955627,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9741640686988831,
+            "topicality": 0.9741640686988831,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9737458825111389,
+            "topicality": 0.9737458825111389,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9433609843254089,
+            "topicality": 0.9433609843254089,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9373328685760498,
+            "topicality": 0.9373328685760498,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8846119046211243,
+            "topicality": 0.8846119046211243,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8615748286247253,
+            "topicality": 0.8615748286247253,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.846407413482666,
+            "topicality": 0.846407413482666,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8378576040267944,
+            "topicality": 0.8378576040267944,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8367011547088623,
+            "topicality": 0.8367011547088623,
+            "description": "Waist"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

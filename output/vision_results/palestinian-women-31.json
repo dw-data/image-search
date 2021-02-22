@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/palestinian-women/31.png",
+    "search_query": "palestinian-women",
+    "position": 31,
+    "label_annotations": [
+        {
+            "mid": "/m/062581",
+            "score": 0.9710286259651184,
+            "topicality": 0.9710286259651184,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/09ggk",
+            "score": 0.891442060470581,
+            "topicality": 0.891442060470581,
+            "description": "Purple"
+        },
+        {
+            "mid": "/m/09gg3",
+            "score": 0.8682796955108643,
+            "topicality": 0.8682796955108643,
+            "description": "Violet"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.809468150138855,
+            "topicality": 0.809468150138855,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/025rhd",
+            "score": 0.6119153499603271,
+            "topicality": 0.6119153499603271,
+            "description": "Pocket"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/syrian-women/1.jpeg",
+    "search_query": "syrian-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/02wbm",
+            "score": 0.9362428188323975,
+            "topicality": 0.9362428188323975,
+            "description": "Food"
+        },
+        {
+            "mid": "/m/01hxyd",
+            "score": 0.8937119245529175,
+            "topicality": 0.8937119245529175,
+            "description": "Local food"
+        },
+        {
+            "mid": "/m/036qh8",
+            "score": 0.8560391068458557,
+            "topicality": 0.8560391068458557,
+            "description": "Produce"
+        },
+        {
+            "mid": "/m/019b80",
+            "score": 0.8465848565101624,
+            "topicality": 0.8465848565101624,
+            "description": "Sweater"
+        },
+        {
+            "mid": "/m/08tlbj",
+            "score": 0.8247703313827515,
+            "topicality": 0.8247703313827515,
+            "description": "Natural foods"
+        },
+        {
+            "mid": "/m/08fw1g",
+            "score": 0.7958382368087769,
+            "topicality": 0.7958382368087769,
+            "description": "Food group"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.7814490795135498,
+            "topicality": 0.7814490795135498,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.7797805070877075,
+            "topicality": 0.7797805070877075,
+            "description": "Conversation"
+        },
+        {
+            "mid": "/m/02xwb",
+            "score": 0.7733932137489319,
+            "topicality": 0.7733932137489319,
+            "description": "Fruit"
+        },
+        {
+            "mid": "/m/0cyz6w",
+            "score": 0.7050125598907471,
+            "topicality": 0.7050125598907471,
+            "description": "Whole food"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

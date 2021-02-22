@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/maltese-women/78.jpeg",
+    "search_query": "maltese-women",
+    "position": 78,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.983668863773346,
+            "topicality": 0.983668863773346,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9685409665107727,
+            "topicality": 0.9685409665107727,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9462151527404785,
+            "topicality": 0.9462151527404785,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9361917972564697,
+            "topicality": 0.9361917972564697,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9126733541488647,
+            "topicality": 0.9126733541488647,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9018511176109314,
+            "topicality": 0.9018511176109314,
+            "description": "Smile"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8843560218811035,
+            "topicality": 0.8843560218811035,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.781190037727356,
+            "topicality": 0.781190037727356,
+            "description": "Black hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/tongan-women/44.jpeg",
+    "search_query": "tongan-women",
+    "position": 44,
+    "label_annotations": [
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9504258036613464,
+            "topicality": 0.9504258036613464,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9399678111076355,
+            "topicality": 0.9399678111076355,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/0cl63",
+            "score": 0.8525732755661011,
+            "topicality": 0.8525732755661011,
+            "description": "Hay"
+        },
+        {
+            "mid": "/m/0cl6l",
+            "score": 0.663329005241394,
+            "topicality": 0.663329005241394,
+            "description": "Straw"
+        },
+        {
+            "mid": "/m/027xhm0",
+            "score": 0.5769199728965759,
+            "topicality": 0.5769199728965759,
+            "description": "Wood flooring"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

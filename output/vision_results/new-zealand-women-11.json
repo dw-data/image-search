@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/new-zealand-women/11.jpeg",
+    "search_query": "new-zealand-women",
+    "position": 11,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9885004758834839,
+            "topicality": 0.9885004758834839,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.8164037466049194,
+            "topicality": 0.8164037466049194,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/011s0",
+            "score": 0.7903745174407959,
+            "topicality": 0.7903745174407959,
+            "description": "Advertising"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.7856267690658569,
+            "topicality": 0.7856267690658569,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/m/01n5jq",
+            "score": 0.7562202215194702,
+            "topicality": 0.7562202215194702,
+            "description": "Poster"
+        },
+        {
+            "mid": "/m/0hgntgw",
+            "score": 0.6686029434204102,
+            "topicality": 0.6686029434204102,
+            "description": "Active tank"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.6493973731994629,
+            "topicality": 0.6493973731994629,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/053hz1",
+            "score": 0.6479690074920654,
+            "topicality": 0.6479690074920654,
+            "description": "Cheering"
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.6036683320999146,
+            "topicality": 0.6036683320999146,
+            "description": "Photo caption"
+        },
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.5870362520217896,
+            "topicality": 0.5870362520217896,
+            "description": "Banner"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/sudanese-women/49.octet-stream",
+    "search_query": "sudanese-women",
+    "position": 49,
+    "label_annotations": [
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828123211860657,
+            "topicality": 0.8828123211860657,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0p9xx",
+            "score": 0.6794233918190002,
+            "topicality": 0.6794233918190002,
+            "description": "Visual arts"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.6009349226951599,
+            "topicality": 0.6009349226951599,
+            "description": "Wrinkle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "LIKELY"
+        }
+    }
+}

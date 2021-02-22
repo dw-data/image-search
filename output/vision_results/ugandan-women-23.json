@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/ugandan-women/23.jpeg",
+    "search_query": "ugandan-women",
+    "position": 23,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9832186102867126,
+            "topicality": 0.9832186102867126,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9786871075630188,
+            "topicality": 0.9786871075630188,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9581462740898132,
+            "topicality": 0.9581462740898132,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9248078465461731,
+            "topicality": 0.9248078465461731,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.882828950881958,
+            "topicality": 0.882828950881958,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/01bmhj",
+            "score": 0.6787638068199158,
+            "topicality": 0.6787638068199158,
+            "description": "Thumb"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

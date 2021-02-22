@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/chilean-women/1.jpeg",
+    "search_query": "chilean-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9767510890960693,
+            "topicality": 0.9767510890960693,
+            "description": "People"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.8302310109138489,
+            "topicality": 0.8302310109138489,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/019b80",
+            "score": 0.8109915256500244,
+            "topicality": 0.8109915256500244,
+            "description": "Sweater"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6913977861404419,
+            "topicality": 0.6913977861404419,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/0h8kxbv",
+            "score": 0.6740114688873291,
+            "topicality": 0.6740114688873291,
+            "description": "Body jewelry"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

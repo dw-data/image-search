@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/saudi-women/100.jpeg",
+    "search_query": "saudi-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/012f08",
+            "score": 0.987144410610199,
+            "topicality": 0.987144410610199,
+            "description": "Motor vehicle"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.9654668569564819,
+            "topicality": 0.9654668569564819,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/068mqj",
+            "score": 0.9630385637283325,
+            "topicality": 0.9630385637283325,
+            "description": "Automotive design"
+        },
+        {
+            "mid": "/m/0268t21",
+            "score": 0.9531959891319275,
+            "topicality": 0.9531959891319275,
+            "description": "Car seat"
+        },
+        {
+            "mid": "/m/02q2kc3",
+            "score": 0.936205267906189,
+            "topicality": 0.936205267906189,
+            "description": "Vehicle door"
+        },
+        {
+            "mid": "/m/03b6_4",
+            "score": 0.9291924238204956,
+            "topicality": 0.9291924238204956,
+            "description": "Steering wheel"
+        },
+        {
+            "mid": "/m/0h8lskq",
+            "score": 0.9200209379196167,
+            "topicality": 0.9200209379196167,
+            "description": "Steering part"
+        },
+        {
+            "mid": "/m/0fy6nv",
+            "score": 0.9046918749809265,
+            "topicality": 0.9046918749809265,
+            "description": "Head restraint"
+        },
+        {
+            "mid": "/m/0h8kvwq",
+            "score": 0.8924714922904968,
+            "topicality": 0.8924714922904968,
+            "description": "Car seat cover"
+        },
+        {
+            "mid": "/m/0cb0xm",
+            "score": 0.8726802468299866,
+            "topicality": 0.8726802468299866,
+            "description": "Passenger"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

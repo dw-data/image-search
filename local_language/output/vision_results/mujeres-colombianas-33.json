@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mujeres-colombianas/33.jpeg",
+    "search_query": "mujeres-colombianas",
+    "position": 33,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9828612208366394,
+            "topicality": 0.9828612208366394,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9763757586479187,
+            "topicality": 0.9763757586479187,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9762843251228333,
+            "topicality": 0.9762843251228333,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702900648117065,
+            "topicality": 0.9702900648117065,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9657148122787476,
+            "topicality": 0.9657148122787476,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.96418696641922,
+            "topicality": 0.96418696641922,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9441254734992981,
+            "topicality": 0.9441254734992981,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9342820048332214,
+            "topicality": 0.9342820048332214,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.932630181312561,
+            "topicality": 0.932630181312561,
+            "description": "Facial expression"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

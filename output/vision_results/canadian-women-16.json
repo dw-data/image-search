@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/canadian-women/16.png",
+    "search_query": "canadian-women",
+    "position": 16,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9895877838134766,
+            "topicality": 0.9895877838134766,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.988610565662384,
+            "topicality": 0.988610565662384,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.988474428653717,
+            "topicality": 0.988474428653717,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.984447181224823,
+            "topicality": 0.984447181224823,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790180921554565,
+            "topicality": 0.9790180921554565,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9787602424621582,
+            "topicality": 0.9787602424621582,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9783655405044556,
+            "topicality": 0.9783655405044556,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9746283292770386,
+            "topicality": 0.9746283292770386,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9741265773773193,
+            "topicality": 0.9741265773773193,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9693368077278137,
+            "topicality": 0.9693368077278137,
+            "description": "Chin"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

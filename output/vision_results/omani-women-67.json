@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/omani-women/67.jpeg",
+    "search_query": "omani-women",
+    "position": 67,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9884704351425171,
+            "topicality": 0.9884704351425171,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9697942137718201,
+            "topicality": 0.9697942137718201,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/03nqzw7",
+            "score": 0.5901103615760803,
+            "topicality": 0.5901103615760803,
+            "description": "Award ceremony"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.5126870274543762,
+            "topicality": 0.5126870274543762,
+            "description": "Scarf"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

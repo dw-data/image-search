@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/israeli-women/42.png",
+    "search_query": "israeli-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9922341704368591,
+            "topicality": 0.9922341704368591,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/03ktm1",
+            "score": 0.9879008531570435,
+            "topicality": 0.9879008531570435,
+            "description": "Body of water"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9424901604652405,
+            "topicality": 0.9424901604652405,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/078qz",
+            "score": 0.935596764087677,
+            "topicality": 0.935596764087677,
+            "description": "Summer"
+        },
+        {
+            "mid": "/m/02c9_23",
+            "score": 0.9343335032463074,
+            "topicality": 0.9343335032463074,
+            "description": "Coastal and oceanic landforms"
+        },
+        {
+            "mid": "/m/07bxq",
+            "score": 0.9241007566452026,
+            "topicality": 0.9241007566452026,
+            "description": "Tourism"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.9078598022460938,
+            "topicality": 0.9078598022460938,
+            "description": "Swimwear"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9077072143554688,
+            "topicality": 0.9077072143554688,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/02jwqh",
+            "score": 0.9034534692764282,
+            "topicality": 0.9034534692764282,
+            "description": "Vacation"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.901290774345398,
+            "topicality": 0.901290774345398,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/spanish-women/19.jpeg",
+    "search_query": "spanish-women",
+    "position": 19,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9921278357505798,
+            "topicality": 0.9921278357505798,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9737826585769653,
+            "topicality": 0.9737826585769653,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9261148571968079,
+            "topicality": 0.9261148571968079,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9193604588508606,
+            "topicality": 0.9193604588508606,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.9070839285850525,
+            "topicality": 0.9070839285850525,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9067452549934387,
+            "topicality": 0.9067452549934387,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.9026288390159607,
+            "topicality": 0.9026288390159607,
+            "description": "Fashion model"
+        },
+        {
+            "mid": "/m/06z37_",
+            "score": 0.9014162421226501,
+            "topicality": 0.9014162421226501,
+            "description": "Picture frame"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.8970142602920532,
+            "topicality": 0.8970142602920532,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

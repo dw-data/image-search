@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/romanian-women/45.jpeg",
+    "search_query": "romanian-women",
+    "position": 45,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9734057784080505,
+            "topicality": 0.9734057784080505,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9655517935752869,
+            "topicality": 0.9655517935752869,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.9584959149360657,
+            "topicality": 0.9584959149360657,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/078qz",
+            "score": 0.934892475605011,
+            "topicality": 0.934892475605011,
+            "description": "Summer"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9318884015083313,
+            "topicality": 0.9318884015083313,
+            "description": "Style"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.928257942199707,
+            "topicality": 0.928257942199707,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9056921005249023,
+            "topicality": 0.9056921005249023,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.877903938293457,
+            "topicality": 0.877903938293457,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/01txr2",
+            "score": 0.8545202612876892,
+            "topicality": 0.8545202612876892,
+            "description": "Spring"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

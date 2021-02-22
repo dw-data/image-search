@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/south-sudanese-women/65.jpeg",
+    "search_query": "south-sudanese-women",
+    "position": 65,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9771491289138794,
+            "topicality": 0.9771491289138794,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9347549676895142,
+            "topicality": 0.9347549676895142,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9026980400085449,
+            "topicality": 0.9026980400085449,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.7482573986053467,
+            "topicality": 0.7482573986053467,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.5184266567230225,
+            "topicality": 0.5184266567230225,
+            "description": "Flesh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

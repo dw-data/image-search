@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/mauritanian-women/1.jpeg",
+    "search_query": "mauritanian-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/07djv",
+            "score": 0.7348747849464417,
+            "topicality": 0.7348747849464417,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.6966428160667419,
+            "topicality": 0.6966428160667419,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.6353148818016052,
+            "topicality": 0.6353148818016052,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.6108051538467407,
+            "topicality": 0.6108051538467407,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/04s5jq",
+            "score": 0.5121805667877197,
+            "topicality": 0.5121805667877197,
+            "description": "Costume design"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

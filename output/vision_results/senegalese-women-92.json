@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/senegalese-women/92.jpeg",
+    "search_query": "senegalese-women",
+    "position": 92,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9896417856216431,
+            "topicality": 0.9896417856216431,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9884940385818481,
+            "topicality": 0.9884940385818481,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9847183227539062,
+            "topicality": 0.9847183227539062,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9812120199203491,
+            "topicality": 0.9812120199203491,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.977745771408081,
+            "topicality": 0.977745771408081,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9775170087814331,
+            "topicality": 0.9775170087814331,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9753649234771729,
+            "topicality": 0.9753649234771729,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9712678790092468,
+            "topicality": 0.9712678790092468,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0ytgt",
+            "score": 0.9587703347206116,
+            "topicality": 0.9587703347206116,
+            "description": "Child"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9405770897865295,
+            "topicality": 0.9405770897865295,
+            "description": "Community"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

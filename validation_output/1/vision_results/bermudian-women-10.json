@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/bermudian-women/10.jpeg",
+    "search_query": "bermudian-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9864616394042969,
+            "topicality": 0.9864616394042969,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9863272309303284,
+            "topicality": 0.9863272309303284,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9859286546707153,
+            "topicality": 0.9859286546707153,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9751115441322327,
+            "topicality": 0.9751115441322327,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9600937366485596,
+            "topicality": 0.9600937366485596,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.9521047472953796,
+            "topicality": 0.9521047472953796,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9459128379821777,
+            "topicality": 0.9459128379821777,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9420139193534851,
+            "topicality": 0.9420139193534851,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9220507144927979,
+            "topicality": 0.9220507144927979,
+            "description": "Leg"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

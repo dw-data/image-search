@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/bahraini-women/75.JPEG",
+    "search_query": "bahraini-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/09jc2n",
+            "score": 0.7096201181411743,
+            "topicality": 0.7096201181411743,
+            "description": "Back"
+        },
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.7078503966331482,
+            "topicality": 0.7078503966331482,
+            "description": "Hood"
+        },
+        {
+            "mid": "/m/0hgs526",
+            "score": 0.6347269415855408,
+            "topicality": 0.6347269415855408,
+            "description": "Costume accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "POSSIBLE"
+        }
+    }
+}

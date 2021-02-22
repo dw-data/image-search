@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/syrian-women/85.jpeg",
+    "search_query": "syrian-women",
+    "position": 85,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9893045425415039,
+            "topicality": 0.9893045425415039,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880332946777344,
+            "topicality": 0.9880332946777344,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9843103885650635,
+            "topicality": 0.9843103885650635,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9813456535339355,
+            "topicality": 0.9813456535339355,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9773547053337097,
+            "topicality": 0.9773547053337097,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/019sc6",
+            "score": 0.9751637578010559,
+            "topicality": 0.9751637578010559,
+            "description": "Lighting"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9144105911254883,
+            "topicality": 0.9144105911254883,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9101803302764893,
+            "topicality": 0.9101803302764893,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828259706497192,
+            "topicality": 0.8828259706497192,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.8336570262908936,
+            "topicality": 0.8336570262908936,
+            "description": "Tradition"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

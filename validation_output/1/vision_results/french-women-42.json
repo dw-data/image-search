@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/french-women/42.jpeg",
+    "search_query": "french-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9838371872901917,
+            "topicality": 0.9838371872901917,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9813793897628784,
+            "topicality": 0.9813793897628784,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702540636062622,
+            "topicality": 0.9702540636062622,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9677198529243469,
+            "topicality": 0.9677198529243469,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9523350596427917,
+            "topicality": 0.9523350596427917,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9428489804267883,
+            "topicality": 0.9428489804267883,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9027299880981445,
+            "topicality": 0.9027299880981445,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/01g5v",
+            "score": 0.896210253238678,
+            "topicality": 0.896210253238678,
+            "description": "Blue"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8858411908149719,
+            "topicality": 0.8858411908149719,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8707433938980103,
+            "topicality": 0.8707433938980103,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

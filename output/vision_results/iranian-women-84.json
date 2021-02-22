@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/iranian-women/84.jpeg",
+    "search_query": "iranian-women",
+    "position": 84,
+    "label_annotations": [
+        {
+            "mid": "/m/0hcr",
+            "score": 0.9272031784057617,
+            "topicality": 0.9272031784057617,
+            "description": "Animation"
+        },
+        {
+            "mid": "/m/028mzr",
+            "score": 0.5127747654914856,
+            "topicality": 0.5127747654914856,
+            "description": "Hair coloring"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/australian-women/42.jpeg",
+    "search_query": "australian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9737427234649658,
+            "topicality": 0.9737427234649658,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/088fh",
+            "score": 0.9735061526298523,
+            "topicality": 0.9735061526298523,
+            "description": "Yellow"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9121650457382202,
+            "topicality": 0.9121650457382202,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0n5v01m",
+            "score": 0.8988006711006165,
+            "topicality": 0.8988006711006165,
+            "description": "Bag"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.884272038936615,
+            "topicality": 0.884272038936615,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/07bjf",
+            "score": 0.8841993808746338,
+            "topicality": 0.8841993808746338,
+            "description": "Single-lens reflex camera"
+        },
+        {
+            "mid": "/m/0dv5r",
+            "score": 0.8823873400688171,
+            "topicality": 0.8823873400688171,
+            "description": "Camera"
+        },
+        {
+            "mid": "/m/0d1pc",
+            "score": 0.8795941472053528,
+            "topicality": 0.8795941472053528,
+            "description": "Model"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8771464824676514,
+            "topicality": 0.8771464824676514,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8499252796173096,
+            "topicality": 0.8499252796173096,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

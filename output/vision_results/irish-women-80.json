@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/irish-women/80.jpeg",
+    "search_query": "irish-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9791233539581299,
+            "topicality": 0.9791233539581299,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9651185274124146,
+            "topicality": 0.9651185274124146,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01c34b",
+            "score": 0.9177932143211365,
+            "topicality": 0.9177932143211365,
+            "description": "Flooring"
+        },
+        {
+            "mid": "/m/020g49",
+            "score": 0.9164246320724487,
+            "topicality": 0.9164246320724487,
+            "description": "Hardwood"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.914952278137207,
+            "topicality": 0.914952278137207,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.8970608711242676,
+            "topicality": 0.8970608711242676,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/05t06b",
+            "score": 0.863832414150238,
+            "topicality": 0.863832414150238,
+            "description": "Wood stain"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.8581835031509399,
+            "topicality": 0.8581835031509399,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.8431685566902161,
+            "topicality": 0.8431685566902161,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/027xhm0",
+            "score": 0.8413419723510742,
+            "topicality": 0.8413419723510742,
+            "description": "Wood flooring"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

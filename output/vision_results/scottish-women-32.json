@@ -1,0 +1,72 @@
+{
+    "path": "../output/imgs/scottish-women/32.jpeg",
+    "search_query": "scottish-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9735898971557617,
+            "topicality": 0.9735898971557617,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.7559040784835815,
+            "topicality": 0.7559040784835815,
+            "description": "Portrait"
+        },
+        {
+            "mid": "/m/0gjxqj",
+            "score": 0.7362455129623413,
+            "topicality": 0.7362455129623413,
+            "description": "Bangs"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.7177174687385559,
+            "topicality": 0.7177174687385559,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.6895360946655273,
+            "topicality": 0.6895360946655273,
+            "description": "Day dress"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6870569586753845,
+            "topicality": 0.6870569586753845,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/02fj27",
+            "score": 0.5749597549438477,
+            "topicality": 0.5749597549438477,
+            "description": "Bob cut"
+        },
+        {
+            "mid": "/m/0fg019",
+            "score": 0.5185649394989014,
+            "topicality": 0.5185649394989014,
+            "description": "Eye liner"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

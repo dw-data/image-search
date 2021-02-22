@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/german-women/40.jpeg",
+    "search_query": "german-women",
+    "position": 40,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790163040161133,
+            "topicality": 0.9790163040161133,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9759807586669922,
+            "topicality": 0.9759807586669922,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740806221961975,
+            "topicality": 0.9740806221961975,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9320124387741089,
+            "topicality": 0.9320124387741089,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.925546407699585,
+            "topicality": 0.925546407699585,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9224591851234436,
+            "topicality": 0.9224591851234436,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/026mhtg",
+            "score": 0.9206306338310242,
+            "topicality": 0.9206306338310242,
+            "description": "Step cutting"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.9176994562149048,
+            "topicality": 0.9176994562149048,
+            "description": "Fashion model"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.9029759764671326,
+            "topicality": 0.9029759764671326,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

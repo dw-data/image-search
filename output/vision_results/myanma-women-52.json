@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/myanma-women/52.jpeg",
+    "search_query": "myanma-women",
+    "position": 52,
+    "label_annotations": [
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9057255983352661,
+            "topicality": 0.9057255983352661,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.882815957069397,
+            "topicality": 0.882815957069397,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.8573150038719177,
+            "topicality": 0.8573150038719177,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.5727902054786682,
+            "topicality": 0.5727902054786682,
+            "description": "Flesh"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.5583981275558472,
+            "topicality": 0.5583981275558472,
+            "description": "Portrait"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

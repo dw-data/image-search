@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/dutch-women/72.jpeg",
+    "search_query": "dutch-women",
+    "position": 72,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9848554730415344,
+            "topicality": 0.9848554730415344,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.983450710773468,
+            "topicality": 0.983450710773468,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9416341185569763,
+            "topicality": 0.9416341185569763,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01n4qj",
+            "score": 0.9413664937019348,
+            "topicality": 0.9413664937019348,
+            "description": "Shirt"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.933098316192627,
+            "topicality": 0.933098316192627,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9079771637916565,
+            "topicality": 0.9079771637916565,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8803113102912903,
+            "topicality": 0.8803113102912903,
+            "description": "Happy"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8730731010437012,
+            "topicality": 0.8730731010437012,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8502392768859863,
+            "topicality": 0.8502392768859863,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/04g3r",
+            "score": 0.8095539808273315,
+            "topicality": 0.8095539808273315,
+            "description": "Leisure"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/hungarian-women/37.jpeg",
+    "search_query": "hungarian-women",
+    "position": 37,
+    "label_annotations": [
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9725190997123718,
+            "topicality": 0.9725190997123718,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8713451027870178,
+            "topicality": 0.8713451027870178,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.8255022764205933,
+            "topicality": 0.8255022764205933,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/0vlys",
+            "score": 0.8038955330848694,
+            "topicality": 0.8038955330848694,
+            "description": "Tower block"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.751146674156189,
+            "topicality": 0.751146674156189,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/0b0lbv",
+            "score": 0.6154539585113525,
+            "topicality": 0.6154539585113525,
+            "description": "Backlighting"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.5767830014228821,
+            "topicality": 0.5767830014228821,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/017bm6",
+            "score": 0.5669331550598145,
+            "topicality": 0.5669331550598145,
+            "description": "Lens flare"
+        },
+        {
+            "mid": "/m/0d1pc",
+            "score": 0.5511214733123779,
+            "topicality": 0.5511214733123779,
+            "description": "Model"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

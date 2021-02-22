@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/\u010desk\u00e9-\u017eeny/42.jpeg",
+    "search_query": "\u010desk\u00e9-\u017eeny",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0gjkl",
+            "score": 0.9636622667312622,
+            "topicality": 0.9636622667312622,
+            "description": "Watch"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9445127844810486,
+            "topicality": 0.9445127844810486,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8928434252738953,
+            "topicality": 0.8928434252738953,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.8659883737564087,
+            "topicality": 0.8659883737564087,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/m/01mzpv",
+            "score": 0.8260610699653625,
+            "topicality": 0.8260610699653625,
+            "description": "Chair"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.7911443114280701,
+            "topicality": 0.7911443114280701,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/014trl",
+            "score": 0.7714210152626038,
+            "topicality": 0.7714210152626038,
+            "description": "Cosmetics"
+        },
+        {
+            "mid": "/m/02qqd4n",
+            "score": 0.7662860751152039,
+            "topicality": 0.7662860751152039,
+            "description": "Fashion design"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.7493176460266113,
+            "topicality": 0.7493176460266113,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.7483214735984802,
+            "topicality": 0.7483214735984802,
+            "description": "Jewellery"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

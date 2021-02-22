@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/haitian-women/75.jpeg",
+    "search_query": "haitian-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9838010668754578,
+            "topicality": 0.9838010668754578,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9710608720779419,
+            "topicality": 0.9710608720779419,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0ytgt",
+            "score": 0.9503445625305176,
+            "topicality": 0.9503445625305176,
+            "description": "Child"
+        },
+        {
+            "mid": "/m/0h8q07j",
+            "score": 0.9135617017745972,
+            "topicality": 0.9135617017745972,
+            "description": "Baby & toddler clothing"
+        },
+        {
+            "mid": "/m/01bgsw",
+            "score": 0.8262648582458496,
+            "topicality": 0.8262648582458496,
+            "description": "Toddler"
+        },
+        {
+            "mid": "/m/0jnvp",
+            "score": 0.7364204525947571,
+            "topicality": 0.7364204525947571,
+            "description": "Baby"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/belgian-women/37.jpeg",
+    "search_query": "belgian-women",
+    "position": 37,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789714217185974,
+            "topicality": 0.9789714217185974,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9789440035820007,
+            "topicality": 0.9789440035820007,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9718582630157471,
+            "topicality": 0.9718582630157471,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9698927402496338,
+            "topicality": 0.9698927402496338,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9651627540588379,
+            "topicality": 0.9651627540588379,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9619430303573608,
+            "topicality": 0.9619430303573608,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9595051407814026,
+            "topicality": 0.9595051407814026,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9367682933807373,
+            "topicality": 0.9367682933807373,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.918574869632721,
+            "topicality": 0.918574869632721,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9078022241592407,
+            "topicality": 0.9078022241592407,
+            "description": "Organ"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

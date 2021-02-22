@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/mongolian-women/26.jpeg",
+    "search_query": "mongolian-women",
+    "position": 26,
+    "label_annotations": [
+        {
+            "mid": "/m/07djv",
+            "score": 0.848111629486084,
+            "topicality": 0.848111629486084,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.7549411654472351,
+            "topicality": 0.7549411654472351,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/036jvk",
+            "score": 0.5795745849609375,
+            "topicality": 0.5795745849609375,
+            "description": "Stock photography"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.5365153551101685,
+            "topicality": 0.5365153551101685,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/0cbtm",
+            "score": 0.5143752694129944,
+            "topicality": 0.5143752694129944,
+            "description": "Tribe"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

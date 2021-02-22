@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/zimbabwean-women/77.jpeg",
+    "search_query": "zimbabwean-women",
+    "position": 77,
+    "label_annotations": [
+        {
+            "mid": "/m/0404d",
+            "score": 0.8591617345809937,
+            "topicality": 0.8591617345809937,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.780550479888916,
+            "topicality": 0.780550479888916,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.5597822666168213,
+            "topicality": 0.5597822666168213,
+            "description": "Bracelet"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.5449331402778625,
+            "topicality": 0.5449331402778625,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.5406872034072876,
+            "topicality": 0.5406872034072876,
+            "description": "Celebrating"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

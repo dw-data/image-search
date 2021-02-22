@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/georgian-women/75.jpeg",
+    "search_query": "georgian-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.905490517616272,
+            "topicality": 0.905490517616272,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/019sc",
+            "score": 0.8788009881973267,
+            "topicality": 0.8788009881973267,
+            "description": "Black"
+        },
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.718422532081604,
+            "topicality": 0.718422532081604,
+            "description": "Hood"
+        },
+        {
+            "mid": "/m/0151nd",
+            "score": 0.6420958638191223,
+            "topicality": 0.6420958638191223,
+            "description": "Balaclava"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

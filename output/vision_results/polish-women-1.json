@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/polish-women/1.jpeg",
+    "search_query": "polish-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9897729754447937,
+            "topicality": 0.9897729754447937,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9881948828697205,
+            "topicality": 0.9881948828697205,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9846928119659424,
+            "topicality": 0.9846928119659424,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.981733500957489,
+            "topicality": 0.981733500957489,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790105819702148,
+            "topicality": 0.9790105819702148,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.97725909948349,
+            "topicality": 0.97725909948349,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9747800827026367,
+            "topicality": 0.9747800827026367,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738363027572632,
+            "topicality": 0.9738363027572632,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9675008058547974,
+            "topicality": 0.9675008058547974,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9629067778587341,
+            "topicality": 0.9629067778587341,
+            "description": "Social group"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

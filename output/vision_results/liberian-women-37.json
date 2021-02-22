@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/liberian-women/37.jpeg",
+    "search_query": "liberian-women",
+    "position": 37,
+    "label_annotations": [
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9726813435554504,
+            "topicality": 0.9726813435554504,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.9029722809791565,
+            "topicality": 0.9029722809791565,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.8800997734069824,
+            "topicality": 0.8800997734069824,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8151311874389648,
+            "topicality": 0.8151311874389648,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6167548298835754,
+            "topicality": 0.6167548298835754,
+            "description": "Portrait photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/australian-women/8.jpeg",
+    "search_query": "australian-women",
+    "position": 8,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9838809967041016,
+            "topicality": 0.9838809967041016,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9701002240180969,
+            "topicality": 0.9701002240180969,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9507583975791931,
+            "topicality": 0.9507583975791931,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9384424090385437,
+            "topicality": 0.9384424090385437,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9314810633659363,
+            "topicality": 0.9314810633659363,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.9200927019119263,
+            "topicality": 0.9200927019119263,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8840304017066956,
+            "topicality": 0.8840304017066956,
+            "description": "Neck"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8836333751678467,
+            "topicality": 0.8836333751678467,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.8762545585632324,
+            "topicality": 0.8762545585632324,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.8650004863739014,
+            "topicality": 0.8650004863739014,
+            "description": "Earrings"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

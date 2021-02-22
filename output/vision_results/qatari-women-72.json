@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/qatari-women/72.jpeg",
+    "search_query": "qatari-women",
+    "position": 72,
+    "label_annotations": [
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.9589747190475464,
+            "topicality": 0.9589747190475464,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.926590085029602,
+            "topicality": 0.926590085029602,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/050k8",
+            "score": 0.6369999647140503,
+            "topicality": 0.6369999647140503,
+            "description": "Mobile phone"
+        },
+        {
+            "mid": "/m/0glmwd6",
+            "score": 0.5136890411376953,
+            "topicality": 0.5136890411376953,
+            "description": "Communication Device"
+        },
+        {
+            "mid": "/m/03w7y7",
+            "score": 0.5101099610328674,
+            "topicality": 0.5101099610328674,
+            "description": "Baggage"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

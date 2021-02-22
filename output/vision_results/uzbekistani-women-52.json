@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/uzbekistani-women/52.jpeg",
+    "search_query": "uzbekistani-women",
+    "position": 52,
+    "label_annotations": [
+        {
+            "mid": "/m/032b3c",
+            "score": 0.908498227596283,
+            "topicality": 0.908498227596283,
+            "description": "Jacket"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8302352428436279,
+            "topicality": 0.8302352428436279,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.7110678553581238,
+            "topicality": 0.7110678553581238,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/080hkjn",
+            "score": 0.5420332551002502,
+            "topicality": 0.5420332551002502,
+            "description": "Handbag"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.5006974935531616,
+            "topicality": 0.5006974935531616,
+            "description": "One-piece garment"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

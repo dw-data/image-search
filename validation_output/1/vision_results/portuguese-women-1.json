@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/portuguese-women/1.jpeg",
+    "search_query": "portuguese-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9746654629707336,
+            "topicality": 0.9746654629707336,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9704474806785583,
+            "topicality": 0.9704474806785583,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9456387758255005,
+            "topicality": 0.9456387758255005,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9247425198554993,
+            "topicality": 0.9247425198554993,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.9023550152778625,
+            "topicality": 0.9023550152778625,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/m/019sc",
+            "score": 0.8958472013473511,
+            "topicality": 0.8958472013473511,
+            "description": "Black"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.8864747285842896,
+            "topicality": 0.8864747285842896,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8846567273139954,
+            "topicality": 0.8846567273139954,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

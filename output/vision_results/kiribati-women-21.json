@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/kiribati-women/21.jpeg",
+    "search_query": "kiribati-women",
+    "position": 21,
+    "label_annotations": [
+        {
+            "mid": "/m/01qls",
+            "score": 0.9401550889015198,
+            "topicality": 0.9401550889015198,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/018xm",
+            "score": 0.9329608082771301,
+            "topicality": 0.9329608082771301,
+            "description": "Ball"
+        },
+        {
+            "mid": "/m/0jc_p",
+            "score": 0.883840024471283,
+            "topicality": 0.883840024471283,
+            "description": "Orange"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828122019767761,
+            "topicality": 0.8828122019767761,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0156sn",
+            "score": 0.555180549621582,
+            "topicality": 0.555180549621582,
+            "description": "Ball"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/american-women/80.jpeg",
+    "search_query": "american-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.973832905292511,
+            "topicality": 0.973832905292511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9711821675300598,
+            "topicality": 0.9711821675300598,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.9702187180519104,
+            "topicality": 0.9702187180519104,
+            "description": "Denim"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656562209129333,
+            "topicality": 0.9656562209129333,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0fly7",
+            "score": 0.9618740081787109,
+            "topicality": 0.9618740081787109,
+            "description": "Jeans"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9611119627952576,
+            "topicality": 0.9611119627952576,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9598091244697571,
+            "topicality": 0.9598091244697571,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540655016899109,
+            "topicality": 0.9540655016899109,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06rrc",
+            "score": 0.9534690380096436,
+            "topicality": 0.9534690380096436,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/019swr",
+            "score": 0.9116776585578918,
+            "topicality": 0.9116776585578918,
+            "description": "Knee"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

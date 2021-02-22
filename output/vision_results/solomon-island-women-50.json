@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/solomon-island-women/50.jpeg",
+    "search_query": "solomon-island-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9892768263816833,
+            "topicality": 0.9892768263816833,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9771883487701416,
+            "topicality": 0.9771883487701416,
+            "description": "People"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9443979263305664,
+            "topicality": 0.9443979263305664,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/015h_t",
+            "score": 0.6887373328208923,
+            "topicality": 0.6887373328208923,
+            "description": "Beard"
+        },
+        {
+            "mid": "/m/080hkjn",
+            "score": 0.5406501293182373,
+            "topicality": 0.5406501293182373,
+            "description": "Handbag"
+        },
+        {
+            "mid": "/m/09dhj",
+            "score": 0.5187640190124512,
+            "topicality": 0.5187640190124512,
+            "description": "Family"
+        },
+        {
+            "mid": "/m/04rjz",
+            "score": 0.5027904510498047,
+            "topicality": 0.5027904510498047,
+            "description": "Middle ages"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

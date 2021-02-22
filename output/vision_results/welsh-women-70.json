@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/welsh-women/70.jpeg",
+    "search_query": "welsh-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/062581",
+            "score": 0.9710308909416199,
+            "topicality": 0.9710308909416199,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656792879104614,
+            "topicality": 0.9656792879104614,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9647032618522644,
+            "topicality": 0.9647032618522644,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/02wzbmj",
+            "score": 0.9580773711204529,
+            "topicality": 0.9580773711204529,
+            "description": "Standing"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540877342224121,
+            "topicality": 0.9540877342224121,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06fvc",
+            "score": 0.9443138837814331,
+            "topicality": 0.9443138837814331,
+            "description": "Red"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9305283427238464,
+            "topicality": 0.9305283427238464,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9077996015548706,
+            "topicality": 0.9077996015548706,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.8845917582511902,
+            "topicality": 0.8845917582511902,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.8845385909080505,
+            "topicality": 0.8845385909080505,
+            "description": "Trunk"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/nepalese-women/18.jpeg",
+    "search_query": "nepalese-women",
+    "position": 18,
+    "label_annotations": [
+        {
+            "mid": "/m/0h8q07j",
+            "score": 0.8821521997451782,
+            "topicality": 0.8821521997451782,
+            "description": "Baby & toddler clothing"
+        },
+        {
+            "mid": "/m/048knlz",
+            "score": 0.7297330498695374,
+            "topicality": 0.7297330498695374,
+            "description": "Love"
+        },
+        {
+            "mid": "/m/0jnvp",
+            "score": 0.652507483959198,
+            "topicality": 0.652507483959198,
+            "description": "Baby"
+        },
+        {
+            "mid": "/m/09dhj",
+            "score": 0.5138862729072571,
+            "topicality": 0.5138862729072571,
+            "description": "Family"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/vietnamese-women/31.jpeg",
+    "search_query": "vietnamese-women",
+    "position": 31,
+    "label_annotations": [
+        {
+            "mid": "/m/091410",
+            "score": 0.9415573477745056,
+            "topicality": 0.9415573477745056,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/09jfs",
+            "score": 0.9143695831298828,
+            "topicality": 0.9143695831298828,
+            "description": "Uniform"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.8919417858123779,
+            "topicality": 0.8919417858123779,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0gjxqj",
+            "score": 0.8145410418510437,
+            "topicality": 0.8145410418510437,
+            "description": "Bangs"
+        },
+        {
+            "mid": "/m/02h201",
+            "score": 0.6894738078117371,
+            "topicality": 0.6894738078117371,
+            "description": "Beret"
+        },
+        {
+            "mid": "/m/01444p",
+            "score": 0.5555936098098755,
+            "topicality": 0.5555936098098755,
+            "description": "Cloak"
+        },
+        {
+            "mid": "/m/0gty6zf",
+            "score": 0.5377137064933777,
+            "topicality": 0.5377137064933777,
+            "description": "Law enforcement"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/guatemalan-women/1.jpeg",
+    "search_query": "guatemalan-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9839250445365906,
+            "topicality": 0.9839250445365906,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9837474822998047,
+            "topicality": 0.9837474822998047,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9734110236167908,
+            "topicality": 0.9734110236167908,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9723929166793823,
+            "topicality": 0.9723929166793823,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9692306518554688,
+            "topicality": 0.9692306518554688,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681840538978577,
+            "topicality": 0.9681840538978577,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.9501951932907104,
+            "topicality": 0.9501951932907104,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.9090965986251831,
+            "topicality": 0.9090965986251831,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.907799482345581,
+            "topicality": 0.907799482345581,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.8875443339347839,
+            "topicality": 0.8875443339347839,
+            "description": "Earrings"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

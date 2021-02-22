@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/irish-women/70.jpeg",
+    "search_query": "irish-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9840492010116577,
+            "topicality": 0.9840492010116577,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9837554693222046,
+            "topicality": 0.9837554693222046,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.969833254814148,
+            "topicality": 0.969833254814148,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9340295791625977,
+            "topicality": 0.9340295791625977,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9299923777580261,
+            "topicality": 0.9299923777580261,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.8725847005844116,
+            "topicality": 0.8725847005844116,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8411134481430054,
+            "topicality": 0.8411134481430054,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.833602249622345,
+            "topicality": 0.833602249622345,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/04g3r",
+            "score": 0.7785791754722595,
+            "topicality": 0.7785791754722595,
+            "description": "Leisure"
+        },
+        {
+            "mid": "/m/06bm2",
+            "score": 0.7713293433189392,
+            "topicality": 0.7713293433189392,
+            "description": "Recreation"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

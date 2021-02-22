@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/swedish-women/42.jpeg",
+    "search_query": "swedish-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9791786670684814,
+            "topicality": 0.9791786670684814,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9661300778388977,
+            "topicality": 0.9661300778388977,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/06hwcd",
+            "score": 0.8251340985298157,
+            "topicality": 0.8251340985298157,
+            "description": "Dress shirt"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.8235385417938232,
+            "topicality": 0.8235385417938232,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.7938834428787231,
+            "topicality": 0.7938834428787231,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.7018810510635376,
+            "topicality": 0.7018810510635376,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.6651920080184937,
+            "topicality": 0.6651920080184937,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.6168358325958252,
+            "topicality": 0.6168358325958252,
+            "description": "Event"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

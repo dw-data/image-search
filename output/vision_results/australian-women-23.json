@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/australian-women/23.jpeg",
+    "search_query": "australian-women",
+    "position": 23,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9927432537078857,
+            "topicality": 0.9927432537078857,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9917367696762085,
+            "topicality": 0.9917367696762085,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9819864630699158,
+            "topicality": 0.9819864630699158,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9809049963951111,
+            "topicality": 0.9809049963951111,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9796897768974304,
+            "topicality": 0.9796897768974304,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9790826439857483,
+            "topicality": 0.9790826439857483,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9773421287536621,
+            "topicality": 0.9773421287536621,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9689626097679138,
+            "topicality": 0.9689626097679138,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/07bxq",
+            "score": 0.9686723351478577,
+            "topicality": 0.9686723351478577,
+            "description": "Tourism"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.9670361876487732,
+            "topicality": 0.9670361876487732,
+            "description": "Swimwear"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

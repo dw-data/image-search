@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/malaysian-women/61.jpeg",
+    "search_query": "malaysian-women",
+    "position": 61,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977354884147644,
+            "topicality": 0.977354884147644,
+            "description": "People"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.748880922794342,
+            "topicality": 0.748880922794342,
+            "description": "Tradition"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

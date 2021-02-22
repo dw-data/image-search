@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/haitian-women/7.jpeg",
+    "search_query": "haitian-women",
+    "position": 7,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.989431619644165,
+            "topicality": 0.989431619644165,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880785942077637,
+            "topicality": 0.9880785942077637,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.984622597694397,
+            "topicality": 0.984622597694397,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9840251207351685,
+            "topicality": 0.9840251207351685,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790115356445312,
+            "topicality": 0.9790115356445312,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9785086512565613,
+            "topicality": 0.9785086512565613,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9778759479522705,
+            "topicality": 0.9778759479522705,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9765020608901978,
+            "topicality": 0.9765020608901978,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740769863128662,
+            "topicality": 0.9740769863128662,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9737420082092285,
+            "topicality": 0.9737420082092285,
+            "description": "Skin"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

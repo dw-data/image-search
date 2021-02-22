@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/russian-women/42.jpeg",
+    "search_query": "russian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9792353510856628,
+            "topicality": 0.9792353510856628,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702427387237549,
+            "topicality": 0.9702427387237549,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9475533366203308,
+            "topicality": 0.9475533366203308,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9206130504608154,
+            "topicality": 0.9206130504608154,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/03fp41",
+            "score": 0.9186517596244812,
+            "topicality": 0.9186517596244812,
+            "description": "Houseplant"
+        },
+        {
+            "mid": "/m/04k84",
+            "score": 0.9104166626930237,
+            "topicality": 0.9104166626930237,
+            "description": "Light"
+        },
+        {
+            "mid": "/m/0fm3zh",
+            "score": 0.8996479511260986,
+            "topicality": 0.8996479511260986,
+            "description": "Flowerpot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

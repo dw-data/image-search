@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/icelandic-women/100.jpeg",
+    "search_query": "icelandic-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9838874936103821,
+            "topicality": 0.9838874936103821,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9804347157478333,
+            "topicality": 0.9804347157478333,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/02d46y",
+            "score": 0.9759663343429565,
+            "topicality": 0.9759663343429565,
+            "description": "Cap"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9730148315429688,
+            "topicality": 0.9730148315429688,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.970066249370575,
+            "topicality": 0.970066249370575,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/0c_jw",
+            "score": 0.9462147951126099,
+            "topicality": 0.9462147951126099,
+            "description": "Furniture"
+        },
+        {
+            "mid": "/m/04bcr3",
+            "score": 0.9445475339889526,
+            "topicality": 0.9445475339889526,
+            "description": "Table"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9069680571556091,
+            "topicality": 0.9069680571556091,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.8918352127075195,
+            "topicality": 0.8918352127075195,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/0271t",
+            "score": 0.8632104992866516,
+            "topicality": 0.8632104992866516,
+            "description": "Drink"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

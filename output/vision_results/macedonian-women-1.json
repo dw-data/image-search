@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/macedonian-women/1.jpeg",
+    "search_query": "macedonian-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837958812713623,
+            "topicality": 0.9837958812713623,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790124893188477,
+            "topicality": 0.9790124893188477,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738333821296692,
+            "topicality": 0.9738333821296692,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9690500497817993,
+            "topicality": 0.9690500497817993,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681838154792786,
+            "topicality": 0.9681838154792786,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639050960540771,
+            "topicality": 0.9639050960540771,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9290246367454529,
+            "topicality": 0.9290246367454529,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.9200565218925476,
+            "topicality": 0.9200565218925476,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9142927527427673,
+            "topicality": 0.9142927527427673,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0hgs526",
+            "score": 0.9012991786003113,
+            "topicality": 0.9012991786003113,
+            "description": "Costume accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

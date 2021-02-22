@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/vietnamese-women/100.jpeg",
+    "search_query": "vietnamese-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9648956656455994,
+            "topicality": 0.9648956656455994,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8818793296813965,
+            "topicality": 0.8818793296813965,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8772997260093689,
+            "topicality": 0.8772997260093689,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/03hzcs",
+            "score": 0.830466091632843,
+            "topicality": 0.830466091632843,
+            "description": "Beige"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.8264186382293701,
+            "topicality": 0.8264186382293701,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8090538382530212,
+            "topicality": 0.8090538382530212,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0d1pc",
+            "score": 0.7900362014770508,
+            "topicality": 0.7900362014770508,
+            "description": "Model"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.7438979744911194,
+            "topicality": 0.7438979744911194,
+            "description": "Fashion model"
+        },
+        {
+            "mid": "/m/01z8xg",
+            "score": 0.7366644144058228,
+            "topicality": 0.7366644144058228,
+            "description": "Transparent material"
+        },
+        {
+            "mid": "/m/02qbl1m",
+            "score": 0.7082584500312805,
+            "topicality": 0.7082584500312805,
+            "description": "Photo shoot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

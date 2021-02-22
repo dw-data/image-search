@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/polish-women/80.jpeg",
+    "search_query": "polish-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.983924388885498,
+            "topicality": 0.983924388885498,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9800536632537842,
+            "topicality": 0.9800536632537842,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.979015588760376,
+            "topicality": 0.979015588760376,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9762792587280273,
+            "topicality": 0.9762792587280273,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9747266173362732,
+            "topicality": 0.9747266173362732,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.919195294380188,
+            "topicality": 0.919195294380188,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9006795883178711,
+            "topicality": 0.9006795883178711,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0fjkt",
+            "score": 0.8857539892196655,
+            "topicality": 0.8857539892196655,
+            "description": "Tongue"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.8617076277732849,
+            "topicality": 0.8617076277732849,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.8144065141677856,
+            "topicality": 0.8144065141677856,
+            "description": "Tooth"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

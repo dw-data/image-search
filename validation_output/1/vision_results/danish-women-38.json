@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/danish-women/38.jpeg",
+    "search_query": "danish-women",
+    "position": 38,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9854395985603333,
+            "topicality": 0.9854395985603333,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9838752746582031,
+            "topicality": 0.9838752746582031,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702954888343811,
+            "topicality": 0.9702954888343811,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9324560165405273,
+            "topicality": 0.9324560165405273,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9119833111763,
+            "topicality": 0.9119833111763,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9030866026878357,
+            "topicality": 0.9030866026878357,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/05h0n",
+            "score": 0.8998109102249146,
+            "topicality": 0.8998109102249146,
+            "description": "Nature"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8812422156333923,
+            "topicality": 0.8812422156333923,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/05s2s",
+            "score": 0.8774465918540955,
+            "topicality": 0.8774465918540955,
+            "description": "Plant"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8744404911994934,
+            "topicality": 0.8744404911994934,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

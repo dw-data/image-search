@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/irish-women/42.png",
+    "search_query": "irish-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0838f",
+            "score": 0.9805260896682739,
+            "topicality": 0.9805260896682739,
+            "description": "Water"
+        },
+        {
+            "mid": "/m/01bqvp",
+            "score": 0.9735338687896729,
+            "topicality": 0.9735338687896729,
+            "description": "Sky"
+        },
+        {
+            "mid": "/m/0csby",
+            "score": 0.9634627103805542,
+            "topicality": 0.9634627103805542,
+            "description": "Cloud"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9166951775550842,
+            "topicality": 0.9166951775550842,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0b3yr",
+            "score": 0.8928117752075195,
+            "topicality": 0.8928117752075195,
+            "description": "Beach"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8799709677696228,
+            "topicality": 0.8799709677696228,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/j/148skd",
+            "score": 0.8724063634872437,
+            "topicality": 0.8724063634872437,
+            "description": "People on beach"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8696678280830383,
+            "topicality": 0.8696678280830383,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.8680830597877502,
+            "topicality": 0.8680830597877502,
+            "description": "Swimwear"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8491820096969604,
+            "topicality": 0.8491820096969604,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

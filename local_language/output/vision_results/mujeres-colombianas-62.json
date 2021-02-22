@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mujeres-colombianas/62.jpeg",
+    "search_query": "mujeres-colombianas",
+    "position": 62,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.986621618270874,
+            "topicality": 0.986621618270874,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9828620553016663,
+            "topicality": 0.9828620553016663,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.961808979511261,
+            "topicality": 0.961808979511261,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/088fh",
+            "score": 0.8796225190162659,
+            "topicality": 0.8796225190162659,
+            "description": "Yellow"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/013x8v",
+            "score": 0.8490197658538818,
+            "topicality": 0.8490197658538818,
+            "description": "Fan"
+        },
+        {
+            "mid": "/m/04g3r",
+            "score": 0.8157974481582642,
+            "topicality": 0.8157974481582642,
+            "description": "Leisure"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.7768087983131409,
+            "topicality": 0.7768087983131409,
+            "description": "People"
+        },
+        {
+            "mid": "/m/04stdlw",
+            "score": 0.7764274477958679,
+            "topicality": 0.7764274477958679,
+            "description": "Competition event"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.765200138092041,
+            "topicality": 0.765200138092041,
+            "description": "Crowd"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/iranian-women/15.jpeg",
+    "search_query": "iranian-women",
+    "position": 15,
+    "label_annotations": [
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9732592105865479,
+            "topicality": 0.9732592105865479,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8872008323669434,
+            "topicality": 0.8872008323669434,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8301905393600464,
+            "topicality": 0.8301905393600464,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/050k8",
+            "score": 0.6028065085411072,
+            "topicality": 0.6028065085411072,
+            "description": "Mobile phone"
+        },
+        {
+            "mid": "/m/0sgh53y",
+            "score": 0.5321403741836548,
+            "topicality": 0.5321403741836548,
+            "description": "Selfie"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

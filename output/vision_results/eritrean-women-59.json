@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/eritrean-women/59.jpeg",
+    "search_query": "eritrean-women",
+    "position": 59,
+    "label_annotations": [
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828250765800476,
+            "topicality": 0.8828250765800476,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.6628129482269287,
+            "topicality": 0.6628129482269287,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/06203h",
+            "score": 0.6352915167808533,
+            "topicality": 0.6352915167808533,
+            "description": "Folk instrument"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.615409255027771,
+            "topicality": 0.615409255027771,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/026bk",
+            "score": 0.5375110507011414,
+            "topicality": 0.5375110507011414,
+            "description": "Dance"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

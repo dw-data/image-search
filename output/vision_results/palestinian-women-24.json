@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/palestinian-women/24.jpeg",
+    "search_query": "palestinian-women",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9891487956047058,
+            "topicality": 0.9891487956047058,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9891318082809448,
+            "topicality": 0.9891318082809448,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9843301773071289,
+            "topicality": 0.9843301773071289,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9813051819801331,
+            "topicality": 0.9813051819801331,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/02q7ylj",
+            "score": 0.9778987765312195,
+            "topicality": 0.9778987765312195,
+            "description": "Daytime"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773159027099609,
+            "topicality": 0.9773159027099609,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9636433720588684,
+            "topicality": 0.9636433720588684,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.9324643015861511,
+            "topicality": 0.9324643015861511,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9025753736495972,
+            "topicality": 0.9025753736495972,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.8899348378181458,
+            "topicality": 0.8899348378181458,
+            "description": "Fashion accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/malian-women/2.jpeg",
+    "search_query": "malian-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9848936200141907,
+            "topicality": 0.9848936200141907,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9797984957695007,
+            "topicality": 0.9797984957695007,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9732878804206848,
+            "topicality": 0.9732878804206848,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.973271369934082,
+            "topicality": 0.973271369934082,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9323692321777344,
+            "topicality": 0.9323692321777344,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/038hg",
+            "score": 0.9097992181777954,
+            "topicality": 0.9097992181777954,
+            "description": "Green"
+        },
+        {
+            "mid": "/m/0838f",
+            "score": 0.9069671630859375,
+            "topicality": 0.9069671630859375,
+            "description": "Water"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9059442281723022,
+            "topicality": 0.9059442281723022,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/019sc",
+            "score": 0.8971299529075623,
+            "topicality": 0.8971299529075623,
+            "description": "Black"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

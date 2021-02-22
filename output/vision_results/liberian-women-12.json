@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/liberian-women/12.jpeg",
+    "search_query": "liberian-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.8972119092941284,
+            "topicality": 0.8972119092941284,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0zvk5",
+            "score": 0.8725587129592896,
+            "topicality": 0.8725587129592896,
+            "description": "Helmet"
+        },
+        {
+            "mid": "/m/0ffjr",
+            "score": 0.868222177028656,
+            "topicality": 0.868222177028656,
+            "description": "Personal protective equipment"
+        },
+        {
+            "mid": "/m/0n49352",
+            "score": 0.7533400654792786,
+            "topicality": 0.7533400654792786,
+            "description": "Sports gear"
+        },
+        {
+            "mid": "/m/0174n1",
+            "score": 0.6553360819816589,
+            "topicality": 0.6553360819816589,
+            "description": "Glove"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

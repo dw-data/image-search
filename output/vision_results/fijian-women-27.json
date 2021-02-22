@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/fijian-women/27.jpeg",
+    "search_query": "fijian-women",
+    "position": 27,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739972352981567,
+            "topicality": 0.9739972352981567,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9733779430389404,
+            "topicality": 0.9733779430389404,
+            "description": "Eye"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.932459831237793,
+            "topicality": 0.932459831237793,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9119134545326233,
+            "topicality": 0.9119134545326233,
+            "description": "Black hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

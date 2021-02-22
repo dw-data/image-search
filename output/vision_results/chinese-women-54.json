@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/chinese-women/54.jpeg",
+    "search_query": "chinese-women",
+    "position": 54,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790046811103821,
+            "topicality": 0.9790046811103821,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9438952803611755,
+            "topicality": 0.9438952803611755,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.7450058460235596,
+            "topicality": 0.7450058460235596,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6163218021392822,
+            "topicality": 0.6163218021392822,
+            "description": "Portrait photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

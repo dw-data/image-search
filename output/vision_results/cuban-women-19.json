@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/cuban-women/19.jpeg",
+    "search_query": "cuban-women",
+    "position": 19,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9788838624954224,
+            "topicality": 0.9788838624954224,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.96562659740448,
+            "topicality": 0.96562659740448,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9600092768669128,
+            "topicality": 0.9600092768669128,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9513880610466003,
+            "topicality": 0.9513880610466003,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9250420331954956,
+            "topicality": 0.9250420331954956,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9078289866447449,
+            "topicality": 0.9078289866447449,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.901757001876831,
+            "topicality": 0.901757001876831,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8821074366569519,
+            "topicality": 0.8821074366569519,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.8729302883148193,
+            "topicality": 0.8729302883148193,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.8707206845283508,
+            "topicality": 0.8707206845283508,
+            "description": "Trunk"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

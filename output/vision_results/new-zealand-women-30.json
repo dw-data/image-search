@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/new-zealand-women/30.jpeg",
+    "search_query": "new-zealand-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9664801359176636,
+            "topicality": 0.9664801359176636,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/09ggk",
+            "score": 0.902171790599823,
+            "topicality": 0.902171790599823,
+            "description": "Purple"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.7116706371307373,
+            "topicality": 0.7116706371307373,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.7050356864929199,
+            "topicality": 0.7050356864929199,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.6116904616355896,
+            "topicality": 0.6116904616355896,
+            "description": "Abdomen"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

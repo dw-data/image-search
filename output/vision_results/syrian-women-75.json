@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/syrian-women/75.jpeg",
+    "search_query": "syrian-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9905275702476501,
+            "topicality": 0.9905275702476501,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9891592860221863,
+            "topicality": 0.9891592860221863,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9883663654327393,
+            "topicality": 0.9883663654327393,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/02w3_2",
+            "score": 0.9186939597129822,
+            "topicality": 0.9186939597129822,
+            "description": "Formal wear"
+        },
+        {
+            "mid": "/m/01xyhv",
+            "score": 0.8996368646621704,
+            "topicality": 0.8996368646621704,
+            "description": "Suit"
+        },
+        {
+            "mid": "/m/01rkbr",
+            "score": 0.8899198174476624,
+            "topicality": 0.8899198174476624,
+            "description": "Tie"
+        },
+        {
+            "mid": "/m/01kq3x",
+            "score": 0.836875855922699,
+            "topicality": 0.836875855922699,
+            "description": "White-collar worker"
+        },
+        {
+            "mid": "/m/04xz_5",
+            "score": 0.8218231797218323,
+            "topicality": 0.8218231797218323,
+            "description": "Blazer"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.805241048336029,
+            "topicality": 0.805241048336029,
+            "description": "Conversation"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.6825734376907349,
+            "topicality": 0.6825734376907349,
+            "description": "Audience"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

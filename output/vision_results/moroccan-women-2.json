@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/moroccan-women/2.jpeg",
+    "search_query": "moroccan-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9896827340126038,
+            "topicality": 0.9896827340126038,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9883961081504822,
+            "topicality": 0.9883961081504822,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9877557158470154,
+            "topicality": 0.9877557158470154,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9847221970558167,
+            "topicality": 0.9847221970558167,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9814562201499939,
+            "topicality": 0.9814562201499939,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9808467626571655,
+            "topicality": 0.9808467626571655,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9804695844650269,
+            "topicality": 0.9804695844650269,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789875149726868,
+            "topicality": 0.9789875149726868,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9787225723266602,
+            "topicality": 0.9787225723266602,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9763597846031189,
+            "topicality": 0.9763597846031189,
+            "description": "People"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

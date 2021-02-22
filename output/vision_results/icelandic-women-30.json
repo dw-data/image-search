@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/icelandic-women/30.jpeg",
+    "search_query": "icelandic-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/0zvk5",
+            "score": 0.8656315803527832,
+            "topicality": 0.8656315803527832,
+            "description": "Helmet"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8495898842811584,
+            "topicality": 0.8495898842811584,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.7289981245994568,
+            "topicality": 0.7289981245994568,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6200509667396545,
+            "topicality": 0.6200509667396545,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.5882545709609985,
+            "topicality": 0.5882545709609985,
+            "description": "Tradition"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

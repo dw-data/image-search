@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/namibian-women/3.jpeg",
+    "search_query": "namibian-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/09q2t",
+            "score": 0.9747414588928223,
+            "topicality": 0.9747414588928223,
+            "description": "Brown"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.917987048625946,
+            "topicality": 0.917987048625946,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/0cbtm",
+            "score": 0.880605161190033,
+            "topicality": 0.880605161190033,
+            "description": "Tribe"
+        },
+        {
+            "mid": "/m/0276krm",
+            "score": 0.8093510866165161,
+            "topicality": 0.8093510866165161,
+            "description": "Fawn"
+        },
+        {
+            "mid": "/m/03_pfn",
+            "score": 0.8078963756561279,
+            "topicality": 0.8078963756561279,
+            "description": "Liver"
+        },
+        {
+            "mid": "/m/0h8kxbv",
+            "score": 0.6898084878921509,
+            "topicality": 0.6898084878921509,
+            "description": "Body jewelry"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.5458353161811829,
+            "topicality": 0.5458353161811829,
+            "description": "Village"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

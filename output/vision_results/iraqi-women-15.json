@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/iraqi-women/15.jpeg",
+    "search_query": "iraqi-women",
+    "position": 15,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9898586869239807,
+            "topicality": 0.9898586869239807,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9891840815544128,
+            "topicality": 0.9891840815544128,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9881100654602051,
+            "topicality": 0.9881100654602051,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9789341688156128,
+            "topicality": 0.9789341688156128,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9787753224372864,
+            "topicality": 0.9787753224372864,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9715632796287537,
+            "topicality": 0.9715632796287537,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639021754264832,
+            "topicality": 0.9639021754264832,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9483914375305176,
+            "topicality": 0.9483914375305176,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.8939500451087952,
+            "topicality": 0.8939500451087952,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8746476173400879,
+            "topicality": 0.8746476173400879,
+            "description": "Youth"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

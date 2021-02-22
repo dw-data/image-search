@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/burundian-women/90.jpeg",
+    "search_query": "burundian-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/06fvc",
+            "score": 0.951934278011322,
+            "topicality": 0.951934278011322,
+            "description": "Red"
+        },
+        {
+            "mid": "/m/04mkbj",
+            "score": 0.8755152821540833,
+            "topicality": 0.8755152821540833,
+            "description": "Maroon"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.7729161381721497,
+            "topicality": 0.7729161381721497,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.6053807139396667,
+            "topicality": 0.6053807139396667,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.5715147256851196,
+            "topicality": 0.5715147256851196,
+            "description": "Hood"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

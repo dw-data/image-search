@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/iraqi-women/52.jpeg",
+    "search_query": "iraqi-women",
+    "position": 52,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.979017436504364,
+            "topicality": 0.979017436504364,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9787070751190186,
+            "topicality": 0.9787070751190186,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9785637259483337,
+            "topicality": 0.9785637259483337,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9735528230667114,
+            "topicality": 0.9735528230667114,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9691994786262512,
+            "topicality": 0.9691994786262512,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.9564719796180725,
+            "topicality": 0.9564719796180725,
+            "description": "Tooth"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.9198105335235596,
+            "topicality": 0.9198105335235596,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9078028202056885,
+            "topicality": 0.9078028202056885,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.882816731929779,
+            "topicality": 0.882816731929779,
+            "description": "Temple"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "LIKELY"
+        }
+    }
+}

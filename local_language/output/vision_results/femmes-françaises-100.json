@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/femmes-fran\u00e7aises/100.jpeg",
+    "search_query": "femmes-fran\u00e7aises",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9839932322502136,
+            "topicality": 0.9839932322502136,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.969846785068512,
+            "topicality": 0.969846785068512,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9586484432220459,
+            "topicality": 0.9586484432220459,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9420945644378662,
+            "topicality": 0.9420945644378662,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9151024222373962,
+            "topicality": 0.9151024222373962,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9146631956100464,
+            "topicality": 0.9146631956100464,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8852637410163879,
+            "topicality": 0.8852637410163879,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.8796592354774475,
+            "topicality": 0.8796592354774475,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8738335371017456,
+            "topicality": 0.8738335371017456,
+            "description": "Neck"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8622601628303528,
+            "topicality": 0.8622601628303528,
+            "description": "People in nature"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

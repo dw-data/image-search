@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/namibian-women/14.jpeg",
+    "search_query": "namibian-women",
+    "position": 14,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9833740592002869,
+            "topicality": 0.9833740592002869,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9828029870986938,
+            "topicality": 0.9828029870986938,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9749199151992798,
+            "topicality": 0.9749199151992798,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9727151393890381,
+            "topicality": 0.9727151393890381,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9660765528678894,
+            "topicality": 0.9660765528678894,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9384921193122864,
+            "topicality": 0.9384921193122864,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.932606041431427,
+            "topicality": 0.932606041431427,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8850587010383606,
+            "topicality": 0.8850587010383606,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8784123659133911,
+            "topicality": 0.8784123659133911,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

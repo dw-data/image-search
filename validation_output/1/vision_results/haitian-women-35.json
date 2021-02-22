@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/haitian-women/35.jpeg",
+    "search_query": "haitian-women",
+    "position": 35,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9837263822555542,
+            "topicality": 0.9837263822555542,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9736555814743042,
+            "topicality": 0.9736555814743042,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9323965311050415,
+            "topicality": 0.9323965311050415,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8927655220031738,
+            "topicality": 0.8927655220031738,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/02c66t",
+            "score": 0.8884088397026062,
+            "topicality": 0.8884088397026062,
+            "description": "Wedding dress"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8843683004379272,
+            "topicality": 0.8843683004379272,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0838f",
+            "score": 0.8815147876739502,
+            "topicality": 0.8815147876739502,
+            "description": "Water"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8791919946670532,
+            "topicality": 0.8791919946670532,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8438984155654907,
+            "topicality": 0.8438984155654907,
+            "description": "Dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

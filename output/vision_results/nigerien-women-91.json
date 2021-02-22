@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/nigerien-women/91.jpeg",
+    "search_query": "nigerien-women",
+    "position": 91,
+    "label_annotations": [
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8695026636123657,
+            "topicality": 0.8695026636123657,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.641943633556366,
+            "topicality": 0.641943633556366,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6019165515899658,
+            "topicality": 0.6019165515899658,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/06g1w2",
+            "score": 0.526062548160553,
+            "topicality": 0.526062548160553,
+            "description": "Pattern"
+        },
+        {
+            "mid": "/m/09kxp",
+            "score": 0.5039365887641907,
+            "topicality": 0.5039365887641907,
+            "description": "Wool"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

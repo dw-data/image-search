@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/belgian-women/5.jpeg",
+    "search_query": "belgian-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9923658967018127,
+            "topicality": 0.9923658967018127,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9744550585746765,
+            "topicality": 0.9744550585746765,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9736579060554504,
+            "topicality": 0.9736579060554504,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9655449986457825,
+            "topicality": 0.9655449986457825,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9539426565170288,
+            "topicality": 0.9539426565170288,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9530532956123352,
+            "topicality": 0.9530532956123352,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/01g8j",
+            "score": 0.9486958980560303,
+            "topicality": 0.9486958980560303,
+            "description": "Bikini"
+        },
+        {
+            "mid": "/m/09j1x",
+            "score": 0.9384660720825195,
+            "topicality": 0.9384660720825195,
+            "description": "Undergarment"
+        },
+        {
+            "mid": "/m/0hgs8s2",
+            "score": 0.9357151389122009,
+            "topicality": 0.9357151389122009,
+            "description": "Swimsuit bottom"
+        },
+        {
+            "mid": "/m/09hyx",
+            "score": 0.928965151309967,
+            "topicality": 0.928965151309967,
+            "description": "Lingerie"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/cuban-women/70.jpeg",
+    "search_query": "cuban-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.9572102427482605,
+            "topicality": 0.9572102427482605,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/01bqk0",
+            "score": 0.8613990545272827,
+            "topicality": 0.8613990545272827,
+            "description": "Bicycle wheel"
+        },
+        {
+            "mid": "/m/0qmmr",
+            "score": 0.7398223876953125,
+            "topicality": 0.7398223876953125,
+            "description": "Wheelchair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

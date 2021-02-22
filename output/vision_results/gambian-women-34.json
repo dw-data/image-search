@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/gambian-women/34.jpeg",
+    "search_query": "gambian-women",
+    "position": 34,
+    "label_annotations": [
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9052574634552002,
+            "topicality": 0.9052574634552002,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/02_n6y",
+            "score": 0.8677773475646973,
+            "topicality": 0.8677773475646973,
+            "description": "Goggles"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.8206720352172852,
+            "topicality": 0.8206720352172852,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.739585816860199,
+            "topicality": 0.739585816860199,
+            "description": "Sun hat"
+        },
+        {
+            "mid": "/m/02fq_6",
+            "score": 0.5369186997413635,
+            "topicality": 0.5369186997413635,
+            "description": "Fedora"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

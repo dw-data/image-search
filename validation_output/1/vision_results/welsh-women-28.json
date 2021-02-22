@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/welsh-women/28.jpeg",
+    "search_query": "welsh-women",
+    "position": 28,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9874265789985657,
+            "topicality": 0.9874265789985657,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9851689338684082,
+            "topicality": 0.9851689338684082,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9742453694343567,
+            "topicality": 0.9742453694343567,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.9560653567314148,
+            "topicality": 0.9560653567314148,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9438518285751343,
+            "topicality": 0.9438518285751343,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01n4qj",
+            "score": 0.9425074458122253,
+            "topicality": 0.9425074458122253,
+            "description": "Shirt"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.933003842830658,
+            "topicality": 0.933003842830658,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/083jv",
+            "score": 0.9218783974647522,
+            "topicality": 0.9218783974647522,
+            "description": "White"
+        },
+        {
+            "mid": "/m/0csby",
+            "score": 0.912267804145813,
+            "topicality": 0.912267804145813,
+            "description": "Cloud"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

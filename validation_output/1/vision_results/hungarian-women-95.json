@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/hungarian-women/95.jpeg",
+    "search_query": "hungarian-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.98335862159729,
+            "topicality": 0.98335862159729,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.983309268951416,
+            "topicality": 0.983309268951416,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9752597808837891,
+            "topicality": 0.9752597808837891,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703046679496765,
+            "topicality": 0.9703046679496765,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9666109681129456,
+            "topicality": 0.9666109681129456,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9452452063560486,
+            "topicality": 0.9452452063560486,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9449900388717651,
+            "topicality": 0.9449900388717651,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9408807754516602,
+            "topicality": 0.9408807754516602,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9274784326553345,
+            "topicality": 0.9274784326553345,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8878771066665649,
+            "topicality": 0.8878771066665649,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

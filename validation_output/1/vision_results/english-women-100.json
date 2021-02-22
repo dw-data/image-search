@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/english-women/100.jpeg",
+    "search_query": "english-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9692023992538452,
+            "topicality": 0.9692023992538452,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9403519034385681,
+            "topicality": 0.9403519034385681,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.923780083656311,
+            "topicality": 0.923780083656311,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8891288042068481,
+            "topicality": 0.8891288042068481,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8865442276000977,
+            "topicality": 0.8865442276000977,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/0138tl",
+            "score": 0.8566964268684387,
+            "topicality": 0.8566964268684387,
+            "description": "Toy"
+        },
+        {
+            "mid": "/m/06q_t_",
+            "score": 0.8410924673080444,
+            "topicality": 0.8410924673080444,
+            "description": "Bun"
+        },
+        {
+            "mid": "/m/02qqd4n",
+            "score": 0.7986720204353333,
+            "topicality": 0.7986720204353333,
+            "description": "Fashion design"
+        },
+        {
+            "mid": "/m/0dw9f6",
+            "score": 0.7810989618301392,
+            "topicality": 0.7810989618301392,
+            "description": "Creative arts"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.7767710089683533,
+            "topicality": 0.7767710089683533,
+            "description": "Makeover"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

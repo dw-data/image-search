@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/malawian-women/65.jpeg",
+    "search_query": "malawian-women",
+    "position": 65,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9763050079345703,
+            "topicality": 0.9763050079345703,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.8986379504203796,
+            "topicality": 0.8986379504203796,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.8294264674186707,
+            "topicality": 0.8294264674186707,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.7706003785133362,
+            "topicality": 0.7706003785133362,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/02h99d",
+            "score": 0.6264777183532715,
+            "topicality": 0.6264777183532715,
+            "description": "Bonnet"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/german-women/83.jpeg",
+    "search_query": "german-women",
+    "position": 83,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9764878153800964,
+            "topicality": 0.9764878153800964,
+            "description": "People"
+        },
+        {
+            "mid": "/m/07s6nbt",
+            "score": 0.964751660823822,
+            "topicality": 0.964751660823822,
+            "description": "Text"
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.9059498906135559,
+            "topicality": 0.9059498906135559,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.7486549615859985,
+            "topicality": 0.7486549615859985,
+            "description": "Vintage clothing"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

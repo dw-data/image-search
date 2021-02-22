@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/croatian-women/54.jpeg",
+    "search_query": "croatian-women",
+    "position": 54,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9778017997741699,
+            "topicality": 0.9778017997741699,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.977683424949646,
+            "topicality": 0.977683424949646,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9722816348075867,
+            "topicality": 0.9722816348075867,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656206369400024,
+            "topicality": 0.9656206369400024,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540636539459229,
+            "topicality": 0.9540636539459229,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9531781673431396,
+            "topicality": 0.9531781673431396,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/083jv",
+            "score": 0.9491314888000488,
+            "topicality": 0.9491314888000488,
+            "description": "White"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9359441995620728,
+            "topicality": 0.9359441995620728,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9354952573776245,
+            "topicality": 0.9354952573776245,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.9163981676101685,
+            "topicality": 0.9163981676101685,
+            "description": "Fashion model"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

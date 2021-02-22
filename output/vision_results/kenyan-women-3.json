@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/kenyan-women/3.jpeg",
+    "search_query": "kenyan-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9475439190864563,
+            "topicality": 0.9475439190864563,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8829848170280457,
+            "topicality": 0.8829848170280457,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/0438n2",
+            "score": 0.767404317855835,
+            "topicality": 0.767404317855835,
+            "description": "Jheri curl"
+        },
+        {
+            "mid": "/m/015h_t",
+            "score": 0.7245795130729675,
+            "topicality": 0.7245795130729675,
+            "description": "Beard"
+        },
+        {
+            "mid": "/m/04dr76w",
+            "score": 0.6654905676841736,
+            "topicality": 0.6654905676841736,
+            "description": "Bottle"
+        },
+        {
+            "mid": "/m/09tvcd",
+            "score": 0.6152283549308777,
+            "topicality": 0.6152283549308777,
+            "description": "Wine glass"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/comorian-women/3.jpeg",
+    "search_query": "comorian-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9825806617736816,
+            "topicality": 0.9825806617736816,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9754959344863892,
+            "topicality": 0.9754959344863892,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9736378192901611,
+            "topicality": 0.9736378192901611,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9699314832687378,
+            "topicality": 0.9699314832687378,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.932769775390625,
+            "topicality": 0.932769775390625,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9036813378334045,
+            "topicality": 0.9036813378334045,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9009407758712769,
+            "topicality": 0.9009407758712769,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8983778953552246,
+            "topicality": 0.8983778953552246,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8946765661239624,
+            "topicality": 0.8946765661239624,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

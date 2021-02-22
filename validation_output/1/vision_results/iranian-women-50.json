@@ -1,0 +1,66 @@
+{
+    "path": "../output_gcg/imgs/iranian-women/50.jpeg",
+    "search_query": "iranian-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/03x59_",
+            "score": 0.8804186582565308,
+            "topicality": 0.8804186582565308,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.8103014230728149,
+            "topicality": 0.8103014230728149,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0d4v4",
+            "score": 0.7732704877853394,
+            "topicality": 0.7732704877853394,
+            "description": "Window"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.7437882423400879,
+            "topicality": 0.7437882423400879,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/0h64tv6",
+            "score": 0.6876859068870544,
+            "topicality": 0.6876859068870544,
+            "description": "Religious institute"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.6565910577774048,
+            "topicality": 0.6565910577774048,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.6424969434738159,
+            "topicality": 0.6424969434738159,
+            "description": "Tradition"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

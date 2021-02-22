@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/omani-women/82.jpeg",
+    "search_query": "omani-women",
+    "position": 82,
+    "label_annotations": [
+        {
+            "mid": "/m/015s2f",
+            "score": 0.9634342789649963,
+            "topicality": 0.9634342789649963,
+            "description": "Water resources"
+        },
+        {
+            "mid": "/m/03kj4q",
+            "score": 0.8703333139419556,
+            "topicality": 0.8703333139419556,
+            "description": "Watercourse"
+        },
+        {
+            "mid": "/m/01g0g",
+            "score": 0.6952913999557495,
+            "topicality": 0.6952913999557495,
+            "description": "Brick"
+        },
+        {
+            "mid": "/m/03h5wy",
+            "score": 0.6727398633956909,
+            "topicality": 0.6727398633956909,
+            "description": "Channel"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

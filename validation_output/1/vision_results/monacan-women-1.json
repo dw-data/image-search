@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/monacan-women/1.jpeg",
+    "search_query": "monacan-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9567947387695312,
+            "topicality": 0.9567947387695312,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9431980848312378,
+            "topicality": 0.9431980848312378,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9223116636276245,
+            "topicality": 0.9223116636276245,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/050h26",
+            "score": 0.8581098914146423,
+            "topicality": 0.8581098914146423,
+            "description": "Drinkware"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8575035333633423,
+            "topicality": 0.8575035333633423,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/088fh",
+            "score": 0.8487956523895264,
+            "topicality": 0.8487956523895264,
+            "description": "Yellow"
+        },
+        {
+            "mid": "/m/0271t",
+            "score": 0.8210696578025818,
+            "topicality": 0.8210696578025818,
+            "description": "Drink"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.7923824787139893,
+            "topicality": 0.7923824787139893,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/05y5lj",
+            "score": 0.7706364989280701,
+            "topicality": 0.7706364989280701,
+            "description": "Sports equipment"
+        },
+        {
+            "mid": "/m/06pg22",
+            "score": 0.7428473830223083,
+            "topicality": 0.7428473830223083,
+            "description": "Snapshot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

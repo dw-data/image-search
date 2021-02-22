@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/s\u00e3o-tom\u00e9an-women/89.jpeg",
+    "search_query": "s\u00e3o-tom\u00e9an-women",
+    "position": 89,
+    "label_annotations": [
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9572016000747681,
+            "topicality": 0.9572016000747681,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.7993428111076355,
+            "topicality": 0.7993428111076355,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/0174n1",
+            "score": 0.6038160920143127,
+            "topicality": 0.6038160920143127,
+            "description": "Glove"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/american-women/91.jpeg",
+    "search_query": "american-women",
+    "position": 91,
+    "label_annotations": [
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9791807532310486,
+            "topicality": 0.9791807532310486,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702175855636597,
+            "topicality": 0.9702175855636597,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9137442111968994,
+            "topicality": 0.9137442111968994,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8881939053535461,
+            "topicality": 0.8881939053535461,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8741141557693481,
+            "topicality": 0.8741141557693481,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.7787623405456543,
+            "topicality": 0.7787623405456543,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/01yttv",
+            "score": 0.7612904906272888,
+            "topicality": 0.7612904906272888,
+            "description": "Audio equipment"
+        },
+        {
+            "mid": "/m/01xr66",
+            "score": 0.7606741786003113,
+            "topicality": 0.7606741786003113,
+            "description": "Spokesperson"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.7587771415710449,
+            "topicality": 0.7587771415710449,
+            "description": "Jewellery"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

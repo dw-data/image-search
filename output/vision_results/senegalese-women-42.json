@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/senegalese-women/42.jpeg",
+    "search_query": "senegalese-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828215003013611,
+            "topicality": 0.8828215003013611,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.7375215888023376,
+            "topicality": 0.7375215888023376,
+            "description": "One-piece garment"
+        },
+        {
+            "mid": "/m/01b638",
+            "score": 0.6589177846908569,
+            "topicality": 0.6589177846908569,
+            "description": "Boot"
+        },
+        {
+            "mid": "/m/026bk",
+            "score": 0.5572782158851624,
+            "topicality": 0.5572782158851624,
+            "description": "Dance"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

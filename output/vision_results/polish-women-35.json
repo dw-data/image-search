@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/polish-women/35.jpeg",
+    "search_query": "polish-women",
+    "position": 35,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9766603112220764,
+            "topicality": 0.9766603112220764,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9594834446907043,
+            "topicality": 0.9594834446907043,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.9216428995132446,
+            "topicality": 0.9216428995132446,
+            "description": "Protest"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8709571361541748,
+            "topicality": 0.8709571361541748,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.7721924185752869,
+            "topicality": 0.7721924185752869,
+            "description": "Banner"
+        },
+        {
+            "mid": "/m/02k88w",
+            "score": 0.7715911865234375,
+            "topicality": 0.7715911865234375,
+            "description": "Rebellion"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.6227637529373169,
+            "topicality": 0.6227637529373169,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/026yq0z",
+            "score": 0.5709481239318848,
+            "topicality": 0.5709481239318848,
+            "description": "Demonstration"
+        },
+        {
+            "mid": "/m/0vlys",
+            "score": 0.5071471333503723,
+            "topicality": 0.5071471333503723,
+            "description": "Tower block"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

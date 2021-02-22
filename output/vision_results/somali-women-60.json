@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/somali-women/60.jpeg",
+    "search_query": "somali-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9894396066665649,
+            "topicality": 0.9894396066665649,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9885948896408081,
+            "topicality": 0.9885948896408081,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9839211106300354,
+            "topicality": 0.9839211106300354,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740281701087952,
+            "topicality": 0.9740281701087952,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9689005017280579,
+            "topicality": 0.9689005017280579,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681845903396606,
+            "topicality": 0.9681845903396606,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.96390700340271,
+            "topicality": 0.96390700340271,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9331387281417847,
+            "topicality": 0.9331387281417847,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/02w3_2",
+            "score": 0.9237502217292786,
+            "topicality": 0.9237502217292786,
+            "description": "Formal wear"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

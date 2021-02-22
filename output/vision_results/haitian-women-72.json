@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/haitian-women/72.jpeg",
+    "search_query": "haitian-women",
+    "position": 72,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879618883132935,
+            "topicality": 0.9879618883132935,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9689947366714478,
+            "topicality": 0.9689947366714478,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.901348352432251,
+            "topicality": 0.901348352432251,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828104138374329,
+            "topicality": 0.8828104138374329,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.8185166120529175,
+            "topicality": 0.8185166120529175,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/0dv5r",
+            "score": 0.7787045836448669,
+            "topicality": 0.7787045836448669,
+            "description": "Camera"
+        },
+        {
+            "mid": "/m/0hgntgw",
+            "score": 0.7560346126556396,
+            "topicality": 0.7560346126556396,
+            "description": "Active tank"
+        },
+        {
+            "mid": "/m/02fq_6",
+            "score": 0.6334484219551086,
+            "topicality": 0.6334484219551086,
+            "description": "Fedora"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.6230927109718323,
+            "topicality": 0.6230927109718323,
+            "description": "Sun hat"
+        },
+        {
+            "mid": "/m/07bjf",
+            "score": 0.5272464156150818,
+            "topicality": 0.5272464156150818,
+            "description": "Single-lens reflex camera"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "POSSIBLE"
+        }
+    }
+}

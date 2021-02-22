@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/egyptian-women/22.jpeg",
+    "search_query": "egyptian-women",
+    "position": 22,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9886192679405212,
+            "topicality": 0.9886192679405212,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880485534667969,
+            "topicality": 0.9880485534667969,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9846559166908264,
+            "topicality": 0.9846559166908264,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9835290908813477,
+            "topicality": 0.9835290908813477,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9800547957420349,
+            "topicality": 0.9800547957420349,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789795875549316,
+            "topicality": 0.9789795875549316,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9783325791358948,
+            "topicality": 0.9783325791358948,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9735824465751648,
+            "topicality": 0.9735824465751648,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9734224677085876,
+            "topicality": 0.9734224677085876,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.9695923328399658,
+            "topicality": 0.9695923328399658,
+            "description": "Earrings"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

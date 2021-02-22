@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/danish-women/69.jpeg",
+    "search_query": "danish-women",
+    "position": 69,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9829995036125183,
+            "topicality": 0.9829995036125183,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9755502343177795,
+            "topicality": 0.9755502343177795,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9697628617286682,
+            "topicality": 0.9697628617286682,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9354165196418762,
+            "topicality": 0.9354165196418762,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.886058509349823,
+            "topicality": 0.886058509349823,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8653293251991272,
+            "topicality": 0.8653293251991272,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8591889142990112,
+            "topicality": 0.8591889142990112,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/02jjt",
+            "score": 0.8478851914405823,
+            "topicality": 0.8478851914405823,
+            "description": "Entertainment"
+        },
+        {
+            "mid": "/m/05qjc",
+            "score": 0.8203127384185791,
+            "topicality": 0.8203127384185791,
+            "description": "Performing arts"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

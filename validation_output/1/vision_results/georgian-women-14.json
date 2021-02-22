@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/georgian-women/14.jpeg",
+    "search_query": "georgian-women",
+    "position": 14,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9835205078125,
+            "topicality": 0.9835205078125,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9826847910881042,
+            "topicality": 0.9826847910881042,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9774715304374695,
+            "topicality": 0.9774715304374695,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9699592590332031,
+            "topicality": 0.9699592590332031,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9475902318954468,
+            "topicality": 0.9475902318954468,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9436758756637573,
+            "topicality": 0.9436758756637573,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9251340627670288,
+            "topicality": 0.9251340627670288,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.886741578578949,
+            "topicality": 0.886741578578949,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8795878887176514,
+            "topicality": 0.8795878887176514,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724504113197327,
+            "topicality": 0.8724504113197327,
+            "description": "Sleeve"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

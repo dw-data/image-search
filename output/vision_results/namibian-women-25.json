@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/namibian-women/25.jpeg",
+    "search_query": "namibian-women",
+    "position": 25,
+    "label_annotations": [
+        {
+            "mid": "/m/014dsx",
+            "score": 0.8783431053161621,
+            "topicality": 0.8783431053161621,
+            "description": "Travel"
+        },
+        {
+            "mid": "/m/0h_m",
+            "score": 0.6752341985702515,
+            "topicality": 0.6752341985702515,
+            "description": "Adventure"
+        },
+        {
+            "mid": "/m/0174n1",
+            "score": 0.5893059968948364,
+            "topicality": 0.5893059968948364,
+            "description": "Glove"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

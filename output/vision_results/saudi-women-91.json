@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/saudi-women/91.jpeg",
+    "search_query": "saudi-women",
+    "position": 91,
+    "label_annotations": [
+        {
+            "mid": "/m/0gjkl",
+            "score": 0.9017771482467651,
+            "topicality": 0.9017771482467651,
+            "description": "Watch"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.63277268409729,
+            "topicality": 0.63277268409729,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/031pr7",
+            "score": 0.5475641489028931,
+            "topicality": 0.5475641489028931,
+            "description": "Analog watch"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.5170217156410217,
+            "topicality": 0.5170217156410217,
+            "description": "Shawl"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

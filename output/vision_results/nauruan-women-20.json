@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/nauruan-women/20.jpeg",
+    "search_query": "nauruan-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9575560688972473,
+            "topicality": 0.9575560688972473,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.8983003497123718,
+            "topicality": 0.8983003497123718,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/02d46y",
+            "score": 0.8805742263793945,
+            "topicality": 0.8805742263793945,
+            "description": "Cap"
+        },
+        {
+            "mid": "/m/027xyl",
+            "score": 0.873680055141449,
+            "topicality": 0.873680055141449,
+            "description": "Baseball cap"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.8598020076751709,
+            "topicality": 0.8598020076751709,
+            "description": "Denim"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.5314999222755432,
+            "topicality": 0.5314999222755432,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/03gt5g4",
+            "score": 0.5074888467788696,
+            "topicality": 0.5074888467788696,
+            "description": "Cricket cap"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

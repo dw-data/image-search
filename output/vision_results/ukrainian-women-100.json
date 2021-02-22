@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/ukrainian-women/100.jpeg",
+    "search_query": "ukrainian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9886049032211304,
+            "topicality": 0.9886049032211304,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837498664855957,
+            "topicality": 0.9837498664855957,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9803284406661987,
+            "topicality": 0.9803284406661987,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9796215891838074,
+            "topicality": 0.9796215891838074,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790173768997192,
+            "topicality": 0.9790173768997192,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9748676419258118,
+            "topicality": 0.9748676419258118,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9733501076698303,
+            "topicality": 0.9733501076698303,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9486538767814636,
+            "topicality": 0.9486538767814636,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9388786554336548,
+            "topicality": 0.9388786554336548,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

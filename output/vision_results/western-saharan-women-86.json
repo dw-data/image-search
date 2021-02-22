@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/western-saharan-women/86.jpeg",
+    "search_query": "western-saharan-women",
+    "position": 86,
+    "label_annotations": [
+        {
+            "mid": "/m/015kr",
+            "score": 0.9349798560142517,
+            "topicality": 0.9349798560142517,
+            "description": "Bridge"
+        },
+        {
+            "mid": "/m/0d0h0h",
+            "score": 0.5893241167068481,
+            "topicality": 0.5893241167068481,
+            "description": "Girder bridge"
+        },
+        {
+            "mid": "/m/083mg",
+            "score": 0.5800044536590576,
+            "topicality": 0.5800044536590576,
+            "description": "Walking"
+        },
+        {
+            "mid": "/m/0blz9",
+            "score": 0.5157607197761536,
+            "topicality": 0.5157607197761536,
+            "description": "Fence"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

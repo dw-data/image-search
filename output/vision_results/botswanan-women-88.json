@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/botswanan-women/88.jpeg",
+    "search_query": "botswanan-women",
+    "position": 88,
+    "label_annotations": [
+        {
+            "mid": "/m/01s105",
+            "score": 0.8137416243553162,
+            "topicality": 0.8137416243553162,
+            "description": "Cabinetry"
+        },
+        {
+            "mid": "/m/019dx1",
+            "score": 0.7856490612030029,
+            "topicality": 0.7856490612030029,
+            "description": "Home appliance"
+        },
+        {
+            "mid": "/m/03rszm",
+            "score": 0.7294791340827942,
+            "topicality": 0.7294791340827942,
+            "description": "Curtain"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.6569502949714661,
+            "topicality": 0.6569502949714661,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/0y3v9",
+            "score": 0.5476611256599426,
+            "topicality": 0.5476611256599426,
+            "description": "Gothic fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

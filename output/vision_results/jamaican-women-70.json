@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/jamaican-women/70.jpeg",
+    "search_query": "jamaican-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9895870089530945,
+            "topicality": 0.9895870089530945,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880043864250183,
+            "topicality": 0.9880043864250183,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9841780066490173,
+            "topicality": 0.9841780066490173,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9837439656257629,
+            "topicality": 0.9837439656257629,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790179133415222,
+            "topicality": 0.9790179133415222,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9785364270210266,
+            "topicality": 0.9785364270210266,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.977686882019043,
+            "topicality": 0.977686882019043,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.974082350730896,
+            "topicality": 0.974082350730896,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9715138673782349,
+            "topicality": 0.9715138673782349,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9692786931991577,
+            "topicality": 0.9692786931991577,
+            "description": "Chin"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

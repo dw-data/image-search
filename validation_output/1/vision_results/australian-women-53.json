@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/australian-women/53.jpeg",
+    "search_query": "australian-women",
+    "position": 53,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9831246733665466,
+            "topicality": 0.9831246733665466,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9541892409324646,
+            "topicality": 0.9541892409324646,
+            "description": "Smile"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8770517110824585,
+            "topicality": 0.8770517110824585,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8730595111846924,
+            "topicality": 0.8730595111846924,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.8371948599815369,
+            "topicality": 0.8371948599815369,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/01bgsw",
+            "score": 0.7782351970672607,
+            "topicality": 0.7782351970672607,
+            "description": "Toddler"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.7764037251472473,
+            "topicality": 0.7764037251472473,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0ytgt",
+            "score": 0.7589027285575867,
+            "topicality": 0.7589027285575867,
+            "description": "Child"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.7536566853523254,
+            "topicality": 0.7536566853523254,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/0jnvp",
+            "score": 0.7518038153648376,
+            "topicality": 0.7518038153648376,
+            "description": "Baby"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

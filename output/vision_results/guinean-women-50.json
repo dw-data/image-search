@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/guinean-women/50.jpeg",
+    "search_query": "guinean-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/015c4z",
+            "score": 0.8912516832351685,
+            "topicality": 0.8912516832351685,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.8691723942756653,
+            "topicality": 0.8691723942756653,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.8665985465049744,
+            "topicality": 0.8665985465049744,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/05y4t",
+            "score": 0.7243087291717529,
+            "topicality": 0.7243087291717529,
+            "description": "Paint"
+        },
+        {
+            "mid": "/m/0p9xx",
+            "score": 0.6905469298362732,
+            "topicality": 0.6905469298362732,
+            "description": "Visual arts"
+        },
+        {
+            "mid": "/m/05qdh",
+            "score": 0.5900256633758545,
+            "topicality": 0.5900256633758545,
+            "description": "Painting"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

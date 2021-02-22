@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/central-african-women/71.jpeg",
+    "search_query": "central-african-women",
+    "position": 71,
+    "label_annotations": [
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.9585995078086853,
+            "topicality": 0.9585995078086853,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/0gjbg72",
+            "score": 0.8890056014060974,
+            "topicality": 0.8890056014060974,
+            "description": "Shelf"
+        },
+        {
+            "mid": "/m/0h8n982",
+            "score": 0.743281900882721,
+            "topicality": 0.743281900882721,
+            "description": "Shelving"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

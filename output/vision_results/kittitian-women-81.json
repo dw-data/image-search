@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/kittitian-women/81.jpeg",
+    "search_query": "kittitian-women",
+    "position": 81,
+    "label_annotations": [
+        {
+            "mid": "/m/01j48b",
+            "score": 0.8949605226516724,
+            "topicality": 0.8949605226516724,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/01bmhj",
+            "score": 0.8057363629341125,
+            "topicality": 0.8057363629341125,
+            "description": "Thumb"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.8009049892425537,
+            "topicality": 0.8009049892425537,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/023j4r",
+            "score": 0.7911341190338135,
+            "topicality": 0.7911341190338135,
+            "description": "Nail"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.6721446514129639,
+            "topicality": 0.6721446514129639,
+            "description": "Bracelet"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

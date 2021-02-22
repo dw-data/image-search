@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/kenyan-women/1.jpeg",
+    "search_query": "kenyan-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9825828075408936,
+            "topicality": 0.9825828075408936,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9728687405586243,
+            "topicality": 0.9728687405586243,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9693701267242432,
+            "topicality": 0.9693701267242432,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9659132957458496,
+            "topicality": 0.9659132957458496,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9352115988731384,
+            "topicality": 0.9352115988731384,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/09686",
+            "score": 0.918528139591217,
+            "topicality": 0.918528139591217,
+            "description": "Vertebrate"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9082898497581482,
+            "topicality": 0.9082898497581482,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/09t49",
+            "score": 0.8988561630249023,
+            "topicality": 0.8988561630249023,
+            "description": "Leaf"
+        },
+        {
+            "mid": "/m/019sc",
+            "score": 0.8974589705467224,
+            "topicality": 0.8974589705467224,
+            "description": "Black"
+        },
+        {
+            "mid": "/m/02py09",
+            "score": 0.8933066129684448,
+            "topicality": 0.8933066129684448,
+            "description": "Natural environment"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

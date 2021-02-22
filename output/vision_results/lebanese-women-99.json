@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/lebanese-women/99.jpeg",
+    "search_query": "lebanese-women",
+    "position": 99,
+    "label_annotations": [
+        {
+            "mid": "/m/0250x",
+            "score": 0.697236180305481,
+            "topicality": 0.697236180305481,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6898639798164368,
+            "topicality": 0.6898639798164368,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/027qw1p",
+            "score": 0.5797070860862732,
+            "topicality": 0.5797070860862732,
+            "description": "Feathered hair"
+        },
+        {
+            "mid": "/m/028mzr",
+            "score": 0.5646215677261353,
+            "topicality": 0.5646215677261353,
+            "description": "Hair coloring"
+        },
+        {
+            "mid": "/j/4kr7kk",
+            "score": 0.5644378662109375,
+            "topicality": 0.5644378662109375,
+            "description": "Pleased"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

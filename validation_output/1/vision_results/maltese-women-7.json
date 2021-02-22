@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/maltese-women/7.jpeg",
+    "search_query": "maltese-women",
+    "position": 7,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9876006841659546,
+            "topicality": 0.9876006841659546,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9844041466712952,
+            "topicality": 0.9844041466712952,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9830083847045898,
+            "topicality": 0.9830083847045898,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9748278260231018,
+            "topicality": 0.9748278260231018,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9734407067298889,
+            "topicality": 0.9734407067298889,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9733994007110596,
+            "topicality": 0.9733994007110596,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0fly7",
+            "score": 0.9716877341270447,
+            "topicality": 0.9716877341270447,
+            "description": "Jeans"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9701001048088074,
+            "topicality": 0.9701001048088074,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9407560229301453,
+            "topicality": 0.9407560229301453,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9368818402290344,
+            "topicality": 0.9368818402290344,
+            "description": "Eye"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

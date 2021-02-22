@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/english-women/60.jpeg",
+    "search_query": "english-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9834632277488708,
+            "topicality": 0.9834632277488708,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9688464999198914,
+            "topicality": 0.9688464999198914,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.9511610865592957,
+            "topicality": 0.9511610865592957,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9392401576042175,
+            "topicality": 0.9392401576042175,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.932766854763031,
+            "topicality": 0.932766854763031,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9226821064949036,
+            "topicality": 0.9226821064949036,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8835328817367554,
+            "topicality": 0.8835328817367554,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8722508549690247,
+            "topicality": 0.8722508549690247,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8430178761482239,
+            "topicality": 0.8430178761482239,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

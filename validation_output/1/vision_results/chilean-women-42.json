@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/chilean-women/42.jpeg",
+    "search_query": "chilean-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9753506779670715,
+            "topicality": 0.9753506779670715,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9752629995346069,
+            "topicality": 0.9752629995346069,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703882336616516,
+            "topicality": 0.9703882336616516,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009718894958,
+            "topicality": 0.9509009718894958,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9457643628120422,
+            "topicality": 0.9457643628120422,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9432454109191895,
+            "topicality": 0.9432454109191895,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.932524561882019,
+            "topicality": 0.932524561882019,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9122684597969055,
+            "topicality": 0.9122684597969055,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9042373895645142,
+            "topicality": 0.9042373895645142,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8904703259468079,
+            "topicality": 0.8904703259468079,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/israeli-women/2.jpeg",
+    "search_query": "israeli-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9837082028388977,
+            "topicality": 0.9837082028388977,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.980086088180542,
+            "topicality": 0.980086088180542,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9736024141311646,
+            "topicality": 0.9736024141311646,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8662047386169434,
+            "topicality": 0.8662047386169434,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8601686954498291,
+            "topicality": 0.8601686954498291,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/014dsx",
+            "score": 0.8380170464515686,
+            "topicality": 0.8380170464515686,
+            "description": "Travel"
+        },
+        {
+            "mid": "/m/04g3r",
+            "score": 0.8027535676956177,
+            "topicality": 0.8027535676956177,
+            "description": "Leisure"
+        },
+        {
+            "mid": "/m/019_nn",
+            "score": 0.7723478078842163,
+            "topicality": 0.7723478078842163,
+            "description": "Friendship"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.7627572417259216,
+            "topicality": 0.7627572417259216,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.7476736903190613,
+            "topicality": 0.7476736903190613,
+            "description": "Team"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/somali-women/80.jpeg",
+    "search_query": "somali-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9767350554466248,
+            "topicality": 0.9767350554466248,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9590657949447632,
+            "topicality": 0.9590657949447632,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/07j7r",
+            "score": 0.954092264175415,
+            "topicality": 0.954092264175415,
+            "description": "Tree"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9502191543579102,
+            "topicality": 0.9502191543579102,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/02d46y",
+            "score": 0.949389636516571,
+            "topicality": 0.949389636516571,
+            "description": "Cap"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9405426383018494,
+            "topicality": 0.9405426383018494,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/0ckc5",
+            "score": 0.8799981474876404,
+            "topicality": 0.8799981474876404,
+            "description": "Magenta"
+        },
+        {
+            "mid": "/m/027xyl",
+            "score": 0.8532226085662842,
+            "topicality": 0.8532226085662842,
+            "description": "Baseball cap"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.5807677507400513,
+            "topicality": 0.5807677507400513,
+            "description": "Shawl"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

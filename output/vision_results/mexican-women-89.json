@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/89.jpeg",
+    "search_query": "mexican-women",
+    "position": 89,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9925786852836609,
+            "topicality": 0.9925786852836609,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9900966882705688,
+            "topicality": 0.9900966882705688,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9890456795692444,
+            "topicality": 0.9890456795692444,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9881308078765869,
+            "topicality": 0.9881308078765869,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/01xygc",
+            "score": 0.9818859696388245,
+            "topicality": 0.9818859696388245,
+            "description": "Coat"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9794881343841553,
+            "topicality": 0.9794881343841553,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/07mhn",
+            "score": 0.9706373810768127,
+            "topicality": 0.9706373810768127,
+            "description": "Trousers"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9686717987060547,
+            "topicality": 0.9686717987060547,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/01n4qj",
+            "score": 0.9590912461280823,
+            "topicality": 0.9590912461280823,
+            "description": "Shirt"
+        },
+        {
+            "mid": "/m/01xyhv",
+            "score": 0.9563274383544922,
+            "topicality": 0.9563274383544922,
+            "description": "Suit"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mauritian-women/21.jpeg",
+    "search_query": "mauritian-women",
+    "position": 21,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9698911309242249,
+            "topicality": 0.9698911309242249,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656186103820801,
+            "topicality": 0.9656186103820801,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540297389030457,
+            "topicality": 0.9540297389030457,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9331921339035034,
+            "topicality": 0.9331921339035034,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.922569751739502,
+            "topicality": 0.922569751739502,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9052326679229736,
+            "topicality": 0.9052326679229736,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9027746915817261,
+            "topicality": 0.9027746915817261,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8891799449920654,
+            "topicality": 0.8891799449920654,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.883910059928894,
+            "topicality": 0.883910059928894,
+            "description": "Trunk"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

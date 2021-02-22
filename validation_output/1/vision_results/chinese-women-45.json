@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/chinese-women/45.jpeg",
+    "search_query": "chinese-women",
+    "position": 45,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9825878739356995,
+            "topicality": 0.9825878739356995,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.969025194644928,
+            "topicality": 0.969025194644928,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9446213841438293,
+            "topicality": 0.9446213841438293,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9395958781242371,
+            "topicality": 0.9395958781242371,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9254775643348694,
+            "topicality": 0.9254775643348694,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/02c66t",
+            "score": 0.9238940477371216,
+            "topicality": 0.9238940477371216,
+            "description": "Wedding dress"
+        },
+        {
+            "mid": "/m/0ltfs",
+            "score": 0.9236445426940918,
+            "topicality": 0.9236445426940918,
+            "description": "Bride"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8855175971984863,
+            "topicality": 0.8855175971984863,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8807819485664368,
+            "topicality": 0.8807819485664368,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

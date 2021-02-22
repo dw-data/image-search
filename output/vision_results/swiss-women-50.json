@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swiss-women/50.jpeg",
+    "search_query": "swiss-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9881633520126343,
+            "topicality": 0.9881633520126343,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9841659665107727,
+            "topicality": 0.9841659665107727,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9768276810646057,
+            "topicality": 0.9768276810646057,
+            "description": "People"
+        },
+        {
+            "mid": "/m/05t_yt",
+            "score": 0.8878819346427917,
+            "topicality": 0.8878819346427917,
+            "description": "Carmine"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.8779192566871643,
+            "topicality": 0.8779192566871643,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/0bkqqh",
+            "score": 0.8546587228775024,
+            "topicality": 0.8546587228775024,
+            "description": "Signage"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.8493536114692688,
+            "topicality": 0.8493536114692688,
+            "description": "Protest"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8344588875770569,
+            "topicality": 0.8344588875770569,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/06zsq",
+            "score": 0.757219135761261,
+            "topicality": 0.757219135761261,
+            "description": "Sign"
+        },
+        {
+            "mid": "/m/01n5jq",
+            "score": 0.6680119633674622,
+            "topicality": 0.6680119633674622,
+            "description": "Poster"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

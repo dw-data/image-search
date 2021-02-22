@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/english-women/50.jpeg",
+    "search_query": "english-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9323002099990845,
+            "topicality": 0.9323002099990845,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/02c66t",
+            "score": 0.9031593799591064,
+            "topicality": 0.9031593799591064,
+            "description": "Wedding dress"
+        },
+        {
+            "mid": "/m/0hgs7v4",
+            "score": 0.8857986330986023,
+            "topicality": 0.8857986330986023,
+            "description": "Bridal clothing"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8831382989883423,
+            "topicality": 0.8831382989883423,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8639513254165649,
+            "topicality": 0.8639513254165649,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8550529479980469,
+            "topicality": 0.8550529479980469,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/01xyhv",
+            "score": 0.8192468285560608,
+            "topicality": 0.8192468285560608,
+            "description": "Suit"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8152199983596802,
+            "topicality": 0.8152199983596802,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/0ltfs",
+            "score": 0.8130015730857849,
+            "topicality": 0.8130015730857849,
+            "description": "Bride"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

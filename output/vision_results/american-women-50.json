@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/american-women/50.jpeg",
+    "search_query": "american-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.97899329662323,
+            "topicality": 0.97899329662323,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9734472632408142,
+            "topicality": 0.9734472632408142,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656713008880615,
+            "topicality": 0.9656713008880615,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/06fvc",
+            "score": 0.9556212425231934,
+            "topicality": 0.9556212425231934,
+            "description": "Red"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9539539217948914,
+            "topicality": 0.9539539217948914,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9279900193214417,
+            "topicality": 0.9279900193214417,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.9192128777503967,
+            "topicality": 0.9192128777503967,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.9071561694145203,
+            "topicality": 0.9071561694145203,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.903435230255127,
+            "topicality": 0.903435230255127,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "POSSIBLE"
+        }
+    }
+}

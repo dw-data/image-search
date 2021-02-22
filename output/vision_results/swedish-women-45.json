@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swedish-women/45.jpeg",
+    "search_query": "swedish-women",
+    "position": 45,
+    "label_annotations": [
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9685595631599426,
+            "topicality": 0.9685595631599426,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9651859402656555,
+            "topicality": 0.9651859402656555,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9021568894386292,
+            "topicality": 0.9021568894386292,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.8525046110153198,
+            "topicality": 0.8525046110153198,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8383933305740356,
+            "topicality": 0.8383933305740356,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/0715t2",
+            "score": 0.7871774435043335,
+            "topicality": 0.7871774435043335,
+            "description": "Calf"
+        },
+        {
+            "mid": "/m/031n1",
+            "score": 0.7283134460449219,
+            "topicality": 0.7283134460449219,
+            "description": "Foot"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.7200621366500854,
+            "topicality": 0.7200621366500854,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/015mm6",
+            "score": 0.702480137348175,
+            "topicality": 0.702480137348175,
+            "description": "Tights"
+        },
+        {
+            "mid": "/m/0142y7",
+            "score": 0.6143025755882263,
+            "topicality": 0.6143025755882263,
+            "description": "Spandex"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

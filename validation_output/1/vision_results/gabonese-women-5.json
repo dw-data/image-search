@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/gabonese-women/5.jpeg",
+    "search_query": "gabonese-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9832686185836792,
+            "topicality": 0.9832686185836792,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9762288928031921,
+            "topicality": 0.9762288928031921,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9705426096916199,
+            "topicality": 0.9705426096916199,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9681688547134399,
+            "topicality": 0.9681688547134399,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9409694075584412,
+            "topicality": 0.9409694075584412,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9325445890426636,
+            "topicality": 0.9325445890426636,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9232472777366638,
+            "topicality": 0.9232472777366638,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9080276489257812,
+            "topicality": 0.9080276489257812,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/019sc",
+            "score": 0.8955450057983398,
+            "topicality": 0.8955450057983398,
+            "description": "Black"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

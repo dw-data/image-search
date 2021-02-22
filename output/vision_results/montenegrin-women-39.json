@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/montenegrin-women/39.jpeg",
+    "search_query": "montenegrin-women",
+    "position": 39,
+    "label_annotations": [
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9817411303520203,
+            "topicality": 0.9817411303520203,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773125648498535,
+            "topicality": 0.9773125648498535,
+            "description": "People"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.953839123249054,
+            "topicality": 0.953839123249054,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.8900703191757202,
+            "topicality": 0.8900703191757202,
+            "description": "Audience"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

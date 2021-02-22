@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/deutsche-frauen/17.jpeg",
+    "search_query": "deutsche-frauen",
+    "position": 17,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9864567518234253,
+            "topicality": 0.9864567518234253,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9842616319656372,
+            "topicality": 0.9842616319656372,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9737061858177185,
+            "topicality": 0.9737061858177185,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9665175080299377,
+            "topicality": 0.9665175080299377,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/013_44",
+            "score": 0.9451874494552612,
+            "topicality": 0.9451874494552612,
+            "description": "Leotard"
+        },
+        {
+            "mid": "/m/025xryy",
+            "score": 0.8279946446418762,
+            "topicality": 0.8279946446418762,
+            "description": "Sportswear"
+        },
+        {
+            "mid": "/m/01sdv7",
+            "score": 0.8000887632369995,
+            "topicality": 0.8000887632369995,
+            "description": "Vest"
+        },
+        {
+            "mid": "/m/02mfpb",
+            "score": 0.7957382798194885,
+            "topicality": 0.7957382798194885,
+            "description": "Croydon facelift"
+        },
+        {
+            "mid": "/m/02jjt",
+            "score": 0.7901942133903503,
+            "topicality": 0.7901942133903503,
+            "description": "Entertainment"
+        },
+        {
+            "mid": "/m/01hp22",
+            "score": 0.783997654914856,
+            "topicality": 0.783997654914856,
+            "description": "Artistic gymnastics"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

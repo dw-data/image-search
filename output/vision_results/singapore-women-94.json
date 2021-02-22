@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/singapore-women/94.jpeg",
+    "search_query": "singapore-women",
+    "position": 94,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9904462099075317,
+            "topicality": 0.9904462099075317,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9892287850379944,
+            "topicality": 0.9892287850379944,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9884123802185059,
+            "topicality": 0.9884123802185059,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9843645095825195,
+            "topicality": 0.9843645095825195,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9839373826980591,
+            "topicality": 0.9839373826980591,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9809600710868835,
+            "topicality": 0.9809600710868835,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.97941654920578,
+            "topicality": 0.97941654920578,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790143370628357,
+            "topicality": 0.9790143370628357,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9770030975341797,
+            "topicality": 0.9770030975341797,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9761168360710144,
+            "topicality": 0.9761168360710144,
+            "description": "Product"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

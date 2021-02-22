@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/turkmen-women/98.jpeg",
+    "search_query": "turkmen-women",
+    "position": 98,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9884967803955078,
+            "topicality": 0.9884967803955078,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837815761566162,
+            "topicality": 0.9837815761566162,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9519447088241577,
+            "topicality": 0.9519447088241577,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9431508779525757,
+            "topicality": 0.9431508779525757,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.7910619378089905,
+            "topicality": 0.7910619378089905,
+            "description": "Conversation"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.6994684338569641,
+            "topicality": 0.6994684338569641,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/0k2n5",
+            "score": 0.5615477561950684,
+            "topicality": 0.5615477561950684,
+            "description": "Daylighting"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

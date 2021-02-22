@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/45.jpeg",
+    "search_query": "mexican-women",
+    "position": 45,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740562438964844,
+            "topicality": 0.9740562438964844,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9694639444351196,
+            "topicality": 0.9694639444351196,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656225442886353,
+            "topicality": 0.9656225442886353,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540667533874512,
+            "topicality": 0.9540667533874512,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9294378757476807,
+            "topicality": 0.9294378757476807,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.9272238612174988,
+            "topicality": 0.9272238612174988,
+            "description": "Fashion model"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9217689037322998,
+            "topicality": 0.9217689037322998,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9126140475273132,
+            "topicality": 0.9126140475273132,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9083219766616821,
+            "topicality": 0.9083219766616821,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

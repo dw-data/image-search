@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/guyanese-women/1.jpeg",
+    "search_query": "guyanese-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9834730625152588,
+            "topicality": 0.9834730625152588,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9799439907073975,
+            "topicality": 0.9799439907073975,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9750694036483765,
+            "topicality": 0.9750694036483765,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9582920074462891,
+            "topicality": 0.9582920074462891,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9447214007377625,
+            "topicality": 0.9447214007377625,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9432709217071533,
+            "topicality": 0.9432709217071533,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9210209846496582,
+            "topicality": 0.9210209846496582,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8864193558692932,
+            "topicality": 0.8864193558692932,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8796520829200745,
+            "topicality": 0.8796520829200745,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8728719353675842,
+            "topicality": 0.8728719353675842,
+            "description": "Waist"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

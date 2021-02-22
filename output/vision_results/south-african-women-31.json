@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/south-african-women/31.jpeg",
+    "search_query": "south-african-women",
+    "position": 31,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9693201780319214,
+            "topicality": 0.9693201780319214,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8555358648300171,
+            "topicality": 0.8555358648300171,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/09dv7",
+            "score": 0.8506993055343628,
+            "topicality": 0.8506993055343628,
+            "description": "Soil"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.7980731725692749,
+            "topicality": 0.7980731725692749,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.6215981245040894,
+            "topicality": 0.6215981245040894,
+            "description": "Day dress"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.512524425983429,
+            "topicality": 0.512524425983429,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/02fbqn",
+            "score": 0.5028582811355591,
+            "topicality": 0.5028582811355591,
+            "description": "Headpiece"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

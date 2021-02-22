@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/myanma-women/20.jpeg",
+    "search_query": "myanma-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9699042439460754,
+            "topicality": 0.9699042439460754,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828298449516296,
+            "topicality": 0.8828298449516296,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/01j0mk",
+            "score": 0.6617461442947388,
+            "topicality": 0.6617461442947388,
+            "description": "Customer"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

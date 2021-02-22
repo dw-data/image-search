@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/yemeni-women/100.jpeg",
+    "search_query": "yemeni-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773517847061157,
+            "topicality": 0.9773517847061157,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9758166074752808,
+            "topicality": 0.9758166074752808,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9681283831596375,
+            "topicality": 0.9681283831596375,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9634910225868225,
+            "topicality": 0.9634910225868225,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9390939474105835,
+            "topicality": 0.9390939474105835,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9120755791664124,
+            "topicality": 0.9120755791664124,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.9098630547523499,
+            "topicality": 0.9098630547523499,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.854119598865509,
+            "topicality": 0.854119598865509,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.8377195596694946,
+            "topicality": 0.8377195596694946,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.8124033808708191,
+            "topicality": 0.8124033808708191,
+            "description": "Flag"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/spanish-women/64.jpeg",
+    "search_query": "spanish-women",
+    "position": 64,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9841232299804688,
+            "topicality": 0.9841232299804688,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9835216403007507,
+            "topicality": 0.9835216403007507,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0fly7",
+            "score": 0.9705904126167297,
+            "topicality": 0.9705904126167297,
+            "description": "Jeans"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9702630639076233,
+            "topicality": 0.9702630639076233,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702621102333069,
+            "topicality": 0.9702621102333069,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9517927169799805,
+            "topicality": 0.9517927169799805,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9502119421958923,
+            "topicality": 0.9502119421958923,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.933029055595398,
+            "topicality": 0.933029055595398,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.9030629396438599,
+            "topicality": 0.9030629396438599,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

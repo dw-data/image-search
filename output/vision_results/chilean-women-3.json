@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/chilean-women/3.jpeg",
+    "search_query": "chilean-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790089130401611,
+            "topicality": 0.9790089130401611,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9787840247154236,
+            "topicality": 0.9787840247154236,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739684462547302,
+            "topicality": 0.9739684462547302,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681844115257263,
+            "topicality": 0.9681844115257263,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639068245887756,
+            "topicality": 0.9639068245887756,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.958298921585083,
+            "topicality": 0.958298921585083,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9443144798278809,
+            "topicality": 0.9443144798278809,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.924530565738678,
+            "topicality": 0.924530565738678,
+            "description": "Tooth"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8979887962341309,
+            "topicality": 0.8979887962341309,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

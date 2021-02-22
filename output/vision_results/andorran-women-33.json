@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/andorran-women/33.jpeg",
+    "search_query": "andorran-women",
+    "position": 33,
+    "label_annotations": [
+        {
+            "mid": "/m/07s6nbt",
+            "score": 0.9610068202018738,
+            "topicality": 0.9610068202018738,
+            "description": "Text"
+        },
+        {
+            "mid": "/m/03scnj",
+            "score": 0.9343741536140442,
+            "topicality": 0.9343741536140442,
+            "description": "Line"
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.9130536317825317,
+            "topicality": 0.9130536317825317,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/030zfn",
+            "score": 0.8528438806533813,
+            "topicality": 0.8528438806533813,
+            "description": "Parallel"
+        },
+        {
+            "mid": "/m/01vkl",
+            "score": 0.8320192694664001,
+            "topicality": 0.8320192694664001,
+            "description": "Circle"
+        },
+        {
+            "mid": "/m/0j62f",
+            "score": 0.8215005993843079,
+            "topicality": 0.8215005993843079,
+            "description": "Rectangle"
+        },
+        {
+            "mid": "/m/05fwb",
+            "score": 0.7472022175788879,
+            "topicality": 0.7472022175788879,
+            "description": "Number"
+        },
+        {
+            "mid": "/m/09ddf",
+            "score": 0.6136510372161865,
+            "topicality": 0.6136510372161865,
+            "description": "Symbol"
+        },
+        {
+            "mid": "/m/030jx3",
+            "score": 0.6062355637550354,
+            "topicality": 0.6062355637550354,
+            "description": "Square"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

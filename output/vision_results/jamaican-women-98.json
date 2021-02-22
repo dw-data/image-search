@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/jamaican-women/98.jpeg",
+    "search_query": "jamaican-women",
+    "position": 98,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9895453453063965,
+            "topicality": 0.9895453453063965,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9737763404846191,
+            "topicality": 0.9737763404846191,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9672709107398987,
+            "topicality": 0.9672709107398987,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9600067138671875,
+            "topicality": 0.9600067138671875,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9229097366333008,
+            "topicality": 0.9229097366333008,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/01g8j",
+            "score": 0.9165293574333191,
+            "topicality": 0.9165293574333191,
+            "description": "Bikini"
+        },
+        {
+            "mid": "/m/09j1x",
+            "score": 0.9147132635116577,
+            "topicality": 0.9147132635116577,
+            "description": "Undergarment"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9145296812057495,
+            "topicality": 0.9145296812057495,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/0hgs8s2",
+            "score": 0.9125936031341553,
+            "topicality": 0.9125936031341553,
+            "description": "Swimsuit bottom"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.9089046120643616,
+            "topicality": 0.9089046120643616,
+            "description": "Abdomen"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

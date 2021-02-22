@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/colombian-women/1.jpeg",
+    "search_query": "colombian-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9886378645896912,
+            "topicality": 0.9886378645896912,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9878856539726257,
+            "topicality": 0.9878856539726257,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9763877987861633,
+            "topicality": 0.9763877987861633,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01fklc",
+            "score": 0.9334489107131958,
+            "topicality": 0.9334489107131958,
+            "description": "Pink"
+        },
+        {
+            "mid": "/m/09ggk",
+            "score": 0.9054242968559265,
+            "topicality": 0.9054242968559265,
+            "description": "Purple"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.8665730357170105,
+            "topicality": 0.8665730357170105,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.8505843281745911,
+            "topicality": 0.8505843281745911,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/063r3",
+            "score": 0.8331642150878906,
+            "topicality": 0.8331642150878906,
+            "description": "Parade"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8250144124031067,
+            "topicality": 0.8250144124031067,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/01b638",
+            "score": 0.7364482879638672,
+            "topicality": 0.7364482879638672,
+            "description": "Boot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

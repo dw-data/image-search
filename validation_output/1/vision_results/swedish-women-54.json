@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/swedish-women/54.jpeg",
+    "search_query": "swedish-women",
+    "position": 54,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9842624664306641,
+            "topicality": 0.9842624664306641,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9841236472129822,
+            "topicality": 0.9841236472129822,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9694473743438721,
+            "topicality": 0.9694473743438721,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/05s2s",
+            "score": 0.9644148945808411,
+            "topicality": 0.9644148945808411,
+            "description": "Plant"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9595022201538086,
+            "topicality": 0.9595022201538086,
+            "description": "Smile"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9130080938339233,
+            "topicality": 0.9130080938339233,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8853877186775208,
+            "topicality": 0.8853877186775208,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0c9ph5",
+            "score": 0.8798147439956665,
+            "topicality": 0.8798147439956665,
+            "description": "Flower"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8713899254798889,
+            "topicality": 0.8713899254798889,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.8554548621177673,
+            "topicality": 0.8554548621177673,
+            "description": "Mammal"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

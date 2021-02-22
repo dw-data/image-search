@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/swedish-women/84.jpeg",
+    "search_query": "swedish-women",
+    "position": 84,
+    "label_annotations": [
+        {
+            "mid": "/m/01940j",
+            "score": 0.7122340202331543,
+            "topicality": 0.7122340202331543,
+            "description": "Backpack"
+        },
+        {
+            "mid": "/m/0dv5r",
+            "score": 0.7107078433036804,
+            "topicality": 0.7107078433036804,
+            "description": "Camera"
+        },
+        {
+            "mid": "/m/083mg",
+            "score": 0.6605887413024902,
+            "topicality": 0.6605887413024902,
+            "description": "Walking"
+        },
+        {
+            "mid": "/m/0133tk",
+            "score": 0.6540557742118835,
+            "topicality": 0.6540557742118835,
+            "description": "Ballistic vest"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

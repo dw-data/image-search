@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/bhutanese-women/38.jpeg",
+    "search_query": "bhutanese-women",
+    "position": 38,
+    "label_annotations": [
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9552633762359619,
+            "topicality": 0.9552633762359619,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.910474419593811,
+            "topicality": 0.910474419593811,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/07xgrh",
+            "score": 0.8009612560272217,
+            "topicality": 0.8009612560272217,
+            "description": "Ingredient"
+        },
+        {
+            "mid": "/m/0ch_cf",
+            "score": 0.6067137718200684,
+            "topicality": 0.6067137718200684,
+            "description": "Fish"
+        },
+        {
+            "mid": "/m/06nwz",
+            "score": 0.523141622543335,
+            "topicality": 0.523141622543335,
+            "description": "Seafood"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

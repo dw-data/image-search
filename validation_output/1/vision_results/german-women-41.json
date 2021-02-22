@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/german-women/41.jpeg",
+    "search_query": "german-women",
+    "position": 41,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9744789600372314,
+            "topicality": 0.9744789600372314,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9726009964942932,
+            "topicality": 0.9726009964942932,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9592717289924622,
+            "topicality": 0.9592717289924622,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.9526925086975098,
+            "topicality": 0.9526925086975098,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9454299211502075,
+            "topicality": 0.9454299211502075,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9437180161476135,
+            "topicality": 0.9437180161476135,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9395357966423035,
+            "topicality": 0.9395357966423035,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9106220602989197,
+            "topicality": 0.9106220602989197,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9085491895675659,
+            "topicality": 0.9085491895675659,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8902587294578552,
+            "topicality": 0.8902587294578552,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

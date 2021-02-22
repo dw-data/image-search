@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/liberian-women/50.jpeg",
+    "search_query": "liberian-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9852516055107117,
+            "topicality": 0.9852516055107117,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9835721254348755,
+            "topicality": 0.9835721254348755,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9821299910545349,
+            "topicality": 0.9821299910545349,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8524236083030701,
+            "topicality": 0.8524236083030701,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.8307111859321594,
+            "topicality": 0.8307111859321594,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.8275294303894043,
+            "topicality": 0.8275294303894043,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.8210854530334473,
+            "topicality": 0.8210854530334473,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/0rytcc5",
+            "score": 0.8086233139038086,
+            "topicality": 0.8086233139038086,
+            "description": "Strapless dress"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8023757934570312,
+            "topicality": 0.8023757934570312,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.799744188785553,
+            "topicality": 0.799744188785553,
+            "description": "Necklace"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

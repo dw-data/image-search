@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/omani-women/22.jpeg",
+    "search_query": "omani-women",
+    "position": 22,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds5b",
+            "score": 0.9765688180923462,
+            "topicality": 0.9765688180923462,
+            "description": "Facial hair"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681841135025024,
+            "topicality": 0.9681841135025024,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/0bby24z",
+            "score": 0.9512097835540771,
+            "topicality": 0.9512097835540771,
+            "description": "Moustache"
+        },
+        {
+            "mid": "/m/015h_t",
+            "score": 0.941236674785614,
+            "topicality": 0.941236674785614,
+            "description": "Beard"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.907904863357544,
+            "topicality": 0.907904863357544,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.894855260848999,
+            "topicality": 0.894855260848999,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.5193594098091125,
+            "topicality": 0.5193594098091125,
+            "description": "Flesh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

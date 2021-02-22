@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/gambian-women/20.jpeg",
+    "search_query": "gambian-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9887237548828125,
+            "topicality": 0.9887237548828125,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879733324050903,
+            "topicality": 0.9879733324050903,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9850265383720398,
+            "topicality": 0.9850265383720398,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9829587936401367,
+            "topicality": 0.9829587936401367,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789876937866211,
+            "topicality": 0.9789876937866211,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9765100479125977,
+            "topicality": 0.9765100479125977,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9762752056121826,
+            "topicality": 0.9762752056121826,
+            "description": "People"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681837558746338,
+            "topicality": 0.9681837558746338,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639062881469727,
+            "topicality": 0.9639062881469727,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

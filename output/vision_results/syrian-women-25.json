@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/syrian-women/25.jpeg",
+    "search_query": "syrian-women",
+    "position": 25,
+    "label_annotations": [
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8785813450813293,
+            "topicality": 0.8785813450813293,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8712058663368225,
+            "topicality": 0.8712058663368225,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/09l63h",
+            "score": 0.8046942949295044,
+            "topicality": 0.8046942949295044,
+            "description": "Military camouflage"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

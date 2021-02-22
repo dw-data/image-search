@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/fijian-women/42.png",
+    "search_query": "fijian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/050gv4",
+            "score": 0.8686197400093079,
+            "topicality": 0.8686197400093079,
+            "description": "Plate"
+        },
+        {
+            "mid": "/m/037cyw",
+            "score": 0.643356204032898,
+            "topicality": 0.643356204032898,
+            "description": "Siding"
+        },
+        {
+            "mid": "/m/01g0g",
+            "score": 0.541681706905365,
+            "topicality": 0.541681706905365,
+            "description": "Brick"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

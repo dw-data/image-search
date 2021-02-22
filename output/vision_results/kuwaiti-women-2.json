@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/kuwaiti-women/2.png",
+    "search_query": "kuwaiti-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.976457953453064,
+            "topicality": 0.976457953453064,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9683117270469666,
+            "topicality": 0.9683117270469666,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/0d4vn",
+            "score": 0.7193431258201599,
+            "topicality": 0.7193431258201599,
+            "description": "Hall"
+        },
+        {
+            "mid": "/m/0h64tv6",
+            "score": 0.6238751411437988,
+            "topicality": 0.6238751411437988,
+            "description": "Religious institute"
+        },
+        {
+            "mid": "/m/027v9wk",
+            "score": 0.5078537464141846,
+            "topicality": 0.5078537464141846,
+            "description": "Elder"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

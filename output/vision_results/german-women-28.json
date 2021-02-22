@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/german-women/28.jpeg",
+    "search_query": "german-women",
+    "position": 28,
+    "label_annotations": [
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8424723148345947,
+            "topicality": 0.8424723148345947,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/0b4_rz",
+            "score": 0.8106210231781006,
+            "topicality": 0.8106210231781006,
+            "description": "Championship"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.800602912902832,
+            "topicality": 0.800602912902832,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.7763521075248718,
+            "topicality": 0.7763521075248718,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.7685917019844055,
+            "topicality": 0.7685917019844055,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.7125130891799927,
+            "topicality": 0.7125130891799927,
+            "description": "Audience"
+        },
+        {
+            "mid": "/m/019cfy",
+            "score": 0.6773083209991455,
+            "topicality": 0.6773083209991455,
+            "description": "Stadium"
+        },
+        {
+            "mid": "/m/013x8v",
+            "score": 0.6332151293754578,
+            "topicality": 0.6332151293754578,
+            "description": "Fan"
+        },
+        {
+            "mid": "/m/015h_t",
+            "score": 0.5950924158096313,
+            "topicality": 0.5950924158096313,
+            "description": "Beard"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

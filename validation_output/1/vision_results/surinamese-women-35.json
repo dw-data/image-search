@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/surinamese-women/35.jpeg",
+    "search_query": "surinamese-women",
+    "position": 35,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9843669533729553,
+            "topicality": 0.9843669533729553,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9838444590568542,
+            "topicality": 0.9838444590568542,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9737467169761658,
+            "topicality": 0.9737467169761658,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9737299680709839,
+            "topicality": 0.9737299680709839,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9443545341491699,
+            "topicality": 0.9443545341491699,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.931360125541687,
+            "topicality": 0.931360125541687,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0h8k6fc",
+            "score": 0.9287365674972534,
+            "topicality": 0.9287365674972534,
+            "description": "Lingerie top"
+        },
+        {
+            "mid": "/m/01g5v",
+            "score": 0.9032286405563354,
+            "topicality": 0.9032286405563354,
+            "description": "Blue"
+        },
+        {
+            "mid": "/m/03jn2m",
+            "score": 0.8941541314125061,
+            "topicality": 0.8941541314125061,
+            "description": "Azure"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.8871750235557556,
+            "topicality": 0.8871750235557556,
+            "description": "Brassiere"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

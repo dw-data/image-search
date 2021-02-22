@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/seychellois-women/90.jpeg",
+    "search_query": "seychellois-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9794081449508667,
+            "topicality": 0.9794081449508667,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9752877354621887,
+            "topicality": 0.9752877354621887,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9351037740707397,
+            "topicality": 0.9351037740707397,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9329302310943604,
+            "topicality": 0.9329302310943604,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9032043218612671,
+            "topicality": 0.9032043218612671,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8682531118392944,
+            "topicality": 0.8682531118392944,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8630008101463318,
+            "topicality": 0.8630008101463318,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/013s93",
+            "score": 0.822771430015564,
+            "topicality": 0.822771430015564,
+            "description": "T-shirt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

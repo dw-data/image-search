@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/israeli-women/65.jpeg",
+    "search_query": "israeli-women",
+    "position": 65,
+    "label_annotations": [
+        {
+            "mid": "/m/0hg7b",
+            "score": 0.9801488518714905,
+            "topicality": 0.9801488518714905,
+            "description": "Microphone"
+        },
+        {
+            "mid": "/m/02jf2p",
+            "score": 0.9249637126922607,
+            "topicality": 0.9249637126922607,
+            "description": "Public address system"
+        },
+        {
+            "mid": "/m/01xygc",
+            "score": 0.9210426807403564,
+            "topicality": 0.9210426807403564,
+            "description": "Coat"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8627349734306335,
+            "topicality": 0.8627349734306335,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/01xr66",
+            "score": 0.8364983201026917,
+            "topicality": 0.8364983201026917,
+            "description": "Spokesperson"
+        },
+        {
+            "mid": "/m/01yttv",
+            "score": 0.7803543210029602,
+            "topicality": 0.7803543210029602,
+            "description": "Audio equipment"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.7440106272697449,
+            "topicality": 0.7440106272697449,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/09x0r",
+            "score": 0.736782968044281,
+            "topicality": 0.736782968044281,
+            "description": "Speech"
+        },
+        {
+            "mid": "/m/068k4",
+            "score": 0.7281656265258789,
+            "topicality": 0.7281656265258789,
+            "description": "Public speaking"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/eritrean-women/50.jpeg",
+    "search_query": "eritrean-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9840370416641235,
+            "topicality": 0.9840370416641235,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9768292903900146,
+            "topicality": 0.9768292903900146,
+            "description": "People"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639058709144592,
+            "topicality": 0.9639058709144592,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9397385716438293,
+            "topicality": 0.9397385716438293,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828239440917969,
+            "topicality": 0.8828239440917969,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.6914287805557251,
+            "topicality": 0.6914287805557251,
+            "description": "Tradition"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

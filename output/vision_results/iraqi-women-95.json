@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/iraqi-women/95.jpeg",
+    "search_query": "iraqi-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.960634171962738,
+            "topicality": 0.960634171962738,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9225848317146301,
+            "topicality": 0.9225848317146301,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.764154314994812,
+            "topicality": 0.764154314994812,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.6481682062149048,
+            "topicality": 0.6481682062149048,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/019b80",
+            "score": 0.6274345517158508,
+            "topicality": 0.6274345517158508,
+            "description": "Sweater"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.5820903778076172,
+            "topicality": 0.5820903778076172,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/01b638",
+            "score": 0.5638716220855713,
+            "topicality": 0.5638716220855713,
+            "description": "Boot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

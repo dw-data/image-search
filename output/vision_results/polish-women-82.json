@@ -1,0 +1,30 @@
+{
+    "path": "../output/imgs/polish-women/82.jpeg",
+    "search_query": "polish-women",
+    "position": 82,
+    "label_annotations": [
+        {
+            "mid": "/m/06zsq",
+            "score": 0.5104413032531738,
+            "topicality": 0.5104413032531738,
+            "description": "Sign"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

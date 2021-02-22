@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/costa-rican-women/2.jpeg",
+    "search_query": "costa-rican-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9899317622184753,
+            "topicality": 0.9899317622184753,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9890936017036438,
+            "topicality": 0.9890936017036438,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9878969788551331,
+            "topicality": 0.9878969788551331,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.983737587928772,
+            "topicality": 0.983737587928772,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9790845513343811,
+            "topicality": 0.9790845513343811,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9789249897003174,
+            "topicality": 0.9789249897003174,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9735584855079651,
+            "topicality": 0.9735584855079651,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9718247652053833,
+            "topicality": 0.9718247652053833,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9468457102775574,
+            "topicality": 0.9468457102775574,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

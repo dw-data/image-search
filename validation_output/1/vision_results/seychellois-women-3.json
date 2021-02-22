@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/seychellois-women/3.jpeg",
+    "search_query": "seychellois-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9840986132621765,
+            "topicality": 0.9840986132621765,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9830977916717529,
+            "topicality": 0.9830977916717529,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9726625084877014,
+            "topicality": 0.9726625084877014,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.969205915927887,
+            "topicality": 0.969205915927887,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9676980376243591,
+            "topicality": 0.9676980376243591,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/0838f",
+            "score": 0.964844286441803,
+            "topicality": 0.964844286441803,
+            "description": "Water"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9499611258506775,
+            "topicality": 0.9499611258506775,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9411867260932922,
+            "topicality": 0.9411867260932922,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9133451581001282,
+            "topicality": 0.9133451581001282,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01g5v",
+            "score": 0.9051241874694824,
+            "topicality": 0.9051241874694824,
+            "description": "Blue"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

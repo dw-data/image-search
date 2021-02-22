@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/bosnian-women/50.jpeg",
+    "search_query": "bosnian-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9758136868476868,
+            "topicality": 0.9758136868476868,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9323691129684448,
+            "topicality": 0.9323691129684448,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.888771116733551,
+            "topicality": 0.888771116733551,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8838889598846436,
+            "topicality": 0.8838889598846436,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.8723578453063965,
+            "topicality": 0.8723578453063965,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8691221475601196,
+            "topicality": 0.8691221475601196,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.8272088170051575,
+            "topicality": 0.8272088170051575,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/02jjt",
+            "score": 0.8222811818122864,
+            "topicality": 0.8222811818122864,
+            "description": "Entertainment"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.8104232549667358,
+            "topicality": 0.8104232549667358,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.782448947429657,
+            "topicality": 0.782448947429657,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

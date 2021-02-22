@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/dutch-women/30.jpeg",
+    "search_query": "dutch-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9857832193374634,
+            "topicality": 0.9857832193374634,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.97998046875,
+            "topicality": 0.97998046875,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.9045068621635437,
+            "topicality": 0.9045068621635437,
+            "description": "One-piece garment"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8967466950416565,
+            "topicality": 0.8967466950416565,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8810049891471863,
+            "topicality": 0.8810049891471863,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/02jjt",
+            "score": 0.8714086413383484,
+            "topicality": 0.8714086413383484,
+            "description": "Entertainment"
+        },
+        {
+            "mid": "/m/05qjc",
+            "score": 0.8439241647720337,
+            "topicality": 0.8439241647720337,
+            "description": "Performing arts"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.8278465270996094,
+            "topicality": 0.8278465270996094,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.8218278288841248,
+            "topicality": 0.8218278288841248,
+            "description": "Social group"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/ugandan-women/2.jpeg",
+    "search_query": "ugandan-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9709863066673279,
+            "topicality": 0.9709863066673279,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681838154792786,
+            "topicality": 0.9681838154792786,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9127652049064636,
+            "topicality": 0.9127652049064636,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6247480511665344,
+            "topicality": 0.6247480511665344,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/02fbqn",
+            "score": 0.6000593900680542,
+            "topicality": 0.6000593900680542,
+            "description": "Headpiece"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

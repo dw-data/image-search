@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/australian-women/75.jpeg",
+    "search_query": "australian-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9896391034126282,
+            "topicality": 0.9896391034126282,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9881561994552612,
+            "topicality": 0.9881561994552612,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977038562297821,
+            "topicality": 0.977038562297821,
+            "description": "People"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9526139497756958,
+            "topicality": 0.9526139497756958,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.9020603895187378,
+            "topicality": 0.9020603895187378,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/01h2w7",
+            "score": 0.7323522567749023,
+            "topicality": 0.7323522567749023,
+            "description": "Retro style"
+        },
+        {
+            "mid": "/m/09dhj",
+            "score": 0.6668542623519897,
+            "topicality": 0.6668542623519897,
+            "description": "Family"
+        },
+        {
+            "mid": "/m/0133pl",
+            "score": 0.621926486492157,
+            "topicality": 0.621926486492157,
+            "description": "Victorian fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

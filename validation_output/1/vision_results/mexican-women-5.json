@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/mexican-women/5.jpeg",
+    "search_query": "mexican-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9790180921554565,
+            "topicality": 0.9790180921554565,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9697351455688477,
+            "topicality": 0.9697351455688477,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9324803352355957,
+            "topicality": 0.9324803352355957,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/026t6",
+            "score": 0.898110032081604,
+            "topicality": 0.898110032081604,
+            "description": "Drum"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8851301074028015,
+            "topicality": 0.8851301074028015,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0jc_p",
+            "score": 0.8794935941696167,
+            "topicality": 0.8794935941696167,
+            "description": "Orange"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8719610571861267,
+            "topicality": 0.8719610571861267,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/04szw",
+            "score": 0.8704999089241028,
+            "topicality": 0.8704999089241028,
+            "description": "Musical instrument"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8063356876373291,
+            "topicality": 0.8063356876373291,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/07j7r",
+            "score": 0.7782540321350098,
+            "topicality": 0.7782540321350098,
+            "description": "Tree"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

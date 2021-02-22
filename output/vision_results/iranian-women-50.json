@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/iranian-women/50.jpeg",
+    "search_query": "iranian-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9887464642524719,
+            "topicality": 0.9887464642524719,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9840595126152039,
+            "topicality": 0.9840595126152039,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790040850639343,
+            "topicality": 0.9790040850639343,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9786546230316162,
+            "topicality": 0.9786546230316162,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9718651175498962,
+            "topicality": 0.9718651175498962,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9114481806755066,
+            "topicality": 0.9114481806755066,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0hgs526",
+            "score": 0.9000049829483032,
+            "topicality": 0.9000049829483032,
+            "description": "Costume accessory"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.823771595954895,
+            "topicality": 0.823771595954895,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.7922971844673157,
+            "topicality": 0.7922971844673157,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/03gkl",
+            "score": 0.7906672358512878,
+            "topicality": 0.7906672358512878,
+            "description": "Holiday"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

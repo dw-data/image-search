@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/german-women/38.jpeg",
+    "search_query": "german-women",
+    "position": 38,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9858254194259644,
+            "topicality": 0.9858254194259644,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9837595224380493,
+            "topicality": 0.9837595224380493,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.972602367401123,
+            "topicality": 0.972602367401123,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9683350324630737,
+            "topicality": 0.9683350324630737,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9678031206130981,
+            "topicality": 0.9678031206130981,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9671791791915894,
+            "topicality": 0.9671791791915894,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9427822232246399,
+            "topicality": 0.9427822232246399,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9374769926071167,
+            "topicality": 0.9374769926071167,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9354603290557861,
+            "topicality": 0.9354603290557861,
+            "description": "Eye"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

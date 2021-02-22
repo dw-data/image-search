@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/jamaican-women/92.jpeg",
+    "search_query": "jamaican-women",
+    "position": 92,
+    "label_annotations": [
+        {
+            "mid": "/m/0d74dx",
+            "score": 0.9277029633522034,
+            "topicality": 0.9277029633522034,
+            "description": "Fender"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.9239137172698975,
+            "topicality": 0.9239137172698975,
+            "description": "Denim"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828271627426147,
+            "topicality": 0.8828271627426147,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8706585764884949,
+            "topicality": 0.8706585764884949,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/0bk_y7",
+            "score": 0.6629788279533386,
+            "topicality": 0.6629788279533386,
+            "description": "Bermuda shorts"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

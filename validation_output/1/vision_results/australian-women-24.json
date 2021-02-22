@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/australian-women/24.jpeg",
+    "search_query": "australian-women",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9818021655082703,
+            "topicality": 0.9818021655082703,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01bqvp",
+            "score": 0.9732378125190735,
+            "topicality": 0.9732378125190735,
+            "description": "Sky"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9422887563705444,
+            "topicality": 0.9422887563705444,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/0838f",
+            "score": 0.9392604231834412,
+            "topicality": 0.9392604231834412,
+            "description": "Water"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9285154938697815,
+            "topicality": 0.9285154938697815,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.9152898192405701,
+            "topicality": 0.9152898192405701,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/0b3yr",
+            "score": 0.8968181014060974,
+            "topicality": 0.8968181014060974,
+            "description": "Beach"
+        },
+        {
+            "mid": "/m/02_n6y",
+            "score": 0.8898295164108276,
+            "topicality": 0.8898295164108276,
+            "description": "Goggles"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.8796870112419128,
+            "topicality": 0.8796870112419128,
+            "description": "Swimwear"
+        },
+        {
+            "mid": "/j/148skd",
+            "score": 0.8796162605285645,
+            "topicality": 0.8796162605285645,
+            "description": "People on beach"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

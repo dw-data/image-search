@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/togolese-women/16.jpeg",
+    "search_query": "togolese-women",
+    "position": 16,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773308038711548,
+            "topicality": 0.9773308038711548,
+            "description": "People"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9697312712669373,
+            "topicality": 0.9697312712669373,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9625396132469177,
+            "topicality": 0.9625396132469177,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01lqfm",
+            "score": 0.9279127717018127,
+            "topicality": 0.9279127717018127,
+            "description": "Public space"
+        },
+        {
+            "mid": "/m/080hkjn",
+            "score": 0.5150265693664551,
+            "topicality": 0.5150265693664551,
+            "description": "Handbag"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/saudi-women/53.jpeg",
+    "search_query": "saudi-women",
+    "position": 53,
+    "label_annotations": [
+        {
+            "mid": "/m/0250x",
+            "score": 0.720925509929657,
+            "topicality": 0.720925509929657,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/04s5jq",
+            "score": 0.5093144178390503,
+            "topicality": 0.5093144178390503,
+            "description": "Costume design"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.5043156147003174,
+            "topicality": 0.5043156147003174,
+            "description": "Abaya"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

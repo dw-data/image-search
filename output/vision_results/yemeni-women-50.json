@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/yemeni-women/50.jpeg",
+    "search_query": "yemeni-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/011s0",
+            "score": 0.8780091404914856,
+            "topicality": 0.8780091404914856,
+            "description": "Advertising"
+        },
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.7915493249893188,
+            "topicality": 0.7915493249893188,
+            "description": "Banner"
+        },
+        {
+            "mid": "/m/0bkqqh",
+            "score": 0.7335327863693237,
+            "topicality": 0.7335327863693237,
+            "description": "Signage"
+        },
+        {
+            "mid": "/m/01n5jq",
+            "score": 0.6665270328521729,
+            "topicality": 0.6665270328521729,
+            "description": "Poster"
+        },
+        {
+            "mid": "/m/01knjb",
+            "score": 0.6377013325691223,
+            "topicality": 0.6377013325691223,
+            "description": "Billboard"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

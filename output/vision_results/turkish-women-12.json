@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/turkish-women/12.jpeg",
+    "search_query": "turkish-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9288333058357239,
+            "topicality": 0.9288333058357239,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/078qz",
+            "score": 0.9194491505622864,
+            "topicality": 0.9194491505622864,
+            "description": "Summer"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8741014003753662,
+            "topicality": 0.8741014003753662,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/09fwz6",
+            "score": 0.6445110440254211,
+            "topicality": 0.6445110440254211,
+            "description": "Lap"
+        },
+        {
+            "mid": "/m/0hgntgw",
+            "score": 0.5135775208473206,
+            "topicality": 0.5135775208473206,
+            "description": "Active tank"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.5123663544654846,
+            "topicality": 0.5123663544654846,
+            "description": "Sleeveless shirt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

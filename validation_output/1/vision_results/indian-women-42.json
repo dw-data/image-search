@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/indian-women/42.jpeg",
+    "search_query": "indian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9746738076210022,
+            "topicality": 0.9746738076210022,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8758776187896729,
+            "topicality": 0.8758776187896729,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8722441792488098,
+            "topicality": 0.8722441792488098,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/025dq0",
+            "score": 0.8691148161888123,
+            "topicality": 0.8691148161888123,
+            "description": "Sari"
+        },
+        {
+            "mid": "/m/02qqd4n",
+            "score": 0.7584778070449829,
+            "topicality": 0.7584778070449829,
+            "description": "Fashion design"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.7451716661453247,
+            "topicality": 0.7451716661453247,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.6829440593719482,
+            "topicality": 0.6829440593719482,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0ckc5",
+            "score": 0.6758855581283569,
+            "topicality": 0.6758855581283569,
+            "description": "Magenta"
+        },
+        {
+            "mid": "/m/06ht1",
+            "score": 0.6617576479911804,
+            "topicality": 0.6617576479911804,
+            "description": "Room"
+        },
+        {
+            "mid": "/m/0hwky",
+            "score": 0.63121497631073,
+            "topicality": 0.63121497631073,
+            "description": "Pattern"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

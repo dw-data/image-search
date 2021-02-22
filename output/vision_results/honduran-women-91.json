@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/honduran-women/91.jpeg",
+    "search_query": "honduran-women",
+    "position": 91,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9906137585639954,
+            "topicality": 0.9906137585639954,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9905441999435425,
+            "topicality": 0.9905441999435425,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9883770942687988,
+            "topicality": 0.9883770942687988,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9796581268310547,
+            "topicality": 0.9796581268310547,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977502167224884,
+            "topicality": 0.977502167224884,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9667084217071533,
+            "topicality": 0.9667084217071533,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9591742753982544,
+            "topicality": 0.9591742753982544,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9398022890090942,
+            "topicality": 0.9398022890090942,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8878166675567627,
+            "topicality": 0.8878166675567627,
+            "description": "Youth"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

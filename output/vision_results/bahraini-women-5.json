@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/bahraini-women/5.jpeg",
+    "search_query": "bahraini-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.8988342881202698,
+            "topicality": 0.8988342881202698,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.6710032820701599,
+            "topicality": 0.6710032820701599,
+            "description": "Hood"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

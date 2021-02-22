@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/chinese-women/38.jpeg",
+    "search_query": "chinese-women",
+    "position": 38,
+    "label_annotations": [
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9827011227607727,
+            "topicality": 0.9827011227607727,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828228116035461,
+            "topicality": 0.8828228116035461,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/011s0",
+            "score": 0.8356243371963501,
+            "topicality": 0.8356243371963501,
+            "description": "Advertising"
+        },
+        {
+            "mid": "/m/01n5jq",
+            "score": 0.7907857894897461,
+            "topicality": 0.7907857894897461,
+            "description": "Poster"
+        },
+        {
+            "mid": "/m/048knlz",
+            "score": 0.691809892654419,
+            "topicality": 0.691809892654419,
+            "description": "Love"
+        },
+        {
+            "mid": "/m/05qdh",
+            "score": 0.5940443873405457,
+            "topicality": 0.5940443873405457,
+            "description": "Painting"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/fijian-women/52.jpeg",
+    "search_query": "fijian-women",
+    "position": 52,
+    "label_annotations": [
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344746470451355,
+            "topicality": 0.9344746470451355,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.6066542863845825,
+            "topicality": 0.6066542863845825,
+            "description": "Day dress"
+        },
+        {
+            "mid": "/m/09x0r",
+            "score": 0.5754515528678894,
+            "topicality": 0.5754515528678894,
+            "description": "Speech"
+        },
+        {
+            "mid": "/m/01xr66",
+            "score": 0.5657506585121155,
+            "topicality": 0.5657506585121155,
+            "description": "Spokesperson"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

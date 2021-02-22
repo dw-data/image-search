@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/hungarian-women/12.jpeg",
+    "search_query": "hungarian-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9827048778533936,
+            "topicality": 0.9827048778533936,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9727770090103149,
+            "topicality": 0.9727770090103149,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.9518096446990967,
+            "topicality": 0.9518096446990967,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/038hg",
+            "score": 0.9294183850288391,
+            "topicality": 0.9294183850288391,
+            "description": "Green"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.8542841672897339,
+            "topicality": 0.8542841672897339,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01bqvp",
+            "score": 0.852058470249176,
+            "topicality": 0.852058470249176,
+            "description": "Sky"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.8265597224235535,
+            "topicality": 0.8265597224235535,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.8108648657798767,
+            "topicality": 0.8108648657798767,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.8050921559333801,
+            "topicality": 0.8050921559333801,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.802897036075592,
+            "topicality": 0.802897036075592,
+            "description": "Flag"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

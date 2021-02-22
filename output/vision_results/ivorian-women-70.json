@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/ivorian-women/70.jpeg",
+    "search_query": "ivorian-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9706032276153564,
+            "topicality": 0.9706032276153564,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.7576816082000732,
+            "topicality": 0.7576816082000732,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.6322246789932251,
+            "topicality": 0.6322246789932251,
+            "description": "Photo caption"
+        },
+        {
+            "mid": "/m/048knlz",
+            "score": 0.5886869430541992,
+            "topicality": 0.5886869430541992,
+            "description": "Love"
+        },
+        {
+            "mid": "/m/06g1w2",
+            "score": 0.5424774289131165,
+            "topicality": 0.5424774289131165,
+            "description": "Pattern"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

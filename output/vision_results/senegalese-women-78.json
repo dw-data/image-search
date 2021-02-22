@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/senegalese-women/78.jpeg",
+    "search_query": "senegalese-women",
+    "position": 78,
+    "label_annotations": [
+        {
+            "mid": "/m/07djv",
+            "score": 0.7532433867454529,
+            "topicality": 0.7532433867454529,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.5489546656608582,
+            "topicality": 0.5489546656608582,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.5392395853996277,
+            "topicality": 0.5392395853996277,
+            "description": "Village"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

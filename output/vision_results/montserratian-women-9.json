@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/montserratian-women/9.jpeg",
+    "search_query": "montserratian-women",
+    "position": 9,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9824933409690857,
+            "topicality": 0.9824933409690857,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9684197902679443,
+            "topicality": 0.9684197902679443,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/0lhr",
+            "score": 0.807673454284668,
+            "topicality": 0.807673454284668,
+            "description": "Arecales"
+        },
+        {
+            "mid": "/m/0cdl1",
+            "score": 0.5788543224334717,
+            "topicality": 0.5788543224334717,
+            "description": "Palm tree"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

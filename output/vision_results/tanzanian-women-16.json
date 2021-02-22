@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/tanzanian-women/16.jpeg",
+    "search_query": "tanzanian-women",
+    "position": 16,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9893772602081299,
+            "topicality": 0.9893772602081299,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9885068535804749,
+            "topicality": 0.9885068535804749,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9843720197677612,
+            "topicality": 0.9843720197677612,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9793106317520142,
+            "topicality": 0.9793106317520142,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9787991642951965,
+            "topicality": 0.9787991642951965,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9775063991546631,
+            "topicality": 0.9775063991546631,
+            "description": "People"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9726606011390686,
+            "topicality": 0.9726606011390686,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681845903396606,
+            "topicality": 0.9681845903396606,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9460108280181885,
+            "topicality": 0.9460108280181885,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9406296014785767,
+            "topicality": 0.9406296014785767,
+            "description": "Community"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

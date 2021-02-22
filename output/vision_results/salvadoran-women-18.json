@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/salvadoran-women/18.jpeg",
+    "search_query": "salvadoran-women",
+    "position": 18,
+    "label_annotations": [
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/0cp2d4k",
+            "score": 0.8912374973297119,
+            "topicality": 0.8912374973297119,
+            "description": "Outdoor furniture"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828309178352356,
+            "topicality": 0.8828309178352356,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0h8ll0s",
+            "score": 0.8593349456787109,
+            "topicality": 0.8593349456787109,
+            "description": "Outdoor table"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.7847570180892944,
+            "topicality": 0.7847570180892944,
+            "description": "Village"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

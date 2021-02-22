@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/central-african-women/77.jpeg",
+    "search_query": "central-african-women",
+    "position": 77,
+    "label_annotations": [
+        {
+            "mid": "/m/088fh",
+            "score": 0.972976565361023,
+            "topicality": 0.972976565361023,
+            "description": "Yellow"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.8958821296691895,
+            "topicality": 0.8958821296691895,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.7466408014297485,
+            "topicality": 0.7466408014297485,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/0gjbg72",
+            "score": 0.7408704161643982,
+            "topicality": 0.7408704161643982,
+            "description": "Shelf"
+        },
+        {
+            "mid": "/m/0h8n982",
+            "score": 0.6463156938552856,
+            "topicality": 0.6463156938552856,
+            "description": "Shelving"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

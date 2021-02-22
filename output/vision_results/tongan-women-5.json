@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/tongan-women/5.jpeg",
+    "search_query": "tongan-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9920563697814941,
+            "topicality": 0.9920563697814941,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9896596670150757,
+            "topicality": 0.9896596670150757,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880426526069641,
+            "topicality": 0.9880426526069641,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740889668464661,
+            "topicality": 0.9740889668464661,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9649081826210022,
+            "topicality": 0.9649081826210022,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9449196457862854,
+            "topicality": 0.9449196457862854,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9324617385864258,
+            "topicality": 0.9324617385864258,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0rytcc5",
+            "score": 0.9001603722572327,
+            "topicality": 0.9001603722572327,
+            "description": "Strapless dress"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.898486316204071,
+            "topicality": 0.898486316204071,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.8570502400398254,
+            "topicality": 0.8570502400398254,
+            "description": "Trunk"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

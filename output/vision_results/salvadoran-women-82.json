@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/salvadoran-women/82.jpeg",
+    "search_query": "salvadoran-women",
+    "position": 82,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9800441265106201,
+            "topicality": 0.9800441265106201,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9595691561698914,
+            "topicality": 0.9595691561698914,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9379091262817383,
+            "topicality": 0.9379091262817383,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/01bmhj",
+            "score": 0.9056749939918518,
+            "topicality": 0.9056749939918518,
+            "description": "Thumb"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.8984443545341492,
+            "topicality": 0.8984443545341492,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/023j4r",
+            "score": 0.7920664548873901,
+            "topicality": 0.7920664548873901,
+            "description": "Nail"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.6334763169288635,
+            "topicality": 0.6334763169288635,
+            "description": "Wrinkle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

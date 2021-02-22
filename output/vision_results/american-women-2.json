@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/american-women/2.jpeg",
+    "search_query": "american-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9840115904808044,
+            "topicality": 0.9840115904808044,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790000915527344,
+            "topicality": 0.9790000915527344,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9788684248924255,
+            "topicality": 0.9788684248924255,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.9627082943916321,
+            "topicality": 0.9627082943916321,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9487716555595398,
+            "topicality": 0.9487716555595398,
+            "description": "Happy"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9389792680740356,
+            "topicality": 0.9389792680740356,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/078qz",
+            "score": 0.9351345300674438,
+            "topicality": 0.9351345300674438,
+            "description": "Summer"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344746470451355,
+            "topicality": 0.9344746470451355,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9309390783309937,
+            "topicality": 0.9309390783309937,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9078189134597778,
+            "topicality": 0.9078189134597778,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

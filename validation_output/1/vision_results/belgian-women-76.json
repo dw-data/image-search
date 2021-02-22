@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/belgian-women/76.jpeg",
+    "search_query": "belgian-women",
+    "position": 76,
+    "label_annotations": [
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9793953895568848,
+            "topicality": 0.9793953895568848,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9732263684272766,
+            "topicality": 0.9732263684272766,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9697855114936829,
+            "topicality": 0.9697855114936829,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9445047974586487,
+            "topicality": 0.9445047974586487,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9393715858459473,
+            "topicality": 0.9393715858459473,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9199584722518921,
+            "topicality": 0.9199584722518921,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9032964110374451,
+            "topicality": 0.9032964110374451,
+            "description": "Organ"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

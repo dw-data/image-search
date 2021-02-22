@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/swazi-women/2.jpeg",
+    "search_query": "swazi-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9889401197433472,
+            "topicality": 0.9889401197433472,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774460196495056,
+            "topicality": 0.9774460196495056,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9707704186439514,
+            "topicality": 0.9707704186439514,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.7414418458938599,
+            "topicality": 0.7414418458938599,
+            "description": "Audience"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

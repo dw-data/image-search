@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/english-women/4.jpeg",
+    "search_query": "english-women",
+    "position": 4,
+    "label_annotations": [
+        {
+            "mid": "/m/06gfj",
+            "score": 0.974335789680481,
+            "topicality": 0.974335789680481,
+            "description": "Road"
+        },
+        {
+            "mid": "/m/01c8br",
+            "score": 0.9660048484802246,
+            "topicality": 0.9660048484802246,
+            "description": "Street"
+        },
+        {
+            "mid": "/m/039jbq",
+            "score": 0.9517634510993958,
+            "topicality": 0.9517634510993958,
+            "description": "Urban area"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.933467447757721,
+            "topicality": 0.933467447757721,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.932600200176239,
+            "topicality": 0.932600200176239,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0hwky",
+            "score": 0.9299387335777283,
+            "topicality": 0.9299387335777283,
+            "description": "Pattern"
+        },
+        {
+            "mid": "/m/07bxq",
+            "score": 0.9038094282150269,
+            "topicality": 0.9038094282150269,
+            "description": "Tourism"
+        },
+        {
+            "mid": "/m/0177t1",
+            "score": 0.9035382866859436,
+            "topicality": 0.9035382866859436,
+            "description": "Plaid"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9029645919799805,
+            "topicality": 0.9029645919799805,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/017r8p",
+            "score": 0.8994702696800232,
+            "topicality": 0.8994702696800232,
+            "description": "Pedestrian"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

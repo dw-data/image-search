@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/tongan-women/98.jpeg",
+    "search_query": "tongan-women",
+    "position": 98,
+    "label_annotations": [
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828305602073669,
+            "topicality": 0.8828305602073669,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/03hzcs",
+            "score": 0.8304661512374878,
+            "topicality": 0.8304661512374878,
+            "description": "Beige"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.6992130279541016,
+            "topicality": 0.6992130279541016,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.5426508784294128,
+            "topicality": 0.5426508784294128,
+            "description": "Village"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

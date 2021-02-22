@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/canadian-women/1.jpeg",
+    "search_query": "canadian-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9921920895576477,
+            "topicality": 0.9921920895576477,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9881986975669861,
+            "topicality": 0.9881986975669861,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9823099970817566,
+            "topicality": 0.9823099970817566,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9804007411003113,
+            "topicality": 0.9804007411003113,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739626049995422,
+            "topicality": 0.9739626049995422,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9613434672355652,
+            "topicality": 0.9613434672355652,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0438n2",
+            "score": 0.956917405128479,
+            "topicality": 0.956917405128479,
+            "description": "Jheri curl"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.951636791229248,
+            "topicality": 0.951636791229248,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/01xygc",
+            "score": 0.9491879343986511,
+            "topicality": 0.9491879343986511,
+            "description": "Coat"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9415274858474731,
+            "topicality": 0.9415274858474731,
+            "description": "Fashion accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

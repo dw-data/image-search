@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/filipino-women/91.jpeg",
+    "search_query": "filipino-women",
+    "position": 91,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9746350646018982,
+            "topicality": 0.9746350646018982,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703100323677063,
+            "topicality": 0.9703100323677063,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.966442346572876,
+            "topicality": 0.966442346572876,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9464631080627441,
+            "topicality": 0.9464631080627441,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9229311943054199,
+            "topicality": 0.9229311943054199,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9149496555328369,
+            "topicality": 0.9149496555328369,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8799048662185669,
+            "topicality": 0.8799048662185669,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8364564180374146,
+            "topicality": 0.8364564180374146,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0457gc6",
+            "score": 0.8010916113853455,
+            "topicality": 0.8010916113853455,
+            "description": "Material property"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/basotho-women/95.jpeg",
+    "search_query": "basotho-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/09dv7",
+            "score": 0.9341951012611389,
+            "topicality": 0.9341951012611389,
+            "description": "Soil"
+        },
+        {
+            "mid": "/m/099fz",
+            "score": 0.8005969524383545,
+            "topicality": 0.8005969524383545,
+            "description": "Sand"
+        },
+        {
+            "mid": "/m/011_dp",
+            "score": 0.6665396690368652,
+            "topicality": 0.6665396690368652,
+            "description": "Membranophone"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

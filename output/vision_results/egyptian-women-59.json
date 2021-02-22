@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/egyptian-women/59.jpeg",
+    "search_query": "egyptian-women",
+    "position": 59,
+    "label_annotations": [
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9421597719192505,
+            "topicality": 0.9421597719192505,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.9113003611564636,
+            "topicality": 0.9113003611564636,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.800841748714447,
+            "topicality": 0.800841748714447,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/01j3sz",
+            "score": 0.6210707426071167,
+            "topicality": 0.6210707426071167,
+            "description": "Laugh"
+        },
+        {
+            "mid": "/m/048knlz",
+            "score": 0.5506781935691833,
+            "topicality": 0.5506781935691833,
+            "description": "Love"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

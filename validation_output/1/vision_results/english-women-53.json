@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/english-women/53.jpeg",
+    "search_query": "english-women",
+    "position": 53,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9843183159828186,
+            "topicality": 0.9843183159828186,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9753194451332092,
+            "topicality": 0.9753194451332092,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9740872383117676,
+            "topicality": 0.9740872383117676,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9147703051567078,
+            "topicality": 0.9147703051567078,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8793802261352539,
+            "topicality": 0.8793802261352539,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.8755493760108948,
+            "topicality": 0.8755493760108948,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8468949198722839,
+            "topicality": 0.8468949198722839,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.846204400062561,
+            "topicality": 0.846204400062561,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8381041884422302,
+            "topicality": 0.8381041884422302,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.8378864526748657,
+            "topicality": 0.8378864526748657,
+            "description": "Style"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

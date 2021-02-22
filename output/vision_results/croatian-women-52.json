@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/croatian-women/52.jpeg",
+    "search_query": "croatian-women",
+    "position": 52,
+    "label_annotations": [
+        {
+            "mid": "/m/0250x",
+            "score": 0.8077926635742188,
+            "topicality": 0.8077926635742188,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/0cbtm",
+            "score": 0.7043042778968811,
+            "topicality": 0.7043042778968811,
+            "description": "Tribe"
+        },
+        {
+            "mid": "/m/02h7lkt",
+            "score": 0.6197311282157898,
+            "topicality": 0.6197311282157898,
+            "description": "Fictional character"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.5710058808326721,
+            "topicality": 0.5710058808326721,
+            "description": "Portrait photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

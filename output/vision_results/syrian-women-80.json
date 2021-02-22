@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/syrian-women/80.jpeg",
+    "search_query": "syrian-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9924147725105286,
+            "topicality": 0.9924147725105286,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9888988733291626,
+            "topicality": 0.9888988733291626,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/01xygc",
+            "score": 0.9744738340377808,
+            "topicality": 0.9744738340377808,
+            "description": "Coat"
+        },
+        {
+            "mid": "/m/07mhn",
+            "score": 0.9706612229347229,
+            "topicality": 0.9706612229347229,
+            "description": "Trousers"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.964021623134613,
+            "topicality": 0.964021623134613,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.951636791229248,
+            "topicality": 0.951636791229248,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/02wzbmj",
+            "score": 0.9512318968772888,
+            "topicality": 0.9512318968772888,
+            "description": "Standing"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.931329607963562,
+            "topicality": 0.931329607963562,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.911300003528595,
+            "topicality": 0.911300003528595,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

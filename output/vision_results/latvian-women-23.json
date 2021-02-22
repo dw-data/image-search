@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/latvian-women/23.jpeg",
+    "search_query": "latvian-women",
+    "position": 23,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880168437957764,
+            "topicality": 0.9880168437957764,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9839119911193848,
+            "topicality": 0.9839119911193848,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9731701612472534,
+            "topicality": 0.9731701612472534,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.968184232711792,
+            "topicality": 0.968184232711792,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9653821587562561,
+            "topicality": 0.9653821587562561,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8820486068725586,
+            "topicality": 0.8820486068725586,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/048knlz",
+            "score": 0.7635001540184021,
+            "topicality": 0.7635001540184021,
+            "description": "Love"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/nicaraguan-women/5.jpeg",
+    "search_query": "nicaraguan-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.987890899181366,
+            "topicality": 0.987890899181366,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9834322929382324,
+            "topicality": 0.9834322929382324,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9739342927932739,
+            "topicality": 0.9739342927932739,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9689996838569641,
+            "topicality": 0.9689996838569641,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9528028964996338,
+            "topicality": 0.9528028964996338,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.9098489880561829,
+            "topicality": 0.9098489880561829,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.7910730242729187,
+            "topicality": 0.7910730242729187,
+            "description": "Banner"
+        },
+        {
+            "mid": "/m/011s0",
+            "score": 0.7694784998893738,
+            "topicality": 0.7694784998893738,
+            "description": "Advertising"
+        },
+        {
+            "mid": "/m/09jc2n",
+            "score": 0.6950682997703552,
+            "topicality": 0.6950682997703552,
+            "description": "Back"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.6429598927497864,
+            "topicality": 0.6429598927497864,
+            "description": "Protest"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

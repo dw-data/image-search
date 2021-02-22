@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/german-women/100.jpeg",
+    "search_query": "german-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9925819635391235,
+            "topicality": 0.9925819635391235,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9909286499023438,
+            "topicality": 0.9909286499023438,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9844434261322021,
+            "topicality": 0.9844434261322021,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.981568455696106,
+            "topicality": 0.981568455696106,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9784372448921204,
+            "topicality": 0.9784372448921204,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/01xygc",
+            "score": 0.9739547371864319,
+            "topicality": 0.9739547371864319,
+            "description": "Coat"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738293290138245,
+            "topicality": 0.9738293290138245,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.9722796082496643,
+            "topicality": 0.9722796082496643,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/06hwcd",
+            "score": 0.9715999960899353,
+            "topicality": 0.9715999960899353,
+            "description": "Dress shirt"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9692913889884949,
+            "topicality": 0.9692913889884949,
+            "description": "Chin"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

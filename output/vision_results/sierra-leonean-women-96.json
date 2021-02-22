@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/sierra-leonean-women/96.jpeg",
+    "search_query": "sierra-leonean-women",
+    "position": 96,
+    "label_annotations": [
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9662653803825378,
+            "topicality": 0.9662653803825378,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9404982924461365,
+            "topicality": 0.9404982924461365,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.9192414879798889,
+            "topicality": 0.9192414879798889,
+            "description": "Team"
+        },
+        {
+            "mid": "/m/06h12k",
+            "score": 0.8899462223052979,
+            "topicality": 0.8899462223052979,
+            "description": "Sharing"
+        },
+        {
+            "mid": "/m/06bdpk",
+            "score": 0.5175832509994507,
+            "topicality": 0.5175832509994507,
+            "description": "Academic institution"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

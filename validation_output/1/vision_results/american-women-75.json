@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/american-women/75.jpeg",
+    "search_query": "american-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9816675782203674,
+            "topicality": 0.9816675782203674,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0hg7b",
+            "score": 0.9763271808624268,
+            "topicality": 0.9763271808624268,
+            "description": "Microphone"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9730871915817261,
+            "topicality": 0.9730871915817261,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9478555917739868,
+            "topicality": 0.9478555917739868,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9450123906135559,
+            "topicality": 0.9450123906135559,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/02jf2p",
+            "score": 0.9413424134254456,
+            "topicality": 0.9413424134254456,
+            "description": "Public address system"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.8607758283615112,
+            "topicality": 0.8607758283615112,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.8478150367736816,
+            "topicality": 0.8478150367736816,
+            "description": "Lipstick"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

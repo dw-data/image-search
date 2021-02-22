@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/brazilian-women/90.jpeg",
+    "search_query": "brazilian-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9927978515625,
+            "topicality": 0.9927978515625,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9905369281768799,
+            "topicality": 0.9905369281768799,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9822536110877991,
+            "topicality": 0.9822536110877991,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9816147685050964,
+            "topicality": 0.9816147685050964,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9792053699493408,
+            "topicality": 0.9792053699493408,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977172315120697,
+            "topicality": 0.977172315120697,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.9747601747512817,
+            "topicality": 0.9747601747512817,
+            "description": "Swimwear"
+        },
+        {
+            "mid": "/m/01g8j",
+            "score": 0.9687827825546265,
+            "topicality": 0.9687827825546265,
+            "description": "Bikini"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9665176272392273,
+            "topicality": 0.9665176272392273,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/0hgs8s2",
+            "score": 0.9592431783676147,
+            "topicality": 0.9592431783676147,
+            "description": "Swimsuit bottom"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

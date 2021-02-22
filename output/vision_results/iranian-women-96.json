@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/iranian-women/96.jpg",
+    "search_query": "iranian-women",
+    "position": 96,
+    "label_annotations": [
+        {
+            "mid": "/m/032b3c",
+            "score": 0.8337743878364563,
+            "topicality": 0.8337743878364563,
+            "description": "Jacket"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8181626200675964,
+            "topicality": 0.8181626200675964,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/03vnt4",
+            "score": 0.6013833284378052,
+            "topicality": 0.6013833284378052,
+            "description": "Mid-size car"
+        },
+        {
+            "mid": "/m/03tvvb",
+            "score": 0.5954781174659729,
+            "topicality": 0.5954781174659729,
+            "description": "Overcoat"
+        },
+        {
+            "mid": "/m/05bhnr",
+            "score": 0.53907710313797,
+            "topicality": 0.53907710313797,
+            "description": "Hoodie"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

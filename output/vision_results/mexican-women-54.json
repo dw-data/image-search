@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/54.jpeg",
+    "search_query": "mexican-women",
+    "position": 54,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9896261692047119,
+            "topicality": 0.9896261692047119,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9882596135139465,
+            "topicality": 0.9882596135139465,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9854310154914856,
+            "topicality": 0.9854310154914856,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9832267761230469,
+            "topicality": 0.9832267761230469,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773852825164795,
+            "topicality": 0.9773852825164795,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9573625922203064,
+            "topicality": 0.9573625922203064,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0ytgt",
+            "score": 0.9237286448478699,
+            "topicality": 0.9237286448478699,
+            "description": "Child"
+        },
+        {
+            "mid": "/m/06h12k",
+            "score": 0.9050309658050537,
+            "topicality": 0.9050309658050537,
+            "description": "Sharing"
+        },
+        {
+            "mid": "/m/09fwz6",
+            "score": 0.8724581003189087,
+            "topicality": 0.8724581003189087,
+            "description": "Lap"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.7543832063674927,
+            "topicality": 0.7543832063674927,
+            "description": "Trunk"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

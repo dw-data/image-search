@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/south-korean-women/63.jpeg",
+    "search_query": "south-korean-women",
+    "position": 63,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9895167946815491,
+            "topicality": 0.9895167946815491,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/014cnc",
+            "score": 0.682819664478302,
+            "topicality": 0.682819664478302,
+            "description": "Student"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

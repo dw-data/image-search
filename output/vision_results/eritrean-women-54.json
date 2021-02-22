@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/eritrean-women/54.jpeg",
+    "search_query": "eritrean-women",
+    "position": 54,
+    "label_annotations": [
+        {
+            "mid": "/m/0n1h",
+            "score": 0.8761045336723328,
+            "topicality": 0.8761045336723328,
+            "description": "Artist"
+        },
+        {
+            "mid": "/m/0p9xx",
+            "score": 0.7537485361099243,
+            "topicality": 0.7537485361099243,
+            "description": "Visual arts"
+        },
+        {
+            "mid": "/m/05y4t",
+            "score": 0.7434869408607483,
+            "topicality": 0.7434869408607483,
+            "description": "Paint"
+        },
+        {
+            "mid": "/m/018tkd",
+            "score": 0.6532530784606934,
+            "topicality": 0.6532530784606934,
+            "description": "Service"
+        },
+        {
+            "mid": "/m/05qdh",
+            "score": 0.5693456530570984,
+            "topicality": 0.5693456530570984,
+            "description": "Painting"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

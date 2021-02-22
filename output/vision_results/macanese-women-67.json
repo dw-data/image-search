@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/macanese-women/67.jpeg",
+    "search_query": "macanese-women",
+    "position": 67,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.96841961145401,
+            "topicality": 0.96841961145401,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9625183939933777,
+            "topicality": 0.9625183939933777,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01mwkf",
+            "score": 0.8657249808311462,
+            "topicality": 0.8657249808311462,
+            "description": "Monochrome"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.8046614527702332,
+            "topicality": 0.8046614527702332,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7632559537887573,
+            "topicality": 0.7632559537887573,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/03d49p1",
+            "score": 0.7217425107955933,
+            "topicality": 0.7217425107955933,
+            "description": "Monochrome photography"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.5659611225128174,
+            "topicality": 0.5659611225128174,
+            "description": "Portrait"
+        },
+        {
+            "mid": "/m/036jvk",
+            "score": 0.520622968673706,
+            "topicality": 0.520622968673706,
+            "description": "Stock photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "POSSIBLE"
+        }
+    }
+}

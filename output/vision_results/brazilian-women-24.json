@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/brazilian-women/24.jpeg",
+    "search_query": "brazilian-women",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.976453959941864,
+            "topicality": 0.976453959941864,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9735673666000366,
+            "topicality": 0.9735673666000366,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9168211817741394,
+            "topicality": 0.9168211817741394,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.5838620662689209,
+            "topicality": 0.5838620662689209,
+            "description": "Flesh"
+        },
+        {
+            "mid": "/m/07fnvh",
+            "score": 0.5670576691627502,
+            "topicality": 0.5670576691627502,
+            "description": "Artificial hair integrations"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "POSSIBLE"
+        }
+    }
+}

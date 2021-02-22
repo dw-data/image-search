@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/maldivian-women/95.jpeg",
+    "search_query": "maldivian-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.6618349552154541,
+            "topicality": 0.6618349552154541,
+            "description": "Photo caption"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.6497340798377991,
+            "topicality": 0.6497340798377991,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.611630916595459,
+            "topicality": 0.611630916595459,
+            "description": "Bracelet"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/ugandan-women/100.jpeg",
+    "search_query": "ugandan-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.992432713508606,
+            "topicality": 0.992432713508606,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9903857707977295,
+            "topicality": 0.9903857707977295,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9888874292373657,
+            "topicality": 0.9888874292373657,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9803600907325745,
+            "topicality": 0.9803600907325745,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9729722142219543,
+            "topicality": 0.9729722142219543,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9650346040725708,
+            "topicality": 0.9650346040725708,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.9599154591560364,
+            "topicality": 0.9599154591560364,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/0n5v01m",
+            "score": 0.9375470876693726,
+            "topicality": 0.9375470876693726,
+            "description": "Bag"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9336445331573486,
+            "topicality": 0.9336445331573486,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.9272738099098206,
+            "topicality": 0.9272738099098206,
+            "description": "One-piece garment"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

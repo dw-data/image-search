@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/haitian-women/42.jpeg",
+    "search_query": "haitian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/01n4qj",
+            "score": 0.9590405225753784,
+            "topicality": 0.9590405225753784,
+            "description": "Shirt"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.9195074439048767,
+            "topicality": 0.9195074439048767,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/025dyy",
+            "score": 0.8972706198692322,
+            "topicality": 0.8972706198692322,
+            "description": "Box"
+        },
+        {
+            "mid": "/m/03ylns",
+            "score": 0.8953796029090881,
+            "topicality": 0.8953796029090881,
+            "description": "Baby carriage"
+        },
+        {
+            "mid": "/m/06z37_",
+            "score": 0.8926684260368347,
+            "topicality": 0.8926684260368347,
+            "description": "Picture frame"
+        },
+        {
+            "mid": "/g/1261x0jn3",
+            "score": 0.8683179616928101,
+            "topicality": 0.8683179616928101,
+            "description": "Baby Products"
+        },
+        {
+            "mid": "/m/0177t1",
+            "score": 0.7858543395996094,
+            "topicality": 0.7858543395996094,
+            "description": "Plaid"
+        },
+        {
+            "mid": "/m/0h8p55j",
+            "score": 0.6909798383712769,
+            "topicality": 0.6909798383712769,
+            "description": "Shipping box"
+        },
+        {
+            "mid": "/m/01z1sv",
+            "score": 0.5833155512809753,
+            "topicality": 0.5833155512809753,
+            "description": "Tartan"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

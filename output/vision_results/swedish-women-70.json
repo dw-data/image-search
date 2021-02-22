@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/swedish-women/70.jpeg",
+    "search_query": "swedish-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/09jc2n",
+            "score": 0.9124135375022888,
+            "topicality": 0.9124135375022888,
+            "description": "Back"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.9113002419471741,
+            "topicality": 0.9113002419471741,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/03jn2m",
+            "score": 0.8802135586738586,
+            "topicality": 0.8802135586738586,
+            "description": "Azure"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.7432851195335388,
+            "topicality": 0.7432851195335388,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/019b80",
+            "score": 0.706946611404419,
+            "topicality": 0.706946611404419,
+            "description": "Sweater"
+        },
+        {
+            "mid": "/m/05bhnr",
+            "score": 0.578742265701294,
+            "topicality": 0.578742265701294,
+            "description": "Hoodie"
+        },
+        {
+            "mid": "/m/048knlz",
+            "score": 0.5341145396232605,
+            "topicality": 0.5341145396232605,
+            "description": "Love"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

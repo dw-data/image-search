@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/estonian-women/5.jpeg",
+    "search_query": "estonian-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9864393472671509,
+            "topicality": 0.9864393472671509,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.984270453453064,
+            "topicality": 0.984270453453064,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9752411246299744,
+            "topicality": 0.9752411246299744,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9745373725891113,
+            "topicality": 0.9745373725891113,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9733463525772095,
+            "topicality": 0.9733463525772095,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703715443611145,
+            "topicality": 0.9703715443611145,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9451132416725159,
+            "topicality": 0.9451132416725159,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9449416995048523,
+            "topicality": 0.9449416995048523,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9439149498939514,
+            "topicality": 0.9439149498939514,
+            "description": "Eye"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

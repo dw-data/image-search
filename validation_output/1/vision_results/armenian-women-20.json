@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/armenian-women/20.jpeg",
+    "search_query": "armenian-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9847801327705383,
+            "topicality": 0.9847801327705383,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9842643141746521,
+            "topicality": 0.9842643141746521,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9745608568191528,
+            "topicality": 0.9745608568191528,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9687917828559875,
+            "topicality": 0.9687917828559875,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9536823630332947,
+            "topicality": 0.9536823630332947,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009718894958,
+            "topicality": 0.9509009718894958,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9443348050117493,
+            "topicality": 0.9443348050117493,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9360458850860596,
+            "topicality": 0.9360458850860596,
+            "description": "Eye"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/icelandic-women/7.jpeg",
+    "search_query": "icelandic-women",
+    "position": 7,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9898021817207336,
+            "topicality": 0.9898021817207336,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9769906401634216,
+            "topicality": 0.9769906401634216,
+            "description": "People"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9222253561019897,
+            "topicality": 0.9222253561019897,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.816483736038208,
+            "topicality": 0.816483736038208,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/01nq26",
+            "score": 0.715139627456665,
+            "topicality": 0.715139627456665,
+            "description": "Sock"
+        },
+        {
+            "mid": "/m/09fwz6",
+            "score": 0.6413788199424744,
+            "topicality": 0.6413788199424744,
+            "description": "Lap"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.518604576587677,
+            "topicality": 0.518604576587677,
+            "description": "Day dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

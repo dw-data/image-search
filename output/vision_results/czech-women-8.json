@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/czech-women/8.jpeg",
+    "search_query": "czech-women",
+    "position": 8,
+    "label_annotations": [
+        {
+            "mid": "/m/062581",
+            "score": 0.9710144400596619,
+            "topicality": 0.9710144400596619,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9648628830909729,
+            "topicality": 0.9648628830909729,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.9576521515846252,
+            "topicality": 0.9576521515846252,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540389776229858,
+            "topicality": 0.9540389776229858,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9425541162490845,
+            "topicality": 0.9425541162490845,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9065861701965332,
+            "topicality": 0.9065861701965332,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.9029660820960999,
+            "topicality": 0.9029660820960999,
+            "description": "Denim"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8989367485046387,
+            "topicality": 0.8989367485046387,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.8935522437095642,
+            "topicality": 0.8935522437095642,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.889086902141571,
+            "topicality": 0.889086902141571,
+            "description": "Jewellery"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/slovak-women/41.jpeg",
+    "search_query": "slovak-women",
+    "position": 41,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9836524128913879,
+            "topicality": 0.9836524128913879,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.9585441946983337,
+            "topicality": 0.9585441946983337,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.9051207900047302,
+            "topicality": 0.9051207900047302,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/02dgv",
+            "score": 0.748638391494751,
+            "topicality": 0.748638391494751,
+            "description": "Door"
+        },
+        {
+            "mid": "/m/01s_bn",
+            "score": 0.5441086888313293,
+            "topicality": 0.5441086888313293,
+            "description": "Button"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

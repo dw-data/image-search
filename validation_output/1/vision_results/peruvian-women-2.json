@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/peruvian-women/2.jpeg",
+    "search_query": "peruvian-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9877052903175354,
+            "topicality": 0.9877052903175354,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9836296439170837,
+            "topicality": 0.9836296439170837,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9809954762458801,
+            "topicality": 0.9809954762458801,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9764653444290161,
+            "topicality": 0.9764653444290161,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9716499447822571,
+            "topicality": 0.9716499447822571,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.970447838306427,
+            "topicality": 0.970447838306427,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9386481642723083,
+            "topicality": 0.9386481642723083,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9160861372947693,
+            "topicality": 0.9160861372947693,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9094635844230652,
+            "topicality": 0.9094635844230652,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/038hg",
+            "score": 0.9046750664710999,
+            "topicality": 0.9046750664710999,
+            "description": "Green"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

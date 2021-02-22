@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/nepalese-women/1.jpeg",
+    "search_query": "nepalese-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9896730184555054,
+            "topicality": 0.9896730184555054,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9892985820770264,
+            "topicality": 0.9892985820770264,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880428314208984,
+            "topicality": 0.9880428314208984,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.983644425868988,
+            "topicality": 0.983644425868988,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774909615516663,
+            "topicality": 0.9774909615516663,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9670163989067078,
+            "topicality": 0.9670163989067078,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9406272768974304,
+            "topicality": 0.9406272768974304,
+            "description": "Community"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9263389706611633,
+            "topicality": 0.9263389706611633,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.9113004207611084,
+            "topicality": 0.9113004207611084,
+            "description": "Interaction"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

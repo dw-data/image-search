@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/nauruan-women/52.jpeg",
+    "search_query": "nauruan-women",
+    "position": 52,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9769585132598877,
+            "topicality": 0.9769585132598877,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.939654529094696,
+            "topicality": 0.939654529094696,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/0h8xdq1",
+            "score": 0.9151321649551392,
+            "topicality": 0.9151321649551392,
+            "description": "Wire fencing"
+        },
+        {
+            "mid": "/m/0413y3",
+            "score": 0.8793268203735352,
+            "topicality": 0.8793268203735352,
+            "description": "Mesh"
+        },
+        {
+            "mid": "/m/0blz9",
+            "score": 0.7926819920539856,
+            "topicality": 0.7926819920539856,
+            "description": "Fence"
+        },
+        {
+            "mid": "/m/0cd3bj",
+            "score": 0.6283702254295349,
+            "topicality": 0.6283702254295349,
+            "description": "Chain-link fencing"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

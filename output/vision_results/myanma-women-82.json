@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/myanma-women/82.jpeg",
+    "search_query": "myanma-women",
+    "position": 82,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9778110384941101,
+            "topicality": 0.9778110384941101,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.915618896484375,
+            "topicality": 0.915618896484375,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9078018665313721,
+            "topicality": 0.9078018665313721,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8840500116348267,
+            "topicality": 0.8840500116348267,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8253874778747559,
+            "topicality": 0.8253874778747559,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.644848108291626,
+            "topicality": 0.644848108291626,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.5474411845207214,
+            "topicality": 0.5474411845207214,
+            "description": "Portrait"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/filipino-women/12.jpeg",
+    "search_query": "filipino-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.983004093170166,
+            "topicality": 0.983004093170166,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9825928807258606,
+            "topicality": 0.9825928807258606,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9792404770851135,
+            "topicality": 0.9792404770851135,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9769309163093567,
+            "topicality": 0.9769309163093567,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9748767018318176,
+            "topicality": 0.9748767018318176,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9704297184944153,
+            "topicality": 0.9704297184944153,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.948185384273529,
+            "topicality": 0.948185384273529,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9372209310531616,
+            "topicality": 0.9372209310531616,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9344787001609802,
+            "topicality": 0.9344787001609802,
+            "description": "Eyelash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

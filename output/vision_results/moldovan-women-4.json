@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/moldovan-women/4.jpeg",
+    "search_query": "moldovan-women",
+    "position": 4,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.98408442735672,
+            "topicality": 0.98408442735672,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9793137907981873,
+            "topicality": 0.9793137907981873,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790127277374268,
+            "topicality": 0.9790127277374268,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9771896004676819,
+            "topicality": 0.9771896004676819,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9756982326507568,
+            "topicality": 0.9756982326507568,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.97397381067276,
+            "topicality": 0.97397381067276,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9712035059928894,
+            "topicality": 0.9712035059928894,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9687655568122864,
+            "topicality": 0.9687655568122864,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9655905961990356,
+            "topicality": 0.9655905961990356,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/georgian-women/60.jpeg",
+    "search_query": "georgian-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9886524677276611,
+            "topicality": 0.9886524677276611,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9845442175865173,
+            "topicality": 0.9845442175865173,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9768063426017761,
+            "topicality": 0.9768063426017761,
+            "description": "People"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9356023073196411,
+            "topicality": 0.9356023073196411,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/01f0r6",
+            "score": 0.9119738340377808,
+            "topicality": 0.9119738340377808,
+            "description": "Megaphone"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8378301858901978,
+            "topicality": 0.8378301858901978,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.8249734044075012,
+            "topicality": 0.8249734044075012,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/0n1h",
+            "score": 0.8173627853393555,
+            "topicality": 0.8173627853393555,
+            "description": "Artist"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.766697347164154,
+            "topicality": 0.766697347164154,
+            "description": "Sun hat"
+        },
+        {
+            "mid": "/m/013x8v",
+            "score": 0.7456420063972473,
+            "topicality": 0.7456420063972473,
+            "description": "Fan"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

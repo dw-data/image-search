@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/scottish-women/45.jpeg",
+    "search_query": "scottish-women",
+    "position": 45,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9842960834503174,
+            "topicality": 0.9842960834503174,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9833744764328003,
+            "topicality": 0.9833744764328003,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9737948775291443,
+            "topicality": 0.9737948775291443,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9421020746231079,
+            "topicality": 0.9421020746231079,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9371237754821777,
+            "topicality": 0.9371237754821777,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9159976840019226,
+            "topicality": 0.9159976840019226,
+            "description": "Smile"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8541602492332458,
+            "topicality": 0.8541602492332458,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8516833186149597,
+            "topicality": 0.8516833186149597,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/02qqd4n",
+            "score": 0.8204969763755798,
+            "topicality": 0.8204969763755798,
+            "description": "Fashion design"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.7904074788093567,
+            "topicality": 0.7904074788093567,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

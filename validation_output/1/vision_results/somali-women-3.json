@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/somali-women/3.jpeg",
+    "search_query": "somali-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9841354489326477,
+            "topicality": 0.9841354489326477,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9816255569458008,
+            "topicality": 0.9816255569458008,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.9540531039237976,
+            "topicality": 0.9540531039237976,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.932930588722229,
+            "topicality": 0.932930588722229,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/09ggk",
+            "score": 0.8942486047744751,
+            "topicality": 0.8942486047744751,
+            "description": "Purple"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.872684895992279,
+            "topicality": 0.872684895992279,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724504709243774,
+            "topicality": 0.8724504709243774,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8534080386161804,
+            "topicality": 0.8534080386161804,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.810521125793457,
+            "topicality": 0.810521125793457,
+            "description": "Headgear"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/dutch-women/1.jpeg",
+    "search_query": "dutch-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9768696427345276,
+            "topicality": 0.9768696427345276,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9700809717178345,
+            "topicality": 0.9700809717178345,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9482424259185791,
+            "topicality": 0.9482424259185791,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9458382725715637,
+            "topicality": 0.9458382725715637,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9164583086967468,
+            "topicality": 0.9164583086967468,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9153617024421692,
+            "topicality": 0.9153617024421692,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9031694531440735,
+            "topicality": 0.9031694531440735,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.87846440076828,
+            "topicality": 0.87846440076828,
+            "description": "Neck"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8753423690795898,
+            "topicality": 0.8753423690795898,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724503517150879,
+            "topicality": 0.8724503517150879,
+            "description": "Sleeve"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

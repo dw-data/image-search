@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/romanian-women/2.jpeg",
+    "search_query": "romanian-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9886783957481384,
+            "topicality": 0.9886783957481384,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789948463439941,
+            "topicality": 0.9789948463439941,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710283875465393,
+            "topicality": 0.9710283875465393,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9460074305534363,
+            "topicality": 0.9460074305534363,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.897053062915802,
+            "topicality": 0.897053062915802,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8968033790588379,
+            "topicality": 0.8968033790588379,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/032b3c",
+            "score": 0.8881775140762329,
+            "topicality": 0.8881775140762329,
+            "description": "Jacket"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8360467553138733,
+            "topicality": 0.8360467553138733,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.804499089717865,
+            "topicality": 0.804499089717865,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.7926731705665588,
+            "topicality": 0.7926731705665588,
+            "description": "Portrait"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

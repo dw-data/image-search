@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/french-women/5.jpeg",
+    "search_query": "french-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/091410",
+            "score": 0.9723038673400879,
+            "topicality": 0.9723038673400879,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710306525230408,
+            "topicality": 0.9710306525230408,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/06hwcd",
+            "score": 0.9671509861946106,
+            "topicality": 0.9671509861946106,
+            "description": "Dress shirt"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9654477834701538,
+            "topicality": 0.9654477834701538,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.9607492089271545,
+            "topicality": 0.9607492089271545,
+            "description": "Denim"
+        },
+        {
+            "mid": "/m/01n4qj",
+            "score": 0.9590746760368347,
+            "topicality": 0.9590746760368347,
+            "description": "Shirt"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9390236139297485,
+            "topicality": 0.9390236139297485,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9320924878120422,
+            "topicality": 0.9320924878120422,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.9176415801048279,
+            "topicality": 0.9176415801048279,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/025rhd",
+            "score": 0.9171904921531677,
+            "topicality": 0.9171904921531677,
+            "description": "Pocket"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

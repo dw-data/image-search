@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/ugandan-women/38.jpeg",
+    "search_query": "ugandan-women",
+    "position": 38,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9835188984870911,
+            "topicality": 0.9835188984870911,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9740739464759827,
+            "topicality": 0.9740739464759827,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9561770558357239,
+            "topicality": 0.9561770558357239,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9422038197517395,
+            "topicality": 0.9422038197517395,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9329569935798645,
+            "topicality": 0.9329569935798645,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9152992963790894,
+            "topicality": 0.9152992963790894,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8815313577651978,
+            "topicality": 0.8815313577651978,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8798103928565979,
+            "topicality": 0.8798103928565979,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/019sc6",
+            "score": 0.8653807640075684,
+            "topicality": 0.8653807640075684,
+            "description": "Lighting"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

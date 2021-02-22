@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/nauruan-women/10.jpeg",
+    "search_query": "nauruan-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9833747744560242,
+            "topicality": 0.9833747744560242,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9757921695709229,
+            "topicality": 0.9757921695709229,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9749386310577393,
+            "topicality": 0.9749386310577393,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9694283604621887,
+            "topicality": 0.9694283604621887,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9657829403877258,
+            "topicality": 0.9657829403877258,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9425607323646545,
+            "topicality": 0.9425607323646545,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9380618929862976,
+            "topicality": 0.9380618929862976,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9351845979690552,
+            "topicality": 0.9351845979690552,
+            "description": "Eye"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

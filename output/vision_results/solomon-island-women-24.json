@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/solomon-island-women/24.jpeg",
+    "search_query": "solomon-island-women",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.7819101810455322,
+            "topicality": 0.7819101810455322,
+            "description": "Tooth"
+        },
+        {
+            "mid": "/m/08nmvx",
+            "score": 0.5284643173217773,
+            "topicality": 0.5284643173217773,
+            "description": "S-curl"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

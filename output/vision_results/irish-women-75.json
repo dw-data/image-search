@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/irish-women/75.jpeg",
+    "search_query": "irish-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9892666935920715,
+            "topicality": 0.9892666935920715,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880483746528625,
+            "topicality": 0.9880483746528625,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9843904972076416,
+            "topicality": 0.9843904972076416,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9549918174743652,
+            "topicality": 0.9549918174743652,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0271t",
+            "score": 0.9233006834983826,
+            "topicality": 0.9233006834983826,
+            "description": "Drink"
+        },
+        {
+            "mid": "/m/050h26",
+            "score": 0.8597992658615112,
+            "topicality": 0.8597992658615112,
+            "description": "Drinkware"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.8209996223449707,
+            "topicality": 0.8209996223449707,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8208857774734497,
+            "topicality": 0.8208857774734497,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.7840799689292908,
+            "topicality": 0.7840799689292908,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/09tvcd",
+            "score": 0.7319286465644836,
+            "topicality": 0.7319286465644836,
+            "description": "Wine glass"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

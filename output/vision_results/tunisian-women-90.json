@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/tunisian-women/90.jpeg",
+    "search_query": "tunisian-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9897233247756958,
+            "topicality": 0.9897233247756958,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.988128662109375,
+            "topicality": 0.988128662109375,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9844393134117126,
+            "topicality": 0.9844393134117126,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9811677932739258,
+            "topicality": 0.9811677932739258,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774903059005737,
+            "topicality": 0.9774903059005737,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9716173410415649,
+            "topicality": 0.9716173410415649,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.969916045665741,
+            "topicality": 0.969916045665741,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9404548406600952,
+            "topicality": 0.9404548406600952,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.9376822113990784,
+            "topicality": 0.9376822113990784,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/01mqdt",
+            "score": 0.9216177463531494,
+            "topicality": 0.9216177463531494,
+            "description": "Traffic sign"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

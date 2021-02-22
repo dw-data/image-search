@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/27.jpeg",
+    "search_query": "mexican-women",
+    "position": 27,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9881435036659241,
+            "topicality": 0.9881435036659241,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837545156478882,
+            "topicality": 0.9837545156478882,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774652123451233,
+            "topicality": 0.9774652123451233,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9425845146179199,
+            "topicality": 0.9425845146179199,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9403229355812073,
+            "topicality": 0.9403229355812073,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/02d46y",
+            "score": 0.9149646162986755,
+            "topicality": 0.9149646162986755,
+            "description": "Cap"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9118539094924927,
+            "topicality": 0.9118539094924927,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/071j9r",
+            "score": 0.8909500241279602,
+            "topicality": 0.8909500241279602,
+            "description": "Cool"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828208446502686,
+            "topicality": 0.8828208446502686,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8792263865470886,
+            "topicality": 0.8792263865470886,
+            "description": "Youth"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

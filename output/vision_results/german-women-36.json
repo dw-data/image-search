@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/german-women/36.jpeg",
+    "search_query": "german-women",
+    "position": 36,
+    "label_annotations": [
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9808260202407837,
+            "topicality": 0.9808260202407837,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9655892848968506,
+            "topicality": 0.9655892848968506,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9539800882339478,
+            "topicality": 0.9539800882339478,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/02wzbmj",
+            "score": 0.9531915187835693,
+            "topicality": 0.9531915187835693,
+            "description": "Standing"
+        },
+        {
+            "mid": "/m/06ht1",
+            "score": 0.94053053855896,
+            "topicality": 0.94053053855896,
+            "description": "Room"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9329180121421814,
+            "topicality": 0.9329180121421814,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/02rfdq",
+            "score": 0.9250404238700867,
+            "topicality": 0.9250404238700867,
+            "description": "Interior design"
+        },
+        {
+            "mid": "/m/06z37_",
+            "score": 0.899298369884491,
+            "topicality": 0.899298369884491,
+            "description": "Picture frame"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8848124742507935,
+            "topicality": 0.8848124742507935,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/femmes-fran\u00e7aises/24.jpeg",
+    "search_query": "femmes-fran\u00e7aises",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9828126430511475,
+            "topicality": 0.9828126430511475,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.979286789894104,
+            "topicality": 0.979286789894104,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9704095125198364,
+            "topicality": 0.9704095125198364,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9658442735671997,
+            "topicality": 0.9658442735671997,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9411210417747498,
+            "topicality": 0.9411210417747498,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9325245022773743,
+            "topicality": 0.9325245022773743,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9263219237327576,
+            "topicality": 0.9263219237327576,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9209716320037842,
+            "topicality": 0.9209716320037842,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9084123373031616,
+            "topicality": 0.9084123373031616,
+            "description": "Mouth"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

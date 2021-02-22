@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/danish-women/82.jpeg",
+    "search_query": "danish-women",
+    "position": 82,
+    "label_annotations": [
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9835911393165588,
+            "topicality": 0.9835911393165588,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9360548257827759,
+            "topicality": 0.9360548257827759,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.9113001823425293,
+            "topicality": 0.9113001823425293,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.7700282335281372,
+            "topicality": 0.7700282335281372,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/017rnr",
+            "score": 0.7445752620697021,
+            "topicality": 0.7445752620697021,
+            "description": "Amusement ride"
+        },
+        {
+            "mid": "/m/010jjr",
+            "score": 0.723031759262085,
+            "topicality": 0.723031759262085,
+            "description": "Amusement park"
+        },
+        {
+            "mid": "/m/026_x9",
+            "score": 0.7096834182739258,
+            "topicality": 0.7096834182739258,
+            "description": "Ponytail"
+        },
+        {
+            "mid": "/m/03rszm",
+            "score": 0.6412818431854248,
+            "topicality": 0.6412818431854248,
+            "description": "Curtain"
+        },
+        {
+            "mid": "/m/010l12",
+            "score": 0.582103967666626,
+            "topicality": 0.582103967666626,
+            "description": "Roller coaster"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

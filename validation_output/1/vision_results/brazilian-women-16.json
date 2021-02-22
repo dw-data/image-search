@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/brazilian-women/16.jpeg",
+    "search_query": "brazilian-women",
+    "position": 16,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9828406572341919,
+            "topicality": 0.9828406572341919,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9766552448272705,
+            "topicality": 0.9766552448272705,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9744970798492432,
+            "topicality": 0.9744970798492432,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9707229137420654,
+            "topicality": 0.9707229137420654,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9660181999206543,
+            "topicality": 0.9660181999206543,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9572117328643799,
+            "topicality": 0.9572117328643799,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9448215961456299,
+            "topicality": 0.9448215961456299,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9441482424736023,
+            "topicality": 0.9441482424736023,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9405847787857056,
+            "topicality": 0.9405847787857056,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9374780654907227,
+            "topicality": 0.9374780654907227,
+            "description": "Shoulder"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

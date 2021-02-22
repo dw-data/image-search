@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/mongolian-women/87.jpeg",
+    "search_query": "mongolian-women",
+    "position": 87,
+    "label_annotations": [
+        {
+            "mid": "/m/083vt",
+            "score": 0.9791266918182373,
+            "topicality": 0.9791266918182373,
+            "description": "Wood"
+        },
+        {
+            "mid": "/m/05sm1",
+            "score": 0.911278247833252,
+            "topicality": 0.911278247833252,
+            "description": "Plain"
+        },
+        {
+            "mid": "/m/0cblv",
+            "score": 0.8990883231163025,
+            "topicality": 0.8990883231163025,
+            "description": "Ecoregion"
+        },
+        {
+            "mid": "/m/037xy",
+            "score": 0.7511687874794006,
+            "topicality": 0.7511687874794006,
+            "description": "Gas"
+        },
+        {
+            "mid": "/m/025dyy",
+            "score": 0.5386139154434204,
+            "topicality": 0.5386139154434204,
+            "description": "Box"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/american-women/66.jpeg",
+    "search_query": "american-women",
+    "position": 66,
+    "label_annotations": [
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.951636791229248,
+            "topicality": 0.951636791229248,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/086mh",
+            "score": 0.9484629034996033,
+            "topicality": 0.9484629034996033,
+            "description": "Winter"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9274868369102478,
+            "topicality": 0.9274868369102478,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.9229913949966431,
+            "topicality": 0.9229913949966431,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/032b3c",
+            "score": 0.9104350805282593,
+            "topicality": 0.9104350805282593,
+            "description": "Jacket"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6578720808029175,
+            "topicality": 0.6578720808029175,
+            "description": "Portrait photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

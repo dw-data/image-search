@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/lebanese-women/42.jpeg",
+    "search_query": "lebanese-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9899861812591553,
+            "topicality": 0.9899861812591553,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9889258146286011,
+            "topicality": 0.9889258146286011,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9878429174423218,
+            "topicality": 0.9878429174423218,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9840995669364929,
+            "topicality": 0.9840995669364929,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789948463439941,
+            "topicality": 0.9789948463439941,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740942716598511,
+            "topicality": 0.9740942716598511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9725105166435242,
+            "topicality": 0.9725105166435242,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9654764533042908,
+            "topicality": 0.9654764533042908,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639055132865906,
+            "topicality": 0.9639055132865906,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.9280579686164856,
+            "topicality": 0.9280579686164856,
+            "description": "Denim"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

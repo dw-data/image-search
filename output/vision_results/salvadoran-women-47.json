@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/salvadoran-women/47.jpeg",
+    "search_query": "salvadoran-women",
+    "position": 47,
+    "label_annotations": [
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9780606031417847,
+            "topicality": 0.9780606031417847,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9771004915237427,
+            "topicality": 0.9771004915237427,
+            "description": "People"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.6753630042076111,
+            "topicality": 0.6753630042076111,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/01kr8f",
+            "score": 0.657970130443573,
+            "topicality": 0.657970130443573,
+            "description": "Illustration"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.5106229186058044,
+            "topicality": 0.5106229186058044,
+            "description": "Flesh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

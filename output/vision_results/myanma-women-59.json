@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/myanma-women/59.jpeg",
+    "search_query": "myanma-women",
+    "position": 59,
+    "label_annotations": [
+        {
+            "mid": "/m/018tkd",
+            "score": 0.7117804288864136,
+            "topicality": 0.7117804288864136,
+            "description": "Service"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.5216369032859802,
+            "topicality": 0.5216369032859802,
+            "description": "Wrinkle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

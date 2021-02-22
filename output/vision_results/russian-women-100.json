@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/russian-women/100.png",
+    "search_query": "russian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/086mh",
+            "score": 0.8979855179786682,
+            "topicality": 0.8979855179786682,
+            "description": "Winter"
+        },
+        {
+            "mid": "/m/06_dn",
+            "score": 0.8282413482666016,
+            "topicality": 0.8282413482666016,
+            "description": "Snow"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.7469423413276672,
+            "topicality": 0.7469423413276672,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/01c791",
+            "score": 0.7221075296401978,
+            "topicality": 0.7221075296401978,
+            "description": "Freezing"
+        },
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.6225618124008179,
+            "topicality": 0.6225618124008179,
+            "description": "Banner"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

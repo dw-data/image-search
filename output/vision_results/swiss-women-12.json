@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swiss-women/12.jpeg",
+    "search_query": "swiss-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9889054298400879,
+            "topicality": 0.9889054298400879,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/06gfj",
+            "score": 0.9815656542778015,
+            "topicality": 0.9815656542778015,
+            "description": "Road"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.977696418762207,
+            "topicality": 0.977696418762207,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.976729154586792,
+            "topicality": 0.976729154586792,
+            "description": "People"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9715123176574707,
+            "topicality": 0.9715123176574707,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/01n32",
+            "score": 0.9683327078819275,
+            "topicality": 0.9683327078819275,
+            "description": "City"
+        },
+        {
+            "mid": "/m/01c8br",
+            "score": 0.9680675864219666,
+            "topicality": 0.9680675864219666,
+            "description": "Street"
+        },
+        {
+            "mid": "/m/0dx1j",
+            "score": 0.9666349291801453,
+            "topicality": 0.9666349291801453,
+            "description": "Town"
+        },
+        {
+            "mid": "/m/017kvv",
+            "score": 0.9646837115287781,
+            "topicality": 0.9646837115287781,
+            "description": "Infrastructure"
+        },
+        {
+            "mid": "/m/0180xr",
+            "score": 0.955703616142273,
+            "topicality": 0.955703616142273,
+            "description": "Neighbourhood"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

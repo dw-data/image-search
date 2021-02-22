@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/german-women/43.jpeg",
+    "search_query": "german-women",
+    "position": 43,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9783356785774231,
+            "topicality": 0.9783356785774231,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/01599",
+            "score": 0.9628012180328369,
+            "topicality": 0.9628012180328369,
+            "description": "Beer"
+        },
+        {
+            "mid": "/m/0271t",
+            "score": 0.9551495313644409,
+            "topicality": 0.9551495313644409,
+            "description": "Drink"
+        },
+        {
+            "mid": "/m/0h8nvcj",
+            "score": 0.9525501728057861,
+            "topicality": 0.9525501728057861,
+            "description": "Barware"
+        },
+        {
+            "mid": "/m/012mj",
+            "score": 0.9455628991127014,
+            "topicality": 0.9455628991127014,
+            "description": "Alcoholic beverage"
+        },
+        {
+            "mid": "/m/0lqk",
+            "score": 0.9424812197685242,
+            "topicality": 0.9424812197685242,
+            "description": "Alcohol"
+        },
+        {
+            "mid": "/m/04brg2",
+            "score": 0.9265477657318115,
+            "topicality": 0.9265477657318115,
+            "description": "Tableware"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.922672688961029,
+            "topicality": 0.922672688961029,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/050h26",
+            "score": 0.9026243686676025,
+            "topicality": 0.9026243686676025,
+            "description": "Drinkware"
+        },
+        {
+            "mid": "/m/04shl0",
+            "score": 0.8617196679115295,
+            "topicality": 0.8617196679115295,
+            "description": "Distilled beverage"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

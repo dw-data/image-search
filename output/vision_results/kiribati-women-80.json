@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/kiribati-women/80.jpeg",
+    "search_query": "kiribati-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/07bxq",
+            "score": 0.9012466073036194,
+            "topicality": 0.9012466073036194,
+            "description": "Tourism"
+        },
+        {
+            "mid": "/m/05kq4",
+            "score": 0.8603614568710327,
+            "topicality": 0.8603614568710327,
+            "description": "Ocean"
+        },
+        {
+            "mid": "/j/148skd",
+            "score": 0.5655038952827454,
+            "topicality": 0.5655038952827454,
+            "description": "People on beach"
+        },
+        {
+            "mid": "/m/01j61q",
+            "score": 0.5400183796882629,
+            "topicality": 0.5400183796882629,
+            "description": "Tent"
+        },
+        {
+            "mid": "/m/0hl08",
+            "score": 0.5060356259346008,
+            "topicality": 0.5060356259346008,
+            "description": "Tropics"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/angolan-women/1.jpeg",
+    "search_query": "angolan-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9889523386955261,
+            "topicality": 0.9889523386955261,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880822896957397,
+            "topicality": 0.9880822896957397,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9838328957557678,
+            "topicality": 0.9838328957557678,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9776596426963806,
+            "topicality": 0.9776596426963806,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9775269031524658,
+            "topicality": 0.9775269031524658,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740505218505859,
+            "topicality": 0.9740505218505859,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9714041948318481,
+            "topicality": 0.9714041948318481,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.97095787525177,
+            "topicality": 0.97095787525177,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9406300187110901,
+            "topicality": 0.9406300187110901,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344746470451355,
+            "topicality": 0.9344746470451355,
+            "description": "Facial expression"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

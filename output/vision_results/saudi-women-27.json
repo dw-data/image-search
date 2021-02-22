@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/saudi-women/27.jpeg",
+    "search_query": "saudi-women",
+    "position": 27,
+    "label_annotations": [
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9212298393249512,
+            "topicality": 0.9212298393249512,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8915848731994629,
+            "topicality": 0.8915848731994629,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0hf58v5",
+            "score": 0.8115189671516418,
+            "topicality": 0.8115189671516418,
+            "description": "Luggage and bags"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.6456435918807983,
+            "topicality": 0.6456435918807983,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/05p3ygh",
+            "score": 0.5715416669845581,
+            "topicality": 0.5715416669845581,
+            "description": "Mantle"
+        },
+        {
+            "mid": "/m/01444p",
+            "score": 0.533717930316925,
+            "topicality": 0.533717930316925,
+            "description": "Cloak"
+        },
+        {
+            "mid": "/m/0bp_2p",
+            "score": 0.5164715051651001,
+            "topicality": 0.5164715051651001,
+            "description": "Gown"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/salvadoran-women/67.jpeg",
+    "search_query": "salvadoran-women",
+    "position": 67,
+    "label_annotations": [
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8526186347007751,
+            "topicality": 0.8526186347007751,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/05gqfk",
+            "score": 0.7412410974502563,
+            "topicality": 0.7412410974502563,
+            "description": "Plastic bag"
+        },
+        {
+            "mid": "/m/01y3fy",
+            "score": 0.6089593172073364,
+            "topicality": 0.6089593172073364,
+            "description": "Jungle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/tuvaluan-women/87.jpeg",
+    "search_query": "tuvaluan-women",
+    "position": 87,
+    "label_annotations": [
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9648709893226624,
+            "topicality": 0.9648709893226624,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9393045902252197,
+            "topicality": 0.9393045902252197,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/0fkrk",
+            "score": 0.8087649941444397,
+            "topicality": 0.8087649941444397,
+            "description": "Grass family"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

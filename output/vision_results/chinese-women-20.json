@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/chinese-women/20.jpeg",
+    "search_query": "chinese-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9921442866325378,
+            "topicality": 0.9921442866325378,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9735269546508789,
+            "topicality": 0.9735269546508789,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/02c9_23",
+            "score": 0.9700844883918762,
+            "topicality": 0.9700844883918762,
+            "description": "Coastal and oceanic landforms"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9662278294563293,
+            "topicality": 0.9662278294563293,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656103253364563,
+            "topicality": 0.9656103253364563,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/078qz",
+            "score": 0.9348394870758057,
+            "topicality": 0.9348394870758057,
+            "description": "Summer"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9328231811523438,
+            "topicality": 0.9328231811523438,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/0b3yr",
+            "score": 0.9299232959747314,
+            "topicality": 0.9299232959747314,
+            "description": "Beach"
+        },
+        {
+            "mid": "/m/05kq4",
+            "score": 0.9287816882133484,
+            "topicality": 0.9287816882133484,
+            "description": "Ocean"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

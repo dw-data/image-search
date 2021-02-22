@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/belgian-women/70.jpeg",
+    "search_query": "belgian-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9723549485206604,
+            "topicality": 0.9723549485206604,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710214734077454,
+            "topicality": 0.9710214734077454,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9642876386642456,
+            "topicality": 0.9642876386642456,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9539878368377686,
+            "topicality": 0.9539878368377686,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9245395064353943,
+            "topicality": 0.9245395064353943,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/019swr",
+            "score": 0.8828570246696472,
+            "topicality": 0.8828570246696472,
+            "description": "Knee"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.8827866911888123,
+            "topicality": 0.8827866911888123,
+            "description": "Fashion model"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8646109104156494,
+            "topicality": 0.8646109104156494,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.8365098834037781,
+            "topicality": 0.8365098834037781,
+            "description": "Long hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

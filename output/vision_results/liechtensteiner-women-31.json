@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/liechtensteiner-women/31.jpeg",
+    "search_query": "liechtensteiner-women",
+    "position": 31,
+    "label_annotations": [
+        {
+            "mid": "/m/0dx1j",
+            "score": 0.9402369856834412,
+            "topicality": 0.9402369856834412,
+            "description": "Town"
+        },
+        {
+            "mid": "/m/04wxr",
+            "score": 0.8858544826507568,
+            "topicality": 0.8858544826507568,
+            "description": "Mountain range"
+        },
+        {
+            "mid": "/m/040h04",
+            "score": 0.8123356699943542,
+            "topicality": 0.8123356699943542,
+            "description": "Hill station"
+        },
+        {
+            "mid": "/m/05qdh",
+            "score": 0.5653558969497681,
+            "topicality": 0.5653558969497681,
+            "description": "Painting"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.5276753902435303,
+            "topicality": 0.5276753902435303,
+            "description": "Village"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

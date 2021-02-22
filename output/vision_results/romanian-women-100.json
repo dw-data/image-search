@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/romanian-women/100.jpeg",
+    "search_query": "romanian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/04rky",
+            "score": 0.9404508471488953,
+            "topicality": 0.9404508471488953,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.85606849193573,
+            "topicality": 0.85606849193573,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.8468291759490967,
+            "topicality": 0.8468291759490967,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/023j4r",
+            "score": 0.8181197047233582,
+            "topicality": 0.8181197047233582,
+            "description": "Nail"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.7865922451019287,
+            "topicality": 0.7865922451019287,
+            "description": "Bracelet"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7485606670379639,
+            "topicality": 0.7485606670379639,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/03yl64",
+            "score": 0.6733355522155762,
+            "topicality": 0.6733355522155762,
+            "description": "Companion dog"
+        },
+        {
+            "mid": "/m/019b80",
+            "score": 0.6622322201728821,
+            "topicality": 0.6622322201728821,
+            "description": "Sweater"
+        },
+        {
+            "mid": "/m/0kpmf",
+            "score": 0.5954030752182007,
+            "topicality": 0.5954030752182007,
+            "description": "Dog breed"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

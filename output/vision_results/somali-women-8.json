@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/somali-women/8.jpeg",
+    "search_query": "somali-women",
+    "position": 8,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9764983654022217,
+            "topicality": 0.9764983654022217,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9035502076148987,
+            "topicality": 0.9035502076148987,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.5158815979957581,
+            "topicality": 0.5158815979957581,
+            "description": "Shawl"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

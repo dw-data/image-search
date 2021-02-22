@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/montenegrin-women/63.jpeg",
+    "search_query": "montenegrin-women",
+    "position": 63,
+    "label_annotations": [
+        {
+            "mid": "/m/01c8br",
+            "score": 0.9137718677520752,
+            "topicality": 0.9137718677520752,
+            "description": "Street"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9113574624061584,
+            "topicality": 0.9113574624061584,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8715933561325073,
+            "topicality": 0.8715933561325073,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0dnhy",
+            "score": 0.8217825889587402,
+            "topicality": 0.8217825889587402,
+            "description": "Sidewalk"
+        },
+        {
+            "mid": "/m/02t2zd",
+            "score": 0.5388196110725403,
+            "topicality": 0.5388196110725403,
+            "description": "Cobblestone"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

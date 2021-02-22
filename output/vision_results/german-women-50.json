@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/german-women/50.jpeg",
+    "search_query": "german-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/012f08",
+            "score": 0.9875465035438538,
+            "topicality": 0.9875465035438538,
+            "description": "Motor vehicle"
+        },
+        {
+            "mid": "/m/04_sv",
+            "score": 0.9851363897323608,
+            "topicality": 0.9851363897323608,
+            "description": "Motorcycle"
+        },
+        {
+            "mid": "/m/068mqj",
+            "score": 0.9780206680297852,
+            "topicality": 0.9780206680297852,
+            "description": "Automotive design"
+        },
+        {
+            "mid": "/m/0h8pb3l",
+            "score": 0.9755959510803223,
+            "topicality": 0.9755959510803223,
+            "description": "Automotive tire"
+        },
+        {
+            "mid": "/m/043g5f",
+            "score": 0.9710952639579773,
+            "topicality": 0.9710952639579773,
+            "description": "Fuel tank"
+        },
+        {
+            "mid": "/m/0768fx",
+            "score": 0.9689443707466125,
+            "topicality": 0.9689443707466125,
+            "description": "Automotive lighting"
+        },
+        {
+            "mid": "/m/0263qm",
+            "score": 0.9551572799682617,
+            "topicality": 0.9551572799682617,
+            "description": "Headlamp"
+        },
+        {
+            "mid": "/m/0d74dx",
+            "score": 0.9314849972724915,
+            "topicality": 0.9314849972724915,
+            "description": "Fender"
+        },
+        {
+            "mid": "/m/08dz3q",
+            "score": 0.9041781425476074,
+            "topicality": 0.9041781425476074,
+            "description": "Auto part"
+        },
+        {
+            "mid": "/m/0h8lk_j",
+            "score": 0.9040528535842896,
+            "topicality": 0.9040528535842896,
+            "description": "Automotive fuel system"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

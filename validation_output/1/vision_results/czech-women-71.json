@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/czech-women/71.jpeg",
+    "search_query": "czech-women",
+    "position": 71,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9840030670166016,
+            "topicality": 0.9840030670166016,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9440322518348694,
+            "topicality": 0.9440322518348694,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9312820434570312,
+            "topicality": 0.9312820434570312,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9110801219940186,
+            "topicality": 0.9110801219940186,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8686386346817017,
+            "topicality": 0.8686386346817017,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8509210348129272,
+            "topicality": 0.8509210348129272,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.7976261973381042,
+            "topicality": 0.7976261973381042,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.7721337676048279,
+            "topicality": 0.7721337676048279,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.7706578969955444,
+            "topicality": 0.7706578969955444,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7449137568473816,
+            "topicality": 0.7449137568473816,
+            "description": "Long hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/slovak-women/91.jpeg",
+    "search_query": "slovak-women",
+    "position": 91,
+    "label_annotations": [
+        {
+            "mid": "/m/0fjkt",
+            "score": 0.901515007019043,
+            "topicality": 0.901515007019043,
+            "description": "Tongue"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.7780295610427856,
+            "topicality": 0.7780295610427856,
+            "description": "Tooth"
+        },
+        {
+            "mid": "/m/03qc9zr",
+            "score": 0.7717393040657043,
+            "topicality": 0.7717393040657043,
+            "description": "Shout"
+        },
+        {
+            "mid": "/m/02z1w6j",
+            "score": 0.5378609299659729,
+            "topicality": 0.5378609299659729,
+            "description": "Surfer hair"
+        },
+        {
+            "mid": "/m/03c31",
+            "score": 0.5028873085975647,
+            "topicality": 0.5028873085975647,
+            "description": "Graphic design"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "LIKELY"
+        }
+    }
+}

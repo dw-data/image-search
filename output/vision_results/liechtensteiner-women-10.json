@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/liechtensteiner-women/10.jpeg",
+    "search_query": "liechtensteiner-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9798554182052612,
+            "topicality": 0.9798554182052612,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790062308311462,
+            "topicality": 0.9790062308311462,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740126132965088,
+            "topicality": 0.9740126132965088,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639014005661011,
+            "topicality": 0.9639014005661011,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9580338001251221,
+            "topicality": 0.9580338001251221,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0glmwd6",
+            "score": 0.9244839549064636,
+            "topicality": 0.9244839549064636,
+            "description": "Communication Device"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9133224487304688,
+            "topicality": 0.9133224487304688,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/050k8",
+            "score": 0.9047380089759827,
+            "topicality": 0.9047380089759827,
+            "description": "Mobile phone"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

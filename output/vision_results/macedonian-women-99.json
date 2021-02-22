@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/macedonian-women/99.jpeg",
+    "search_query": "macedonian-women",
+    "position": 99,
+    "label_annotations": [
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.6606718897819519,
+            "topicality": 0.6606718897819519,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.6542782187461853,
+            "topicality": 0.6542782187461853,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/09kqc",
+            "score": 0.5451158881187439,
+            "topicality": 0.5451158881187439,
+            "description": "Humour"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/irish-women/22.jpeg",
+    "search_query": "irish-women",
+    "position": 22,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9884441494941711,
+            "topicality": 0.9884441494941711,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9878934621810913,
+            "topicality": 0.9878934621810913,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.983893871307373,
+            "topicality": 0.983893871307373,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9778057336807251,
+            "topicality": 0.9778057336807251,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9690218567848206,
+            "topicality": 0.9690218567848206,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9363564848899841,
+            "topicality": 0.9363564848899841,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.8761729598045349,
+            "topicality": 0.8761729598045349,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/01kq3x",
+            "score": 0.7747697830200195,
+            "topicality": 0.7747697830200195,
+            "description": "White-collar worker"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.7733250260353088,
+            "topicality": 0.7733250260353088,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/0d8qb",
+            "score": 0.7553563714027405,
+            "topicality": 0.7553563714027405,
+            "description": "Journalist"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

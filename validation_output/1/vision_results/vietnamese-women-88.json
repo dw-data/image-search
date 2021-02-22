@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/vietnamese-women/88.jpeg",
+    "search_query": "vietnamese-women",
+    "position": 88,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9842785596847534,
+            "topicality": 0.9842785596847534,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.969192624092102,
+            "topicality": 0.969192624092102,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8871064782142639,
+            "topicality": 0.8871064782142639,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.881557285785675,
+            "topicality": 0.881557285785675,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/01z1kdw",
+            "score": 0.8795881271362305,
+            "topicality": 0.8795881271362305,
+            "description": "Juice"
+        },
+        {
+            "mid": "/m/04brg2",
+            "score": 0.8293729424476624,
+            "topicality": 0.8293729424476624,
+            "description": "Tableware"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8093100786209106,
+            "topicality": 0.8093100786209106,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8076055645942688,
+            "topicality": 0.8076055645942688,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.7972114086151123,
+            "topicality": 0.7972114086151123,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/02y7l1",
+            "score": 0.7945877909660339,
+            "topicality": 0.7945877909660339,
+            "description": "Orange drink"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

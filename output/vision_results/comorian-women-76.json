@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/comorian-women/76.jpeg",
+    "search_query": "comorian-women",
+    "position": 76,
+    "label_annotations": [
+        {
+            "mid": "/m/03120",
+            "score": 0.9423059821128845,
+            "topicality": 0.9423059821128845,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/07pltdk",
+            "score": 0.842219889163971,
+            "topicality": 0.842219889163971,
+            "description": "Pole"
+        },
+        {
+            "mid": "/m/03qpft",
+            "score": 0.6576657295227051,
+            "topicality": 0.6576657295227051,
+            "description": "Podium"
+        },
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.60438072681427,
+            "topicality": 0.60438072681427,
+            "description": "Banner"
+        },
+        {
+            "mid": "/m/016c4t",
+            "score": 0.5370052456855774,
+            "topicality": 0.5370052456855774,
+            "description": "Ceremony"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

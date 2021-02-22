@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/bosnian-women/66.jpeg",
+    "search_query": "bosnian-women",
+    "position": 66,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9794599413871765,
+            "topicality": 0.9794599413871765,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710246920585632,
+            "topicality": 0.9710246920585632,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.8573086857795715,
+            "topicality": 0.8573086857795715,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.7526300549507141,
+            "topicality": 0.7526300549507141,
+            "description": "Wrinkle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

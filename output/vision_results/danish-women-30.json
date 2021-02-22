@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/danish-women/30.jpeg",
+    "search_query": "danish-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9887080192565918,
+            "topicality": 0.9887080192565918,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9827382564544678,
+            "topicality": 0.9827382564544678,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.972823977470398,
+            "topicality": 0.972823977470398,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/06rrc",
+            "score": 0.9631165266036987,
+            "topicality": 0.9631165266036987,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540721774101257,
+            "topicality": 0.9540721774101257,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06k2mb",
+            "score": 0.9074109196662903,
+            "topicality": 0.9074109196662903,
+            "description": "High heels"
+        },
+        {
+            "mid": "/m/031n1",
+            "score": 0.9062026143074036,
+            "topicality": 0.9062026143074036,
+            "description": "Foot"
+        },
+        {
+            "mid": "/m/03nfch",
+            "score": 0.9036670327186584,
+            "topicality": 0.9036670327186584,
+            "description": "Sandal"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8961241245269775,
+            "topicality": 0.8961241245269775,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/0715t2",
+            "score": 0.8895214796066284,
+            "topicality": 0.8895214796066284,
+            "description": "Calf"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

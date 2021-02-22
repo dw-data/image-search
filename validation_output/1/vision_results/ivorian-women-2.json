@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/ivorian-women/2.jpeg",
+    "search_query": "ivorian-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9836596846580505,
+            "topicality": 0.9836596846580505,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9733138680458069,
+            "topicality": 0.9733138680458069,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9635893702507019,
+            "topicality": 0.9635893702507019,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/05s2s",
+            "score": 0.9388996362686157,
+            "topicality": 0.9388996362686157,
+            "description": "Plant"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.8859751224517822,
+            "topicality": 0.8859751224517822,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8786330223083496,
+            "topicality": 0.8786330223083496,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724328875541687,
+            "topicality": 0.8724328875541687,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8674506545066833,
+            "topicality": 0.8674506545066833,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.8447736501693726,
+            "topicality": 0.8447736501693726,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8434110879898071,
+            "topicality": 0.8434110879898071,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

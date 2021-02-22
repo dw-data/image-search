@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/american-women/30.jpeg",
+    "search_query": "american-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9836078882217407,
+            "topicality": 0.9836078882217407,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789971709251404,
+            "topicality": 0.9789971709251404,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9783266186714172,
+            "topicality": 0.9783266186714172,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738842248916626,
+            "topicality": 0.9738842248916626,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9710798859596252,
+            "topicality": 0.9710798859596252,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9692310094833374,
+            "topicality": 0.9692310094833374,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681845903396606,
+            "topicality": 0.9681845903396606,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639069437980652,
+            "topicality": 0.9639069437980652,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9437165260314941,
+            "topicality": 0.9437165260314941,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9394633769989014,
+            "topicality": 0.9394633769989014,
+            "description": "Eyelash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/tunisian-women/61.jpeg",
+    "search_query": "tunisian-women",
+    "position": 61,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9684638977050781,
+            "topicality": 0.9684638977050781,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/033rq4",
+            "score": 0.8758193850517273,
+            "topicality": 0.8758193850517273,
+            "description": "Street light"
+        },
+        {
+            "mid": "/m/015h_t",
+            "score": 0.8635308742523193,
+            "topicality": 0.8635308742523193,
+            "description": "Beard"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.7779529094696045,
+            "topicality": 0.7779529094696045,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/0bby24z",
+            "score": 0.7116145491600037,
+            "topicality": 0.7116145491600037,
+            "description": "Moustache"
+        },
+        {
+            "mid": "/m/01j0mk",
+            "score": 0.5027822852134705,
+            "topicality": 0.5027822852134705,
+            "description": "Customer"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

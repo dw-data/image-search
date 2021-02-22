@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/haitian-women/10.jpeg",
+    "search_query": "haitian-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9836119413375854,
+            "topicality": 0.9836119413375854,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9784100651741028,
+            "topicality": 0.9784100651741028,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9768587350845337,
+            "topicality": 0.9768587350845337,
+            "description": "People"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9398260712623596,
+            "topicality": 0.9398260712623596,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/06h12k",
+            "score": 0.8945862054824829,
+            "topicality": 0.8945862054824829,
+            "description": "Sharing"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.8829317688941956,
+            "topicality": 0.8829317688941956,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/01mzpv",
+            "score": 0.8477477431297302,
+            "topicality": 0.8477477431297302,
+            "description": "Chair"
+        },
+        {
+            "mid": "/m/09fwz6",
+            "score": 0.8178761601448059,
+            "topicality": 0.8178761601448059,
+            "description": "Lap"
+        },
+        {
+            "mid": "/m/03rszm",
+            "score": 0.7842559814453125,
+            "topicality": 0.7842559814453125,
+            "description": "Curtain"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.7783315181732178,
+            "topicality": 0.7783315181732178,
+            "description": "Trunk"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

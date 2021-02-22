@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/south-african-women/73.jpeg",
+    "search_query": "south-african-women",
+    "position": 73,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9897850155830383,
+            "topicality": 0.9897850155830383,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9881012439727783,
+            "topicality": 0.9881012439727783,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9843201637268066,
+            "topicality": 0.9843201637268066,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9778857231140137,
+            "topicality": 0.9778857231140137,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9772038459777832,
+            "topicality": 0.9772038459777832,
+            "description": "People"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9454955458641052,
+            "topicality": 0.9454955458641052,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9429918527603149,
+            "topicality": 0.9429918527603149,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.9387280941009521,
+            "topicality": 0.9387280941009521,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.937771201133728,
+            "topicality": 0.937771201133728,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/02_n6y",
+            "score": 0.9318748712539673,
+            "topicality": 0.9318748712539673,
+            "description": "Goggles"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

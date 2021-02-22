@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/norwegian-women/11.jpeg",
+    "search_query": "norwegian-women",
+    "position": 11,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.97077876329422,
+            "topicality": 0.97077876329422,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9655917286872864,
+            "topicality": 0.9655917286872864,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540648460388184,
+            "topicality": 0.9540648460388184,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9525523781776428,
+            "topicality": 0.9525523781776428,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9312719702720642,
+            "topicality": 0.9312719702720642,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9235873818397522,
+            "topicality": 0.9235873818397522,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/0l7_8",
+            "score": 0.9141570925712585,
+            "topicality": 0.9141570925712585,
+            "description": "Floor"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9078007340431213,
+            "topicality": 0.9078007340431213,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9060109853744507,
+            "topicality": 0.9060109853744507,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.8991235494613647,
+            "topicality": 0.8991235494613647,
+            "description": "Chest"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

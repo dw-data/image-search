@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/ivorian-women/90.jpeg",
+    "search_query": "ivorian-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9767276048660278,
+            "topicality": 0.9767276048660278,
+            "description": "People"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.944439172744751,
+            "topicality": 0.944439172744751,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9394662380218506,
+            "topicality": 0.9394662380218506,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344746470451355,
+            "topicality": 0.9344746470451355,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/01zbnw",
+            "score": 0.6650913953781128,
+            "topicality": 0.6650913953781128,
+            "description": "Screenshot"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.6391082406044006,
+            "topicality": 0.6391082406044006,
+            "description": "Turban"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

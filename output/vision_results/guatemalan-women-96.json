@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/guatemalan-women/96.jpeg",
+    "search_query": "guatemalan-women",
+    "position": 96,
+    "label_annotations": [
+        {
+            "mid": "/m/06h12k",
+            "score": 0.9054718017578125,
+            "topicality": 0.9054718017578125,
+            "description": "Sharing"
+        },
+        {
+            "mid": "/m/0jnvp",
+            "score": 0.7399978637695312,
+            "topicality": 0.7399978637695312,
+            "description": "Baby"
+        },
+        {
+            "mid": "/m/048knlz",
+            "score": 0.5552248954772949,
+            "topicality": 0.5552248954772949,
+            "description": "Love"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/95.jpeg",
+    "search_query": "mexican-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.978545069694519,
+            "topicality": 0.978545069694519,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.978451132774353,
+            "topicality": 0.978451132774353,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9556469321250916,
+            "topicality": 0.9556469321250916,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9422868490219116,
+            "topicality": 0.9422868490219116,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/03qtgjk",
+            "score": 0.9330596923828125,
+            "topicality": 0.9330596923828125,
+            "description": "Office equipment"
+        },
+        {
+            "mid": "/m/023j4r",
+            "score": 0.8743994235992432,
+            "topicality": 0.8743994235992432,
+            "description": "Nail"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.856847882270813,
+            "topicality": 0.856847882270813,
+            "description": "Tooth"
+        },
+        {
+            "mid": "/m/0191f8",
+            "score": 0.8257707953453064,
+            "topicality": 0.8257707953453064,
+            "description": "Learning"
+        },
+        {
+            "mid": "/m/02rdsp",
+            "score": 0.8135448694229126,
+            "topicality": 0.8135448694229126,
+            "description": "Office supplies"
+        },
+        {
+            "mid": "/m/01m3v",
+            "score": 0.8096791505813599,
+            "topicality": 0.8096791505813599,
+            "description": "Computer"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

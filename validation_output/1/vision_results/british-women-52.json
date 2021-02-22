@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/british-women/52.jpg",
+    "search_query": "british-women",
+    "position": 52,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9880885481834412,
+            "topicality": 0.9880885481834412,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9840409159660339,
+            "topicality": 0.9840409159660339,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9827758073806763,
+            "topicality": 0.9827758073806763,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9749794006347656,
+            "topicality": 0.9749794006347656,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8827061057090759,
+            "topicality": 0.8827061057090759,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.8578675985336304,
+            "topicality": 0.8578675985336304,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.7979735136032104,
+            "topicality": 0.7979735136032104,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/09spj9",
+            "score": 0.7852878570556641,
+            "topicality": 0.7852878570556641,
+            "description": "Layered hair"
+        },
+        {
+            "mid": "/m/026mhtg",
+            "score": 0.7607134580612183,
+            "topicality": 0.7607134580612183,
+            "description": "Step cutting"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7563179731369019,
+            "topicality": 0.7563179731369019,
+            "description": "Long hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

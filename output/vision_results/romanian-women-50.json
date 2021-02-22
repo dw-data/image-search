@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/romanian-women/50.jpeg",
+    "search_query": "romanian-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9691263437271118,
+            "topicality": 0.9691263437271118,
+            "description": "Human body"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9409459233283997,
+            "topicality": 0.9409459233283997,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9137386083602905,
+            "topicality": 0.9137386083602905,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.8964381217956543,
+            "topicality": 0.8964381217956543,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.878605842590332,
+            "topicality": 0.878605842590332,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/02tcwp",
+            "score": 0.8708023428916931,
+            "topicality": 0.8708023428916931,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.8339412808418274,
+            "topicality": 0.8339412808418274,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.7959173321723938,
+            "topicality": 0.7959173321723938,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7905774712562561,
+            "topicality": 0.7905774712562561,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/0hgn_pr",
+            "score": 0.7619182467460632,
+            "topicality": 0.7619182467460632,
+            "description": "Active pants"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

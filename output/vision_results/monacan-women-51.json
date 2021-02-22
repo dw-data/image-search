@@ -1,0 +1,30 @@
+{
+    "path": "../output/imgs/monacan-women/51.jpeg",
+    "search_query": "monacan-women",
+    "position": 51,
+    "label_annotations": [
+        {
+            "mid": "/m/0lhr",
+            "score": 0.6674588322639465,
+            "topicality": 0.6674588322639465,
+            "description": "Arecales"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

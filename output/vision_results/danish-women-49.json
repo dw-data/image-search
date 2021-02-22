@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/danish-women/49.jpeg",
+    "search_query": "danish-women",
+    "position": 49,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9836162328720093,
+            "topicality": 0.9836162328720093,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789926409721375,
+            "topicality": 0.9789926409721375,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639039635658264,
+            "topicality": 0.9639039635658264,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9086875915527344,
+            "topicality": 0.9086875915527344,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/032b3c",
+            "score": 0.8990042805671692,
+            "topicality": 0.8990042805671692,
+            "description": "Jacket"
+        },
+        {
+            "mid": "/m/02gw_5",
+            "score": 0.7768528461456299,
+            "topicality": 0.7768528461456299,
+            "description": "Beanie"
+        },
+        {
+            "mid": "/m/021_yc",
+            "score": 0.6338249444961548,
+            "topicality": 0.6338249444961548,
+            "description": "Knit cap"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

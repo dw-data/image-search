@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/monacan-women/59.jpeg",
+    "search_query": "monacan-women",
+    "position": 59,
+    "label_annotations": [
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9777746200561523,
+            "topicality": 0.9777746200561523,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681842923164368,
+            "topicality": 0.9681842923164368,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.9193260073661804,
+            "topicality": 0.9193260073661804,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.7985008955001831,
+            "topicality": 0.7985008955001831,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/01h1dd",
+            "score": 0.7455657124519348,
+            "topicality": 0.7455657124519348,
+            "description": "Publication"
+        },
+        {
+            "mid": "/m/0bt_c3",
+            "score": 0.6310330629348755,
+            "topicality": 0.6310330629348755,
+            "description": "Book"
+        },
+        {
+            "mid": "/m/0h8p59j",
+            "score": 0.5396804213523865,
+            "topicality": 0.5396804213523865,
+            "description": "Paper product"
+        },
+        {
+            "mid": "/m/0641k",
+            "score": 0.5130921602249146,
+            "topicality": 0.5130921602249146,
+            "description": "Paper"
+        },
+        {
+            "mid": "/m/09xbm8",
+            "score": 0.5087567567825317,
+            "topicality": 0.5087567567825317,
+            "description": "Book cover"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

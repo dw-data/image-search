@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/german-women/7.jpeg",
+    "search_query": "german-women",
+    "position": 7,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9892816543579102,
+            "topicality": 0.9892816543579102,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9714155793190002,
+            "topicality": 0.9714155793190002,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639049768447876,
+            "topicality": 0.9639049768447876,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.8357452154159546,
+            "topicality": 0.8357452154159546,
+            "description": "Team"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.7046432495117188,
+            "topicality": 0.7046432495117188,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/0413y3",
+            "score": 0.5388156175613403,
+            "topicality": 0.5388156175613403,
+            "description": "Mesh"
+        },
+        {
+            "mid": "/m/01wymn",
+            "score": 0.5241863131523132,
+            "topicality": 0.5241863131523132,
+            "description": "Hearing"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

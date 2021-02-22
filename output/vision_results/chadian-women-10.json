@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/chadian-women/10.jpeg",
+    "search_query": "chadian-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9838533997535706,
+            "topicality": 0.9838533997535706,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9768609404563904,
+            "topicality": 0.9768609404563904,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9133498072624207,
+            "topicality": 0.9133498072624207,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828054666519165,
+            "topicality": 0.8828054666519165,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.6973820328712463,
+            "topicality": 0.6973820328712463,
+            "description": "Wrinkle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

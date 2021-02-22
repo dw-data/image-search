@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/greek-women/70.jpeg",
+    "search_query": "greek-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9796645045280457,
+            "topicality": 0.9796645045280457,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681844711303711,
+            "topicality": 0.9681844711303711,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/0gkxy13",
+            "score": 0.732465922832489,
+            "topicality": 0.732465922832489,
+            "description": "Handwriting"
+        },
+        {
+            "mid": "/m/05fwb",
+            "score": 0.5482058525085449,
+            "topicality": 0.5482058525085449,
+            "description": "Number"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

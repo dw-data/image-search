@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/saudi-women/90.jpeg",
+    "search_query": "saudi-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9830203652381897,
+            "topicality": 0.9830203652381897,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.9547170996665955,
+            "topicality": 0.9547170996665955,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9331148862838745,
+            "topicality": 0.9331148862838745,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8843843936920166,
+            "topicality": 0.8843843936920166,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8734779357910156,
+            "topicality": 0.8734779357910156,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.855306088924408,
+            "topicality": 0.855306088924408,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.8284175395965576,
+            "topicality": 0.8284175395965576,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.8140441179275513,
+            "topicality": 0.8140441179275513,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.7815623879432678,
+            "topicality": 0.7815623879432678,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.7688467502593994,
+            "topicality": 0.7688467502593994,
+            "description": "Crowd"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

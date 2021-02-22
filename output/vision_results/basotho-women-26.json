@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/basotho-women/26.jpeg",
+    "search_query": "basotho-women",
+    "position": 26,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9766536951065063,
+            "topicality": 0.9766536951065063,
+            "description": "People"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.8958974480628967,
+            "topicality": 0.8958974480628967,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/04mkbj",
+            "score": 0.843613862991333,
+            "topicality": 0.843613862991333,
+            "description": "Maroon"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/78.jpeg",
+    "search_query": "mexican-women",
+    "position": 78,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9765604138374329,
+            "topicality": 0.9765604138374329,
+            "description": "People"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9717102646827698,
+            "topicality": 0.9717102646827698,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9576548933982849,
+            "topicality": 0.9576548933982849,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/02_41",
+            "score": 0.9369881749153137,
+            "topicality": 0.9369881749153137,
+            "description": "Fire"
+        },
+        {
+            "mid": "/m/01f415",
+            "score": 0.928210973739624,
+            "topicality": 0.928210973739624,
+            "description": "Flame"
+        },
+        {
+            "mid": "/m/03k2v",
+            "score": 0.9092936515808105,
+            "topicality": 0.9092936515808105,
+            "description": "Heat"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8533594608306885,
+            "topicality": 0.8533594608306885,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.7087779641151428,
+            "topicality": 0.7087779641151428,
+            "description": "Audience"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.6499611139297485,
+            "topicality": 0.6499611139297485,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/066xq",
+            "score": 0.604956328868866,
+            "topicality": 0.604956328868866,
+            "description": "Pollution"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

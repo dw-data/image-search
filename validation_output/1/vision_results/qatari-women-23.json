@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/qatari-women/23.jpeg",
+    "search_query": "qatari-women",
+    "position": 23,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9794315695762634,
+            "topicality": 0.9794315695762634,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.974696695804596,
+            "topicality": 0.974696695804596,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9745945930480957,
+            "topicality": 0.9745945930480957,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.944250226020813,
+            "topicality": 0.944250226020813,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9384356141090393,
+            "topicality": 0.9384356141090393,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9303593635559082,
+            "topicality": 0.9303593635559082,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9058473110198975,
+            "topicality": 0.9058473110198975,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.8808311820030212,
+            "topicality": 0.8808311820030212,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724326491355896,
+            "topicality": 0.8724326491355896,
+            "description": "Sleeve"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

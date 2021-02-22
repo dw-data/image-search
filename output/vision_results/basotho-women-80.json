@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/basotho-women/80.jpeg",
+    "search_query": "basotho-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9836416840553284,
+            "topicality": 0.9836416840553284,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9586969614028931,
+            "topicality": 0.9586969614028931,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9511386156082153,
+            "topicality": 0.9511386156082153,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.8380117416381836,
+            "topicality": 0.8380117416381836,
+            "description": "Sun hat"
+        },
+        {
+            "mid": "/m/02fq_6",
+            "score": 0.7421184778213501,
+            "topicality": 0.7421184778213501,
+            "description": "Fedora"
+        },
+        {
+            "mid": "/m/01940j",
+            "score": 0.5517403483390808,
+            "topicality": 0.5517403483390808,
+            "description": "Backpack"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

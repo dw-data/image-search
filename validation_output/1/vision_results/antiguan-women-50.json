@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/antiguan-women/50.jpeg",
+    "search_query": "antiguan-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9790576696395874,
+            "topicality": 0.9790576696395874,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.8772380352020264,
+            "topicality": 0.8772380352020264,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.854382336139679,
+            "topicality": 0.854382336139679,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/0mhy4",
+            "score": 0.6987122297286987,
+            "topicality": 0.6987122297286987,
+            "description": "Throat"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.652961254119873,
+            "topicality": 0.652961254119873,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.6493769288063049,
+            "topicality": 0.6493769288063049,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/0ds5b",
+            "score": 0.6287429928779602,
+            "topicality": 0.6287429928779602,
+            "description": "Facial hair"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.550676167011261,
+            "topicality": 0.550676167011261,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

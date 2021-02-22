@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/saudi-women/96.jpeg",
+    "search_query": "saudi-women",
+    "position": 96,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9784281849861145,
+            "topicality": 0.9784281849861145,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0n5v01m",
+            "score": 0.877418577671051,
+            "topicality": 0.877418577671051,
+            "description": "Bag"
+        },
+        {
+            "mid": "/m/0hf58v5",
+            "score": 0.8674578070640564,
+            "topicality": 0.8674578070640564,
+            "description": "Luggage and bags"
+        },
+        {
+            "mid": "/m/0hgrzkp",
+            "score": 0.7532721757888794,
+            "topicality": 0.7532721757888794,
+            "description": "Shoulder bag"
+        },
+        {
+            "mid": "/m/080hkjn",
+            "score": 0.5597626566886902,
+            "topicality": 0.5597626566886902,
+            "description": "Handbag"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

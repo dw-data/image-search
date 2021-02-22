@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/syrian-women/16.jpeg",
+    "search_query": "syrian-women",
+    "position": 16,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9842746257781982,
+            "topicality": 0.9842746257781982,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790029525756836,
+            "topicality": 0.9790029525756836,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9787116050720215,
+            "topicality": 0.9787116050720215,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9732570648193359,
+            "topicality": 0.9732570648193359,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681846499443054,
+            "topicality": 0.9681846499443054,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639070630073547,
+            "topicality": 0.9639070630073547,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.9193201065063477,
+            "topicality": 0.9193201065063477,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9078028798103333,
+            "topicality": 0.9078028798103333,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.9004375338554382,
+            "topicality": 0.9004375338554382,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8934997320175171,
+            "topicality": 0.8934997320175171,
+            "description": "Eyelash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

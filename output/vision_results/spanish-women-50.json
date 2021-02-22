@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/spanish-women/50.jpeg",
+    "search_query": "spanish-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9923824667930603,
+            "topicality": 0.9923824667930603,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/09j5n",
+            "score": 0.988602876663208,
+            "topicality": 0.988602876663208,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9807519912719727,
+            "topicality": 0.9807519912719727,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9711071848869324,
+            "topicality": 0.9711071848869324,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710003137588501,
+            "topicality": 0.9710003137588501,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9654191732406616,
+            "topicality": 0.9654191732406616,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9595317244529724,
+            "topicality": 0.9595317244529724,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540203213691711,
+            "topicality": 0.9540203213691711,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.9349901080131531,
+            "topicality": 0.9349901080131531,
+            "description": "One-piece garment"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.93281489610672,
+            "topicality": 0.93281489610672,
+            "description": "Style"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

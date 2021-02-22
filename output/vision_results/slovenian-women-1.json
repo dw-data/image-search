@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/slovenian-women/1.jpeg",
+    "search_query": "slovenian-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/062581",
+            "score": 0.9710091948509216,
+            "topicality": 0.9710091948509216,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.970824122428894,
+            "topicality": 0.970824122428894,
+            "description": "Denim"
+        },
+        {
+            "mid": "/m/07mhn",
+            "score": 0.9699320197105408,
+            "topicality": 0.9699320197105408,
+            "description": "Trousers"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9691950082778931,
+            "topicality": 0.9691950082778931,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9655652642250061,
+            "topicality": 0.9655652642250061,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0fly7",
+            "score": 0.9652574062347412,
+            "topicality": 0.9652574062347412,
+            "description": "Jeans"
+        },
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.9579845070838928,
+            "topicality": 0.9579845070838928,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9539355635643005,
+            "topicality": 0.9539355635643005,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9482325315475464,
+            "topicality": 0.9482325315475464,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9252148270606995,
+            "topicality": 0.9252148270606995,
+            "description": "Elbow"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

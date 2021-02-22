@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/bolivian-women/60.jpeg",
+    "search_query": "bolivian-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9787880182266235,
+            "topicality": 0.9787880182266235,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.8919761180877686,
+            "topicality": 0.8919761180877686,
+            "description": "Sun hat"
+        },
+        {
+            "mid": "/m/02fq_6",
+            "score": 0.7163286209106445,
+            "topicality": 0.7163286209106445,
+            "description": "Fedora"
+        },
+        {
+            "mid": "/m/0hgs54_",
+            "score": 0.6594833731651306,
+            "topicality": 0.6594833731651306,
+            "description": "Costume hat"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.6565338969230652,
+            "topicality": 0.6565338969230652,
+            "description": "Costume"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

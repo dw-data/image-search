@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/romanian-women/9.jpeg",
+    "search_query": "romanian-women",
+    "position": 9,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.9100984930992126,
+            "topicality": 0.9100984930992126,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8819403648376465,
+            "topicality": 0.8819403648376465,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/01j51",
+            "score": 0.7550923228263855,
+            "topicality": 0.7550923228263855,
+            "description": "Balloon"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.6564944386482239,
+            "topicality": 0.6564944386482239,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6359498500823975,
+            "topicality": 0.6359498500823975,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.6022161841392517,
+            "topicality": 0.6022161841392517,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.5053333044052124,
+            "topicality": 0.5053333044052124,
+            "description": "Turban"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

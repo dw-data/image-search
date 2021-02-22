@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/yemeni-women/13.jpeg",
+    "search_query": "yemeni-women",
+    "position": 13,
+    "label_annotations": [
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.9589766263961792,
+            "topicality": 0.9589766263961792,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/0jc_p",
+            "score": 0.8854924440383911,
+            "topicality": 0.8854924440383911,
+            "description": "Orange"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.5021607279777527,
+            "topicality": 0.5021607279777527,
+            "description": "Abaya"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

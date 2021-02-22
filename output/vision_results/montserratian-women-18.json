@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/montserratian-women/18.jpeg",
+    "search_query": "montserratian-women",
+    "position": 18,
+    "label_annotations": [
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9081791639328003,
+            "topicality": 0.9081791639328003,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.8494517207145691,
+            "topicality": 0.8494517207145691,
+            "description": "Sun hat"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.8224946856498718,
+            "topicality": 0.8224946856498718,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/02_n6y",
+            "score": 0.7677294611930847,
+            "topicality": 0.7677294611930847,
+            "description": "Goggles"
+        },
+        {
+            "mid": "/m/02fq_6",
+            "score": 0.7388021349906921,
+            "topicality": 0.7388021349906921,
+            "description": "Fedora"
+        },
+        {
+            "mid": "/m/025rp__",
+            "score": 0.6295406818389893,
+            "topicality": 0.6295406818389893,
+            "description": "Cowboy hat"
+        },
+        {
+            "mid": "/m/0dm6dl",
+            "score": 0.601557195186615,
+            "topicality": 0.601557195186615,
+            "description": "Barechested"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

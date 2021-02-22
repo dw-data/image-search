@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/turkish-women/85.jpeg",
+    "search_query": "turkish-women",
+    "position": 85,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9895378947257996,
+            "topicality": 0.9895378947257996,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9881676435470581,
+            "topicality": 0.9881676435470581,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9847590327262878,
+            "topicality": 0.9847590327262878,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9816398024559021,
+            "topicality": 0.9816398024559021,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9804112315177917,
+            "topicality": 0.9804112315177917,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977428138256073,
+            "topicality": 0.977428138256073,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9748855233192444,
+            "topicality": 0.9748855233192444,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9691019654273987,
+            "topicality": 0.9691019654273987,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9586742520332336,
+            "topicality": 0.9586742520332336,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9561840295791626,
+            "topicality": 0.9561840295791626,
+            "description": "Hand"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

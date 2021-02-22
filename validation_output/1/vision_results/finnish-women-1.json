@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/finnish-women/1.jpeg",
+    "search_query": "finnish-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/01xygc",
+            "score": 0.8929468989372253,
+            "topicality": 0.8929468989372253,
+            "description": "Coat"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.8856928944587708,
+            "topicality": 0.8856928944587708,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/01xyhv",
+            "score": 0.7850565314292908,
+            "topicality": 0.7850565314292908,
+            "description": "Suit"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.7475379705429077,
+            "topicality": 0.7475379705429077,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.7438666820526123,
+            "topicality": 0.7438666820526123,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01kq3x",
+            "score": 0.7434051632881165,
+            "topicality": 0.7434051632881165,
+            "description": "White-collar worker"
+        },
+        {
+            "mid": "/m/02w3_2",
+            "score": 0.7400078177452087,
+            "topicality": 0.7400078177452087,
+            "description": "Formal wear"
+        },
+        {
+            "mid": "/m/01wymn",
+            "score": 0.70574551820755,
+            "topicality": 0.70574551820755,
+            "description": "Hearing"
+        },
+        {
+            "mid": "/m/04115t2",
+            "score": 0.6767151951789856,
+            "topicality": 0.6767151951789856,
+            "description": "Job"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/chinese-women/26.jpeg",
+    "search_query": "chinese-women",
+    "position": 26,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.984107255935669,
+            "topicality": 0.984107255935669,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9795214533805847,
+            "topicality": 0.9795214533805847,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790171384811401,
+            "topicality": 0.9790171384811401,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9783518314361572,
+            "topicality": 0.9783518314361572,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.973319411277771,
+            "topicality": 0.973319411277771,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9729552268981934,
+            "topicality": 0.9729552268981934,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9691932201385498,
+            "topicality": 0.9691932201385498,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681844711303711,
+            "topicality": 0.9681844711303711,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639042019844055,
+            "topicality": 0.9639042019844055,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.952422559261322,
+            "topicality": 0.952422559261322,
+            "description": "Eyelash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

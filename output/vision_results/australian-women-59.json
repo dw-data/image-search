@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/australian-women/59.jpeg",
+    "search_query": "australian-women",
+    "position": 59,
+    "label_annotations": [
+        {
+            "mid": "/m/06hwcd",
+            "score": 0.9730405211448669,
+            "topicality": 0.9730405211448669,
+            "description": "Dress shirt"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.9720213413238525,
+            "topicality": 0.9720213413238525,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/01n4qj",
+            "score": 0.9590125679969788,
+            "topicality": 0.9590125679969788,
+            "description": "Shirt"
+        },
+        {
+            "mid": "/m/0bby24z",
+            "score": 0.7612813711166382,
+            "topicality": 0.7612813711166382,
+            "description": "Moustache"
+        },
+        {
+            "mid": "/m/0176mf",
+            "score": 0.7463390827178955,
+            "topicality": 0.7463390827178955,
+            "description": "Belt"
+        },
+        {
+            "mid": "/m/08fs21",
+            "score": 0.7294332385063171,
+            "topicality": 0.7294332385063171,
+            "description": "Cuff"
+        },
+        {
+            "mid": "/m/01s_bn",
+            "score": 0.6218984723091125,
+            "topicality": 0.6218984723091125,
+            "description": "Button"
+        },
+        {
+            "mid": "/m/03cvmmd",
+            "score": 0.5943272709846497,
+            "topicality": 0.5943272709846497,
+            "description": "Suit trousers"
+        },
+        {
+            "mid": "/m/025rhd",
+            "score": 0.576422393321991,
+            "topicality": 0.576422393321991,
+            "description": "Pocket"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

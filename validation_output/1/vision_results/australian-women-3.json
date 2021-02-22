@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/australian-women/3.jpeg",
+    "search_query": "australian-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9826553463935852,
+            "topicality": 0.9826553463935852,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9735860824584961,
+            "topicality": 0.9735860824584961,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9701094627380371,
+            "topicality": 0.9701094627380371,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9695179462432861,
+            "topicality": 0.9695179462432861,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9671351909637451,
+            "topicality": 0.9671351909637451,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9442177414894104,
+            "topicality": 0.9442177414894104,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9419074058532715,
+            "topicality": 0.9419074058532715,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9226385354995728,
+            "topicality": 0.9226385354995728,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8839247822761536,
+            "topicality": 0.8839247822761536,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8770750164985657,
+            "topicality": 0.8770750164985657,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

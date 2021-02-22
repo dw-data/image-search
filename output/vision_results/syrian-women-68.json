@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/syrian-women/68.jpeg",
+    "search_query": "syrian-women",
+    "position": 68,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9899250268936157,
+            "topicality": 0.9899250268936157,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9882194399833679,
+            "topicality": 0.9882194399833679,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9839259386062622,
+            "topicality": 0.9839259386062622,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9787904620170593,
+            "topicality": 0.9787904620170593,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9656082391738892,
+            "topicality": 0.9656082391738892,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/04bcr3",
+            "score": 0.9395248889923096,
+            "topicality": 0.9395248889923096,
+            "description": "Table"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.899168848991394,
+            "topicality": 0.899168848991394,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01mzpv",
+            "score": 0.8552966713905334,
+            "topicality": 0.8552966713905334,
+            "description": "Chair"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.7895079851150513,
+            "topicality": 0.7895079851150513,
+            "description": "Conversation"
+        },
+        {
+            "mid": "/m/01h6cb",
+            "score": 0.6952167749404907,
+            "topicality": 0.6952167749404907,
+            "description": "Meeting"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

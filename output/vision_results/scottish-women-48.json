@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/scottish-women/48.jpeg",
+    "search_query": "scottish-women",
+    "position": 48,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9904366731643677,
+            "topicality": 0.9904366731643677,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9893441796302795,
+            "topicality": 0.9893441796302795,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9884601831436157,
+            "topicality": 0.9884601831436157,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9848433136940002,
+            "topicality": 0.9848433136940002,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.983417272567749,
+            "topicality": 0.983417272567749,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9815456867218018,
+            "topicality": 0.9815456867218018,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790137410163879,
+            "topicality": 0.9790137410163879,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9778304696083069,
+            "topicality": 0.9778304696083069,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9770164489746094,
+            "topicality": 0.9770164489746094,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9741204380989075,
+            "topicality": 0.9741204380989075,
+            "description": "Hairstyle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

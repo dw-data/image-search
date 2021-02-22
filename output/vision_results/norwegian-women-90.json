@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/norwegian-women/90.jpeg",
+    "search_query": "norwegian-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9922727346420288,
+            "topicality": 0.9922727346420288,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9906507134437561,
+            "topicality": 0.9906507134437561,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9817266464233398,
+            "topicality": 0.9817266464233398,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.978803813457489,
+            "topicality": 0.978803813457489,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9762511849403381,
+            "topicality": 0.9762511849403381,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739388227462769,
+            "topicality": 0.9739388227462769,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/02_n6y",
+            "score": 0.9686971306800842,
+            "topicality": 0.9686971306800842,
+            "description": "Goggles"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.9675669074058533,
+            "topicality": 0.9675669074058533,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9637109041213989,
+            "topicality": 0.9637109041213989,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

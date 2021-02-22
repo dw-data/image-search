@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/tuvaluan-women/78.jpeg",
+    "search_query": "tuvaluan-women",
+    "position": 78,
+    "label_annotations": [
+        {
+            "mid": "/m/07s6nbt",
+            "score": 0.9636300802230835,
+            "topicality": 0.9636300802230835,
+            "description": "Text"
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.907171368598938,
+            "topicality": 0.907171368598938,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/01zbnw",
+            "score": 0.6936371326446533,
+            "topicality": 0.6936371326446533,
+            "description": "Screenshot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

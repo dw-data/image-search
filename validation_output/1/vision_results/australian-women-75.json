@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/australian-women/75.jpeg",
+    "search_query": "australian-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9825522899627686,
+            "topicality": 0.9825522899627686,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9752485156059265,
+            "topicality": 0.9752485156059265,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9694772362709045,
+            "topicality": 0.9694772362709045,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9376167058944702,
+            "topicality": 0.9376167058944702,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9171820878982544,
+            "topicality": 0.9171820878982544,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0fg019",
+            "score": 0.9045618176460266,
+            "topicality": 0.9045618176460266,
+            "description": "Eye liner"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8942179083824158,
+            "topicality": 0.8942179083824158,
+            "description": "Dress"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.882409393787384,
+            "topicality": 0.882409393787384,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8797712326049805,
+            "topicality": 0.8797712326049805,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8751775026321411,
+            "topicality": 0.8751775026321411,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

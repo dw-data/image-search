@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/qatari-women/22.jpeg",
+    "search_query": "qatari-women",
+    "position": 22,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9889655113220215,
+            "topicality": 0.9889655113220215,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9459678530693054,
+            "topicality": 0.9459678530693054,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/09fwz6",
+            "score": 0.8168852925300598,
+            "topicality": 0.8168852925300598,
+            "description": "Lap"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.537878155708313,
+            "topicality": 0.537878155708313,
+            "description": "Sun hat"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

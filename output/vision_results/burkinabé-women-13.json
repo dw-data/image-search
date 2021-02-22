@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/burkinab\u00e9-women/13.jpeg",
+    "search_query": "burkinab\u00e9-women",
+    "position": 13,
+    "label_annotations": [
+        {
+            "mid": "/m/0c_jw",
+            "score": 0.9404782652854919,
+            "topicality": 0.9404782652854919,
+            "description": "Furniture"
+        },
+        {
+            "mid": "/m/01mzpv",
+            "score": 0.9247415661811829,
+            "topicality": 0.9247415661811829,
+            "description": "Chair"
+        },
+        {
+            "mid": "/m/01tqrk",
+            "score": 0.7833533883094788,
+            "topicality": 0.7833533883094788,
+            "description": "Employment"
+        },
+        {
+            "mid": "/m/01y9k5",
+            "score": 0.5421239733695984,
+            "topicality": 0.5421239733695984,
+            "description": "Desk"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

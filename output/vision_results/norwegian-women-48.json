@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/norwegian-women/48.jpeg",
+    "search_query": "norwegian-women",
+    "position": 48,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9921749234199524,
+            "topicality": 0.9921749234199524,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/09q2t",
+            "score": 0.974542498588562,
+            "topicality": 0.974542498588562,
+            "description": "Brown"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9736591577529907,
+            "topicality": 0.9736591577529907,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9704875946044922,
+            "topicality": 0.9704875946044922,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9652703404426575,
+            "topicality": 0.9652703404426575,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9361295104026794,
+            "topicality": 0.9361295104026794,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/01g8j",
+            "score": 0.933578372001648,
+            "topicality": 0.933578372001648,
+            "description": "Bikini"
+        },
+        {
+            "mid": "/m/09j1x",
+            "score": 0.9269924163818359,
+            "topicality": 0.9269924163818359,
+            "description": "Undergarment"
+        },
+        {
+            "mid": "/m/0hgs8s2",
+            "score": 0.9255836606025696,
+            "topicality": 0.9255836606025696,
+            "description": "Swimsuit bottom"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.9249429702758789,
+            "topicality": 0.9249429702758789,
+            "description": "Swimwear"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

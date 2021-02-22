@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/chinese-women/22.jpeg",
+    "search_query": "chinese-women",
+    "position": 22,
+    "label_annotations": [
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9816082715988159,
+            "topicality": 0.9816082715988159,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9790736436843872,
+            "topicality": 0.9790736436843872,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977532684803009,
+            "topicality": 0.977532684803009,
+            "description": "People"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9741194844245911,
+            "topicality": 0.9741194844245911,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9736572504043579,
+            "topicality": 0.9736572504043579,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9716481566429138,
+            "topicality": 0.9716481566429138,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9713059663772583,
+            "topicality": 0.9713059663772583,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/04g3r",
+            "score": 0.9528223276138306,
+            "topicality": 0.9528223276138306,
+            "description": "Leisure"
+        },
+        {
+            "mid": "/m/083jv",
+            "score": 0.9512829780578613,
+            "topicality": 0.9512829780578613,
+            "description": "White"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

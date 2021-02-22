@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/french-women/12.jpeg",
+    "search_query": "french-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790169596672058,
+            "topicality": 0.9790169596672058,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9779329895973206,
+            "topicality": 0.9779329895973206,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9737485647201538,
+            "topicality": 0.9737485647201538,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639061093330383,
+            "topicality": 0.9639061093330383,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9574532508850098,
+            "topicality": 0.9574532508850098,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.9195265173912048,
+            "topicality": 0.9195265173912048,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9020927548408508,
+            "topicality": 0.9020927548408508,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8946427702903748,
+            "topicality": 0.8946427702903748,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.8683552145957947,
+            "topicality": 0.8683552145957947,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.8450122475624084,
+            "topicality": 0.8450122475624084,
+            "description": "Fashion model"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/qatari-women/11.jpeg",
+    "search_query": "qatari-women",
+    "position": 11,
+    "label_annotations": [
+        {
+            "mid": "/m/02xwb",
+            "score": 0.684566855430603,
+            "topicality": 0.684566855430603,
+            "description": "Fruit"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.6469277143478394,
+            "topicality": 0.6469277143478394,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/0670sh",
+            "score": 0.6243838667869568,
+            "topicality": 0.6243838667869568,
+            "description": "Stole"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.6165906190872192,
+            "topicality": 0.6165906190872192,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.5663998126983643,
+            "topicality": 0.5663998126983643,
+            "description": "Photo caption"
+        },
+        {
+            "mid": "/m/036qh8",
+            "score": 0.5563564300537109,
+            "topicality": 0.5563564300537109,
+            "description": "Produce"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.538031280040741,
+            "topicality": 0.538031280040741,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/0174n1",
+            "score": 0.5175147652626038,
+            "topicality": 0.5175147652626038,
+            "description": "Glove"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.5107302069664001,
+            "topicality": 0.5107302069664001,
+            "description": "Gesture"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

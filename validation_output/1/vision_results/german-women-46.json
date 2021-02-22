@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/german-women/46.jpeg",
+    "search_query": "german-women",
+    "position": 46,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9836857914924622,
+            "topicality": 0.9836857914924622,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702295064926147,
+            "topicality": 0.9702295064926147,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9403606653213501,
+            "topicality": 0.9403606653213501,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9363599419593811,
+            "topicality": 0.9363599419593811,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9335065484046936,
+            "topicality": 0.9335065484046936,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.882478654384613,
+            "topicality": 0.882478654384613,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.8787808418273926,
+            "topicality": 0.8787808418273926,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.8708194494247437,
+            "topicality": 0.8708194494247437,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/03_pfn",
+            "score": 0.8318648338317871,
+            "topicality": 0.8318648338317871,
+            "description": "Liver"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.8176391124725342,
+            "topicality": 0.8176391124725342,
+            "description": "Fashion model"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

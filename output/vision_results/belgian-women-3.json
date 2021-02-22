@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/belgian-women/3.jpeg",
+    "search_query": "belgian-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9840008616447449,
+            "topicality": 0.9840008616447449,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.983770489692688,
+            "topicality": 0.983770489692688,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9735314846038818,
+            "topicality": 0.9735314846038818,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9434818029403687,
+            "topicality": 0.9434818029403687,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.9093553423881531,
+            "topicality": 0.9093553423881531,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/05hg54",
+            "score": 0.9079427719116211,
+            "topicality": 0.9079427719116211,
+            "description": "Commercial building"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.8301597833633423,
+            "topicality": 0.8301597833633423,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.7847474813461304,
+            "topicality": 0.7847474813461304,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/0hgntgw",
+            "score": 0.7409058809280396,
+            "topicality": 0.7409058809280396,
+            "description": "Active tank"
+        },
+        {
+            "mid": "/m/026_x9",
+            "score": 0.7280980348587036,
+            "topicality": 0.7280980348587036,
+            "description": "Ponytail"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

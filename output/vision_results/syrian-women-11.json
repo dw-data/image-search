@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/syrian-women/11.jpeg",
+    "search_query": "syrian-women",
+    "position": 11,
+    "label_annotations": [
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.9194448590278625,
+            "topicality": 0.9194448590278625,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8664755821228027,
+            "topicality": 0.8664755821228027,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.8177639245986938,
+            "topicality": 0.8177639245986938,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/09spj9",
+            "score": 0.5296728610992432,
+            "topicality": 0.5296728610992432,
+            "description": "Layered hair"
+        },
+        {
+            "mid": "/m/028mzr",
+            "score": 0.504638671875,
+            "topicality": 0.504638671875,
+            "description": "Hair coloring"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/nigerien-women/90.jpeg",
+    "search_query": "nigerien-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879375696182251,
+            "topicality": 0.9879375696182251,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9772809743881226,
+            "topicality": 0.9772809743881226,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9400414228439331,
+            "topicality": 0.9400414228439331,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828291296958923,
+            "topicality": 0.8828291296958923,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0gkxy13",
+            "score": 0.6932076811790466,
+            "topicality": 0.6932076811790466,
+            "description": "Handwriting"
+        },
+        {
+            "mid": "/m/01g0g",
+            "score": 0.6018340587615967,
+            "topicality": 0.6018340587615967,
+            "description": "Brick"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

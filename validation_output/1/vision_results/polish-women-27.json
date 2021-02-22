@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/polish-women/27.jpeg",
+    "search_query": "polish-women",
+    "position": 27,
+    "label_annotations": [
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9605181813240051,
+            "topicality": 0.9605181813240051,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/02q7ylj",
+            "score": 0.9460712671279907,
+            "topicality": 0.9460712671279907,
+            "description": "Daytime"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9419184923171997,
+            "topicality": 0.9419184923171997,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9077872633934021,
+            "topicality": 0.9077872633934021,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9013019800186157,
+            "topicality": 0.9013019800186157,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/013x8v",
+            "score": 0.8323580026626587,
+            "topicality": 0.8323580026626587,
+            "description": "Fan"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.8298048973083496,
+            "topicality": 0.8298048973083496,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.8241114020347595,
+            "topicality": 0.8241114020347595,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01lqfm",
+            "score": 0.8162229657173157,
+            "topicality": 0.8162229657173157,
+            "description": "Public space"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

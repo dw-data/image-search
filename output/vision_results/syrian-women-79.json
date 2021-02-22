@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/syrian-women/79.jpeg",
+    "search_query": "syrian-women",
+    "position": 79,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9713627696037292,
+            "topicality": 0.9713627696037292,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.9113004207611084,
+            "topicality": 0.9113004207611084,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8109766244888306,
+            "topicality": 0.8109766244888306,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.7740586996078491,
+            "topicality": 0.7740586996078491,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/01lynh",
+            "score": 0.6273362636566162,
+            "topicality": 0.6273362636566162,
+            "description": "Stairs"
+        },
+        {
+            "mid": "/m/07p_zw",
+            "score": 0.6060864925384521,
+            "topicality": 0.6060864925384521,
+            "description": "Handrail"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

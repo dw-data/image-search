@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/american-women/6.jpeg",
+    "search_query": "american-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/0csby",
+            "score": 0.9588524103164673,
+            "topicality": 0.9588524103164673,
+            "description": "Cloud"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9323225617408752,
+            "topicality": 0.9323225617408752,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/01bqvp",
+            "score": 0.9219673275947571,
+            "topicality": 0.9219673275947571,
+            "description": "Sky"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8703823685646057,
+            "topicality": 0.8703823685646057,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/0jjw",
+            "score": 0.8657381534576416,
+            "topicality": 0.8657381534576416,
+            "description": "Art"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8500263094902039,
+            "topicality": 0.8500263094902039,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/05qdh",
+            "score": 0.844968855381012,
+            "topicality": 0.844968855381012,
+            "description": "Painting"
+        },
+        {
+            "mid": "/m/05y4t",
+            "score": 0.7922167778015137,
+            "topicality": 0.7922167778015137,
+            "description": "Paint"
+        },
+        {
+            "mid": "/m/01kr8f",
+            "score": 0.748754620552063,
+            "topicality": 0.748754620552063,
+            "description": "Illustration"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

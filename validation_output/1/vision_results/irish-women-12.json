@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/irish-women/12.jpeg",
+    "search_query": "irish-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9323023557662964,
+            "topicality": 0.9323023557662964,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.882594883441925,
+            "topicality": 0.882594883441925,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8313257098197937,
+            "topicality": 0.8313257098197937,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/02qqd4n",
+            "score": 0.7874676585197449,
+            "topicality": 0.7874676585197449,
+            "description": "Fashion design"
+        },
+        {
+            "mid": "/m/05qjc",
+            "score": 0.7739107012748718,
+            "topicality": 0.7739107012748718,
+            "description": "Performing arts"
+        },
+        {
+            "mid": "/m/02jjt",
+            "score": 0.7557175755500793,
+            "topicality": 0.7557175755500793,
+            "description": "Entertainment"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.7529373168945312,
+            "topicality": 0.7529373168945312,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/04g3r",
+            "score": 0.7516314387321472,
+            "topicality": 0.7516314387321472,
+            "description": "Leisure"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.7366099953651428,
+            "topicality": 0.7366099953651428,
+            "description": "Fun"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

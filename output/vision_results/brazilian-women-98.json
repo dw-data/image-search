@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/brazilian-women/98.jpeg",
+    "search_query": "brazilian-women",
+    "position": 98,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9888818860054016,
+            "topicality": 0.9888818860054016,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880929589271545,
+            "topicality": 0.9880929589271545,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9862626194953918,
+            "topicality": 0.9862626194953918,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9800352454185486,
+            "topicality": 0.9800352454185486,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774669408798218,
+            "topicality": 0.9774669408798218,
+            "description": "People"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9704750180244446,
+            "topicality": 0.9704750180244446,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9565232992172241,
+            "topicality": 0.9565232992172241,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9008452892303467,
+            "topicality": 0.9008452892303467,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.8959760665893555,
+            "topicality": 0.8959760665893555,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.8955736756324768,
+            "topicality": 0.8955736756324768,
+            "description": "Protest"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

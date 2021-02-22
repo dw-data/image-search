@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/bahraini-women/20.jpeg",
+    "search_query": "bahraini-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639017581939697,
+            "topicality": 0.9639017581939697,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8490734696388245,
+            "topicality": 0.8490734696388245,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/05wkw",
+            "score": 0.8187271952629089,
+            "topicality": 0.8187271952629089,
+            "description": "Photography"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.6981492042541504,
+            "topicality": 0.6981492042541504,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.6907587051391602,
+            "topicality": 0.6907587051391602,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.5667418241500854,
+            "topicality": 0.5667418241500854,
+            "description": "Portrait photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

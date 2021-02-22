@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/cuban-women/74.jpeg",
+    "search_query": "cuban-women",
+    "position": 74,
+    "label_annotations": [
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.723293662071228,
+            "topicality": 0.723293662071228,
+            "description": "Banner"
+        },
+        {
+            "mid": "/m/01n5jq",
+            "score": 0.7161717414855957,
+            "topicality": 0.7161717414855957,
+            "description": "Poster"
+        },
+        {
+            "mid": "/m/011s0",
+            "score": 0.5987114906311035,
+            "topicality": 0.5987114906311035,
+            "description": "Advertising"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

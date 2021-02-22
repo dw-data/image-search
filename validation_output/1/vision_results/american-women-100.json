@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/american-women/100.jpeg",
+    "search_query": "american-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9751995205879211,
+            "topicality": 0.9751995205879211,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.942395806312561,
+            "topicality": 0.942395806312561,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9371985793113708,
+            "topicality": 0.9371985793113708,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.8803677558898926,
+            "topicality": 0.8803677558898926,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.8391678929328918,
+            "topicality": 0.8391678929328918,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/02d46y",
+            "score": 0.8248791694641113,
+            "topicality": 0.8248791694641113,
+            "description": "Cap"
+        },
+        {
+            "mid": "/m/0hgs54_",
+            "score": 0.8114883303642273,
+            "topicality": 0.8114883303642273,
+            "description": "Costume hat"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.7892266511917114,
+            "topicality": 0.7892266511917114,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/03d49p1",
+            "score": 0.73313307762146,
+            "topicality": 0.73313307762146,
+            "description": "Monochrome photography"
+        },
+        {
+            "mid": "/m/01mwkf",
+            "score": 0.7223629951477051,
+            "topicality": 0.7223629951477051,
+            "description": "Monochrome"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

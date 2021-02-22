@@ -1,0 +1,72 @@
+{
+    "path": "../output/imgs/american-women/6.jpeg",
+    "search_query": "american-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9735106825828552,
+            "topicality": 0.9735106825828552,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9238507151603699,
+            "topicality": 0.9238507151603699,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8891423940658569,
+            "topicality": 0.8891423940658569,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8304194211959839,
+            "topicality": 0.8304194211959839,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/019brn",
+            "score": 0.8271027207374573,
+            "topicality": 0.8271027207374573,
+            "description": "Dreadlocks"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.8229717016220093,
+            "topicality": 0.8229717016220093,
+            "description": "Tooth"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6925933957099915,
+            "topicality": 0.6925933957099915,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/03_055",
+            "score": 0.5881571769714355,
+            "topicality": 0.5881571769714355,
+            "description": "Cornrows"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

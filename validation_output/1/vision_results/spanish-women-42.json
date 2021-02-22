@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/spanish-women/42.jpeg",
+    "search_query": "spanish-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9733206629753113,
+            "topicality": 0.9733206629753113,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703162908554077,
+            "topicality": 0.9703162908554077,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9458771347999573,
+            "topicality": 0.9458771347999573,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.945479154586792,
+            "topicality": 0.945479154586792,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9348949193954468,
+            "topicality": 0.9348949193954468,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9168751239776611,
+            "topicality": 0.9168751239776611,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8887529373168945,
+            "topicality": 0.8887529373168945,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.886416494846344,
+            "topicality": 0.886416494846344,
+            "description": "Neck"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.877731442451477,
+            "topicality": 0.877731442451477,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724499940872192,
+            "topicality": 0.8724499940872192,
+            "description": "Sleeve"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

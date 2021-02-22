@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/35.jpeg",
+    "search_query": "mexican-women",
+    "position": 35,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9736787676811218,
+            "topicality": 0.9736787676811218,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9696015119552612,
+            "topicality": 0.9696015119552612,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9651480317115784,
+            "topicality": 0.9651480317115784,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9300044775009155,
+            "topicality": 0.9300044775009155,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.908470094203949,
+            "topicality": 0.908470094203949,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8871883749961853,
+            "topicality": 0.8871883749961853,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828175067901611,
+            "topicality": 0.8828175067901611,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8819338083267212,
+            "topicality": 0.8819338083267212,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8796310424804688,
+            "topicality": 0.8796310424804688,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8377236723899841,
+            "topicality": 0.8377236723899841,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

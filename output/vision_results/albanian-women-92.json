@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/albanian-women/92.jpeg",
+    "search_query": "albanian-women",
+    "position": 92,
+    "label_annotations": [
+        {
+            "mid": "/m/062581",
+            "score": 0.9709932804107666,
+            "topicality": 0.9709932804107666,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.9593895077705383,
+            "topicality": 0.9593895077705383,
+            "description": "Collar"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9054194688796997,
+            "topicality": 0.9054194688796997,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/07cwvn",
+            "score": 0.656577467918396,
+            "topicality": 0.656577467918396,
+            "description": "Outcrop"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/filipino-women/36.jpeg",
+    "search_query": "filipino-women",
+    "position": 36,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.990219235420227,
+            "topicality": 0.990219235420227,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9408730268478394,
+            "topicality": 0.9408730268478394,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.892844021320343,
+            "topicality": 0.892844021320343,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/09fwz6",
+            "score": 0.7143579721450806,
+            "topicality": 0.7143579721450806,
+            "description": "Lap"
+        },
+        {
+            "mid": "/m/025dyy",
+            "score": 0.7046867609024048,
+            "topicality": 0.7046867609024048,
+            "description": "Box"
+        },
+        {
+            "mid": "/m/03nfch",
+            "score": 0.6028552055358887,
+            "topicality": 0.6028552055358887,
+            "description": "Sandal"
+        },
+        {
+            "mid": "/m/080hkjn",
+            "score": 0.5909523367881775,
+            "topicality": 0.5909523367881775,
+            "description": "Handbag"
+        },
+        {
+            "mid": "/m/01g0g",
+            "score": 0.5881558060646057,
+            "topicality": 0.5881558060646057,
+            "description": "Brick"
+        },
+        {
+            "mid": "/m/05z87",
+            "score": 0.5768162608146667,
+            "topicality": 0.5768162608146667,
+            "description": "Plastic"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

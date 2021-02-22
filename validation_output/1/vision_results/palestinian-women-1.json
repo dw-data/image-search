@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/palestinian-women/1.jpeg",
+    "search_query": "palestinian-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0hg7b",
+            "score": 0.9737903475761414,
+            "topicality": 0.9737903475761414,
+            "description": "Microphone"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8963947892189026,
+            "topicality": 0.8963947892189026,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.8318019509315491,
+            "topicality": 0.8318019509315491,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.8113784790039062,
+            "topicality": 0.8113784790039062,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.780926525592804,
+            "topicality": 0.780926525592804,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01xr66",
+            "score": 0.7645894289016724,
+            "topicality": 0.7645894289016724,
+            "description": "Spokesperson"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.7510520815849304,
+            "topicality": 0.7510520815849304,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/013x8v",
+            "score": 0.7292070388793945,
+            "topicality": 0.7292070388793945,
+            "description": "Fan"
+        },
+        {
+            "mid": "/m/01yttv",
+            "score": 0.7164230346679688,
+            "topicality": 0.7164230346679688,
+            "description": "Audio equipment"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.6958827972412109,
+            "topicality": 0.6958827972412109,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

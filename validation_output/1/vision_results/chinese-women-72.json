@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/chinese-women/72.jpeg",
+    "search_query": "chinese-women",
+    "position": 72,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9843079447746277,
+            "topicality": 0.9843079447746277,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9692362546920776,
+            "topicality": 0.9692362546920776,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9445241093635559,
+            "topicality": 0.9445241093635559,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/06hwcd",
+            "score": 0.8988702893257141,
+            "topicality": 0.8988702893257141,
+            "description": "Dress shirt"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8873854279518127,
+            "topicality": 0.8873854279518127,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8820743560791016,
+            "topicality": 0.8820743560791016,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8765062689781189,
+            "topicality": 0.8765062689781189,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724504709243774,
+            "topicality": 0.8724504709243774,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.8407008051872253,
+            "topicality": 0.8407008051872253,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.7990997433662415,
+            "topicality": 0.7990997433662415,
+            "description": "Waist"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

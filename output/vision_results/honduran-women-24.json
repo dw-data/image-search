@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/honduran-women/24.jpeg",
+    "search_query": "honduran-women",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837945699691772,
+            "topicality": 0.9837945699691772,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9793357253074646,
+            "topicality": 0.9793357253074646,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9194278120994568,
+            "topicality": 0.9194278120994568,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.8855475187301636,
+            "topicality": 0.8855475187301636,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01h1dd",
+            "score": 0.8565106987953186,
+            "topicality": 0.8565106987953186,
+            "description": "Publication"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.8489571213722229,
+            "topicality": 0.8489571213722229,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.8062882423400879,
+            "topicality": 0.8062882423400879,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/09xbm8",
+            "score": 0.8037995100021362,
+            "topicality": 0.8037995100021362,
+            "description": "Book cover"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.782685399055481,
+            "topicality": 0.782685399055481,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/0bt_c3",
+            "score": 0.7096956372261047,
+            "topicality": 0.7096956372261047,
+            "description": "Book"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

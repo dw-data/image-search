@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/kazakhstani-women/10.jpeg",
+    "search_query": "kazakhstani-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9885345101356506,
+            "topicality": 0.9885345101356506,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9794060587882996,
+            "topicality": 0.9794060587882996,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790174961090088,
+            "topicality": 0.9790174961090088,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9788956642150879,
+            "topicality": 0.9788956642150879,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740440249443054,
+            "topicality": 0.9740440249443054,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.965351402759552,
+            "topicality": 0.965351402759552,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9551726579666138,
+            "topicality": 0.9551726579666138,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.953906774520874,
+            "topicality": 0.953906774520874,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/04d01f",
+            "score": 0.9207770824432373,
+            "topicality": 0.9207770824432373,
+            "description": "Amber"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9202188849449158,
+            "topicality": 0.9202188849449158,
+            "description": "Eyelash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

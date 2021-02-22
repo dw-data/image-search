@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/qatari-women/76.jpeg",
+    "search_query": "qatari-women",
+    "position": 76,
+    "label_annotations": [
+        {
+            "mid": "/m/01fklc",
+            "score": 0.9411987662315369,
+            "topicality": 0.9411987662315369,
+            "description": "Pink"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9251357913017273,
+            "topicality": 0.9251357913017273,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0ckc5",
+            "score": 0.8954963088035583,
+            "topicality": 0.8954963088035583,
+            "description": "Magenta"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0hgn_pr",
+            "score": 0.5061753988265991,
+            "topicality": 0.5061753988265991,
+            "description": "Active pants"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

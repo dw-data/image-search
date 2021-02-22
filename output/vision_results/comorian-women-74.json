@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/comorian-women/74.jpeg",
+    "search_query": "comorian-women",
+    "position": 74,
+    "label_annotations": [
+        {
+            "mid": "/m/016gcr",
+            "score": 0.6971353888511658,
+            "topicality": 0.6971353888511658,
+            "description": "Guru"
+        },
+        {
+            "mid": "/m/02xwb",
+            "score": 0.6267030835151672,
+            "topicality": 0.6267030835151672,
+            "description": "Fruit"
+        },
+        {
+            "mid": "/m/036jvk",
+            "score": 0.5357329249382019,
+            "topicality": 0.5357329249382019,
+            "description": "Stock photography"
+        },
+        {
+            "mid": "/m/02w3fc",
+            "score": 0.520022988319397,
+            "topicality": 0.520022988319397,
+            "description": "Tarpaulin"
+        },
+        {
+            "mid": "/m/036qh8",
+            "score": 0.5106955170631409,
+            "topicality": 0.5106955170631409,
+            "description": "Produce"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

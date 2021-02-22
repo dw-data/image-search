@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/honduran-women/15.jpeg",
+    "search_query": "honduran-women",
+    "position": 15,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9875894784927368,
+            "topicality": 0.9875894784927368,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9843859076499939,
+            "topicality": 0.9843859076499939,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9722638130187988,
+            "topicality": 0.9722638130187988,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/01n4qj",
+            "score": 0.9472991228103638,
+            "topicality": 0.9472991228103638,
+            "description": "Shirt"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9343119263648987,
+            "topicality": 0.9343119263648987,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9331430792808533,
+            "topicality": 0.9331430792808533,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9113168716430664,
+            "topicality": 0.9113168716430664,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/019sc",
+            "score": 0.8998957276344299,
+            "topicality": 0.8998957276344299,
+            "description": "Black"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8945503234863281,
+            "topicality": 0.8945503234863281,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/02py09",
+            "score": 0.892951250076294,
+            "topicality": 0.892951250076294,
+            "description": "Natural environment"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

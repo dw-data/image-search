@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/cuban-women/4.png",
+    "search_query": "cuban-women",
+    "position": 4,
+    "label_annotations": [
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9549555778503418,
+            "topicality": 0.9549555778503418,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0djtd",
+            "score": 0.915381669998169,
+            "topicality": 0.915381669998169,
+            "description": "Coconut"
+        },
+        {
+            "mid": "/m/09nm_",
+            "score": 0.8739364147186279,
+            "topicality": 0.8739364147186279,
+            "description": "World"
+        },
+        {
+            "mid": "/m/014dsx",
+            "score": 0.8703566193580627,
+            "topicality": 0.8703566193580627,
+            "description": "Travel"
+        },
+        {
+            "mid": "/m/05kq4",
+            "score": 0.8685203194618225,
+            "topicality": 0.8685203194618225,
+            "description": "Ocean"
+        },
+        {
+            "mid": "/m/02xwb",
+            "score": 0.8492072820663452,
+            "topicality": 0.8492072820663452,
+            "description": "Fruit"
+        },
+        {
+            "mid": "/m/0b3yr",
+            "score": 0.807182252407074,
+            "topicality": 0.807182252407074,
+            "description": "Beach"
+        },
+        {
+            "mid": "/m/03gkl",
+            "score": 0.6535585522651672,
+            "topicality": 0.6535585522651672,
+            "description": "Holiday"
+        },
+        {
+            "mid": "/m/0gj9dyh",
+            "score": 0.55425626039505,
+            "topicality": 0.55425626039505,
+            "description": "Food spoilage"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

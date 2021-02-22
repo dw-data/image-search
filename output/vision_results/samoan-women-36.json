@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/samoan-women/36.jpeg",
+    "search_query": "samoan-women",
+    "position": 36,
+    "label_annotations": [
+        {
+            "mid": "/m/01f5gx",
+            "score": 0.8164380788803101,
+            "topicality": 0.8164380788803101,
+            "description": "Eating"
+        },
+        {
+            "mid": "/m/0cp_p",
+            "score": 0.8017526268959045,
+            "topicality": 0.8017526268959045,
+            "description": "Taste"
+        },
+        {
+            "mid": "/m/02vxs3q",
+            "score": 0.6960505843162537,
+            "topicality": 0.6960505843162537,
+            "description": "Smoking"
+        },
+        {
+            "mid": "/m/0118n_9r",
+            "score": 0.6295364499092102,
+            "topicality": 0.6295364499092102,
+            "description": "Water bottle"
+        },
+        {
+            "mid": "/m/04gvstg",
+            "score": 0.5819167494773865,
+            "topicality": 0.5819167494773865,
+            "description": "Tobacco products"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

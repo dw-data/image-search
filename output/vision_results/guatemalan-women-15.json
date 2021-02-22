@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/guatemalan-women/15.jpeg",
+    "search_query": "guatemalan-women",
+    "position": 15,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.9097633361816406,
+            "topicality": 0.9097633361816406,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8927883505821228,
+            "topicality": 0.8927883505821228,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.8849678635597229,
+            "topicality": 0.8849678635597229,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/02fbqn",
+            "score": 0.635803759098053,
+            "topicality": 0.635803759098053,
+            "description": "Headpiece"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.600896954536438,
+            "topicality": 0.600896954536438,
+            "description": "Portrait photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

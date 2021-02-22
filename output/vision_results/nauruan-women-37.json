@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/nauruan-women/37.jpeg",
+    "search_query": "nauruan-women",
+    "position": 37,
+    "label_annotations": [
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9470640420913696,
+            "topicality": 0.9470640420913696,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/japanese-women/5.jpeg",
+    "search_query": "japanese-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9735332131385803,
+            "topicality": 0.9735332131385803,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9633252024650574,
+            "topicality": 0.9633252024650574,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9104751944541931,
+            "topicality": 0.9104751944541931,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8923209309577942,
+            "topicality": 0.8923209309577942,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.7569228410720825,
+            "topicality": 0.7569228410720825,
+            "description": "Audience"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7466334700584412,
+            "topicality": 0.7466334700584412,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6357947587966919,
+            "topicality": 0.6357947587966919,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/0d1pc",
+            "score": 0.6124541759490967,
+            "topicality": 0.6124541759490967,
+            "description": "Model"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.6090471744537354,
+            "topicality": 0.6090471744537354,
+            "description": "Fashion model"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

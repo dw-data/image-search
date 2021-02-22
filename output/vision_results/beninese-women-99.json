@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/beninese-women/99.jpeg",
+    "search_query": "beninese-women",
+    "position": 99,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9766783118247986,
+            "topicality": 0.9766783118247986,
+            "description": "People"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.951808512210846,
+            "topicality": 0.951808512210846,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/06h12k",
+            "score": 0.9052976965904236,
+            "topicality": 0.9052976965904236,
+            "description": "Sharing"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.8688417673110962,
+            "topicality": 0.8688417673110962,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.8320325613021851,
+            "topicality": 0.8320325613021851,
+            "description": "Conversation"
+        },
+        {
+            "mid": "/m/02x984l",
+            "score": 0.6298019886016846,
+            "topicality": 0.6298019886016846,
+            "description": "Mechanical fan"
+        },
+        {
+            "mid": "/m/080hkjn",
+            "score": 0.6011825799942017,
+            "topicality": 0.6011825799942017,
+            "description": "Handbag"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

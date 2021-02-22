@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/australian-women/89.jpeg",
+    "search_query": "australian-women",
+    "position": 89,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9901429414749146,
+            "topicality": 0.9901429414749146,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9894033670425415,
+            "topicality": 0.9894033670425415,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9883542060852051,
+            "topicality": 0.9883542060852051,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9842773675918579,
+            "topicality": 0.9842773675918579,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9797573685646057,
+            "topicality": 0.9797573685646057,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774666428565979,
+            "topicality": 0.9774666428565979,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9770120978355408,
+            "topicality": 0.9770120978355408,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0ytgt",
+            "score": 0.9477477073669434,
+            "topicality": 0.9477477073669434,
+            "description": "Child"
+        },
+        {
+            "mid": "/m/0h8q07j",
+            "score": 0.8799760937690735,
+            "topicality": 0.8799760937690735,
+            "description": "Baby & toddler clothing"
+        },
+        {
+            "mid": "/m/01bgsw",
+            "score": 0.8566619753837585,
+            "topicality": 0.8566619753837585,
+            "description": "Toddler"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

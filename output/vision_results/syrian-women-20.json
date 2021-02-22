@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/syrian-women/20.jpeg",
+    "search_query": "syrian-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9887623190879822,
+            "topicality": 0.9887623190879822,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.936442494392395,
+            "topicality": 0.936442494392395,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828293085098267,
+            "topicality": 0.8828293085098267,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/032b3c",
+            "score": 0.8726028800010681,
+            "topicality": 0.8726028800010681,
+            "description": "Jacket"
+        },
+        {
+            "mid": "/m/0hf58v5",
+            "score": 0.8406150937080383,
+            "topicality": 0.8406150937080383,
+            "description": "Luggage and bags"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8352682590484619,
+            "topicality": 0.8352682590484619,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/06pg22",
+            "score": 0.8052303194999695,
+            "topicality": 0.8052303194999695,
+            "description": "Snapshot"
+        },
+        {
+            "mid": "/m/02dgv",
+            "score": 0.7236441969871521,
+            "topicality": 0.7236441969871521,
+            "description": "Door"
+        },
+        {
+            "mid": "/m/080hkjn",
+            "score": 0.6102759838104248,
+            "topicality": 0.6102759838104248,
+            "description": "Handbag"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

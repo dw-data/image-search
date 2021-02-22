@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/central-african-women/98.jpeg",
+    "search_query": "central-african-women",
+    "position": 98,
+    "label_annotations": [
+        {
+            "mid": "/m/0404d",
+            "score": 0.9283335208892822,
+            "topicality": 0.9283335208892822,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9096550345420837,
+            "topicality": 0.9096550345420837,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.8190897107124329,
+            "topicality": 0.8190897107124329,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/09x0r",
+            "score": 0.5445436835289001,
+            "topicality": 0.5445436835289001,
+            "description": "Speech"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

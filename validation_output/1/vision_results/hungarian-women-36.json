@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/hungarian-women/36.jpeg",
+    "search_query": "hungarian-women",
+    "position": 36,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9742845892906189,
+            "topicality": 0.9742845892906189,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.968686580657959,
+            "topicality": 0.968686580657959,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9678083658218384,
+            "topicality": 0.9678083658218384,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0838f",
+            "score": 0.9572335481643677,
+            "topicality": 0.9572335481643677,
+            "description": "Water"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9081034660339355,
+            "topicality": 0.9081034660339355,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/j/148skd",
+            "score": 0.8980919122695923,
+            "topicality": 0.8980919122695923,
+            "description": "People on beach"
+        },
+        {
+            "mid": "/m/0b3yr",
+            "score": 0.878145158290863,
+            "topicality": 0.878145158290863,
+            "description": "Beach"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8759738206863403,
+            "topicality": 0.8759738206863403,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8708428740501404,
+            "topicality": 0.8708428740501404,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8371350169181824,
+            "topicality": 0.8371350169181824,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

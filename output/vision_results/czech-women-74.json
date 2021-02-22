@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/czech-women/74.jpeg",
+    "search_query": "czech-women",
+    "position": 74,
+    "label_annotations": [
+        {
+            "mid": "/m/01r546",
+            "score": 0.7667496204376221,
+            "topicality": 0.7667496204376221,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/01g0g",
+            "score": 0.7381796836853027,
+            "topicality": 0.7381796836853027,
+            "description": "Brick"
+        },
+        {
+            "mid": "/m/0h8n22v",
+            "score": 0.7211530804634094,
+            "topicality": 0.7211530804634094,
+            "description": "Serveware"
+        },
+        {
+            "mid": "/m/01__sk",
+            "score": 0.5196691155433655,
+            "topicality": 0.5196691155433655,
+            "description": "Brickwork"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

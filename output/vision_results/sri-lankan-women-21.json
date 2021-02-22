@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/sri-lankan-women/21.jpeg",
+    "search_query": "sri-lankan-women",
+    "position": 21,
+    "label_annotations": [
+        {
+            "mid": "/m/015c4z",
+            "score": 0.901558518409729,
+            "topicality": 0.901558518409729,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8707611560821533,
+            "topicality": 0.8707611560821533,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7125261425971985,
+            "topicality": 0.7125261425971985,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/02393",
+            "score": 0.5321691036224365,
+            "topicality": 0.5321691036224365,
+            "description": "Chaparral"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

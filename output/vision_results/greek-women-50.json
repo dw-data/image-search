@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/greek-women/50.jpeg",
+    "search_query": "greek-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.989765465259552,
+            "topicality": 0.989765465259552,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9891119599342346,
+            "topicality": 0.9891119599342346,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879760146141052,
+            "topicality": 0.9879760146141052,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9836977124214172,
+            "topicality": 0.9836977124214172,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9800454378128052,
+            "topicality": 0.9800454378128052,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9741191267967224,
+            "topicality": 0.9741191267967224,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9331260919570923,
+            "topicality": 0.9331260919570923,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9127265214920044,
+            "topicality": 0.9127265214920044,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.9028141498565674,
+            "topicality": 0.9028141498565674,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

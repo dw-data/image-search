@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/cuban-women/55.jpeg",
+    "search_query": "cuban-women",
+    "position": 55,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9824661612510681,
+            "topicality": 0.9824661612510681,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9764994978904724,
+            "topicality": 0.9764994978904724,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9391893744468689,
+            "topicality": 0.9391893744468689,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.912903368473053,
+            "topicality": 0.912903368473053,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.907875657081604,
+            "topicality": 0.907875657081604,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.8417508006095886,
+            "topicality": 0.8417508006095886,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.7712984085083008,
+            "topicality": 0.7712984085083008,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/0h8kxbv",
+            "score": 0.6826604008674622,
+            "topicality": 0.6826604008674622,
+            "description": "Body jewelry"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.6529907584190369,
+            "topicality": 0.6529907584190369,
+            "description": "Turban"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

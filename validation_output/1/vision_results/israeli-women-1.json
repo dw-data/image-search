@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/israeli-women/1.jpeg",
+    "search_query": "israeli-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9867700338363647,
+            "topicality": 0.9867700338363647,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9832367897033691,
+            "topicality": 0.9832367897033691,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9831774830818176,
+            "topicality": 0.9831774830818176,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9739559888839722,
+            "topicality": 0.9739559888839722,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9670647382736206,
+            "topicality": 0.9670647382736206,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9471956491470337,
+            "topicality": 0.9471956491470337,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9417780637741089,
+            "topicality": 0.9417780637741089,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9075093865394592,
+            "topicality": 0.9075093865394592,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9007760882377625,
+            "topicality": 0.9007760882377625,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8961259722709656,
+            "topicality": 0.8961259722709656,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

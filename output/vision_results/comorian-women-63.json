@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/comorian-women/63.jpeg",
+    "search_query": "comorian-women",
+    "position": 63,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837165474891663,
+            "topicality": 0.9837165474891663,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790160655975342,
+            "topicality": 0.9790160655975342,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.7849346399307251,
+            "topicality": 0.7849346399307251,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6658534407615662,
+            "topicality": 0.6658534407615662,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.6330587267875671,
+            "topicality": 0.6330587267875671,
+            "description": "Portrait"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.6102195382118225,
+            "topicality": 0.6102195382118225,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.5822855830192566,
+            "topicality": 0.5822855830192566,
+            "description": "Shawl"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

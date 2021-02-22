@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/bahraini-women/86.jpeg",
+    "search_query": "bahraini-women",
+    "position": 86,
+    "label_annotations": [
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8866183161735535,
+            "topicality": 0.8866183161735535,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.805939793586731,
+            "topicality": 0.805939793586731,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.7793484926223755,
+            "topicality": 0.7793484926223755,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.7143360376358032,
+            "topicality": 0.7143360376358032,
+            "description": "Abaya"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/haitian-women/22.jpeg",
+    "search_query": "haitian-women",
+    "position": 22,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9850940704345703,
+            "topicality": 0.9850940704345703,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9765521883964539,
+            "topicality": 0.9765521883964539,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.960790753364563,
+            "topicality": 0.960790753364563,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9467031359672546,
+            "topicality": 0.9467031359672546,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9406580328941345,
+            "topicality": 0.9406580328941345,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9025701284408569,
+            "topicality": 0.9025701284408569,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8896830677986145,
+            "topicality": 0.8896830677986145,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.8838812708854675,
+            "topicality": 0.8838812708854675,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8664981722831726,
+            "topicality": 0.8664981722831726,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8615719079971313,
+            "topicality": 0.8615719079971313,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

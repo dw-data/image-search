@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/mauritanian-women/100.jpeg",
+    "search_query": "mauritanian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/02d46y",
+            "score": 0.9697902202606201,
+            "topicality": 0.9697902202606201,
+            "description": "Cap"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9110369682312012,
+            "topicality": 0.9110369682312012,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/027xyl",
+            "score": 0.8847920894622803,
+            "topicality": 0.8847920894622803,
+            "description": "Baseball cap"
+        },
+        {
+            "mid": "/m/04mkbj",
+            "score": 0.8095324039459229,
+            "topicality": 0.8095324039459229,
+            "description": "Maroon"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.6630824208259583,
+            "topicality": 0.6630824208259583,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/03gt5g4",
+            "score": 0.5713858604431152,
+            "topicality": 0.5713858604431152,
+            "description": "Cricket cap"
+        },
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.5646219849586487,
+            "topicality": 0.5646219849586487,
+            "description": "Hood"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

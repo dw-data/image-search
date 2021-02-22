@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/basotho-women/20.jpeg",
+    "search_query": "basotho-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/01qls",
+            "score": 0.9404791593551636,
+            "topicality": 0.9404791593551636,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9023599028587341,
+            "topicality": 0.9023599028587341,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.8689982891082764,
+            "topicality": 0.8689982891082764,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/026bk",
+            "score": 0.7409589290618896,
+            "topicality": 0.7409589290618896,
+            "description": "Dance"
+        },
+        {
+            "mid": "/m/032km",
+            "score": 0.6252461075782776,
+            "topicality": 0.6252461075782776,
+            "description": "Folk dance"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

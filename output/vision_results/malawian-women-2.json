@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/malawian-women/2.jpeg",
+    "search_query": "malawian-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9734827280044556,
+            "topicality": 0.9734827280044556,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/01bsxb",
+            "score": 0.8747756481170654,
+            "topicality": 0.8747756481170654,
+            "description": "Collage"
+        },
+        {
+            "mid": "/m/0h8k4j9",
+            "score": 0.7776451110839844,
+            "topicality": 0.7776451110839844,
+            "description": "Hair accessory"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.749865710735321,
+            "topicality": 0.749865710735321,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.7383646368980408,
+            "topicality": 0.7383646368980408,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/0h8kxbv",
+            "score": 0.5434865951538086,
+            "topicality": 0.5434865951538086,
+            "description": "Body jewelry"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

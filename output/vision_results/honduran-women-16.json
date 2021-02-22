@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/honduran-women/16.jpeg",
+    "search_query": "honduran-women",
+    "position": 16,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9832310080528259,
+            "topicality": 0.9832310080528259,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9803736805915833,
+            "topicality": 0.9803736805915833,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9689184427261353,
+            "topicality": 0.9689184427261353,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9211128354072571,
+            "topicality": 0.9211128354072571,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8972283601760864,
+            "topicality": 0.8972283601760864,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/06z37_",
+            "score": 0.8261162638664246,
+            "topicality": 0.8261162638664246,
+            "description": "Picture frame"
+        },
+        {
+            "mid": "/m/09fwz6",
+            "score": 0.8260681629180908,
+            "topicality": 0.8260681629180908,
+            "description": "Lap"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.7879951596260071,
+            "topicality": 0.7879951596260071,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6207217574119568,
+            "topicality": 0.6207217574119568,
+            "description": "Makeover"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

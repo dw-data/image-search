@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/pinay/15.jpeg",
+    "search_query": "pinay",
+    "position": 15,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9872745275497437,
+            "topicality": 0.9872745275497437,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9839475154876709,
+            "topicality": 0.9839475154876709,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9838070869445801,
+            "topicality": 0.9838070869445801,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9831050038337708,
+            "topicality": 0.9831050038337708,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.975814163684845,
+            "topicality": 0.975814163684845,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9728125333786011,
+            "topicality": 0.9728125333786011,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009718894958,
+            "topicality": 0.9509009718894958,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9453160166740417,
+            "topicality": 0.9453160166740417,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9439612030982971,
+            "topicality": 0.9439612030982971,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9405645132064819,
+            "topicality": 0.9405645132064819,
+            "description": "Eye"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swedish-women/58.jpeg",
+    "search_query": "swedish-women",
+    "position": 58,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9789607524871826,
+            "topicality": 0.9789607524871826,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9777580499649048,
+            "topicality": 0.9777580499649048,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9771055579185486,
+            "topicality": 0.9771055579185486,
+            "description": "People"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9473769068717957,
+            "topicality": 0.9473769068717957,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.9396032691001892,
+            "topicality": 0.9396032691001892,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.938412070274353,
+            "topicality": 0.938412070274353,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/01hnnm",
+            "score": 0.9233885407447815,
+            "topicality": 0.9233885407447815,
+            "description": "Navel"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9193456768989563,
+            "topicality": 0.9193456768989563,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/09x8z",
+            "score": 0.9134186506271362,
+            "topicality": 0.9134186506271362,
+            "description": "Stomach"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

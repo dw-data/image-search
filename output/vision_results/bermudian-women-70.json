@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/bermudian-women/70.jpeg",
+    "search_query": "bermudian-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9699823260307312,
+            "topicality": 0.9699823260307312,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9578788876533508,
+            "topicality": 0.9578788876533508,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.8951240181922913,
+            "topicality": 0.8951240181922913,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8819195628166199,
+            "topicality": 0.8819195628166199,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.8709790110588074,
+            "topicality": 0.8709790110588074,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.7695553302764893,
+            "topicality": 0.7695553302764893,
+            "description": "Portrait"
+        },
+        {
+            "mid": "/m/01hk87",
+            "score": 0.5865728259086609,
+            "topicality": 0.5865728259086609,
+            "description": "Braid"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.5637407898902893,
+            "topicality": 0.5637407898902893,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/0dl6q",
+            "score": 0.5104182362556458,
+            "topicality": 0.5104182362556458,
+            "description": "Silk"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

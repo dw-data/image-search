@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/nauruan-women/32.jpeg",
+    "search_query": "nauruan-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/0180xr",
+            "score": 0.9578614830970764,
+            "topicality": 0.9578614830970764,
+            "description": "Neighbourhood"
+        },
+        {
+            "mid": "/m/06h12k",
+            "score": 0.8955864310264587,
+            "topicality": 0.8955864310264587,
+            "description": "Sharing"
+        },
+        {
+            "mid": "/m/0fpdgl",
+            "score": 0.8009564876556396,
+            "topicality": 0.8009564876556396,
+            "description": "Human settlement"
+        },
+        {
+            "mid": "/m/07r04",
+            "score": 0.5612837076187134,
+            "topicality": 0.5612837076187134,
+            "description": "Truck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

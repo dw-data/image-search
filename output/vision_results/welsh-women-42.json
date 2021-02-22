@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/welsh-women/42.jpeg",
+    "search_query": "welsh-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9713186025619507,
+            "topicality": 0.9713186025619507,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9692659378051758,
+            "topicality": 0.9692659378051758,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/07j2f",
+            "score": 0.9668430685997009,
+            "topicality": 0.9668430685997009,
+            "description": "Tattoo"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9654979109764099,
+            "topicality": 0.9654979109764099,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9580482244491577,
+            "topicality": 0.9580482244491577,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9538685083389282,
+            "topicality": 0.9538685083389282,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/027x7n",
+            "score": 0.9466713666915894,
+            "topicality": 0.9466713666915894,
+            "description": "Physical fitness"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.9435321688652039,
+            "topicality": 0.9435321688652039,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9330390691757202,
+            "topicality": 0.9330390691757202,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9329898953437805,
+            "topicality": 0.9329898953437805,
+            "description": "Muscle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/iraqi-women/1.png",
+    "search_query": "iraqi-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9886707663536072,
+            "topicality": 0.9886707663536072,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9840371012687683,
+            "topicality": 0.9840371012687683,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9783052802085876,
+            "topicality": 0.9783052802085876,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9765380620956421,
+            "topicality": 0.9765380620956421,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9734215140342712,
+            "topicality": 0.9734215140342712,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9096994996070862,
+            "topicality": 0.9096994996070862,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.8492336869239807,
+            "topicality": 0.8492336869239807,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.8119149208068848,
+            "topicality": 0.8119149208068848,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.7487203478813171,
+            "topicality": 0.7487203478813171,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.7467741370201111,
+            "topicality": 0.7467741370201111,
+            "description": "Shawl"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/basotho-women/30.jpeg",
+    "search_query": "basotho-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9835247993469238,
+            "topicality": 0.9835247993469238,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9826883673667908,
+            "topicality": 0.9826883673667908,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9808847904205322,
+            "topicality": 0.9808847904205322,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9721165895462036,
+            "topicality": 0.9721165895462036,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009718894958,
+            "topicality": 0.9509009718894958,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9417046904563904,
+            "topicality": 0.9417046904563904,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/0c9ph5",
+            "score": 0.8960275053977966,
+            "topicality": 0.8960275053977966,
+            "description": "Flower"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8952186703681946,
+            "topicality": 0.8952186703681946,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8736723065376282,
+            "topicality": 0.8736723065376282,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/088fh",
+            "score": 0.8513566255569458,
+            "topicality": 0.8513566255569458,
+            "description": "Yellow"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

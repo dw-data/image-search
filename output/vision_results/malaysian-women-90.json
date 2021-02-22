@@ -1,0 +1,30 @@
+{
+    "path": "../output/imgs/malaysian-women/90.jpeg",
+    "search_query": "malaysian-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/018tkd",
+            "score": 0.7599588632583618,
+            "topicality": 0.7599588632583618,
+            "description": "Service"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/afghan-women/50.jpeg",
+    "search_query": "afghan-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/01g5v",
+            "score": 0.9789066314697266,
+            "topicality": 0.9789066314697266,
+            "description": "Blue"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.755362868309021,
+            "topicality": 0.755362868309021,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.5809430480003357,
+            "topicality": 0.5809430480003357,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.532783031463623,
+            "topicality": 0.532783031463623,
+            "description": "Wrap"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/burundian-women/66.jpeg",
+    "search_query": "burundian-women",
+    "position": 66,
+    "label_annotations": [
+        {
+            "mid": "/m/014sv8",
+            "score": 0.971282958984375,
+            "topicality": 0.971282958984375,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828155994415283,
+            "topicality": 0.8828155994415283,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/04gvstg",
+            "score": 0.502263605594635,
+            "topicality": 0.502263605594635,
+            "description": "Tobacco products"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/saudi-women/23.jpeg",
+    "search_query": "saudi-women",
+    "position": 23,
+    "label_annotations": [
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681834578514099,
+            "topicality": 0.9681834578514099,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639067649841309,
+            "topicality": 0.9639067649841309,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8761752843856812,
+            "topicality": 0.8761752843856812,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8306322693824768,
+            "topicality": 0.8306322693824768,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.7865308523178101,
+            "topicality": 0.7865308523178101,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6607812643051147,
+            "topicality": 0.6607812643051147,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.5438094139099121,
+            "topicality": 0.5438094139099121,
+            "description": "Shawl"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

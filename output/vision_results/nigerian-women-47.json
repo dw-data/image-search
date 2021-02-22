@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/nigerian-women/47.jpeg",
+    "search_query": "nigerian-women",
+    "position": 47,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837932586669922,
+            "topicality": 0.9837932586669922,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8787161707878113,
+            "topicality": 0.8787161707878113,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8709219694137573,
+            "topicality": 0.8709219694137573,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.8136290907859802,
+            "topicality": 0.8136290907859802,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.7771514058113098,
+            "topicality": 0.7771514058113098,
+            "description": "Trunk"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

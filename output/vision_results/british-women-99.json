@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/british-women/99.jpeg",
+    "search_query": "british-women",
+    "position": 99,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9795769453048706,
+            "topicality": 0.9795769453048706,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9747689366340637,
+            "topicality": 0.9747689366340637,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/050k8",
+            "score": 0.9657856822013855,
+            "topicality": 0.9657856822013855,
+            "description": "Mobile phone"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9587860107421875,
+            "topicality": 0.9587860107421875,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9497784376144409,
+            "topicality": 0.9497784376144409,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9330440163612366,
+            "topicality": 0.9330440163612366,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9204768538475037,
+            "topicality": 0.9204768538475037,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.910067617893219,
+            "topicality": 0.910067617893219,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/06h12k",
+            "score": 0.9072932004928589,
+            "topicality": 0.9072932004928589,
+            "description": "Sharing"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/malawian-women/30.jpeg",
+    "search_query": "malawian-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773901700973511,
+            "topicality": 0.9773901700973511,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9392663240432739,
+            "topicality": 0.9392663240432739,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828309178352356,
+            "topicality": 0.8828309178352356,
+            "description": "Temple"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/portuguese-women/35.jpeg",
+    "search_query": "portuguese-women",
+    "position": 35,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9787412285804749,
+            "topicality": 0.9787412285804749,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/01hnnm",
+            "score": 0.9355742335319519,
+            "topicality": 0.9355742335319519,
+            "description": "Navel"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9350637197494507,
+            "topicality": 0.9350637197494507,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.932961106300354,
+            "topicality": 0.932961106300354,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.9300604462623596,
+            "topicality": 0.9300604462623596,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9009508490562439,
+            "topicality": 0.9009508490562439,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/09x8z",
+            "score": 0.8898860812187195,
+            "topicality": 0.8898860812187195,
+            "description": "Stomach"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8780922889709473,
+            "topicality": 0.8780922889709473,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.8746715188026428,
+            "topicality": 0.8746715188026428,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.8664296269416809,
+            "topicality": 0.8664296269416809,
+            "description": "Muscle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/kuwaiti-women/11.jpeg",
+    "search_query": "kuwaiti-women",
+    "position": 11,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9770736694335938,
+            "topicality": 0.9770736694335938,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9070737361907959,
+            "topicality": 0.9070737361907959,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.7118107080459595,
+            "topicality": 0.7118107080459595,
+            "description": "Audience"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

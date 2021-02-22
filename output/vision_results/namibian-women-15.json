@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/namibian-women/15.jpeg",
+    "search_query": "namibian-women",
+    "position": 15,
+    "label_annotations": [
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828275799751282,
+            "topicality": 0.8828275799751282,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8704273700714111,
+            "topicality": 0.8704273700714111,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.5356298685073853,
+            "topicality": 0.5356298685073853,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.5285232067108154,
+            "topicality": 0.5285232067108154,
+            "description": "Bracelet"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

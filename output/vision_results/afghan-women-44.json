@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/afghan-women/44.jpeg",
+    "search_query": "afghan-women",
+    "position": 44,
+    "label_annotations": [
+        {
+            "mid": "/m/0dkw5",
+            "score": 0.6283039450645447,
+            "topicality": 0.6283039450645447,
+            "description": "Machine"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.6220719218254089,
+            "topicality": 0.6220719218254089,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/02ky346",
+            "score": 0.6031264066696167,
+            "topicality": 0.6031264066696167,
+            "description": "Engineering"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

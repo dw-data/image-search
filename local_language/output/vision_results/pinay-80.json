@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/pinay/80.jpeg",
+    "search_query": "pinay",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0838f",
+            "score": 0.9668756723403931,
+            "topicality": 0.9668756723403931,
+            "description": "Water"
+        },
+        {
+            "mid": "/m/01bfm9",
+            "score": 0.9570934176445007,
+            "topicality": 0.9570934176445007,
+            "description": "Shorts"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9569503664970398,
+            "topicality": 0.9569503664970398,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9444572925567627,
+            "topicality": 0.9444572925567627,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9364268779754639,
+            "topicality": 0.9364268779754639,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.927416205406189,
+            "topicality": 0.927416205406189,
+            "description": "Leg"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9187958836555481,
+            "topicality": 0.9187958836555481,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/j/148skd",
+            "score": 0.9112502336502075,
+            "topicality": 0.9112502336502075,
+            "description": "People on beach"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8955363035202026,
+            "topicality": 0.8955363035202026,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.8854706287384033,
+            "topicality": 0.8854706287384033,
+            "description": "Human body"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mauritian-women/42.jpeg",
+    "search_query": "mauritian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9736855626106262,
+            "topicality": 0.9736855626106262,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9651793241500854,
+            "topicality": 0.9651793241500854,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9478645324707031,
+            "topicality": 0.9478645324707031,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9461259245872498,
+            "topicality": 0.9461259245872498,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344746470451355,
+            "topicality": 0.9344746470451355,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9343205690383911,
+            "topicality": 0.9343205690383911,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9255733489990234,
+            "topicality": 0.9255733489990234,
+            "description": "Dress"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9222073554992676,
+            "topicality": 0.9222073554992676,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9015742540359497,
+            "topicality": 0.9015742540359497,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

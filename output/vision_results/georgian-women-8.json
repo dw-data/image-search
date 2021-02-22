@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/georgian-women/8.jpeg",
+    "search_query": "georgian-women",
+    "position": 8,
+    "label_annotations": [
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6852250695228577,
+            "topicality": 0.6852250695228577,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/0h8kxbv",
+            "score": 0.5568435788154602,
+            "topicality": 0.5568435788154602,
+            "description": "Body jewelry"
+        },
+        {
+            "mid": "/m/026mhtg",
+            "score": 0.5215041637420654,
+            "topicality": 0.5215041637420654,
+            "description": "Step cutting"
+        },
+        {
+            "mid": "/m/027qw1p",
+            "score": 0.5091367959976196,
+            "topicality": 0.5091367959976196,
+            "description": "Feathered hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

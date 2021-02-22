@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/bahraini-women/76.jpeg",
+    "search_query": "bahraini-women",
+    "position": 76,
+    "label_annotations": [
+        {
+            "mid": "/m/07s6nbt",
+            "score": 0.964766800403595,
+            "topicality": 0.964766800403595,
+            "description": "Text"
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.9129894375801086,
+            "topicality": 0.9129894375801086,
+            "description": "Font"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

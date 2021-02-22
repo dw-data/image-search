@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/maltese-women/3.jpeg",
+    "search_query": "maltese-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9736946225166321,
+            "topicality": 0.9736946225166321,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639045000076294,
+            "topicality": 0.9639045000076294,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9465606808662415,
+            "topicality": 0.9465606808662415,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9229763150215149,
+            "topicality": 0.9229763150215149,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8855791687965393,
+            "topicality": 0.8855791687965393,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.8691145777702332,
+            "topicality": 0.8691145777702332,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8591966032981873,
+            "topicality": 0.8591966032981873,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.8563194870948792,
+            "topicality": 0.8563194870948792,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.8153510689735413,
+            "topicality": 0.8153510689735413,
+            "description": "Audience"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

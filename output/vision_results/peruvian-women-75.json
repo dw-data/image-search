@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/peruvian-women/75.jpeg",
+    "search_query": "peruvian-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/0404d",
+            "score": 0.8927503824234009,
+            "topicality": 0.8927503824234009,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0ds5b",
+            "score": 0.8330761194229126,
+            "topicality": 0.8330761194229126,
+            "description": "Facial hair"
+        },
+        {
+            "mid": "/m/015h_t",
+            "score": 0.758211612701416,
+            "topicality": 0.758211612701416,
+            "description": "Beard"
+        },
+        {
+            "mid": "/m/0hgnxbq",
+            "score": 0.6393492817878723,
+            "topicality": 0.6393492817878723,
+            "description": "Active shirt"
+        },
+        {
+            "mid": "/m/0h8kxbv",
+            "score": 0.6285066604614258,
+            "topicality": 0.6285066604614258,
+            "description": "Body jewelry"
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.5739414095878601,
+            "topicality": 0.5739414095878601,
+            "description": "Photo caption"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

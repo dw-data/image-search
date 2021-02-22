@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/irish-women/22.jpeg",
+    "search_query": "irish-women",
+    "position": 22,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9828066825866699,
+            "topicality": 0.9828066825866699,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9826974868774414,
+            "topicality": 0.9826974868774414,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9723488092422485,
+            "topicality": 0.9723488092422485,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703459739685059,
+            "topicality": 0.9703459739685059,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9340780973434448,
+            "topicality": 0.9340780973434448,
+            "description": "Eye"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.895732581615448,
+            "topicality": 0.895732581615448,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8856223225593567,
+            "topicality": 0.8856223225593567,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/083vt",
+            "score": 0.8650624752044678,
+            "topicality": 0.8650624752044678,
+            "description": "Wood"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8558251857757568,
+            "topicality": 0.8558251857757568,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/06z0n",
+            "score": 0.850387692451477,
+            "topicality": 0.850387692451477,
+            "description": "Sunlight"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

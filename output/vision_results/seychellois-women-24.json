@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/seychellois-women/24.jpeg",
+    "search_query": "seychellois-women",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/02w3hl",
+            "score": 0.9600966572761536,
+            "topicality": 0.9600966572761536,
+            "description": "Award"
+        },
+        {
+            "mid": "/m/02x94h",
+            "score": 0.9524792432785034,
+            "topicality": 0.9524792432785034,
+            "description": "Trophy"
+        },
+        {
+            "mid": "/m/0n1h",
+            "score": 0.8244399428367615,
+            "topicality": 0.8244399428367615,
+            "description": "Artist"
+        },
+        {
+            "mid": "/m/0byb_x",
+            "score": 0.5436784625053406,
+            "topicality": 0.5436784625053406,
+            "description": "Talent show"
+        },
+        {
+            "mid": "/m/016c4t",
+            "score": 0.539331316947937,
+            "topicality": 0.539331316947937,
+            "description": "Ceremony"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

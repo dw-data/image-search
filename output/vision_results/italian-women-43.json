@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/italian-women/43.jpeg",
+    "search_query": "italian-women",
+    "position": 43,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9844914674758911,
+            "topicality": 0.9844914674758911,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9798316359519958,
+            "topicality": 0.9798316359519958,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790130257606506,
+            "topicality": 0.9790130257606506,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739429354667664,
+            "topicality": 0.9739429354667664,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9730285406112671,
+            "topicality": 0.9730285406112671,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710295796394348,
+            "topicality": 0.9710295796394348,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656663537025452,
+            "topicality": 0.9656663537025452,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9625660181045532,
+            "topicality": 0.9625660181045532,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9624913930892944,
+            "topicality": 0.9624913930892944,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.956829845905304,
+            "topicality": 0.956829845905304,
+            "description": "Hand"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

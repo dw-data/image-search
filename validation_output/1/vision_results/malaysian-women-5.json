@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/malaysian-women/5.jpeg",
+    "search_query": "malaysian-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9852948784828186,
+            "topicality": 0.9852948784828186,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9825961589813232,
+            "topicality": 0.9825961589813232,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9743613600730896,
+            "topicality": 0.9743613600730896,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9423297643661499,
+            "topicality": 0.9423297643661499,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/083jv",
+            "score": 0.9218676686286926,
+            "topicality": 0.9218676686286926,
+            "description": "White"
+        },
+        {
+            "mid": "/m/03jn2m",
+            "score": 0.8950853943824768,
+            "topicality": 0.8950853943824768,
+            "description": "Azure"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8891201019287109,
+            "topicality": 0.8891201019287109,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8890231847763062,
+            "topicality": 0.8890231847763062,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8790550231933594,
+            "topicality": 0.8790550231933594,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8781284689903259,
+            "topicality": 0.8781284689903259,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

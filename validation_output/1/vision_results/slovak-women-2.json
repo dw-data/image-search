@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/slovak-women/2.jpeg",
+    "search_query": "slovak-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9681552052497864,
+            "topicality": 0.9681552052497864,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.940163791179657,
+            "topicality": 0.940163791179657,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9094970226287842,
+            "topicality": 0.9094970226287842,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8850199580192566,
+            "topicality": 0.8850199580192566,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/02_n6y",
+            "score": 0.8641020059585571,
+            "topicality": 0.8641020059585571,
+            "description": "Goggles"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8580362796783447,
+            "topicality": 0.8580362796783447,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.8525515198707581,
+            "topicality": 0.8525515198707581,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.849329948425293,
+            "topicality": 0.849329948425293,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.83884596824646,
+            "topicality": 0.83884596824646,
+            "description": "Style"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

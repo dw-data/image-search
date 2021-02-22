@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/british-women/46.jpeg",
+    "search_query": "british-women",
+    "position": 46,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9834843277931213,
+            "topicality": 0.9834843277931213,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9696053266525269,
+            "topicality": 0.9696053266525269,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0838f",
+            "score": 0.9623629450798035,
+            "topicality": 0.9623629450798035,
+            "description": "Water"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9413881897926331,
+            "topicality": 0.9413881897926331,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9368881583213806,
+            "topicality": 0.9368881583213806,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9153349995613098,
+            "topicality": 0.9153349995613098,
+            "description": "Dress"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9028682112693787,
+            "topicality": 0.9028682112693787,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/02py09",
+            "score": 0.8923686146736145,
+            "topicality": 0.8923686146736145,
+            "description": "Natural environment"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.8841604590415955,
+            "topicality": 0.8841604590415955,
+            "description": "Human body"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

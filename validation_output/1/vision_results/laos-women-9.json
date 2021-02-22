@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/laos-women/9.jpeg",
+    "search_query": "laos-women",
+    "position": 9,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9843298196792603,
+            "topicality": 0.9843298196792603,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9832377433776855,
+            "topicality": 0.9832377433776855,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9751255512237549,
+            "topicality": 0.9751255512237549,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9732879996299744,
+            "topicality": 0.9732879996299744,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9330352544784546,
+            "topicality": 0.9330352544784546,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9046071767807007,
+            "topicality": 0.9046071767807007,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8961533308029175,
+            "topicality": 0.8961533308029175,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8883517384529114,
+            "topicality": 0.8883517384529114,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8759229183197021,
+            "topicality": 0.8759229183197021,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8462921977043152,
+            "topicality": 0.8462921977043152,
+            "description": "Dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

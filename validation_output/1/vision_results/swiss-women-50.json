@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/swiss-women/50.jpeg",
+    "search_query": "swiss-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9810447096824646,
+            "topicality": 0.9810447096824646,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9700031876564026,
+            "topicality": 0.9700031876564026,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009718894958,
+            "topicality": 0.9509009718894958,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9381709694862366,
+            "topicality": 0.9381709694862366,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8979437947273254,
+            "topicality": 0.8979437947273254,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8827610611915588,
+            "topicality": 0.8827610611915588,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8709649443626404,
+            "topicality": 0.8709649443626404,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8564765453338623,
+            "topicality": 0.8564765453338623,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/03rz8v",
+            "score": 0.8491307497024536,
+            "topicality": 0.8491307497024536,
+            "description": "Cosmetic dentistry"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8484227657318115,
+            "topicality": 0.8484227657318115,
+            "description": "Iris"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/spanish-women/32.jpeg",
+    "search_query": "spanish-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/06fvc",
+            "score": 0.9518372416496277,
+            "topicality": 0.9518372416496277,
+            "description": "Red"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9415263533592224,
+            "topicality": 0.9415263533592224,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.8350406289100647,
+            "topicality": 0.8350406289100647,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8164795637130737,
+            "topicality": 0.8164795637130737,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0bkqqh",
+            "score": 0.7516612410545349,
+            "topicality": 0.7516612410545349,
+            "description": "Signage"
+        },
+        {
+            "mid": "/m/02p9658",
+            "score": 0.632217526435852,
+            "topicality": 0.632217526435852,
+            "description": "Coquelicot"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.563514769077301,
+            "topicality": 0.563514769077301,
+            "description": "Portrait photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

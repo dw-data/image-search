@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/german-women/55.jpeg",
+    "search_query": "german-women",
+    "position": 55,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9926069378852844,
+            "topicality": 0.9926069378852844,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9888367652893066,
+            "topicality": 0.9888367652893066,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9800634980201721,
+            "topicality": 0.9800634980201721,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9776200652122498,
+            "topicality": 0.9776200652122498,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9767752289772034,
+            "topicality": 0.9767752289772034,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9764409065246582,
+            "topicality": 0.9764409065246582,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9671812057495117,
+            "topicality": 0.9671812057495117,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/0h8mhzd",
+            "score": 0.9558572173118591,
+            "topicality": 0.9558572173118591,
+            "description": "Sports uniform"
+        },
+        {
+            "mid": "/m/02d46y",
+            "score": 0.9555903673171997,
+            "topicality": 0.9555903673171997,
+            "description": "Cap"
+        },
+        {
+            "mid": "/m/025xryy",
+            "score": 0.9555533528327942,
+            "topicality": 0.9555533528327942,
+            "description": "Sportswear"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/irish-women/70.jpeg",
+    "search_query": "irish-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.8682276010513306,
+            "topicality": 0.8682276010513306,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/02_n6y",
+            "score": 0.8194599747657776,
+            "topicality": 0.8194599747657776,
+            "description": "Goggles"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.7584322690963745,
+            "topicality": 0.7584322690963745,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/0hgs526",
+            "score": 0.6817746162414551,
+            "topicality": 0.6817746162414551,
+            "description": "Costume accessory"
+        },
+        {
+            "mid": "/m/01b638",
+            "score": 0.6042391657829285,
+            "topicality": 0.6042391657829285,
+            "description": "Boot"
+        },
+        {
+            "mid": "/m/0h8k4j9",
+            "score": 0.5737459063529968,
+            "topicality": 0.5737459063529968,
+            "description": "Hair accessory"
+        },
+        {
+            "mid": "/m/0176mf",
+            "score": 0.5339922904968262,
+            "topicality": 0.5339922904968262,
+            "description": "Belt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

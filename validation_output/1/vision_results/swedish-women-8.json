@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/swedish-women/8.png",
+    "search_query": "swedish-women",
+    "position": 8,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9840144515037537,
+            "topicality": 0.9840144515037537,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9688999056816101,
+            "topicality": 0.9688999056816101,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9466145634651184,
+            "topicality": 0.9466145634651184,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/02_n6y",
+            "score": 0.9391389489173889,
+            "topicality": 0.9391389489173889,
+            "description": "Goggles"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9330451488494873,
+            "topicality": 0.9330451488494873,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.9184929728507996,
+            "topicality": 0.9184929728507996,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9144135117530823,
+            "topicality": 0.9144135117530823,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8964489698410034,
+            "topicality": 0.8964489698410034,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8815470337867737,
+            "topicality": 0.8815470337867737,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

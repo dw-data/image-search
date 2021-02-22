@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/jamaican-women/11.jpeg",
+    "search_query": "jamaican-women",
+    "position": 11,
+    "label_annotations": [
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9653043150901794,
+            "topicality": 0.9653043150901794,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9568039774894714,
+            "topicality": 0.9568039774894714,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/039jq",
+            "score": 0.9521580934524536,
+            "topicality": 0.9521580934524536,
+            "description": "Glass"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9284123182296753,
+            "topicality": 0.9284123182296753,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9274484515190125,
+            "topicality": 0.9274484515190125,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8928574323654175,
+            "topicality": 0.8928574323654175,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.8923736810684204,
+            "topicality": 0.8923736810684204,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8771570920944214,
+            "topicality": 0.8771570920944214,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8637017607688904,
+            "topicality": 0.8637017607688904,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

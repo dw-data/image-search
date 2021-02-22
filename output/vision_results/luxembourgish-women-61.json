@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/luxembourgish-women/61.jpeg",
+    "search_query": "luxembourgish-women",
+    "position": 61,
+    "label_annotations": [
+        {
+            "mid": "/m/014sv8",
+            "score": 0.972292423248291,
+            "topicality": 0.972292423248291,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/086mh",
+            "score": 0.8977617025375366,
+            "topicality": 0.8977617025375366,
+            "description": "Winter"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8821136951446533,
+            "topicality": 0.8821136951446533,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/019b80",
+            "score": 0.6588110327720642,
+            "topicality": 0.6588110327720642,
+            "description": "Sweater"
+        },
+        {
+            "mid": "/m/083mg",
+            "score": 0.5609745383262634,
+            "topicality": 0.5609745383262634,
+            "description": "Walking"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

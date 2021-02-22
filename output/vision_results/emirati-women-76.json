@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/emirati-women/76.jpeg",
+    "search_query": "emirati-women",
+    "position": 76,
+    "label_annotations": [
+        {
+            "mid": "/m/01prls",
+            "score": 0.971808135509491,
+            "topicality": 0.971808135509491,
+            "description": "Land vehicle"
+        },
+        {
+            "mid": "/m/0768fx",
+            "score": 0.9142982959747314,
+            "topicality": 0.9142982959747314,
+            "description": "Automotive lighting"
+        },
+        {
+            "mid": "/m/02q2kc3",
+            "score": 0.8927810788154602,
+            "topicality": 0.8927810788154602,
+            "description": "Vehicle door"
+        },
+        {
+            "mid": "/m/01lcwm",
+            "score": 0.795375645160675,
+            "topicality": 0.795375645160675,
+            "description": "Luxury vehicle"
+        },
+        {
+            "mid": "/m/03vnt4",
+            "score": 0.7126644849777222,
+            "topicality": 0.7126644849777222,
+            "description": "Mid-size car"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.614963710308075,
+            "topicality": 0.614963710308075,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/03vntj",
+            "score": 0.5776693224906921,
+            "topicality": 0.5776693224906921,
+            "description": "Full-size car"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

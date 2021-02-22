@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/tunisian-women/23.jpeg",
+    "search_query": "tunisian-women",
+    "position": 23,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9895491003990173,
+            "topicality": 0.9895491003990173,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879013895988464,
+            "topicality": 0.9879013895988464,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9792713522911072,
+            "topicality": 0.9792713522911072,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774711728096008,
+            "topicality": 0.9774711728096008,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9671458601951599,
+            "topicality": 0.9671458601951599,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9506686329841614,
+            "topicality": 0.9506686329841614,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9406222105026245,
+            "topicality": 0.9406222105026245,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.7968990206718445,
+            "topicality": 0.7968990206718445,
+            "description": "Audience"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.7594276070594788,
+            "topicality": 0.7594276070594788,
+            "description": "Scarf"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

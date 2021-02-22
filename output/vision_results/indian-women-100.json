@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/indian-women/100.jpeg",
+    "search_query": "indian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9884387850761414,
+            "topicality": 0.9884387850761414,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9836779832839966,
+            "topicality": 0.9836779832839966,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.982774555683136,
+            "topicality": 0.982774555683136,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9782893657684326,
+            "topicality": 0.9782893657684326,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9780521988868713,
+            "topicality": 0.9780521988868713,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9776623845100403,
+            "topicality": 0.9776623845100403,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9753005504608154,
+            "topicality": 0.9753005504608154,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/088fh",
+            "score": 0.974939227104187,
+            "topicality": 0.974939227104187,
+            "description": "Yellow"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9599140882492065,
+            "topicality": 0.9599140882492065,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.948453962802887,
+            "topicality": 0.948453962802887,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

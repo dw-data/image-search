@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/australian-women/35.jpeg",
+    "search_query": "australian-women",
+    "position": 35,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9825546145439148,
+            "topicality": 0.9825546145439148,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.979609489440918,
+            "topicality": 0.979609489440918,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.970126211643219,
+            "topicality": 0.970126211643219,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9448481798171997,
+            "topicality": 0.9448481798171997,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/05s2s",
+            "score": 0.9287143349647522,
+            "topicality": 0.9287143349647522,
+            "description": "Plant"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9127377867698669,
+            "topicality": 0.9127377867698669,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8830327987670898,
+            "topicality": 0.8830327987670898,
+            "description": "Dress"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8828424215316772,
+            "topicality": 0.8828424215316772,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/03rz8v",
+            "score": 0.8695326447486877,
+            "topicality": 0.8695326447486877,
+            "description": "Cosmetic dentistry"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8675745129585266,
+            "topicality": 0.8675745129585266,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

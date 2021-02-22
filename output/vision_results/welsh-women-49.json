@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/welsh-women/49.jpeg",
+    "search_query": "welsh-women",
+    "position": 49,
+    "label_annotations": [
+        {
+            "mid": "/m/04bcr3",
+            "score": 0.9566952586174011,
+            "topicality": 0.9566952586174011,
+            "description": "Table"
+        },
+        {
+            "mid": "/m/03fp41",
+            "score": 0.6938832402229309,
+            "topicality": 0.6938832402229309,
+            "description": "Houseplant"
+        },
+        {
+            "mid": "/m/0gjbg72",
+            "score": 0.6083531379699707,
+            "topicality": 0.6083531379699707,
+            "description": "Shelf"
+        },
+        {
+            "mid": "/m/07bjf",
+            "score": 0.5275736451148987,
+            "topicality": 0.5275736451148987,
+            "description": "Single-lens reflex camera"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

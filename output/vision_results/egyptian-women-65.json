@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/egyptian-women/65.jpeg",
+    "search_query": "egyptian-women",
+    "position": 65,
+    "label_annotations": [
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9655911326408386,
+            "topicality": 0.9655911326408386,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9579715728759766,
+            "topicality": 0.9579715728759766,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9538999199867249,
+            "topicality": 0.9538999199867249,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9482389092445374,
+            "topicality": 0.9482389092445374,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.931879460811615,
+            "topicality": 0.931879460811615,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.9242448806762695,
+            "topicality": 0.9242448806762695,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.9056929349899292,
+            "topicality": 0.9056929349899292,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.8970351219177246,
+            "topicality": 0.8970351219177246,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8966875076293945,
+            "topicality": 0.8966875076293945,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.8898794651031494,
+            "topicality": 0.8898794651031494,
+            "description": "Sleeveless shirt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

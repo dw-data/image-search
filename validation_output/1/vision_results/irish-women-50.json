@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/irish-women/50.jpeg",
+    "search_query": "irish-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9832097887992859,
+            "topicality": 0.9832097887992859,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9491495490074158,
+            "topicality": 0.9491495490074158,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8880020976066589,
+            "topicality": 0.8880020976066589,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/01bfm9",
+            "score": 0.8788672089576721,
+            "topicality": 0.8788672089576721,
+            "description": "Shorts"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8666346669197083,
+            "topicality": 0.8666346669197083,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8567431569099426,
+            "topicality": 0.8567431569099426,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8506566286087036,
+            "topicality": 0.8506566286087036,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/02jjt",
+            "score": 0.8322615027427673,
+            "topicality": 0.8322615027427673,
+            "description": "Entertainment"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.8090041279792786,
+            "topicality": 0.8090041279792786,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.7917003035545349,
+            "topicality": 0.7917003035545349,
+            "description": "Fun"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output_gcg/imgs/sammarinese-women/20.jpeg",
+    "search_query": "sammarinese-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.8273411989212036,
+            "topicality": 0.8273411989212036,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/0j62f",
+            "score": 0.6443806290626526,
+            "topicality": 0.6443806290626526,
+            "description": "Rectangle"
+        },
+        {
+            "mid": "/m/030zfn",
+            "score": 0.5323230624198914,
+            "topicality": 0.5323230624198914,
+            "description": "Parallel"
+        },
+        {
+            "mid": "/m/01vkl",
+            "score": 0.5139015913009644,
+            "topicality": 0.5139015913009644,
+            "description": "Circle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

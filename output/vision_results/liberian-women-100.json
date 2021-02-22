@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/liberian-women/100.jpeg",
+    "search_query": "liberian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9896205067634583,
+            "topicality": 0.9896205067634583,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.989553689956665,
+            "topicality": 0.989553689956665,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9883787035942078,
+            "topicality": 0.9883787035942078,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/01yttv",
+            "score": 0.9863598942756653,
+            "topicality": 0.9863598942756653,
+            "description": "Audio equipment"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9844639897346497,
+            "topicality": 0.9844639897346497,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9834097623825073,
+            "topicality": 0.9834097623825073,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/0hg7b",
+            "score": 0.9827041625976562,
+            "topicality": 0.9827041625976562,
+            "description": "Microphone"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9786894917488098,
+            "topicality": 0.9786894917488098,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740477204322815,
+            "topicality": 0.9740477204322815,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9712141156196594,
+            "topicality": 0.9712141156196594,
+            "description": "Jewellery"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

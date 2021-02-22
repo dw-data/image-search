@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/brazilian-women/61.jpeg; charset=binary",
+    "search_query": "brazilian-women",
+    "position": 61,
+    "label_annotations": [
+        {
+            "mid": "/m/0404d",
+            "score": 0.8891131281852722,
+            "topicality": 0.8891131281852722,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0h8kxbv",
+            "score": 0.7432132363319397,
+            "topicality": 0.7432132363319397,
+            "description": "Body jewelry"
+        },
+        {
+            "mid": "/m/0hgntgw",
+            "score": 0.5499705076217651,
+            "topicality": 0.5499705076217651,
+            "description": "Active tank"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

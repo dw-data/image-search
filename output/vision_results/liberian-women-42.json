@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/liberian-women/42.jpeg",
+    "search_query": "liberian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/01llwg",
+            "score": 0.7119036316871643,
+            "topicality": 0.7119036316871643,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/0176mf",
+            "score": 0.6656767129898071,
+            "topicality": 0.6656767129898071,
+            "description": "Belt"
+        },
+        {
+            "mid": "/m/05y4t",
+            "score": 0.606712281703949,
+            "topicality": 0.606712281703949,
+            "description": "Paint"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.5468015074729919,
+            "topicality": 0.5468015074729919,
+            "description": "Sun hat"
+        },
+        {
+            "mid": "/m/0h8jh3r",
+            "score": 0.5038692355155945,
+            "topicality": 0.5038692355155945,
+            "description": "Basketball hoop"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

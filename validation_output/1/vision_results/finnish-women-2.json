@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/finnish-women/2.jpeg",
+    "search_query": "finnish-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9844120144844055,
+            "topicality": 0.9844120144844055,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9700176119804382,
+            "topicality": 0.9700176119804382,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9409899115562439,
+            "topicality": 0.9409899115562439,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9328136444091797,
+            "topicality": 0.9328136444091797,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9209976196289062,
+            "topicality": 0.9209976196289062,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/05s2s",
+            "score": 0.9092260003089905,
+            "topicality": 0.9092260003089905,
+            "description": "Plant"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8860135078430176,
+            "topicality": 0.8860135078430176,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0b5gs",
+            "score": 0.8796603679656982,
+            "topicality": 0.8796603679656982,
+            "description": "Branch"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8777241110801697,
+            "topicality": 0.8777241110801697,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/083vt",
+            "score": 0.8751324415206909,
+            "topicality": 0.8751324415206909,
+            "description": "Wood"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

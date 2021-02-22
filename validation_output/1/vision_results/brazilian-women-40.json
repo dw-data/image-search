@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/brazilian-women/40.jpeg",
+    "search_query": "brazilian-women",
+    "position": 40,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9850304126739502,
+            "topicality": 0.9850304126739502,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9831289052963257,
+            "topicality": 0.9831289052963257,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9754317998886108,
+            "topicality": 0.9754317998886108,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9746392965316772,
+            "topicality": 0.9746392965316772,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9716938734054565,
+            "topicality": 0.9716938734054565,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9689539670944214,
+            "topicality": 0.9689539670944214,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9324755668640137,
+            "topicality": 0.9324755668640137,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8830981850624084,
+            "topicality": 0.8830981850624084,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8805992007255554,
+            "topicality": 0.8805992007255554,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724190592765808,
+            "topicality": 0.8724190592765808,
+            "description": "Sleeve"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

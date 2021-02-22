@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/honduran-women/6.jpeg",
+    "search_query": "honduran-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879699945449829,
+            "topicality": 0.9879699945449829,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9836040735244751,
+            "topicality": 0.9836040735244751,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9724600911140442,
+            "topicality": 0.9724600911140442,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0h8k4j9",
+            "score": 0.9325849413871765,
+            "topicality": 0.9325849413871765,
+            "description": "Hair accessory"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.8957329988479614,
+            "topicality": 0.8957329988479614,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8767836093902588,
+            "topicality": 0.8767836093902588,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/02fbqn",
+            "score": 0.8653397560119629,
+            "topicality": 0.8653397560119629,
+            "description": "Headpiece"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6765314936637878,
+            "topicality": 0.6765314936637878,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.6660247445106506,
+            "topicality": 0.6660247445106506,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/07sk94",
+            "score": 0.5554485321044922,
+            "topicality": 0.5554485321044922,
+            "description": "Headband"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

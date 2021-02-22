@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/48.jpeg",
+    "search_query": "mexican-women",
+    "position": 48,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9924114346504211,
+            "topicality": 0.9924114346504211,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9912017583847046,
+            "topicality": 0.9912017583847046,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9860961437225342,
+            "topicality": 0.9860961437225342,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9818853139877319,
+            "topicality": 0.9818853139877319,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9737066626548767,
+            "topicality": 0.9737066626548767,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710254073143005,
+            "topicality": 0.9710254073143005,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9674583077430725,
+            "topicality": 0.9674583077430725,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9649469256401062,
+            "topicality": 0.9649469256401062,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.9117955565452576,
+            "topicality": 0.9117955565452576,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9079287648200989,
+            "topicality": 0.9079287648200989,
+            "description": "Fashion accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

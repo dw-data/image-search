@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/barbadian-women/1.jpeg",
+    "search_query": "barbadian-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9893136024475098,
+            "topicality": 0.9893136024475098,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9842386245727539,
+            "topicality": 0.9842386245727539,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9797863960266113,
+            "topicality": 0.9797863960266113,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9793259501457214,
+            "topicality": 0.9793259501457214,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790170192718506,
+            "topicality": 0.9790170192718506,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9786238670349121,
+            "topicality": 0.9786238670349121,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740799069404602,
+            "topicality": 0.9740799069404602,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9737211465835571,
+            "topicality": 0.9737211465835571,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9693077206611633,
+            "topicality": 0.9693077206611633,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681846499443054,
+            "topicality": 0.9681846499443054,
+            "description": "Forehead"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

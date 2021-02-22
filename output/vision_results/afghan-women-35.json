@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/afghan-women/35.jpeg",
+    "search_query": "afghan-women",
+    "position": 35,
+    "label_annotations": [
+        {
+            "mid": "/m/0250x",
+            "score": 0.7647711634635925,
+            "topicality": 0.7647711634635925,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/04s5jq",
+            "score": 0.6638802289962769,
+            "topicality": 0.6638802289962769,
+            "description": "Costume design"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.5198759436607361,
+            "topicality": 0.5198759436607361,
+            "description": "Abaya"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

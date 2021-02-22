@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/maltese-women/65.jpeg",
+    "search_query": "maltese-women",
+    "position": 65,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9844266772270203,
+            "topicality": 0.9844266772270203,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9833111763000488,
+            "topicality": 0.9833111763000488,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9820665717124939,
+            "topicality": 0.9820665717124939,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9731082916259766,
+            "topicality": 0.9731082916259766,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9103429913520813,
+            "topicality": 0.9103429913520813,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8823413848876953,
+            "topicality": 0.8823413848876953,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/050h26",
+            "score": 0.8341279625892639,
+            "topicality": 0.8341279625892639,
+            "description": "Drinkware"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.8207674026489258,
+            "topicality": 0.8207674026489258,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/04brg2",
+            "score": 0.8180769085884094,
+            "topicality": 0.8180769085884094,
+            "description": "Tableware"
+        },
+        {
+            "mid": "/m/09tvcd",
+            "score": 0.8006880879402161,
+            "topicality": 0.8006880879402161,
+            "description": "Wine glass"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

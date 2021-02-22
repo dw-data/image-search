@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/turkish-women/80.jpeg",
+    "search_query": "turkish-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9825583100318909,
+            "topicality": 0.9825583100318909,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01bsxb",
+            "score": 0.9510268568992615,
+            "topicality": 0.9510268568992615,
+            "description": "Collage"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.931418776512146,
+            "topicality": 0.931418776512146,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/05wkw",
+            "score": 0.7980033755302429,
+            "topicality": 0.7980033755302429,
+            "description": "Photography"
+        },
+        {
+            "mid": "/m/01zbnw",
+            "score": 0.535524308681488,
+            "topicality": 0.535524308681488,
+            "description": "Screenshot"
+        },
+        {
+            "mid": "/m/036jvk",
+            "score": 0.5308533906936646,
+            "topicality": 0.5308533906936646,
+            "description": "Stock photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

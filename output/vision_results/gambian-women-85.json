@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/gambian-women/85.jpeg",
+    "search_query": "gambian-women",
+    "position": 85,
+    "label_annotations": [
+        {
+            "mid": "/m/01qls",
+            "score": 0.9395676851272583,
+            "topicality": 0.9395676851272583,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9123488664627075,
+            "topicality": 0.9123488664627075,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.5711849927902222,
+            "topicality": 0.5711849927902222,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.5295246243476868,
+            "topicality": 0.5295246243476868,
+            "description": "Flesh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/macanese-women/62.jpeg",
+    "search_query": "macanese-women",
+    "position": 62,
+    "label_annotations": [
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9769884347915649,
+            "topicality": 0.9769884347915649,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.957397997379303,
+            "topicality": 0.957397997379303,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9110463261604309,
+            "topicality": 0.9110463261604309,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.8954358100891113,
+            "topicality": 0.8954358100891113,
+            "description": "Sun hat"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8887524008750916,
+            "topicality": 0.8887524008750916,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0177t1",
+            "score": 0.6837902665138245,
+            "topicality": 0.6837902665138245,
+            "description": "Plaid"
+        },
+        {
+            "mid": "/m/01z1sv",
+            "score": 0.6452304124832153,
+            "topicality": 0.6452304124832153,
+            "description": "Tartan"
+        },
+        {
+            "mid": "/m/06g1w2",
+            "score": 0.5602183938026428,
+            "topicality": 0.5602183938026428,
+            "description": "Pattern"
+        },
+        {
+            "mid": "/m/02fq_6",
+            "score": 0.5004776120185852,
+            "topicality": 0.5004776120185852,
+            "description": "Fedora"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

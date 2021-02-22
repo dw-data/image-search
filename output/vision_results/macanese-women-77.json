@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/macanese-women/77.jpeg",
+    "search_query": "macanese-women",
+    "position": 77,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9765668511390686,
+            "topicality": 0.9765668511390686,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.97100830078125,
+            "topicality": 0.97100830078125,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9405720829963684,
+            "topicality": 0.9405720829963684,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.9261497855186462,
+            "topicality": 0.9261497855186462,
+            "description": "Team"
+        },
+        {
+            "mid": "/m/01zpz",
+            "score": 0.6814587712287903,
+            "topicality": 0.6814587712287903,
+            "description": "Crew"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

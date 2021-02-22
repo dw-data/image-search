@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/64.jpeg",
+    "search_query": "mexican-women",
+    "position": 64,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9896988272666931,
+            "topicality": 0.9896988272666931,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9824606776237488,
+            "topicality": 0.9824606776237488,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9799264669418335,
+            "topicality": 0.9799264669418335,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/02w3_2",
+            "score": 0.9257054924964905,
+            "topicality": 0.9257054924964905,
+            "description": "Formal wear"
+        },
+        {
+            "mid": "/m/04xz_5",
+            "score": 0.8907299041748047,
+            "topicality": 0.8907299041748047,
+            "description": "Blazer"
+        },
+        {
+            "mid": "/m/01rkbr",
+            "score": 0.8864441514015198,
+            "topicality": 0.8864441514015198,
+            "description": "Tie"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.8169879913330078,
+            "topicality": 0.8169879913330078,
+            "description": "Conversation"
+        },
+        {
+            "mid": "/m/0906bg",
+            "score": 0.8154056072235107,
+            "topicality": 0.8154056072235107,
+            "description": "Pantsuit"
+        },
+        {
+            "mid": "/m/01kq3x",
+            "score": 0.7971625924110413,
+            "topicality": 0.7971625924110413,
+            "description": "White-collar worker"
+        },
+        {
+            "mid": "/m/01tqrk",
+            "score": 0.7707576751708984,
+            "topicality": 0.7707576751708984,
+            "description": "Employment"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

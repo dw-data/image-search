@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/somali-women/61.jpeg",
+    "search_query": "somali-women",
+    "position": 61,
+    "label_annotations": [
+        {
+            "mid": "/m/018xm",
+            "score": 0.9544341564178467,
+            "topicality": 0.9544341564178467,
+            "description": "Ball"
+        },
+        {
+            "mid": "/m/0frqg3",
+            "score": 0.9386813044548035,
+            "topicality": 0.9386813044548035,
+            "description": "Basketball"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.88967365026474,
+            "topicality": 0.88967365026474,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01mxf",
+            "score": 0.6484900712966919,
+            "topicality": 0.6484900712966919,
+            "description": "Concrete"
+        },
+        {
+            "mid": "/m/06c7cv",
+            "score": 0.541654109954834,
+            "topicality": 0.541654109954834,
+            "description": "Kneeling"
+        },
+        {
+            "mid": "/m/03pn_q",
+            "score": 0.5055044889450073,
+            "topicality": 0.5055044889450073,
+            "description": "Begging"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

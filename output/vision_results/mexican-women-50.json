@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/50.jpeg",
+    "search_query": "mexican-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9651625156402588,
+            "topicality": 0.9651625156402588,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9364879727363586,
+            "topicality": 0.9364879727363586,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.9064193367958069,
+            "topicality": 0.9064193367958069,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9003592729568481,
+            "topicality": 0.9003592729568481,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8819401264190674,
+            "topicality": 0.8819401264190674,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8814234733581543,
+            "topicality": 0.8814234733581543,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.8661795258522034,
+            "topicality": 0.8661795258522034,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.8350851535797119,
+            "topicality": 0.8350851535797119,
+            "description": "Day dress"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.8315722346305847,
+            "topicality": 0.8315722346305847,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.8300581574440002,
+            "topicality": 0.8300581574440002,
+            "description": "Necklace"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

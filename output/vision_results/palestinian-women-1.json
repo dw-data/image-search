@@ -1,0 +1,72 @@
+{
+    "path": "../output/imgs/palestinian-women/1.jpeg",
+    "search_query": "palestinian-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9782480597496033,
+            "topicality": 0.9782480597496033,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.8746693730354309,
+            "topicality": 0.8746693730354309,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/01bmhj",
+            "score": 0.8006151914596558,
+            "topicality": 0.8006151914596558,
+            "description": "Thumb"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.7660886645317078,
+            "topicality": 0.7660886645317078,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/023j4r",
+            "score": 0.7140063047409058,
+            "topicality": 0.7140063047409058,
+            "description": "Nail"
+        },
+        {
+            "mid": "/m/0670sh",
+            "score": 0.6867778301239014,
+            "topicality": 0.6867778301239014,
+            "description": "Stole"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.6595531702041626,
+            "topicality": 0.6595531702041626,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.5874712467193604,
+            "topicality": 0.5874712467193604,
+            "description": "Scarf"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

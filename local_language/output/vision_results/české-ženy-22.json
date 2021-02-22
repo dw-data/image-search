@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/\u010desk\u00e9-\u017eeny/22.jpeg",
+    "search_query": "\u010desk\u00e9-\u017eeny",
+    "position": 22,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9844703674316406,
+            "topicality": 0.9844703674316406,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9821243286132812,
+            "topicality": 0.9821243286132812,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009718894958,
+            "topicality": 0.9509009718894958,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9429764747619629,
+            "topicality": 0.9429764747619629,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9328531622886658,
+            "topicality": 0.9328531622886658,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.9192959666252136,
+            "topicality": 0.9192959666252136,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9136922955513,
+            "topicality": 0.9136922955513,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8926572203636169,
+            "topicality": 0.8926572203636169,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8788692355155945,
+            "topicality": 0.8788692355155945,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8730049133300781,
+            "topicality": 0.8730049133300781,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

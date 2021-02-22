@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/syrian-women/9.jpeg",
+    "search_query": "syrian-women",
+    "position": 9,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9886881113052368,
+            "topicality": 0.9886881113052368,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879097938537598,
+            "topicality": 0.9879097938537598,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9839823842048645,
+            "topicality": 0.9839823842048645,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9787799715995789,
+            "topicality": 0.9787799715995789,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9715481400489807,
+            "topicality": 0.9715481400489807,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639028906822205,
+            "topicality": 0.9639028906822205,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.9444005489349365,
+            "topicality": 0.9444005489349365,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/0ytgt",
+            "score": 0.9333623051643372,
+            "topicality": 0.9333623051643372,
+            "description": "Child"
+        },
+        {
+            "mid": "/m/0h8q07j",
+            "score": 0.9076619148254395,
+            "topicality": 0.9076619148254395,
+            "description": "Baby & toddler clothing"
+        },
+        {
+            "mid": "/m/01bgsw",
+            "score": 0.8379820585250854,
+            "topicality": 0.8379820585250854,
+            "description": "Toddler"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

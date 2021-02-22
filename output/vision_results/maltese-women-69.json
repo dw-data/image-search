@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/maltese-women/69.jpeg",
+    "search_query": "maltese-women",
+    "position": 69,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9921842217445374,
+            "topicality": 0.9921842217445374,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.97614586353302,
+            "topicality": 0.97614586353302,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9629814624786377,
+            "topicality": 0.9629814624786377,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.9531607031822205,
+            "topicality": 0.9531607031822205,
+            "description": "Swimwear"
+        },
+        {
+            "mid": "/m/0hgs8s2",
+            "score": 0.9500434398651123,
+            "topicality": 0.9500434398651123,
+            "description": "Swimsuit bottom"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9469746351242065,
+            "topicality": 0.9469746351242065,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9406940340995789,
+            "topicality": 0.9406940340995789,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/01g8j",
+            "score": 0.9383341073989868,
+            "topicality": 0.9383341073989868,
+            "description": "Bikini"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9298691749572754,
+            "topicality": 0.9298691749572754,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/09j1x",
+            "score": 0.9285839200019836,
+            "topicality": 0.9285839200019836,
+            "description": "Undergarment"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

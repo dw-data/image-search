@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/syrian-women/18.jpeg",
+    "search_query": "syrian-women",
+    "position": 18,
+    "label_annotations": [
+        {
+            "mid": "/m/062581",
+            "score": 0.9710259437561035,
+            "topicality": 0.9710259437561035,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9421869516372681,
+            "topicality": 0.9421869516372681,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0ytgt",
+            "score": 0.9354313611984253,
+            "topicality": 0.9354313611984253,
+            "description": "Child"
+        },
+        {
+            "mid": "/m/0h8q07j",
+            "score": 0.8762590885162354,
+            "topicality": 0.8762590885162354,
+            "description": "Baby & toddler clothing"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.7675732374191284,
+            "topicality": 0.7675732374191284,
+            "description": "Tooth"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.5645093321800232,
+            "topicality": 0.5645093321800232,
+            "description": "Gesture"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

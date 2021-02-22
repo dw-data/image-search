@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/montenegrin-women/2.jpeg",
+    "search_query": "montenegrin-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9787675738334656,
+            "topicality": 0.9787675738334656,
+            "description": "Smile"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9376153945922852,
+            "topicality": 0.9376153945922852,
+            "description": "People in nature"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/indonesian-women/5.jpeg",
+    "search_query": "indonesian-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9816406965255737,
+            "topicality": 0.9816406965255737,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9065943956375122,
+            "topicality": 0.9065943956375122,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8110931515693665,
+            "topicality": 0.8110931515693665,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.7383579611778259,
+            "topicality": 0.7383579611778259,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/015mm6",
+            "score": 0.6897727847099304,
+            "topicality": 0.6897727847099304,
+            "description": "Tights"
+        },
+        {
+            "mid": "/m/080hkjn",
+            "score": 0.618351399898529,
+            "topicality": 0.618351399898529,
+            "description": "Handbag"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.584952712059021,
+            "topicality": 0.584952712059021,
+            "description": "Shawl"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/kiribati-women/3.jpeg",
+    "search_query": "kiribati-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9840359687805176,
+            "topicality": 0.9840359687805176,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9767396450042725,
+            "topicality": 0.9767396450042725,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9757291078567505,
+            "topicality": 0.9757291078567505,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.974431574344635,
+            "topicality": 0.974431574344635,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9726077318191528,
+            "topicality": 0.9726077318191528,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/01bfm9",
+            "score": 0.935660719871521,
+            "topicality": 0.935660719871521,
+            "description": "Shorts"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9323770403862,
+            "topicality": 0.9323770403862,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9304248094558716,
+            "topicality": 0.9304248094558716,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9177926182746887,
+            "topicality": 0.9177926182746887,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8878364562988281,
+            "topicality": 0.8878364562988281,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

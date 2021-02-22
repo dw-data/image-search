@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/syrian-women/32.jpeg",
+    "search_query": "syrian-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9580474495887756,
+            "topicality": 0.9580474495887756,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9396543502807617,
+            "topicality": 0.9396543502807617,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9053930044174194,
+            "topicality": 0.9053930044174194,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.8044428825378418,
+            "topicality": 0.8044428825378418,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.7389498949050903,
+            "topicality": 0.7389498949050903,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.7014647722244263,
+            "topicality": 0.7014647722244263,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.6271620392799377,
+            "topicality": 0.6271620392799377,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/0670sh",
+            "score": 0.5670501589775085,
+            "topicality": 0.5670501589775085,
+            "description": "Stole"
+        },
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.5323949456214905,
+            "topicality": 0.5323949456214905,
+            "description": "Hood"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

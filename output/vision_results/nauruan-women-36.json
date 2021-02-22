@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/nauruan-women/36.jpeg",
+    "search_query": "nauruan-women",
+    "position": 36,
+    "label_annotations": [
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9268147945404053,
+            "topicality": 0.9268147945404053,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.88282710313797,
+            "topicality": 0.88282710313797,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0216vm",
+            "score": 0.7186647653579712,
+            "topicality": 0.7186647653579712,
+            "description": "Slipper"
+        },
+        {
+            "mid": "/m/031n1",
+            "score": 0.7123386859893799,
+            "topicality": 0.7123386859893799,
+            "description": "Foot"
+        },
+        {
+            "mid": "/m/025znc",
+            "score": 0.6229347586631775,
+            "topicality": 0.6229347586631775,
+            "description": "Flip-flops"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.5382340550422668,
+            "topicality": 0.5382340550422668,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/03nfch",
+            "score": 0.5345419645309448,
+            "topicality": 0.5345419645309448,
+            "description": "Sandal"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

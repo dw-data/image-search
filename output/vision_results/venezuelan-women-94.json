@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/venezuelan-women/94.jpeg",
+    "search_query": "venezuelan-women",
+    "position": 94,
+    "label_annotations": [
+        {
+            "mid": "/m/0hg7b",
+            "score": 0.9745954275131226,
+            "topicality": 0.9745954275131226,
+            "description": "Microphone"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9403727650642395,
+            "topicality": 0.9403727650642395,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.8858063817024231,
+            "topicality": 0.8858063817024231,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/06h12k",
+            "score": 0.8815518617630005,
+            "topicality": 0.8815518617630005,
+            "description": "Sharing"
+        },
+        {
+            "mid": "/m/0d8qb",
+            "score": 0.8045454621315002,
+            "topicality": 0.8045454621315002,
+            "description": "Journalist"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

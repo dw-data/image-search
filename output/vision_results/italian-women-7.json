@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/italian-women/7.jpeg",
+    "search_query": "italian-women",
+    "position": 7,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9928123950958252,
+            "topicality": 0.9928123950958252,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9917941093444824,
+            "topicality": 0.9917941093444824,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9841795563697815,
+            "topicality": 0.9841795563697815,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9832115173339844,
+            "topicality": 0.9832115173339844,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9820245504379272,
+            "topicality": 0.9820245504379272,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/09q2t",
+            "score": 0.9752124547958374,
+            "topicality": 0.9752124547958374,
+            "description": "Brown"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9749822616577148,
+            "topicality": 0.9749822616577148,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9709905385971069,
+            "topicality": 0.9709905385971069,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9655962586402893,
+            "topicality": 0.9655962586402893,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9630488157272339,
+            "topicality": 0.9630488157272339,
+            "description": "Human leg"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

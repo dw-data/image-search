@@ -1,0 +1,72 @@
+{
+    "path": "../output/imgs/egyptian-women/100.jpeg",
+    "search_query": "egyptian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.9072489738464355,
+            "topicality": 0.9072489738464355,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.7154906988143921,
+            "topicality": 0.7154906988143921,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.6685433983802795,
+            "topicality": 0.6685433983802795,
+            "description": "Bracelet"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.5969703793525696,
+            "topicality": 0.5969703793525696,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.5719742774963379,
+            "topicality": 0.5719742774963379,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.5358459949493408,
+            "topicality": 0.5358459949493408,
+            "description": "Flesh"
+        },
+        {
+            "mid": "/m/0hr5k",
+            "score": 0.5335572361946106,
+            "topicality": 0.5335572361946106,
+            "description": "Festival"
+        },
+        {
+            "mid": "/m/016c4t",
+            "score": 0.527423083782196,
+            "topicality": 0.527423083782196,
+            "description": "Ceremony"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

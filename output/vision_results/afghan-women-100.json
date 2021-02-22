@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/afghan-women/100.jpeg",
+    "search_query": "afghan-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/012f08",
+            "score": 0.9878374934196472,
+            "topicality": 0.9878374934196472,
+            "description": "Motor vehicle"
+        },
+        {
+            "mid": "/m/0h8lskq",
+            "score": 0.9792101383209229,
+            "topicality": 0.9792101383209229,
+            "description": "Steering part"
+        },
+        {
+            "mid": "/m/07yv9",
+            "score": 0.9729477763175964,
+            "topicality": 0.9729477763175964,
+            "description": "Vehicle"
+        },
+        {
+            "mid": "/m/03b6_4",
+            "score": 0.9694158434867859,
+            "topicality": 0.9694158434867859,
+            "description": "Steering wheel"
+        },
+        {
+            "mid": "/m/0h8lk4b",
+            "score": 0.958458662033081,
+            "topicality": 0.958458662033081,
+            "description": "Automotive mirror"
+        },
+        {
+            "mid": "/m/0k4j",
+            "score": 0.9467036128044128,
+            "topicality": 0.9467036128044128,
+            "description": "Car"
+        },
+        {
+            "mid": "/m/02q2kc3",
+            "score": 0.9449564814567566,
+            "topicality": 0.9449564814567566,
+            "description": "Vehicle door"
+        },
+        {
+            "mid": "/m/039jq",
+            "score": 0.9034370183944702,
+            "topicality": 0.9034370183944702,
+            "description": "Glass"
+        },
+        {
+            "mid": "/m/01lrnl",
+            "score": 0.8871178030967712,
+            "topicality": 0.8871178030967712,
+            "description": "Windshield"
+        },
+        {
+            "mid": "/m/05j11x",
+            "score": 0.8414916396141052,
+            "topicality": 0.8414916396141052,
+            "description": "Rear-view mirror"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

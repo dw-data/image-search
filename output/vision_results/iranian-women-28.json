@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/iranian-women/28.jpeg",
+    "search_query": "iranian-women",
+    "position": 28,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.989479124546051,
+            "topicality": 0.989479124546051,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9842404723167419,
+            "topicality": 0.9842404723167419,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9814795255661011,
+            "topicality": 0.9814795255661011,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9799360632896423,
+            "topicality": 0.9799360632896423,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9797945022583008,
+            "topicality": 0.9797945022583008,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9792219996452332,
+            "topicality": 0.9792219996452332,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790125489234924,
+            "topicality": 0.9790125489234924,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9785642623901367,
+            "topicality": 0.9785642623901367,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9779952168464661,
+            "topicality": 0.9779952168464661,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9775281548500061,
+            "topicality": 0.9775281548500061,
+            "description": "People"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

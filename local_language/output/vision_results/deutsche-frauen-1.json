@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/deutsche-frauen/1.jpeg",
+    "search_query": "deutsche-frauen",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9633708596229553,
+            "topicality": 0.9633708596229553,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8723278045654297,
+            "topicality": 0.8723278045654297,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/06hwcd",
+            "score": 0.8540975451469421,
+            "topicality": 0.8540975451469421,
+            "description": "Dress shirt"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.8371997475624084,
+            "topicality": 0.8371997475624084,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/07fhr3",
+            "score": 0.8310948610305786,
+            "topicality": 0.8310948610305786,
+            "description": "White coat"
+        },
+        {
+            "mid": "/m/0gjbg72",
+            "score": 0.8128035068511963,
+            "topicality": 0.8128035068511963,
+            "description": "Shelf"
+        },
+        {
+            "mid": "/m/01mw2x",
+            "score": 0.7687164545059204,
+            "topicality": 0.7687164545059204,
+            "description": "Health care"
+        },
+        {
+            "mid": "/m/01j0mk",
+            "score": 0.7350878715515137,
+            "topicality": 0.7350878715515137,
+            "description": "Customer"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.6990919709205627,
+            "topicality": 0.6990919709205627,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/018tkd",
+            "score": 0.6615780591964722,
+            "topicality": 0.6615780591964722,
+            "description": "Service"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

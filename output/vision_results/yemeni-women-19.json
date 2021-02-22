@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/yemeni-women/19.jpeg",
+    "search_query": "yemeni-women",
+    "position": 19,
+    "label_annotations": [
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.958869218826294,
+            "topicality": 0.958869218826294,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/086mh",
+            "score": 0.9401617646217346,
+            "topicality": 0.9401617646217346,
+            "description": "Winter"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.8689757585525513,
+            "topicality": 0.8689757585525513,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.710159182548523,
+            "topicality": 0.710159182548523,
+            "description": "Hood"
+        },
+        {
+            "mid": "/m/03rszm",
+            "score": 0.6618449091911316,
+            "topicality": 0.6618449091911316,
+            "description": "Curtain"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

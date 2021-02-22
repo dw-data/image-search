@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/romanian-women/5.jpeg",
+    "search_query": "romanian-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9921447038650513,
+            "topicality": 0.9921447038650513,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9834656715393066,
+            "topicality": 0.9834656715393066,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790050387382507,
+            "topicality": 0.9790050387382507,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9736999273300171,
+            "topicality": 0.9736999273300171,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710302352905273,
+            "topicality": 0.9710302352905273,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.9689512252807617,
+            "topicality": 0.9689512252807617,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656166434288025,
+            "topicality": 0.9656166434288025,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9539608359336853,
+            "topicality": 0.9539608359336853,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/02wzbmj",
+            "score": 0.9495042562484741,
+            "topicality": 0.9495042562484741,
+            "description": "Standing"
+        },
+        {
+            "mid": "/m/02w3_2",
+            "score": 0.9380648136138916,
+            "topicality": 0.9380648136138916,
+            "description": "Formal wear"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

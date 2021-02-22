@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/irish-women/100.jpeg",
+    "search_query": "irish-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9837061166763306,
+            "topicality": 0.9837061166763306,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9701406955718994,
+            "topicality": 0.9701406955718994,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.9552169442176819,
+            "topicality": 0.9552169442176819,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9028823971748352,
+            "topicality": 0.9028823971748352,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8856050968170166,
+            "topicality": 0.8856050968170166,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8636404275894165,
+            "topicality": 0.8636404275894165,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/083vt",
+            "score": 0.8514533042907715,
+            "topicality": 0.8514533042907715,
+            "description": "Wood"
+        },
+        {
+            "mid": "/m/08t9c_",
+            "score": 0.8307165503501892,
+            "topicality": 0.8307165503501892,
+            "description": "Grass"
+        },
+        {
+            "mid": "/m/09spj9",
+            "score": 0.7719359993934631,
+            "topicality": 0.7719359993934631,
+            "description": "Layered hair"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.7578647136688232,
+            "topicality": 0.7578647136688232,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

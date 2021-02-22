@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/polish-women/27.jpeg",
+    "search_query": "polish-women",
+    "position": 27,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9764208793640137,
+            "topicality": 0.9764208793640137,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0d4v4",
+            "score": 0.9720468521118164,
+            "topicality": 0.9720468521118164,
+            "description": "Window"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.966195821762085,
+            "topicality": 0.966195821762085,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.9108256101608276,
+            "topicality": 0.9108256101608276,
+            "description": "Team"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8278753161430359,
+            "topicality": 0.8278753161430359,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/01zpz",
+            "score": 0.6118576526641846,
+            "topicality": 0.6118576526641846,
+            "description": "Crew"
+        },
+        {
+            "mid": "/m/02jt0t",
+            "score": 0.5231854319572449,
+            "topicality": 0.5231854319572449,
+            "description": "Little black dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

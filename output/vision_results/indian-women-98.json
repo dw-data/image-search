@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/indian-women/98.jpeg",
+    "search_query": "indian-women",
+    "position": 98,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9830880761146545,
+            "topicality": 0.9830880761146545,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.978262186050415,
+            "topicality": 0.978262186050415,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738329648971558,
+            "topicality": 0.9738329648971558,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9655053615570068,
+            "topicality": 0.9655053615570068,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.957440972328186,
+            "topicality": 0.957440972328186,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9553764462471008,
+            "topicality": 0.9553764462471008,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540241360664368,
+            "topicality": 0.9540241360664368,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/0gjkl",
+            "score": 0.9486626982688904,
+            "topicality": 0.9486626982688904,
+            "description": "Watch"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9323666095733643,
+            "topicality": 0.9323666095733643,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9285640120506287,
+            "topicality": 0.9285640120506287,
+            "description": "Elbow"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

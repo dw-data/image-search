@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/deutsche-frauen/5.jpeg",
+    "search_query": "deutsche-frauen",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9833134412765503,
+            "topicality": 0.9833134412765503,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/050h26",
+            "score": 0.940105140209198,
+            "topicality": 0.940105140209198,
+            "description": "Drinkware"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9079005718231201,
+            "topicality": 0.9079005718231201,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/088fh",
+            "score": 0.8623121976852417,
+            "topicality": 0.8623121976852417,
+            "description": "Yellow"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/04brg2",
+            "score": 0.8516191244125366,
+            "topicality": 0.8516191244125366,
+            "description": "Tableware"
+        },
+        {
+            "mid": "/m/01599",
+            "score": 0.8418386578559875,
+            "topicality": 0.8418386578559875,
+            "description": "Beer"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8387565016746521,
+            "topicality": 0.8387565016746521,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0271t",
+            "score": 0.8368809223175049,
+            "topicality": 0.8368809223175049,
+            "description": "Drink"
+        },
+        {
+            "mid": "/m/012mj",
+            "score": 0.8187284469604492,
+            "topicality": 0.8187284469604492,
+            "description": "Alcoholic beverage"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

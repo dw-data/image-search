@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/yemeni-women/59.jpeg",
+    "search_query": "yemeni-women",
+    "position": 59,
+    "label_annotations": [
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8783050775527954,
+            "topicality": 0.8783050775527954,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0hf58v5",
+            "score": 0.8616676926612854,
+            "topicality": 0.8616676926612854,
+            "description": "Luggage and bags"
+        },
+        {
+            "mid": "/m/017r8p",
+            "score": 0.7226985692977905,
+            "topicality": 0.7226985692977905,
+            "description": "Pedestrian"
+        },
+        {
+            "mid": "/m/083mg",
+            "score": 0.6945555806159973,
+            "topicality": 0.6945555806159973,
+            "description": "Walking"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.5679429173469543,
+            "topicality": 0.5679429173469543,
+            "description": "Abaya"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

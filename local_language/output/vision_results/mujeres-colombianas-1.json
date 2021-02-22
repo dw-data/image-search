@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mujeres-colombianas/1.jpeg",
+    "search_query": "mujeres-colombianas",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9832993745803833,
+            "topicality": 0.9832993745803833,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9470423460006714,
+            "topicality": 0.9470423460006714,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9374271035194397,
+            "topicality": 0.9374271035194397,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9151883125305176,
+            "topicality": 0.9151883125305176,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0d4v4",
+            "score": 0.9044434428215027,
+            "topicality": 0.9044434428215027,
+            "description": "Window"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8989832401275635,
+            "topicality": 0.8989832401275635,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.865813136100769,
+            "topicality": 0.865813136100769,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.8610249757766724,
+            "topicality": 0.8610249757766724,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8607248663902283,
+            "topicality": 0.8607248663902283,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8516309857368469,
+            "topicality": 0.8516309857368469,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

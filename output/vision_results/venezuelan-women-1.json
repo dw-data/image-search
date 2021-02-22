@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/venezuelan-women/1.jpeg",
+    "search_query": "venezuelan-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9900426268577576,
+            "topicality": 0.9900426268577576,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9885823726654053,
+            "topicality": 0.9885823726654053,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9882433414459229,
+            "topicality": 0.9882433414459229,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9105116128921509,
+            "topicality": 0.9105116128921509,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.7776800990104675,
+            "topicality": 0.7776800990104675,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7531839609146118,
+            "topicality": 0.7531839609146118,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/026_x9",
+            "score": 0.6937820315361023,
+            "topicality": 0.6937820315361023,
+            "description": "Ponytail"
+        },
+        {
+            "mid": "/m/027qw1p",
+            "score": 0.6889249682426453,
+            "topicality": 0.6889249682426453,
+            "description": "Feathered hair"
+        },
+        {
+            "mid": "/m/0pg52",
+            "score": 0.5569263696670532,
+            "topicality": 0.5569263696670532,
+            "description": "Taxi"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.5434790253639221,
+            "topicality": 0.5434790253639221,
+            "description": "Earrings"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

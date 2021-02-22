@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/liberian-women/80.jpeg",
+    "search_query": "liberian-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.927211582660675,
+            "topicality": 0.927211582660675,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828101754188538,
+            "topicality": 0.8828101754188538,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.8501452207565308,
+            "topicality": 0.8501452207565308,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.5737513303756714,
+            "topicality": 0.5737513303756714,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.5048397183418274,
+            "topicality": 0.5048397183418274,
+            "description": "Shawl"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

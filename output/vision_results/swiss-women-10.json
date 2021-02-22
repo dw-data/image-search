@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swiss-women/10.jpeg",
+    "search_query": "swiss-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9794307947158813,
+            "topicality": 0.9794307947158813,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790169596672058,
+            "topicality": 0.9790169596672058,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740166664123535,
+            "topicality": 0.9740166664123535,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9718170762062073,
+            "topicality": 0.9718170762062073,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639016389846802,
+            "topicality": 0.9639016389846802,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.932216465473175,
+            "topicality": 0.932216465473175,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9278052449226379,
+            "topicality": 0.9278052449226379,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8815031051635742,
+            "topicality": 0.8815031051635742,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8773881196975708,
+            "topicality": 0.8773881196975708,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.8719140291213989,
+            "topicality": 0.8719140291213989,
+            "description": "Long hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

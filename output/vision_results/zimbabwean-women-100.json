@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/zimbabwean-women/100.jpeg",
+    "search_query": "zimbabwean-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9894488453865051,
+            "topicality": 0.9894488453865051,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9881036281585693,
+            "topicality": 0.9881036281585693,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9799399375915527,
+            "topicality": 0.9799399375915527,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9799218773841858,
+            "topicality": 0.9799218773841858,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9775218963623047,
+            "topicality": 0.9775218963623047,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9743614792823792,
+            "topicality": 0.9743614792823792,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9736759662628174,
+            "topicality": 0.9736759662628174,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.94935142993927,
+            "topicality": 0.94935142993927,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.940629780292511,
+            "topicality": 0.940629780292511,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

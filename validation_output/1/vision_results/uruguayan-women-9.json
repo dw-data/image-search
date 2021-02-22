@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/uruguayan-women/9.jpeg",
+    "search_query": "uruguayan-women",
+    "position": 9,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9835082292556763,
+            "topicality": 0.9835082292556763,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9825570583343506,
+            "topicality": 0.9825570583343506,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9741132855415344,
+            "topicality": 0.9741132855415344,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9740508198738098,
+            "topicality": 0.9740508198738098,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0fly7",
+            "score": 0.9654161334037781,
+            "topicality": 0.9654161334037781,
+            "description": "Jeans"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9584190249443054,
+            "topicality": 0.9584190249443054,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9450750946998596,
+            "topicality": 0.9450750946998596,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/09x8z",
+            "score": 0.942429780960083,
+            "topicality": 0.942429780960083,
+            "description": "Stomach"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9182385802268982,
+            "topicality": 0.9182385802268982,
+            "description": "Leg"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

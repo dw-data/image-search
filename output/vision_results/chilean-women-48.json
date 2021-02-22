@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/chilean-women/48.jpeg",
+    "search_query": "chilean-women",
+    "position": 48,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9768904447555542,
+            "topicality": 0.9768904447555542,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.961617112159729,
+            "topicality": 0.961617112159729,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.8868427872657776,
+            "topicality": 0.8868427872657776,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.8593464493751526,
+            "topicality": 0.8593464493751526,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.8303899765014648,
+            "topicality": 0.8303899765014648,
+            "description": "Audience"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8271660804748535,
+            "topicality": 0.8271660804748535,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/02k88w",
+            "score": 0.683993399143219,
+            "topicality": 0.683993399143219,
+            "description": "Rebellion"
+        },
+        {
+            "mid": "/m/013x8v",
+            "score": 0.6167895793914795,
+            "topicality": 0.6167895793914795,
+            "description": "Fan"
+        },
+        {
+            "mid": "/m/014cnc",
+            "score": 0.5068321824073792,
+            "topicality": 0.5068321824073792,
+            "description": "Student"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

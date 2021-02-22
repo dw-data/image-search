@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/austrian-women/33.jpeg",
+    "search_query": "austrian-women",
+    "position": 33,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9790860414505005,
+            "topicality": 0.9790860414505005,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9737598299980164,
+            "topicality": 0.9737598299980164,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656726717948914,
+            "topicality": 0.9656726717948914,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9570804834365845,
+            "topicality": 0.9570804834365845,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9550897479057312,
+            "topicality": 0.9550897479057312,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9538528919219971,
+            "topicality": 0.9538528919219971,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/078qz",
+            "score": 0.9275194406509399,
+            "topicality": 0.9275194406509399,
+            "description": "Summer"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.913225531578064,
+            "topicality": 0.913225531578064,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9109639525413513,
+            "topicality": 0.9109639525413513,
+            "description": "Fashion accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

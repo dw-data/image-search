@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/chilean-women/24.jpeg",
+    "search_query": "chilean-women",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639005064964294,
+            "topicality": 0.9639005064964294,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8807278275489807,
+            "topicality": 0.8807278275489807,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01kr41",
+            "score": 0.7654829621315002,
+            "topicality": 0.7654829621315002,
+            "description": "Mask"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.7184233665466309,
+            "topicality": 0.7184233665466309,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/0sgh53y",
+            "score": 0.670366108417511,
+            "topicality": 0.670366108417511,
+            "description": "Selfie"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

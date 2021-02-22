@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swiss-women/100.jpeg",
+    "search_query": "swiss-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9825692176818848,
+            "topicality": 0.9825692176818848,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9696414470672607,
+            "topicality": 0.9696414470672607,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/01f415",
+            "score": 0.939270555973053,
+            "topicality": 0.939270555973053,
+            "description": "Flame"
+        },
+        {
+            "mid": "/m/02_41",
+            "score": 0.9368850588798523,
+            "topicality": 0.9368850588798523,
+            "description": "Fire"
+        },
+        {
+            "mid": "/m/03k2v",
+            "score": 0.9322761297225952,
+            "topicality": 0.9322761297225952,
+            "description": "Heat"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9242344498634338,
+            "topicality": 0.9242344498634338,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8829286098480225,
+            "topicality": 0.8829286098480225,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.8625591397285461,
+            "topicality": 0.8625591397285461,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/066xq",
+            "score": 0.8197756409645081,
+            "topicality": 0.8197756409645081,
+            "description": "Pollution"
+        },
+        {
+            "mid": "/m/012ckm",
+            "score": 0.5822234749794006,
+            "topicality": 0.5822234749794006,
+            "description": "Bonfire"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

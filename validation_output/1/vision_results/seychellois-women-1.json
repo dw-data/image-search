@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/seychellois-women/1.jpeg",
+    "search_query": "seychellois-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9826778173446655,
+            "topicality": 0.9826778173446655,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9766667485237122,
+            "topicality": 0.9766667485237122,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.970005452632904,
+            "topicality": 0.970005452632904,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9430868029594421,
+            "topicality": 0.9430868029594421,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9427168369293213,
+            "topicality": 0.9427168369293213,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9326179623603821,
+            "topicality": 0.9326179623603821,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/019sc",
+            "score": 0.8970341086387634,
+            "topicality": 0.8970341086387634,
+            "description": "Black"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8572777509689331,
+            "topicality": 0.8572777509689331,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8342093825340271,
+            "topicality": 0.8342093825340271,
+            "description": "Flash photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

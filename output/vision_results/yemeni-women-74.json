@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/yemeni-women/74.jpeg",
+    "search_query": "yemeni-women",
+    "position": 74,
+    "label_annotations": [
+        {
+            "mid": "/m/01llx7",
+            "score": 0.8823695778846741,
+            "topicality": 0.8823695778846741,
+            "description": "Bracelet"
+        },
+        {
+            "mid": "/m/0174n1",
+            "score": 0.624407947063446,
+            "topicality": 0.624407947063446,
+            "description": "Glove"
+        },
+        {
+            "mid": "/m/02xwb",
+            "score": 0.5961050987243652,
+            "topicality": 0.5961050987243652,
+            "description": "Fruit"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/western-saharan-women/38.jpeg",
+    "search_query": "western-saharan-women",
+    "position": 38,
+    "label_annotations": [
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828244209289551,
+            "topicality": 0.8828244209289551,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/02q2kc3",
+            "score": 0.8129685521125793,
+            "topicality": 0.8129685521125793,
+            "description": "Vehicle door"
+        },
+        {
+            "mid": "/m/07r04",
+            "score": 0.7673759460449219,
+            "topicality": 0.7673759460449219,
+            "description": "Truck"
+        },
+        {
+            "mid": "/m/083mg",
+            "score": 0.5842362642288208,
+            "topicality": 0.5842362642288208,
+            "description": "Walking"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

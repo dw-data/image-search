@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/afghan-women/47.jpeg",
+    "search_query": "afghan-women",
+    "position": 47,
+    "label_annotations": [
+        {
+            "mid": "/m/01g5v",
+            "score": 0.9787790775299072,
+            "topicality": 0.9787790775299072,
+            "description": "Blue"
+        },
+        {
+            "mid": "/m/036k5h",
+            "score": 0.8570275902748108,
+            "topicality": 0.8570275902748108,
+            "description": "Grey"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

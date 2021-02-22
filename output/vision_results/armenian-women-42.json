@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/armenian-women/42.jpeg",
+    "search_query": "armenian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.988746702671051,
+            "topicality": 0.988746702671051,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9765409827232361,
+            "topicality": 0.9765409827232361,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9093145728111267,
+            "topicality": 0.9093145728111267,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/01mwkf",
+            "score": 0.8683697581291199,
+            "topicality": 0.8683697581291199,
+            "description": "Monochrome"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.7197766900062561,
+            "topicality": 0.7197766900062561,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.5876191258430481,
+            "topicality": 0.5876191258430481,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/03g3w",
+            "score": 0.556205153465271,
+            "topicality": 0.556205153465271,
+            "description": "History"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

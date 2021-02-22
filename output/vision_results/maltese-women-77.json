@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/maltese-women/77.jpeg",
+    "search_query": "maltese-women",
+    "position": 77,
+    "label_annotations": [
+        {
+            "mid": "/m/011s0",
+            "score": 0.8533361554145813,
+            "topicality": 0.8533361554145813,
+            "description": "Advertising"
+        },
+        {
+            "mid": "/m/0hcr",
+            "score": 0.7586348652839661,
+            "topicality": 0.7586348652839661,
+            "description": "Animation"
+        },
+        {
+            "mid": "/m/095bb",
+            "score": 0.7521108388900757,
+            "topicality": 0.7521108388900757,
+            "description": "Animated cartoon"
+        },
+        {
+            "mid": "/m/02h7lkt",
+            "score": 0.7219923138618469,
+            "topicality": 0.7219923138618469,
+            "description": "Fictional character"
+        },
+        {
+            "mid": "/m/01kr8f",
+            "score": 0.6591747999191284,
+            "topicality": 0.6591747999191284,
+            "description": "Illustration"
+        },
+        {
+            "mid": "/m/021sdg",
+            "score": 0.6337963938713074,
+            "topicality": 0.6337963938713074,
+            "description": "Graphics"
+        },
+        {
+            "mid": "/m/05c0n6k",
+            "score": 0.5209181904792786,
+            "topicality": 0.5209181904792786,
+            "description": "Label"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

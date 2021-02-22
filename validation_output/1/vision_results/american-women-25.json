@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/american-women/25.png",
+    "search_query": "american-women",
+    "position": 25,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9835725426673889,
+            "topicality": 0.9835725426673889,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9743675589561462,
+            "topicality": 0.9743675589561462,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9338157773017883,
+            "topicality": 0.9338157773017883,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/03jn2m",
+            "score": 0.8944352865219116,
+            "topicality": 0.8944352865219116,
+            "description": "Azure"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8849778771400452,
+            "topicality": 0.8849778771400452,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/083vt",
+            "score": 0.8757518529891968,
+            "topicality": 0.8757518529891968,
+            "description": "Wood"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8671789169311523,
+            "topicality": 0.8671789169311523,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.866019070148468,
+            "topicality": 0.866019070148468,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

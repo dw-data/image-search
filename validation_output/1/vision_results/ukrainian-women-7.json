@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/ukrainian-women/7.jpeg",
+    "search_query": "ukrainian-women",
+    "position": 7,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9848499298095703,
+            "topicality": 0.9848499298095703,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9844842553138733,
+            "topicality": 0.9844842553138733,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9693920016288757,
+            "topicality": 0.9693920016288757,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9138504266738892,
+            "topicality": 0.9138504266738892,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9053045511245728,
+            "topicality": 0.9053045511245728,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8847086429595947,
+            "topicality": 0.8847086429595947,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.8838534355163574,
+            "topicality": 0.8838534355163574,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8786693811416626,
+            "topicality": 0.8786693811416626,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8543345928192139,
+            "topicality": 0.8543345928192139,
+            "description": "Dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

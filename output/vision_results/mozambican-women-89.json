@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/mozambican-women/89.jpeg",
+    "search_query": "mozambican-women",
+    "position": 89,
+    "label_annotations": [
+        {
+            "mid": "/m/03nfch",
+            "score": 0.6766453385353088,
+            "topicality": 0.6766453385353088,
+            "description": "Sandal"
+        },
+        {
+            "mid": "/m/09y4pm",
+            "score": 0.6046919226646423,
+            "topicality": 0.6046919226646423,
+            "description": "Market"
+        },
+        {
+            "mid": "/m/0fp6w",
+            "score": 0.5775930285453796,
+            "topicality": 0.5775930285453796,
+            "description": "Pineapple"
+        },
+        {
+            "mid": "/m/025znc",
+            "score": 0.5680285692214966,
+            "topicality": 0.5680285692214966,
+            "description": "Flip-flops"
+        },
+        {
+            "mid": "/m/055_j_",
+            "score": 0.5273466110229492,
+            "topicality": 0.5273466110229492,
+            "description": "Hawker"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

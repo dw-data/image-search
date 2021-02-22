@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/german-women/24.jpeg",
+    "search_query": "german-women",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790127277374268,
+            "topicality": 0.9790127277374268,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740421772003174,
+            "topicality": 0.9740421772003174,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9737646579742432,
+            "topicality": 0.9737646579742432,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.933062732219696,
+            "topicality": 0.933062732219696,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9112063050270081,
+            "topicality": 0.9112063050270081,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0jc_p",
+            "score": 0.8982404470443726,
+            "topicality": 0.8982404470443726,
+            "description": "Orange"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.882826566696167,
+            "topicality": 0.882826566696167,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8762661218643188,
+            "topicality": 0.8762661218643188,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8557729125022888,
+            "topicality": 0.8557729125022888,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8364754915237427,
+            "topicality": 0.8364754915237427,
+            "description": "Eyelash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

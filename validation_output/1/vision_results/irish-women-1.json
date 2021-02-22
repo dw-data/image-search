@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/irish-women/1.jpeg",
+    "search_query": "irish-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9838648438453674,
+            "topicality": 0.9838648438453674,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703901410102844,
+            "topicality": 0.9703901410102844,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009718894958,
+            "topicality": 0.9509009718894958,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9428064823150635,
+            "topicality": 0.9428064823150635,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9327405691146851,
+            "topicality": 0.9327405691146851,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9205498099327087,
+            "topicality": 0.9205498099327087,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8730401396751404,
+            "topicality": 0.8730401396751404,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8679925203323364,
+            "topicality": 0.8679925203323364,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.8494958877563477,
+            "topicality": 0.8494958877563477,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.8183746337890625,
+            "topicality": 0.8183746337890625,
+            "description": "Headgear"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

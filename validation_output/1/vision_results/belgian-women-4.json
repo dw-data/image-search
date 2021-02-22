@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/belgian-women/4.jpeg",
+    "search_query": "belgian-women",
+    "position": 4,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9704183340072632,
+            "topicality": 0.9704183340072632,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9660806655883789,
+            "topicality": 0.9660806655883789,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/0838f",
+            "score": 0.9433765411376953,
+            "topicality": 0.9433765411376953,
+            "description": "Water"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9414269328117371,
+            "topicality": 0.9414269328117371,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9323517084121704,
+            "topicality": 0.9323517084121704,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9317101836204529,
+            "topicality": 0.9317101836204529,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0fg019",
+            "score": 0.9279622435569763,
+            "topicality": 0.9279622435569763,
+            "description": "Eye liner"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8841051459312439,
+            "topicality": 0.8841051459312439,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.8813561201095581,
+            "topicality": 0.8813561201095581,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.88128262758255,
+            "topicality": 0.88128262758255,
+            "description": "Jaw"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

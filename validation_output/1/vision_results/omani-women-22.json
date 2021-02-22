@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/omani-women/22.jpeg",
+    "search_query": "omani-women",
+    "position": 22,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9847680926322937,
+            "topicality": 0.9847680926322937,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9838950037956238,
+            "topicality": 0.9838950037956238,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9817634224891663,
+            "topicality": 0.9817634224891663,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9736201763153076,
+            "topicality": 0.9736201763153076,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9730539321899414,
+            "topicality": 0.9730539321899414,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9689398407936096,
+            "topicality": 0.9689398407936096,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/02_n6y",
+            "score": 0.9337095618247986,
+            "topicality": 0.9337095618247986,
+            "description": "Goggles"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.9100061655044556,
+            "topicality": 0.9100061655044556,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8844021558761597,
+            "topicality": 0.8844021558761597,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.883752167224884,
+            "topicality": 0.883752167224884,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

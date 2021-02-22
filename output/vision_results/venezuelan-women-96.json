@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/venezuelan-women/96.jpeg",
+    "search_query": "venezuelan-women",
+    "position": 96,
+    "label_annotations": [
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828155398368835,
+            "topicality": 0.8828155398368835,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/048knlz",
+            "score": 0.7591002583503723,
+            "topicality": 0.7591002583503723,
+            "description": "Love"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.751998245716095,
+            "topicality": 0.751998245716095,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.6452319622039795,
+            "topicality": 0.6452319622039795,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/01xc8d",
+            "score": 0.6168892979621887,
+            "topicality": 0.6168892979621887,
+            "description": "Rope"
+        },
+        {
+            "mid": "/m/09x8z",
+            "score": 0.5435346961021423,
+            "topicality": 0.5435346961021423,
+            "description": "Stomach"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

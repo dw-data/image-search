@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/93.jpeg",
+    "search_query": "mexican-women",
+    "position": 93,
+    "label_annotations": [
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9829563498497009,
+            "topicality": 0.9829563498497009,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774312973022461,
+            "topicality": 0.9774312973022461,
+            "description": "People"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9702513813972473,
+            "topicality": 0.9702513813972473,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9410184621810913,
+            "topicality": 0.9410184621810913,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9399477243423462,
+            "topicality": 0.9399477243423462,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.919514536857605,
+            "topicality": 0.919514536857605,
+            "description": "Protest"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8537694811820984,
+            "topicality": 0.8537694811820984,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.7790715098381042,
+            "topicality": 0.7790715098381042,
+            "description": "Banner"
+        },
+        {
+            "mid": "/m/02k88w",
+            "score": 0.7466352581977844,
+            "topicality": 0.7466352581977844,
+            "description": "Rebellion"
+        },
+        {
+            "mid": "/m/01n5jq",
+            "score": 0.6760513186454773,
+            "topicality": 0.6760513186454773,
+            "description": "Poster"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

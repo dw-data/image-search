@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/vietnamese-women/34.jpeg",
+    "search_query": "vietnamese-women",
+    "position": 34,
+    "label_annotations": [
+        {
+            "mid": "/m/011_dp",
+            "score": 0.9653317332267761,
+            "topicality": 0.9653317332267761,
+            "description": "Membranophone"
+        },
+        {
+            "mid": "/m/011_my",
+            "score": 0.9361358284950256,
+            "topicality": 0.9361358284950256,
+            "description": "Idiophone"
+        },
+        {
+            "mid": "/m/04szw",
+            "score": 0.8827860355377197,
+            "topicality": 0.8827860355377197,
+            "description": "Musical instrument"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8825265765190125,
+            "topicality": 0.8825265765190125,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.881127655506134,
+            "topicality": 0.881127655506134,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724504709243774,
+            "topicality": 0.8724504709243774,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8584873676300049,
+            "topicality": 0.8584873676300049,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8529758453369141,
+            "topicality": 0.8529758453369141,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01vmzn",
+            "score": 0.8440861701965332,
+            "topicality": 0.8440861701965332,
+            "description": "Drumhead"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8404591679573059,
+            "topicality": 0.8404591679573059,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

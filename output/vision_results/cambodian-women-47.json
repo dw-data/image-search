@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/cambodian-women/47.jpeg",
+    "search_query": "cambodian-women",
+    "position": 47,
+    "label_annotations": [
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/011_my",
+            "score": 0.812766432762146,
+            "topicality": 0.812766432762146,
+            "description": "Idiophone"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

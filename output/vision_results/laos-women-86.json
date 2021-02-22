@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/laos-women/86.jpeg",
+    "search_query": "laos-women",
+    "position": 86,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9784939885139465,
+            "topicality": 0.9784939885139465,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9768112897872925,
+            "topicality": 0.9768112897872925,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9664363265037537,
+            "topicality": 0.9664363265037537,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9404824376106262,
+            "topicality": 0.9404824376106262,
+            "description": "Community"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

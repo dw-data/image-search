@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/saudi-women/6.jpeg",
+    "search_query": "saudi-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.9070942997932434,
+            "topicality": 0.9070942997932434,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.797837495803833,
+            "topicality": 0.797837495803833,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.7588066458702087,
+            "topicality": 0.7588066458702087,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/05p3ygh",
+            "score": 0.5051258206367493,
+            "topicality": 0.5051258206367493,
+            "description": "Mantle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

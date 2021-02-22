@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/turkish-women/42.jpeg",
+    "search_query": "turkish-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9923364520072937,
+            "topicality": 0.9923364520072937,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9885696768760681,
+            "topicality": 0.9885696768760681,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9800504446029663,
+            "topicality": 0.9800504446029663,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9785817861557007,
+            "topicality": 0.9785817861557007,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.951636791229248,
+            "topicality": 0.951636791229248,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9463846683502197,
+            "topicality": 0.9463846683502197,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0sgh53y",
+            "score": 0.8785681128501892,
+            "topicality": 0.8785681128501892,
+            "description": "Selfie"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.8651477098464966,
+            "topicality": 0.8651477098464966,
+            "description": "Tooth"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.8564230799674988,
+            "topicality": 0.8564230799674988,
+            "description": "Jewellery"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

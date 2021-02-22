@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/german-women/42.jpeg",
+    "search_query": "german-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837835431098938,
+            "topicality": 0.9837835431098938,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790153503417969,
+            "topicality": 0.9790153503417969,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.9383682608604431,
+            "topicality": 0.9383682608604431,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9125165939331055,
+            "topicality": 0.9125165939331055,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0hgs526",
+            "score": 0.9017437100410461,
+            "topicality": 0.9017437100410461,
+            "description": "Costume accessory"
+        },
+        {
+            "mid": "/m/0hgs54_",
+            "score": 0.8917364478111267,
+            "topicality": 0.8917364478111267,
+            "description": "Costume hat"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.8826701641082764,
+            "topicality": 0.8826701641082764,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.8447533845901489,
+            "topicality": 0.8447533845901489,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.7904583811759949,
+            "topicality": 0.7904583811759949,
+            "description": "Sun hat"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

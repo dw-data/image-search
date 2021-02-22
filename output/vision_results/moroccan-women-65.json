@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/moroccan-women/65.jpeg",
+    "search_query": "moroccan-women",
+    "position": 65,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9769426584243774,
+            "topicality": 0.9769426584243774,
+            "description": "People"
+        },
+        {
+            "mid": "/m/04mkbj",
+            "score": 0.8327605724334717,
+            "topicality": 0.8327605724334717,
+            "description": "Maroon"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.7488650679588318,
+            "topicality": 0.7488650679588318,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.6635424494743347,
+            "topicality": 0.6635424494743347,
+            "description": "Wrinkle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

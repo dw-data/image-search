@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/paraguayan-women/33.jpeg",
+    "search_query": "paraguayan-women",
+    "position": 33,
+    "label_annotations": [
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.882811427116394,
+            "topicality": 0.882811427116394,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0138tl",
+            "score": 0.7056003212928772,
+            "topicality": 0.7056003212928772,
+            "description": "Toy"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.6535916328430176,
+            "topicality": 0.6535916328430176,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/04dr76w",
+            "score": 0.5874123573303223,
+            "topicality": 0.5874123573303223,
+            "description": "Bottle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

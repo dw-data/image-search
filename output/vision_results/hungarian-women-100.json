@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/hungarian-women/100.png",
+    "search_query": "hungarian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.988940954208374,
+            "topicality": 0.988940954208374,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9842506647109985,
+            "topicality": 0.9842506647109985,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9719323515892029,
+            "topicality": 0.9719323515892029,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9469466209411621,
+            "topicality": 0.9469466209411621,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9320558905601501,
+            "topicality": 0.9320558905601501,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0n5v01m",
+            "score": 0.9248306155204773,
+            "topicality": 0.9248306155204773,
+            "description": "Bag"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9118504524230957,
+            "topicality": 0.9118504524230957,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8974903225898743,
+            "topicality": 0.8974903225898743,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0hf58v5",
+            "score": 0.8885572552680969,
+            "topicality": 0.8885572552680969,
+            "description": "Luggage and bags"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

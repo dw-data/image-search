@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/syrian-women/40.jpeg",
+    "search_query": "syrian-women",
+    "position": 40,
+    "label_annotations": [
+        {
+            "mid": "/m/02wbm",
+            "score": 0.9593319892883301,
+            "topicality": 0.9593319892883301,
+            "description": "Food"
+        },
+        {
+            "mid": "/m/01ykh",
+            "score": 0.9520140290260315,
+            "topicality": 0.9520140290260315,
+            "description": "Cuisine"
+        },
+        {
+            "mid": "/m/02q08p0",
+            "score": 0.9324548840522766,
+            "topicality": 0.9324548840522766,
+            "description": "Dish"
+        },
+        {
+            "mid": "/m/0p57p",
+            "score": 0.9105587005615234,
+            "topicality": 0.9105587005615234,
+            "description": "Recipe"
+        },
+        {
+            "mid": "/m/07xgrh",
+            "score": 0.9104124903678894,
+            "topicality": 0.9104124903678894,
+            "description": "Ingredient"
+        },
+        {
+            "mid": "/m/04brg2",
+            "score": 0.892208993434906,
+            "topicality": 0.892208993434906,
+            "description": "Tableware"
+        },
+        {
+            "mid": "/m/0krfg",
+            "score": 0.8645493984222412,
+            "topicality": 0.8645493984222412,
+            "description": "Meal"
+        },
+        {
+            "mid": "/m/050gv4",
+            "score": 0.8595086932182312,
+            "topicality": 0.8595086932182312,
+            "description": "Plate"
+        },
+        {
+            "mid": "/m/06nwz",
+            "score": 0.8070635199546814,
+            "topicality": 0.8070635199546814,
+            "description": "Seafood"
+        },
+        {
+            "mid": "/m/01mtb",
+            "score": 0.8056997060775757,
+            "topicality": 0.8056997060775757,
+            "description": "Cooking"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

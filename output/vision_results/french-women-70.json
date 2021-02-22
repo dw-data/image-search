@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/french-women/70.jpeg",
+    "search_query": "french-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9642013907432556,
+            "topicality": 0.9642013907432556,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.9097275137901306,
+            "topicality": 0.9097275137901306,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8507876396179199,
+            "topicality": 0.8507876396179199,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/019swr",
+            "score": 0.8506960272789001,
+            "topicality": 0.8506960272789001,
+            "description": "Knee"
+        },
+        {
+            "mid": "/m/0gqbt",
+            "score": 0.8406911492347717,
+            "topicality": 0.8406911492347717,
+            "description": "Shrub"
+        },
+        {
+            "mid": "/m/01xxn0",
+            "score": 0.7465105652809143,
+            "topicality": 0.7465105652809143,
+            "description": "Hedge"
+        },
+        {
+            "mid": "/m/01_m7",
+            "score": 0.7380717396736145,
+            "topicality": 0.7380717396736145,
+            "description": "Column"
+        },
+        {
+            "mid": "/m/0166ls",
+            "score": 0.6092501878738403,
+            "topicality": 0.6092501878738403,
+            "description": "Park"
+        },
+        {
+            "mid": "/m/01b638",
+            "score": 0.5316315293312073,
+            "topicality": 0.5316315293312073,
+            "description": "Boot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

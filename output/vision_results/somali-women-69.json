@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/somali-women/69.jpeg",
+    "search_query": "somali-women",
+    "position": 69,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9792848825454712,
+            "topicality": 0.9792848825454712,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.8389285206794739,
+            "topicality": 0.8389285206794739,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/01bmhj",
+            "score": 0.7454060316085815,
+            "topicality": 0.7454060316085815,
+            "description": "Thumb"
+        },
+        {
+            "mid": "/m/0hgntgw",
+            "score": 0.6095519065856934,
+            "topicality": 0.6095519065856934,
+            "description": "Active tank"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/welsh-women/100.jpeg",
+    "search_query": "welsh-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9658951759338379,
+            "topicality": 0.9658951759338379,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/0hg7b",
+            "score": 0.9639493227005005,
+            "topicality": 0.9639493227005005,
+            "description": "Microphone"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8907634019851685,
+            "topicality": 0.8907634019851685,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/03qpft",
+            "score": 0.8872554302215576,
+            "topicality": 0.8872554302215576,
+            "description": "Podium"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.8559078574180603,
+            "topicality": 0.8559078574180603,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.846222460269928,
+            "topicality": 0.846222460269928,
+            "description": "One-piece garment"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.844285786151886,
+            "topicality": 0.844285786151886,
+            "description": "Day dress"
+        },
+        {
+            "mid": "/m/0h8mknb",
+            "score": 0.8268638849258423,
+            "topicality": 0.8268638849258423,
+            "description": "Stage equipment"
+        },
+        {
+            "mid": "/m/02jf2p",
+            "score": 0.8154587745666504,
+            "topicality": 0.8154587745666504,
+            "description": "Public address system"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

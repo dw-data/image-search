@@ -1,0 +1,54 @@
+{
+    "path": "../output_gcg/imgs/andorran-women/72.jpeg",
+    "search_query": "andorran-women",
+    "position": 72,
+    "label_annotations": [
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.797054648399353,
+            "topicality": 0.797054648399353,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/01cd9",
+            "score": 0.6258547902107239,
+            "topicality": 0.6258547902107239,
+            "description": "Brand"
+        },
+        {
+            "mid": "/m/01vkl",
+            "score": 0.601189136505127,
+            "topicality": 0.601189136505127,
+            "description": "Circle"
+        },
+        {
+            "mid": "/m/021sdg",
+            "score": 0.5495570302009583,
+            "topicality": 0.5495570302009583,
+            "description": "Graphics"
+        },
+        {
+            "mid": "/m/05t_yt",
+            "score": 0.5422624349594116,
+            "topicality": 0.5422624349594116,
+            "description": "Carmine"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

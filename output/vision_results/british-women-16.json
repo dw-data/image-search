@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/british-women/16.jpeg",
+    "search_query": "british-women",
+    "position": 16,
+    "label_annotations": [
+        {
+            "mid": "/m/014sv8",
+            "score": 0.971967339515686,
+            "topicality": 0.971967339515686,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639041423797607,
+            "topicality": 0.9639041423797607,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0bs7_0t",
+            "score": 0.9457750916481018,
+            "topicality": 0.9457750916481018,
+            "description": "Electronic device"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9455641508102417,
+            "topicality": 0.9455641508102417,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0h8n5k2",
+            "score": 0.9447839260101318,
+            "topicality": 0.9447839260101318,
+            "description": "Laptop part"
+        },
+        {
+            "mid": "/m/03qtgjk",
+            "score": 0.9125065803527832,
+            "topicality": 0.9125065803527832,
+            "description": "Office equipment"
+        },
+        {
+            "mid": "/m/01c648",
+            "score": 0.9093217849731445,
+            "topicality": 0.9093217849731445,
+            "description": "Laptop"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8746529221534729,
+            "topicality": 0.8746529221534729,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/01m3v",
+            "score": 0.8733937740325928,
+            "topicality": 0.8733937740325928,
+            "description": "Computer"
+        },
+        {
+            "mid": "/m/07c1v",
+            "score": 0.8618952035903931,
+            "topicality": 0.8618952035903931,
+            "description": "Technology"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

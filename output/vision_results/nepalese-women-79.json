@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/nepalese-women/79.jpeg",
+    "search_query": "nepalese-women",
+    "position": 79,
+    "label_annotations": [
+        {
+            "mid": "/m/01qls",
+            "score": 0.9392892122268677,
+            "topicality": 0.9392892122268677,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828242421150208,
+            "topicality": 0.8828242421150208,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.7827637791633606,
+            "topicality": 0.7827637791633606,
+            "description": "Tradition"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

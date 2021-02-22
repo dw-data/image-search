@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/macanese-women/32.jpeg",
+    "search_query": "macanese-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/030zlf",
+            "score": 0.8678710460662842,
+            "topicality": 0.8678710460662842,
+            "description": "Colorfulness"
+        },
+        {
+            "mid": "/m/0j62f",
+            "score": 0.7601840496063232,
+            "topicality": 0.7601840496063232,
+            "description": "Rectangle"
+        },
+        {
+            "mid": "/m/01vkl",
+            "score": 0.7537356019020081,
+            "topicality": 0.7537356019020081,
+            "description": "Circle"
+        },
+        {
+            "mid": "/m/0dgsmq8",
+            "score": 0.6826599836349487,
+            "topicality": 0.6826599836349487,
+            "description": "Artwork"
+        },
+        {
+            "mid": "/m/0919rx",
+            "score": 0.6080144047737122,
+            "topicality": 0.6080144047737122,
+            "description": "Line art"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.5796405076980591,
+            "topicality": 0.5796405076980591,
+            "description": "Portrait"
+        },
+        {
+            "mid": "/m/02csf",
+            "score": 0.551825225353241,
+            "topicality": 0.551825225353241,
+            "description": "Drawing"
+        },
+        {
+            "mid": "/m/0641k",
+            "score": 0.5450699925422668,
+            "topicality": 0.5450699925422668,
+            "description": "Paper"
+        },
+        {
+            "mid": "/m/0266180",
+            "score": 0.5379961729049683,
+            "topicality": 0.5379961729049683,
+            "description": "Self-portrait"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

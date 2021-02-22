@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/irish-women/20.jpeg",
+    "search_query": "irish-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9925281405448914,
+            "topicality": 0.9925281405448914,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9915749430656433,
+            "topicality": 0.9915749430656433,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9893402457237244,
+            "topicality": 0.9893402457237244,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9887804388999939,
+            "topicality": 0.9887804388999939,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880613088607788,
+            "topicality": 0.9880613088607788,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9871051907539368,
+            "topicality": 0.9871051907539368,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9840987920761108,
+            "topicality": 0.9840987920761108,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9820477366447449,
+            "topicality": 0.9820477366447449,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790151715278625,
+            "topicality": 0.9790151715278625,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9779655933380127,
+            "topicality": 0.9779655933380127,
+            "description": "Cheek"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/chinese-women/42.jpeg",
+    "search_query": "chinese-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739455580711365,
+            "topicality": 0.9739455580711365,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.968184232711792,
+            "topicality": 0.968184232711792,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639025926589966,
+            "topicality": 0.9639025926589966,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9385247826576233,
+            "topicality": 0.9385247826576233,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9289723634719849,
+            "topicality": 0.9289723634719849,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.877203106880188,
+            "topicality": 0.877203106880188,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.8620741963386536,
+            "topicality": 0.8620741963386536,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/0h8jz98",
+            "score": 0.8115347623825073,
+            "topicality": 0.8115347623825073,
+            "description": "Camera accessory"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8091315627098083,
+            "topicality": 0.8091315627098083,
+            "description": "Blond"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

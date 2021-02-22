@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/qatari-women/64.jpeg",
+    "search_query": "qatari-women",
+    "position": 64,
+    "label_annotations": [
+        {
+            "mid": "/m/07djv",
+            "score": 0.8778911232948303,
+            "topicality": 0.8778911232948303,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.7329742908477783,
+            "topicality": 0.7329742908477783,
+            "description": "Bracelet"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.6415479779243469,
+            "topicality": 0.6415479779243469,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.6275545954704285,
+            "topicality": 0.6275545954704285,
+            "description": "Photo caption"
+        },
+        {
+            "mid": "/m/0hr5k",
+            "score": 0.5546804070472717,
+            "topicality": 0.5546804070472717,
+            "description": "Festival"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

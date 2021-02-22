@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/scottish-women/26.jpeg",
+    "search_query": "scottish-women",
+    "position": 26,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738072156906128,
+            "topicality": 0.9738072156906128,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.932644248008728,
+            "topicality": 0.932644248008728,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.8635042905807495,
+            "topicality": 0.8635042905807495,
+            "description": "Portrait"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.6982663869857788,
+            "topicality": 0.6982663869857788,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/05qdh",
+            "score": 0.6298302412033081,
+            "topicality": 0.6298302412033081,
+            "description": "Painting"
+        },
+        {
+            "mid": "/m/03g3w",
+            "score": 0.6196786761283875,
+            "topicality": 0.6196786761283875,
+            "description": "History"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.5585681200027466,
+            "topicality": 0.5585681200027466,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/0266180",
+            "score": 0.5520237684249878,
+            "topicality": 0.5520237684249878,
+            "description": "Self-portrait"
+        },
+        {
+            "mid": "/m/02csf",
+            "score": 0.5184794664382935,
+            "topicality": 0.5184794664382935,
+            "description": "Drawing"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

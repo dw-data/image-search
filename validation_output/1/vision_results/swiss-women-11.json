@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/swiss-women/11.jpeg",
+    "search_query": "swiss-women",
+    "position": 11,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9869775772094727,
+            "topicality": 0.9869775772094727,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0gjkl",
+            "score": 0.973953127861023,
+            "topicality": 0.973953127861023,
+            "description": "Watch"
+        },
+        {
+            "mid": "/m/04brg2",
+            "score": 0.9652984738349915,
+            "topicality": 0.9652984738349915,
+            "description": "Tableware"
+        },
+        {
+            "mid": "/m/01n4qj",
+            "score": 0.943192720413208,
+            "topicality": 0.943192720413208,
+            "description": "Shirt"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.942729115486145,
+            "topicality": 0.942729115486145,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9325509071350098,
+            "topicality": 0.9325509071350098,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/050h26",
+            "score": 0.9237648248672485,
+            "topicality": 0.9237648248672485,
+            "description": "Drinkware"
+        },
+        {
+            "mid": "/m/050h0q",
+            "score": 0.9189338088035583,
+            "topicality": 0.9189338088035583,
+            "description": "Stemware"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9068765640258789,
+            "topicality": 0.9068765640258789,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/09tvcd",
+            "score": 0.9053452610969543,
+            "topicality": 0.9053452610969543,
+            "description": "Wine glass"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

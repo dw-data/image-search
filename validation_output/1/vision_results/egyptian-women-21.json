@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/egyptian-women/21.jpeg",
+    "search_query": "egyptian-women",
+    "position": 21,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9824463725090027,
+            "topicality": 0.9824463725090027,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9758414030075073,
+            "topicality": 0.9758414030075073,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9327488541603088,
+            "topicality": 0.9327488541603088,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8505852818489075,
+            "topicality": 0.8505852818489075,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.8483565449714661,
+            "topicality": 0.8483565449714661,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8373802900314331,
+            "topicality": 0.8373802900314331,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.7911375761032104,
+            "topicality": 0.7911375761032104,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.7603616118431091,
+            "topicality": 0.7603616118431091,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.7472807168960571,
+            "topicality": 0.7472807168960571,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.744367241859436,
+            "topicality": 0.744367241859436,
+            "description": "Long hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

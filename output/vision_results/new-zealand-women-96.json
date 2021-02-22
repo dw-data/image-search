@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/new-zealand-women/96.jpeg",
+    "search_query": "new-zealand-women",
+    "position": 96,
+    "label_annotations": [
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9799694418907166,
+            "topicality": 0.9799694418907166,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9770674705505371,
+            "topicality": 0.9770674705505371,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.96806401014328,
+            "topicality": 0.96806401014328,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/071j9r",
+            "score": 0.8730897307395935,
+            "topicality": 0.8730897307395935,
+            "description": "Cool"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.7524970769882202,
+            "topicality": 0.7524970769882202,
+            "description": "Sunglasses"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/kuwaiti-women/21.jpeg",
+    "search_query": "kuwaiti-women",
+    "position": 21,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9698407649993896,
+            "topicality": 0.9698407649993896,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9436341524124146,
+            "topicality": 0.9436341524124146,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.912233829498291,
+            "topicality": 0.912233829498291,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.659419596195221,
+            "topicality": 0.659419596195221,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.6237452030181885,
+            "topicality": 0.6237452030181885,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/05p3ygh",
+            "score": 0.5787054300308228,
+            "topicality": 0.5787054300308228,
+            "description": "Mantle"
+        },
+        {
+            "mid": "/m/01444p",
+            "score": 0.5674986839294434,
+            "topicality": 0.5674986839294434,
+            "description": "Cloak"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

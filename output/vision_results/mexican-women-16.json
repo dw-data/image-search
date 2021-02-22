@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/16.jpeg",
+    "search_query": "mexican-women",
+    "position": 16,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9925073981285095,
+            "topicality": 0.9925073981285095,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9795883893966675,
+            "topicality": 0.9795883893966675,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9704867005348206,
+            "topicality": 0.9704867005348206,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9697977304458618,
+            "topicality": 0.9697977304458618,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9686627388000488,
+            "topicality": 0.9686627388000488,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9653217196464539,
+            "topicality": 0.9653217196464539,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9538794755935669,
+            "topicality": 0.9538794755935669,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.9347001910209656,
+            "topicality": 0.9347001910209656,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/078qz",
+            "score": 0.9190014004707336,
+            "topicality": 0.9190014004707336,
+            "description": "Summer"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9140405058860779,
+            "topicality": 0.9140405058860779,
+            "description": "Dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

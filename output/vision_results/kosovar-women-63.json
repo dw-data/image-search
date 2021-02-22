@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/kosovar-women/63.jpeg",
+    "search_query": "kosovar-women",
+    "position": 63,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.989709198474884,
+            "topicality": 0.989709198474884,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9799249172210693,
+            "topicality": 0.9799249172210693,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9775233864784241,
+            "topicality": 0.9775233864784241,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9717710614204407,
+            "topicality": 0.9717710614204407,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9406303763389587,
+            "topicality": 0.9406303763389587,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.9091256856918335,
+            "topicality": 0.9091256856918335,
+            "description": "Team"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

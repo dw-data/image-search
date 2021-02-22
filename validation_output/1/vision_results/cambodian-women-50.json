@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/cambodian-women/50.jpeg",
+    "search_query": "cambodian-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9833351969718933,
+            "topicality": 0.9833351969718933,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9735919833183289,
+            "topicality": 0.9735919833183289,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.972406804561615,
+            "topicality": 0.972406804561615,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9399239420890808,
+            "topicality": 0.9399239420890808,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9381747841835022,
+            "topicality": 0.9381747841835022,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.8845528960227966,
+            "topicality": 0.8845528960227966,
+            "description": "Human body"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8788448572158813,
+            "topicality": 0.8788448572158813,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724374175071716,
+            "topicality": 0.8724374175071716,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8711873888969421,
+            "topicality": 0.8711873888969421,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/0bp_2p",
+            "score": 0.8613011837005615,
+            "topicality": 0.8613011837005615,
+            "description": "Gown"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

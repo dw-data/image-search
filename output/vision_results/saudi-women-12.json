@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/saudi-women/12.jpeg",
+    "search_query": "saudi-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8666496872901917,
+            "topicality": 0.8666496872901917,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.7155196070671082,
+            "topicality": 0.7155196070671082,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6217290163040161,
+            "topicality": 0.6217290163040161,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.5127824544906616,
+            "topicality": 0.5127824544906616,
+            "description": "Bracelet"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

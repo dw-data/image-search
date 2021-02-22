@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/ivorian-women/6.jpeg",
+    "search_query": "ivorian-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/0jc_p",
+            "score": 0.8968894481658936,
+            "topicality": 0.8968894481658936,
+            "description": "Orange"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.7786482572555542,
+            "topicality": 0.7786482572555542,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.7745822668075562,
+            "topicality": 0.7745822668075562,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/0b7pvt",
+            "score": 0.7372018694877625,
+            "topicality": 0.7372018694877625,
+            "description": "Color guard (flag spinning)"
+        },
+        {
+            "mid": "/m/0h8n2hv",
+            "score": 0.7054719924926758,
+            "topicality": 0.7054719924926758,
+            "description": "Sports jersey"
+        },
+        {
+            "mid": "/m/019cfy",
+            "score": 0.5384724736213684,
+            "topicality": 0.5384724736213684,
+            "description": "Stadium"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

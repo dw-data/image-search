@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/norwegian-women/5.jpeg",
+    "search_query": "norwegian-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9747979640960693,
+            "topicality": 0.9747979640960693,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9705293774604797,
+            "topicality": 0.9705293774604797,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9674363732337952,
+            "topicality": 0.9674363732337952,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.9508183002471924,
+            "topicality": 0.9508183002471924,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9468502998352051,
+            "topicality": 0.9468502998352051,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9323992133140564,
+            "topicality": 0.9323992133140564,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.931687593460083,
+            "topicality": 0.931687593460083,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0fg019",
+            "score": 0.913058876991272,
+            "topicality": 0.913058876991272,
+            "description": "Eye liner"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.903999924659729,
+            "topicality": 0.903999924659729,
+            "description": "Organ"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

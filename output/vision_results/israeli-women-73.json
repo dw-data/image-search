@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/israeli-women/73.jpeg",
+    "search_query": "israeli-women",
+    "position": 73,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9894062280654907,
+            "topicality": 0.9894062280654907,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9887807369232178,
+            "topicality": 0.9887807369232178,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9771701693534851,
+            "topicality": 0.9771701693534851,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9605268836021423,
+            "topicality": 0.9605268836021423,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.951339066028595,
+            "topicality": 0.951339066028595,
+            "description": "Audience"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.9504960775375366,
+            "topicality": 0.9504960775375366,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9402549862861633,
+            "topicality": 0.9402549862861633,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9289045333862305,
+            "topicality": 0.9289045333862305,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9140748977661133,
+            "topicality": 0.9140748977661133,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

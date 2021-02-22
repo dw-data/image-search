@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/turkish-women/50.jpeg",
+    "search_query": "turkish-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/01lqfm",
+            "score": 0.9252294301986694,
+            "topicality": 0.9252294301986694,
+            "description": "Public space"
+        },
+        {
+            "mid": "/m/017r8p",
+            "score": 0.8238005638122559,
+            "topicality": 0.8238005638122559,
+            "description": "Pedestrian"
+        },
+        {
+            "mid": "/m/0fpdgl",
+            "score": 0.8009433150291443,
+            "topicality": 0.8009433150291443,
+            "description": "Human settlement"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.7585642337799072,
+            "topicality": 0.7585642337799072,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/09y4pm",
+            "score": 0.6609855890274048,
+            "topicality": 0.6609855890274048,
+            "description": "Market"
+        },
+        {
+            "mid": "/m/02jp1h",
+            "score": 0.6433807611465454,
+            "topicality": 0.6433807611465454,
+            "description": "Marketplace"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

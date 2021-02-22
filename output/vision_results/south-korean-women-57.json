@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/south-korean-women/57.jpeg",
+    "search_query": "south-korean-women",
+    "position": 57,
+    "label_annotations": [
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9835851192474365,
+            "topicality": 0.9835851192474365,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828093409538269,
+            "topicality": 0.8828093409538269,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8503868579864502,
+            "topicality": 0.8503868579864502,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/06q_t_",
+            "score": 0.6128519177436829,
+            "topicality": 0.6128519177436829,
+            "description": "Bun"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.6054859757423401,
+            "topicality": 0.6054859757423401,
+            "description": "One-piece garment"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

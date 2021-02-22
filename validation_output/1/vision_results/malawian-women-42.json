@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/malawian-women/42.jpeg",
+    "search_query": "malawian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.9507715702056885,
+            "topicality": 0.9507715702056885,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/01n4qj",
+            "score": 0.9412106871604919,
+            "topicality": 0.9412106871604919,
+            "description": "Shirt"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8722003698348999,
+            "topicality": 0.8722003698348999,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.8148707151412964,
+            "topicality": 0.8148707151412964,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/013s93",
+            "score": 0.7904320955276489,
+            "topicality": 0.7904320955276489,
+            "description": "T-shirt"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.7475994825363159,
+            "topicality": 0.7475994825363159,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/01rkbr",
+            "score": 0.7343766689300537,
+            "topicality": 0.7343766689300537,
+            "description": "Tie"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.7083038091659546,
+            "topicality": 0.7083038091659546,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/0hg7b",
+            "score": 0.6964836120605469,
+            "topicality": 0.6964836120605469,
+            "description": "Microphone"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

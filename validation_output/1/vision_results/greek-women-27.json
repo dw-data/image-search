@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/greek-women/27.jpeg",
+    "search_query": "greek-women",
+    "position": 27,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9830135703086853,
+            "topicality": 0.9830135703086853,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9809846878051758,
+            "topicality": 0.9809846878051758,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9792529344558716,
+            "topicality": 0.9792529344558716,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9751291871070862,
+            "topicality": 0.9751291871070862,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9719613790512085,
+            "topicality": 0.9719613790512085,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.967819333076477,
+            "topicality": 0.967819333076477,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9387584924697876,
+            "topicality": 0.9387584924697876,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9015668630599976,
+            "topicality": 0.9015668630599976,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8986297249794006,
+            "topicality": 0.8986297249794006,
+            "description": "Human"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

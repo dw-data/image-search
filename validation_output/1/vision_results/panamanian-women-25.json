@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/panamanian-women/25.jpeg",
+    "search_query": "panamanian-women",
+    "position": 25,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9861217141151428,
+            "topicality": 0.9861217141151428,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9853174686431885,
+            "topicality": 0.9853174686431885,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9747784733772278,
+            "topicality": 0.9747784733772278,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9737241268157959,
+            "topicality": 0.9737241268157959,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9704592823982239,
+            "topicality": 0.9704592823982239,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9440027475357056,
+            "topicality": 0.9440027475357056,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9410284161567688,
+            "topicality": 0.9410284161567688,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9175854921340942,
+            "topicality": 0.9175854921340942,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9102907776832581,
+            "topicality": 0.9102907776832581,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8907296657562256,
+            "topicality": 0.8907296657562256,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

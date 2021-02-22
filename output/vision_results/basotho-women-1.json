@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/basotho-women/1.png",
+    "search_query": "basotho-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9768410921096802,
+            "topicality": 0.9768410921096802,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9126984477043152,
+            "topicality": 0.9126984477043152,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828147053718567,
+            "topicality": 0.8828147053718567,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.6358934640884399,
+            "topicality": 0.6358934640884399,
+            "description": "Wrinkle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/greek-women/1.jpeg",
+    "search_query": "greek-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9753203392028809,
+            "topicality": 0.9753203392028809,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9692751169204712,
+            "topicality": 0.9692751169204712,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.956940233707428,
+            "topicality": 0.956940233707428,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9458240866661072,
+            "topicality": 0.9458240866661072,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9283391237258911,
+            "topicality": 0.9283391237258911,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.8860535025596619,
+            "topicality": 0.8860535025596619,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.880504310131073,
+            "topicality": 0.880504310131073,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8803781270980835,
+            "topicality": 0.8803781270980835,
+            "description": "Neck"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8793147206306458,
+            "topicality": 0.8793147206306458,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8773201107978821,
+            "topicality": 0.8773201107978821,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/guatemalan-women/66.jpeg",
+    "search_query": "guatemalan-women",
+    "position": 66,
+    "label_annotations": [
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9083928465843201,
+            "topicality": 0.9083928465843201,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/071j9r",
+            "score": 0.875385582447052,
+            "topicality": 0.875385582447052,
+            "description": "Cool"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.7057783603668213,
+            "topicality": 0.7057783603668213,
+            "description": "Bracelet"
+        },
+        {
+            "mid": "/m/04lzmz",
+            "score": 0.5614264011383057,
+            "topicality": 0.5614264011383057,
+            "description": "Strap"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

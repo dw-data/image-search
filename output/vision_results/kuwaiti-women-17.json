@@ -1,0 +1,30 @@
+{
+    "path": "../output/imgs/kuwaiti-women/17.jpeg",
+    "search_query": "kuwaiti-women",
+    "position": 17,
+    "label_annotations": [
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8625843524932861,
+            "topicality": 0.8625843524932861,
+            "description": "Black hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/vietnamese-women/72.jpeg",
+    "search_query": "vietnamese-women",
+    "position": 72,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9846606850624084,
+            "topicality": 0.9846606850624084,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9753506779670715,
+            "topicality": 0.9753506779670715,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9658105373382568,
+            "topicality": 0.9658105373382568,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9474150538444519,
+            "topicality": 0.9474150538444519,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.911956250667572,
+            "topicality": 0.911956250667572,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8810796737670898,
+            "topicality": 0.8810796737670898,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8803449273109436,
+            "topicality": 0.8803449273109436,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.8765330910682678,
+            "topicality": 0.8765330910682678,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8621506094932556,
+            "topicality": 0.8621506094932556,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

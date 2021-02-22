@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/antiguan-women/2.jpeg",
+    "search_query": "antiguan-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9532237648963928,
+            "topicality": 0.9532237648963928,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.928439736366272,
+            "topicality": 0.928439736366272,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.909419059753418,
+            "topicality": 0.909419059753418,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8960970640182495,
+            "topicality": 0.8960970640182495,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/019swr",
+            "score": 0.8320236206054688,
+            "topicality": 0.8320236206054688,
+            "description": "Knee"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.8227434754371643,
+            "topicality": 0.8227434754371643,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.7769800424575806,
+            "topicality": 0.7769800424575806,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/02fbqn",
+            "score": 0.7416965961456299,
+            "topicality": 0.7416965961456299,
+            "description": "Headpiece"
+        },
+        {
+            "mid": "/m/0gjkl",
+            "score": 0.7366974353790283,
+            "topicality": 0.7366974353790283,
+            "description": "Watch"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.735893189907074,
+            "topicality": 0.735893189907074,
+            "description": "Bracelet"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

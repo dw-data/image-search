@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/japanese-women/26.jpeg",
+    "search_query": "japanese-women",
+    "position": 26,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9921520352363586,
+            "topicality": 0.9921520352363586,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9892934560775757,
+            "topicality": 0.9892934560775757,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.983794629573822,
+            "topicality": 0.983794629573822,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9809341430664062,
+            "topicality": 0.9809341430664062,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790171384811401,
+            "topicality": 0.9790171384811401,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740581512451172,
+            "topicality": 0.9740581512451172,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9711451530456543,
+            "topicality": 0.9711451530456543,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9705601334571838,
+            "topicality": 0.9705601334571838,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.968923032283783,
+            "topicality": 0.968923032283783,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.96512770652771,
+            "topicality": 0.96512770652771,
+            "description": "Shoulder"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

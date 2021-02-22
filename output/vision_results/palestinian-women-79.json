@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/palestinian-women/79.jpeg",
+    "search_query": "palestinian-women",
+    "position": 79,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9768482446670532,
+            "topicality": 0.9768482446670532,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9694814085960388,
+            "topicality": 0.9694814085960388,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01j3sz",
+            "score": 0.6432632207870483,
+            "topicality": 0.6432632207870483,
+            "description": "Laugh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

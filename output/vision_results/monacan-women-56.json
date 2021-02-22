@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/monacan-women/56.jpeg",
+    "search_query": "monacan-women",
+    "position": 56,
+    "label_annotations": [
+        {
+            "mid": "/m/03r18y",
+            "score": 0.695910632610321,
+            "topicality": 0.695910632610321,
+            "description": "Peach"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.5971648693084717,
+            "topicality": 0.5971648693084717,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/031n1",
+            "score": 0.5152308344841003,
+            "topicality": 0.5152308344841003,
+            "description": "Foot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

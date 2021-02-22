@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/monacan-women/64.jpeg",
+    "search_query": "monacan-women",
+    "position": 64,
+    "label_annotations": [
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.7480053901672363,
+            "topicality": 0.7480053901672363,
+            "description": "Tooth"
+        },
+        {
+            "mid": "/m/01j3sz",
+            "score": 0.6675929427146912,
+            "topicality": 0.6675929427146912,
+            "description": "Laugh"
+        },
+        {
+            "mid": "/m/0dfgf",
+            "score": 0.6301165223121643,
+            "topicality": 0.6301165223121643,
+            "description": "Feather"
+        },
+        {
+            "mid": "/m/015h_t",
+            "score": 0.6276475191116333,
+            "topicality": 0.6276475191116333,
+            "description": "Beard"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

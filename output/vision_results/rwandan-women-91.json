@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/rwandan-women/91.jpeg",
+    "search_query": "rwandan-women",
+    "position": 91,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9859536290168762,
+            "topicality": 0.9859536290168762,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9581357836723328,
+            "topicality": 0.9581357836723328,
+            "description": "Hand"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.9273476004600525,
+            "topicality": 0.9273476004600525,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.8853960633277893,
+            "topicality": 0.8853960633277893,
+            "description": "Audience"
+        },
+        {
+            "mid": "/m/013x8v",
+            "score": 0.7529703974723816,
+            "topicality": 0.7529703974723816,
+            "description": "Fan"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.7396044731140137,
+            "topicality": 0.7396044731140137,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/053hz1",
+            "score": 0.6688885688781738,
+            "topicality": 0.6688885688781738,
+            "description": "Cheering"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/\u010desk\u00e9-\u017eeny/2.jpeg",
+    "search_query": "\u010desk\u00e9-\u017eeny",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9751322865486145,
+            "topicality": 0.9751322865486145,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9664098620414734,
+            "topicality": 0.9664098620414734,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9482282996177673,
+            "topicality": 0.9482282996177673,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9325267672538757,
+            "topicality": 0.9325267672538757,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9236610531806946,
+            "topicality": 0.9236610531806946,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9167340397834778,
+            "topicality": 0.9167340397834778,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.8796287178993225,
+            "topicality": 0.8796287178993225,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.8714619874954224,
+            "topicality": 0.8714619874954224,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

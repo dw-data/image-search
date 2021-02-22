@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/macanese-women/48.jpeg",
+    "search_query": "macanese-women",
+    "position": 48,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9765126705169678,
+            "topicality": 0.9765126705169678,
+            "description": "People"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9563677906990051,
+            "topicality": 0.9563677906990051,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.912908136844635,
+            "topicality": 0.912908136844635,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828144073486328,
+            "topicality": 0.8828144073486328,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.8341104984283447,
+            "topicality": 0.8341104984283447,
+            "description": "Sun hat"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.6914827823638916,
+            "topicality": 0.6914827823638916,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/04vtz0",
+            "score": 0.5474758744239807,
+            "topicality": 0.5474758744239807,
+            "description": "Polka dot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

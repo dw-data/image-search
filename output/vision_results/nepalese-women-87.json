@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/nepalese-women/87.jpeg",
+    "search_query": "nepalese-women",
+    "position": 87,
+    "label_annotations": [
+        {
+            "mid": "/m/01kyr8",
+            "score": 0.9517993330955505,
+            "topicality": 0.9517993330955505,
+            "description": "Darkness"
+        },
+        {
+            "mid": "/m/01d74z",
+            "score": 0.9161860346794128,
+            "topicality": 0.9161860346794128,
+            "description": "Night"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.7920041680335999,
+            "topicality": 0.7920041680335999,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/09cvst",
+            "score": 0.5132008194923401,
+            "topicality": 0.5132008194923401,
+            "description": "Scene"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

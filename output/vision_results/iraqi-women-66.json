@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/iraqi-women/66.jpeg",
+    "search_query": "iraqi-women",
+    "position": 66,
+    "label_annotations": [
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9719815254211426,
+            "topicality": 0.9719815254211426,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9041585922241211,
+            "topicality": 0.9041585922241211,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.6745578050613403,
+            "topicality": 0.6745578050613403,
+            "description": "Abaya"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.6098577380180359,
+            "topicality": 0.6098577380180359,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.5623872876167297,
+            "topicality": 0.5623872876167297,
+            "description": "Shawl"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

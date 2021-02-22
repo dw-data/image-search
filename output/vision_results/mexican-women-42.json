@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/42.jpeg",
+    "search_query": "mexican-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/06fvc",
+            "score": 0.9599947333335876,
+            "topicality": 0.9599947333335876,
+            "description": "Red"
+        },
+        {
+            "mid": "/m/0jc_p",
+            "score": 0.9268280267715454,
+            "topicality": 0.9268280267715454,
+            "description": "Orange"
+        },
+        {
+            "mid": "/m/05t_yt",
+            "score": 0.8991579413414001,
+            "topicality": 0.8991579413414001,
+            "description": "Carmine"
+        },
+        {
+            "mid": "/m/04mkbj",
+            "score": 0.8642668724060059,
+            "topicality": 0.8642668724060059,
+            "description": "Maroon"
+        },
+        {
+            "mid": "/m/037zsb",
+            "score": 0.8515983819961548,
+            "topicality": 0.8515983819961548,
+            "description": "Tan"
+        },
+        {
+            "mid": "/m/02p9658",
+            "score": 0.7530932426452637,
+            "topicality": 0.7530932426452637,
+            "description": "Coquelicot"
+        },
+        {
+            "mid": "/m/03nfch",
+            "score": 0.7497836947441101,
+            "topicality": 0.7497836947441101,
+            "description": "Sandal"
+        },
+        {
+            "mid": "/m/027_ny3",
+            "score": 0.6929740309715271,
+            "topicality": 0.6929740309715271,
+            "description": "Still life photography"
+        },
+        {
+            "mid": "/m/05s771",
+            "score": 0.6681299209594727,
+            "topicality": 0.6681299209594727,
+            "description": "Synthetic rubber"
+        },
+        {
+            "mid": "/m/08_4sd",
+            "score": 0.6673926711082458,
+            "topicality": 0.6673926711082458,
+            "description": "Collection"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

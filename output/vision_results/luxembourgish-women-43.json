@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/luxembourgish-women/43.png",
+    "search_query": "luxembourgish-women",
+    "position": 43,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9894450306892395,
+            "topicality": 0.9894450306892395,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9539080858230591,
+            "topicality": 0.9539080858230591,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.6323559880256653,
+            "topicality": 0.6323559880256653,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/02fq_6",
+            "score": 0.6250023245811462,
+            "topicality": 0.6250023245811462,
+            "description": "Fedora"
+        },
+        {
+            "mid": "/m/02wbtzl",
+            "score": 0.5385450124740601,
+            "topicality": 0.5385450124740601,
+            "description": "Sun hat"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

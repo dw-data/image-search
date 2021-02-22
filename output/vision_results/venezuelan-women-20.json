@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/venezuelan-women/20.jpeg",
+    "search_query": "venezuelan-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9903327822685242,
+            "topicality": 0.9903327822685242,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9893211722373962,
+            "topicality": 0.9893211722373962,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9772999882698059,
+            "topicality": 0.9772999882698059,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9765412211418152,
+            "topicality": 0.9765412211418152,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740480780601501,
+            "topicality": 0.9740480780601501,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9697640538215637,
+            "topicality": 0.9697640538215637,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9654343724250793,
+            "topicality": 0.9654343724250793,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9351544976234436,
+            "topicality": 0.9351544976234436,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9079017043113708,
+            "topicality": 0.9079017043113708,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.903776228427887,
+            "topicality": 0.903776228427887,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

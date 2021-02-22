@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/nauruan-women/12.jpeg",
+    "search_query": "nauruan-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9884611964225769,
+            "topicality": 0.9884611964225769,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879229664802551,
+            "topicality": 0.9879229664802551,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9801013469696045,
+            "topicality": 0.9801013469696045,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9005293846130371,
+            "topicality": 0.9005293846130371,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/0hgs526",
+            "score": 0.8915804624557495,
+            "topicality": 0.8915804624557495,
+            "description": "Costume accessory"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.8895961046218872,
+            "topicality": 0.8895961046218872,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8825251460075378,
+            "topicality": 0.8825251460075378,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.8759111762046814,
+            "topicality": 0.8759111762046814,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8758066892623901,
+            "topicality": 0.8758066892623901,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.873831570148468,
+            "topicality": 0.873831570148468,
+            "description": "Muscle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

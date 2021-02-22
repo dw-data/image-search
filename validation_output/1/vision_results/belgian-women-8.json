@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/belgian-women/8.jpeg",
+    "search_query": "belgian-women",
+    "position": 8,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9837755560874939,
+            "topicality": 0.9837755560874939,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703847765922546,
+            "topicality": 0.9703847765922546,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9432905316352844,
+            "topicality": 0.9432905316352844,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9376935362815857,
+            "topicality": 0.9376935362815857,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9208537936210632,
+            "topicality": 0.9208537936210632,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.8932021260261536,
+            "topicality": 0.8932021260261536,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.8903055787086487,
+            "topicality": 0.8903055787086487,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8840417861938477,
+            "topicality": 0.8840417861938477,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.859204888343811,
+            "topicality": 0.859204888343811,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8543213605880737,
+            "topicality": 0.8543213605880737,
+            "description": "Iris"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

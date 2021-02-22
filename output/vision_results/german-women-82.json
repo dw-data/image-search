@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/german-women/82.jpeg",
+    "search_query": "german-women",
+    "position": 82,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9791445732116699,
+            "topicality": 0.9791445732116699,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9789842963218689,
+            "topicality": 0.9789842963218689,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9061766266822815,
+            "topicality": 0.9061766266822815,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/019_nn",
+            "score": 0.8445181250572205,
+            "topicality": 0.8445181250572205,
+            "description": "Friendship"
+        },
+        {
+            "mid": "/m/01j0mk",
+            "score": 0.8165250420570374,
+            "topicality": 0.8165250420570374,
+            "description": "Customer"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.7422962784767151,
+            "topicality": 0.7422962784767151,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/0176mf",
+            "score": 0.7291693687438965,
+            "topicality": 0.7291693687438965,
+            "description": "Belt"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.7162216305732727,
+            "topicality": 0.7162216305732727,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.6219905614852905,
+            "topicality": 0.6219905614852905,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/09spj9",
+            "score": 0.6113743782043457,
+            "topicality": 0.6113743782043457,
+            "description": "Layered hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/finnish-women/23.jpeg",
+    "search_query": "finnish-women",
+    "position": 23,
+    "label_annotations": [
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9824930429458618,
+            "topicality": 0.9824930429458618,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.8656412363052368,
+            "topicality": 0.8656412363052368,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/02vwbzz",
+            "score": 0.8318618535995483,
+            "topicality": 0.8318618535995483,
+            "description": "Electric blue"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.8001357316970825,
+            "topicality": 0.8001357316970825,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.7455917000770569,
+            "topicality": 0.7455917000770569,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/01n5jq",
+            "score": 0.6630735397338867,
+            "topicality": 0.6630735397338867,
+            "description": "Poster"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.5453473925590515,
+            "topicality": 0.5453473925590515,
+            "description": "Bracelet"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

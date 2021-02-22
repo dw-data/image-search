@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/belgian-women/36.jpeg",
+    "search_query": "belgian-women",
+    "position": 36,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837927222251892,
+            "topicality": 0.9837927222251892,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9818215370178223,
+            "topicality": 0.9818215370178223,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790167212486267,
+            "topicality": 0.9790167212486267,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738004207611084,
+            "topicality": 0.9738004207611084,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710180163383484,
+            "topicality": 0.9710180163383484,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9075050354003906,
+            "topicality": 0.9075050354003906,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8889766335487366,
+            "topicality": 0.8889766335487366,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.8861947655677795,
+            "topicality": 0.8861947655677795,
+            "description": "Tooth"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

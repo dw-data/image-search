@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/french-women/15.jpeg",
+    "search_query": "french-women",
+    "position": 15,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9923296570777893,
+            "topicality": 0.9923296570777893,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9709926843643188,
+            "topicality": 0.9709926843643188,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/06rrc",
+            "score": 0.956835150718689,
+            "topicality": 0.956835150718689,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9537824988365173,
+            "topicality": 0.9537824988365173,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.951636791229248,
+            "topicality": 0.951636791229248,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.932523250579834,
+            "topicality": 0.932523250579834,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/06k2mb",
+            "score": 0.9253050684928894,
+            "topicality": 0.9253050684928894,
+            "description": "High heels"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9180368781089783,
+            "topicality": 0.9180368781089783,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.9149287939071655,
+            "topicality": 0.9149287939071655,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.891252338886261,
+            "topicality": 0.891252338886261,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

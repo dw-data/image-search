@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/monacan-women/13.jpeg",
+    "search_query": "monacan-women",
+    "position": 13,
+    "label_annotations": [
+        {
+            "mid": "/m/06rrc",
+            "score": 0.9625714421272278,
+            "topicality": 0.9625714421272278,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/09ggk",
+            "score": 0.9316760301589966,
+            "topicality": 0.9316760301589966,
+            "description": "Purple"
+        },
+        {
+            "mid": "/m/09kjlm",
+            "score": 0.7987277507781982,
+            "topicality": 0.7987277507781982,
+            "description": "Sneakers"
+        },
+        {
+            "mid": "/m/03bt1gh",
+            "score": 0.6524131298065186,
+            "topicality": 0.6524131298065186,
+            "description": "Games"
+        },
+        {
+            "mid": "/m/03nfch",
+            "score": 0.630242109298706,
+            "topicality": 0.630242109298706,
+            "description": "Sandal"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

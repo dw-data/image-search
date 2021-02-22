@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/moroccan-women/80.jpeg",
+    "search_query": "moroccan-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9583640694618225,
+            "topicality": 0.9583640694618225,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9329717755317688,
+            "topicality": 0.9329717755317688,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9042600989341736,
+            "topicality": 0.9042600989341736,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8209602236747742,
+            "topicality": 0.8209602236747742,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.799277663230896,
+            "topicality": 0.799277663230896,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.7978285551071167,
+            "topicality": 0.7978285551071167,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.7451547384262085,
+            "topicality": 0.7451547384262085,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.7143226861953735,
+            "topicality": 0.7143226861953735,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.7114859223365784,
+            "topicality": 0.7114859223365784,
+            "description": "Fun"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

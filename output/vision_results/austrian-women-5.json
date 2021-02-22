@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/austrian-women/5.jpeg",
+    "search_query": "austrian-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774227142333984,
+            "topicality": 0.9774227142333984,
+            "description": "People"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9730820059776306,
+            "topicality": 0.9730820059776306,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9614469408988953,
+            "topicality": 0.9614469408988953,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.9176123142242432,
+            "topicality": 0.9176123142242432,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.909800112247467,
+            "topicality": 0.909800112247467,
+            "description": "Flag"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8746481537818909,
+            "topicality": 0.8746481537818909,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.848263680934906,
+            "topicality": 0.848263680934906,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.8428778052330017,
+            "topicality": 0.8428778052330017,
+            "description": "Audience"
+        },
+        {
+            "mid": "/m/013x8v",
+            "score": 0.842229425907135,
+            "topicality": 0.842229425907135,
+            "description": "Fan"
+        },
+        {
+            "mid": "/m/053hz1",
+            "score": 0.7616316080093384,
+            "topicality": 0.7616316080093384,
+            "description": "Cheering"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

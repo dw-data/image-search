@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/russian-women/41.jpeg",
+    "search_query": "russian-women",
+    "position": 41,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.968701958656311,
+            "topicality": 0.968701958656311,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.666081428527832,
+            "topicality": 0.666081428527832,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.6487904191017151,
+            "topicality": 0.6487904191017151,
+            "description": "Day dress"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.5382373332977295,
+            "topicality": 0.5382373332977295,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/01h2w7",
+            "score": 0.5169064402580261,
+            "topicality": 0.5169064402580261,
+            "description": "Retro style"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

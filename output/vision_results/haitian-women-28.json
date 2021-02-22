@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/haitian-women/28.jpeg",
+    "search_query": "haitian-women",
+    "position": 28,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9767621755599976,
+            "topicality": 0.9767621755599976,
+            "description": "People"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.950570821762085,
+            "topicality": 0.950570821762085,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8991323709487915,
+            "topicality": 0.8991323709487915,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/09fwz6",
+            "score": 0.7251668572425842,
+            "topicality": 0.7251668572425842,
+            "description": "Lap"
+        },
+        {
+            "mid": "/m/0jnvp",
+            "score": 0.6067025065422058,
+            "topicality": 0.6067025065422058,
+            "description": "Baby"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

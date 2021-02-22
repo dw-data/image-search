@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/swedish-women/94.jpeg",
+    "search_query": "swedish-women",
+    "position": 94,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9884859323501587,
+            "topicality": 0.9884859323501587,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9792439937591553,
+            "topicality": 0.9792439937591553,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.8608940839767456,
+            "topicality": 0.8608940839767456,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.823732852935791,
+            "topicality": 0.823732852935791,
+            "description": "Team"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.7647809386253357,
+            "topicality": 0.7647809386253357,
+            "description": "Blond"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.750398576259613,
+            "topicality": 0.750398576259613,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.7279604077339172,
+            "topicality": 0.7279604077339172,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/0hr5k",
+            "score": 0.5955767035484314,
+            "topicality": 0.5955767035484314,
+            "description": "Festival"
+        },
+        {
+            "mid": "/m/01zpz",
+            "score": 0.5466815233230591,
+            "topicality": 0.5466815233230591,
+            "description": "Crew"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

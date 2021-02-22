@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/argentinian-women/100.jpeg",
+    "search_query": "argentinian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9897318482398987,
+            "topicality": 0.9897318482398987,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9884531497955322,
+            "topicality": 0.9884531497955322,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.983565092086792,
+            "topicality": 0.983565092086792,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789800643920898,
+            "topicality": 0.9789800643920898,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740626215934753,
+            "topicality": 0.9740626215934753,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9710667729377747,
+            "topicality": 0.9710667729377747,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9471117854118347,
+            "topicality": 0.9471117854118347,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9211793541908264,
+            "topicality": 0.9211793541908264,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9152769446372986,
+            "topicality": 0.9152769446372986,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9148188829421997,
+            "topicality": 0.9148188829421997,
+            "description": "Chest"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

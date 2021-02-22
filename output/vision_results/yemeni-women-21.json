@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/yemeni-women/21.jpeg",
+    "search_query": "yemeni-women",
+    "position": 21,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.9133059978485107,
+            "topicality": 0.9133059978485107,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.911828339099884,
+            "topicality": 0.911828339099884,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.5552224516868591,
+            "topicality": 0.5552224516868591,
+            "description": "Shawl"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

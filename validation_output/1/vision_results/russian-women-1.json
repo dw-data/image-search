@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/russian-women/1.jpeg",
+    "search_query": "russian-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9752435088157654,
+            "topicality": 0.9752435088157654,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9700180888175964,
+            "topicality": 0.9700180888175964,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9585741758346558,
+            "topicality": 0.9585741758346558,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9568638205528259,
+            "topicality": 0.9568638205528259,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9378188252449036,
+            "topicality": 0.9378188252449036,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9251604080200195,
+            "topicality": 0.9251604080200195,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.9250731468200684,
+            "topicality": 0.9250731468200684,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9169434905052185,
+            "topicality": 0.9169434905052185,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8541167974472046,
+            "topicality": 0.8541167974472046,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

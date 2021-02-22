@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/chilean-women/79.jpeg",
+    "search_query": "chilean-women",
+    "position": 79,
+    "label_annotations": [
+        {
+            "mid": "/m/01n32",
+            "score": 0.9262137413024902,
+            "topicality": 0.9262137413024902,
+            "description": "City"
+        },
+        {
+            "mid": "/m/01lqfm",
+            "score": 0.9250843524932861,
+            "topicality": 0.9250843524932861,
+            "description": "Public space"
+        },
+        {
+            "mid": "/m/01c8br",
+            "score": 0.8815774917602539,
+            "topicality": 0.8815774917602539,
+            "description": "Street"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.86664217710495,
+            "topicality": 0.86664217710495,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/017r8p",
+            "score": 0.8449518084526062,
+            "topicality": 0.8449518084526062,
+            "description": "Pedestrian"
+        },
+        {
+            "mid": "/m/011s0",
+            "score": 0.8299176692962646,
+            "topicality": 0.8299176692962646,
+            "description": "Advertising"
+        },
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.792546808719635,
+            "topicality": 0.792546808719635,
+            "description": "Banner"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.7130635380744934,
+            "topicality": 0.7130635380744934,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/01l7t2",
+            "score": 0.7048782110214233,
+            "topicality": 0.7048782110214233,
+            "description": "Downtown"
+        },
+        {
+            "mid": "/m/083mg",
+            "score": 0.5925312638282776,
+            "topicality": 0.5925312638282776,
+            "description": "Walking"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

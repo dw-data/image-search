@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/italian-women/70.jpeg",
+    "search_query": "italian-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9357892274856567,
+            "topicality": 0.9357892274856567,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9323943257331848,
+            "topicality": 0.9323943257331848,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9081891179084778,
+            "topicality": 0.9081891179084778,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8770103454589844,
+            "topicality": 0.8770103454589844,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8511789441108704,
+            "topicality": 0.8511789441108704,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.7951430678367615,
+            "topicality": 0.7951430678367615,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.7773721218109131,
+            "topicality": 0.7773721218109131,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/02w3_2",
+            "score": 0.7652387619018555,
+            "topicality": 0.7652387619018555,
+            "description": "Formal wear"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.762669026851654,
+            "topicality": 0.762669026851654,
+            "description": "Waist"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

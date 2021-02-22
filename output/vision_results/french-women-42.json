@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/french-women/42.jpeg",
+    "search_query": "french-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9922871589660645,
+            "topicality": 0.9922871589660645,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9892997145652771,
+            "topicality": 0.9892997145652771,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739298820495605,
+            "topicality": 0.9739298820495605,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639008045196533,
+            "topicality": 0.9639008045196533,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/0271t",
+            "score": 0.9403468370437622,
+            "topicality": 0.9403468370437622,
+            "description": "Drink"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9326044321060181,
+            "topicality": 0.9326044321060181,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/050h26",
+            "score": 0.9277659058570862,
+            "topicality": 0.9277659058570862,
+            "description": "Drinkware"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9084349274635315,
+            "topicality": 0.9084349274635315,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8821079134941101,
+            "topicality": 0.8821079134941101,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

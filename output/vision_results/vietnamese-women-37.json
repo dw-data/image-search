@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/vietnamese-women/37.jpeg",
+    "search_query": "vietnamese-women",
+    "position": 37,
+    "label_annotations": [
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9478124380111694,
+            "topicality": 0.9478124380111694,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8819499611854553,
+            "topicality": 0.8819499611854553,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.8686746954917908,
+            "topicality": 0.8686746954917908,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.8303219079971313,
+            "topicality": 0.8303219079971313,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.6787243485450745,
+            "topicality": 0.6787243485450745,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.5653179287910461,
+            "topicality": 0.5653179287910461,
+            "description": "Portrait"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

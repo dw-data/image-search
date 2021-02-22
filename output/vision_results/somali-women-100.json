@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/somali-women/100.jpeg",
+    "search_query": "somali-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9883357882499695,
+            "topicality": 0.9883357882499695,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0bmgjqz",
+            "score": 0.9772377610206604,
+            "topicality": 0.9772377610206604,
+            "description": "Sport venue"
+        },
+        {
+            "mid": "/m/03x045",
+            "score": 0.9731975197792053,
+            "topicality": 0.9731975197792053,
+            "description": "Team sport"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9552092552185059,
+            "topicality": 0.9552092552185059,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/018w8",
+            "score": 0.9475359320640564,
+            "topicality": 0.9475359320640564,
+            "description": "Basketball"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9405167102813721,
+            "topicality": 0.9405167102813721,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/0frqg3",
+            "score": 0.9327029585838318,
+            "topicality": 0.9327029585838318,
+            "description": "Basketball"
+        },
+        {
+            "mid": "/m/0329yh",
+            "score": 0.9211686849594116,
+            "topicality": 0.9211686849594116,
+            "description": "Basketball court"
+        },
+        {
+            "mid": "/m/020m7t",
+            "score": 0.9125015735626221,
+            "topicality": 0.9125015735626221,
+            "description": "Ball game"
+        },
+        {
+            "mid": "/m/06ntj",
+            "score": 0.904878556728363,
+            "topicality": 0.904878556728363,
+            "description": "Sports"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

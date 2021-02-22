@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/malian-women/95.jpeg",
+    "search_query": "malian-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/09l63h",
+            "score": 0.7700350880622864,
+            "topicality": 0.7700350880622864,
+            "description": "Military camouflage"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.6393377184867859,
+            "topicality": 0.6393377184867859,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.6013590693473816,
+            "topicality": 0.6013590693473816,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/01x2j",
+            "score": 0.5473340153694153,
+            "topicality": 0.5473340153694153,
+            "description": "Camouflage"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

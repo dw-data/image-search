@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/palestinian-women/20.jpeg",
+    "search_query": "palestinian-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9894872307777405,
+            "topicality": 0.9894872307777405,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9840540885925293,
+            "topicality": 0.9840540885925293,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9817726612091064,
+            "topicality": 0.9817726612091064,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977327823638916,
+            "topicality": 0.977327823638916,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9725969433784485,
+            "topicality": 0.9725969433784485,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.9722304940223694,
+            "topicality": 0.9722304940223694,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/038hg",
+            "score": 0.9682336449623108,
+            "topicality": 0.9682336449623108,
+            "description": "Green"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9663559794425964,
+            "topicality": 0.9663559794425964,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9394984245300293,
+            "topicality": 0.9394984245300293,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.927425742149353,
+            "topicality": 0.927425742149353,
+            "description": "Crowd"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

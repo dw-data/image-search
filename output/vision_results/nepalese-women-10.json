@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/nepalese-women/10.jpeg",
+    "search_query": "nepalese-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9797641634941101,
+            "topicality": 0.9797641634941101,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9585985541343689,
+            "topicality": 0.9585985541343689,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9472459554672241,
+            "topicality": 0.9472459554672241,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0cnxs6x",
+            "score": 0.913419246673584,
+            "topicality": 0.913419246673584,
+            "description": "Tooth"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.8767057061195374,
+            "topicality": 0.8767057061195374,
+            "description": "Bracelet"
+        },
+        {
+            "mid": "/m/01bmhj",
+            "score": 0.8687976598739624,
+            "topicality": 0.8687976598739624,
+            "description": "Thumb"
+        },
+        {
+            "mid": "/m/019_nn",
+            "score": 0.8404664397239685,
+            "topicality": 0.8404664397239685,
+            "description": "Friendship"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.8211843967437744,
+            "topicality": 0.8211843967437744,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/01j3sz",
+            "score": 0.7703424096107483,
+            "topicality": 0.7703424096107483,
+            "description": "Laugh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

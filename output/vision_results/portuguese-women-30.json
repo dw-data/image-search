@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/portuguese-women/30.jpeg",
+    "search_query": "portuguese-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9926878213882446,
+            "topicality": 0.9926878213882446,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9915226101875305,
+            "topicality": 0.9915226101875305,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.984917163848877,
+            "topicality": 0.984917163848877,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9814629554748535,
+            "topicality": 0.9814629554748535,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/07mhn",
+            "score": 0.969921886920929,
+            "topicality": 0.969921886920929,
+            "description": "Trousers"
+        },
+        {
+            "mid": "/m/0hgr6",
+            "score": 0.9695340991020203,
+            "topicality": 0.9695340991020203,
+            "description": "Denim"
+        },
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.9594295024871826,
+            "topicality": 0.9594295024871826,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/0b48hv",
+            "score": 0.9575222134590149,
+            "topicality": 0.9575222134590149,
+            "description": "Rainbow"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.9536558389663696,
+            "topicality": 0.9536558389663696,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/0fly7",
+            "score": 0.9535938501358032,
+            "topicality": 0.9535938501358032,
+            "description": "Jeans"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

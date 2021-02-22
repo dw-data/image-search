@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/guatemalan-women/100.jpeg",
+    "search_query": "guatemalan-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9827703833580017,
+            "topicality": 0.9827703833580017,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9754737615585327,
+            "topicality": 0.9754737615585327,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703812599182129,
+            "topicality": 0.9703812599182129,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9416245222091675,
+            "topicality": 0.9416245222091675,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.936501681804657,
+            "topicality": 0.936501681804657,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9037721157073975,
+            "topicality": 0.9037721157073975,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8860082626342773,
+            "topicality": 0.8860082626342773,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8796594738960266,
+            "topicality": 0.8796594738960266,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8741771578788757,
+            "topicality": 0.8741771578788757,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

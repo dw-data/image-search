@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/australian-women/91.png",
+    "search_query": "australian-women",
+    "position": 91,
+    "label_annotations": [
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9762367010116577,
+            "topicality": 0.9762367010116577,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9503351449966431,
+            "topicality": 0.9503351449966431,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9465137720108032,
+            "topicality": 0.9465137720108032,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8815891742706299,
+            "topicality": 0.8815891742706299,
+            "description": "Neck"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8535382151603699,
+            "topicality": 0.8535382151603699,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.798672616481781,
+            "topicality": 0.798672616481781,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.7726269960403442,
+            "topicality": 0.7726269960403442,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.7067779898643494,
+            "topicality": 0.7067779898643494,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.699778139591217,
+            "topicality": 0.699778139591217,
+            "description": "Human leg"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

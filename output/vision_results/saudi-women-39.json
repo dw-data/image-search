@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/saudi-women/39.jpeg",
+    "search_query": "saudi-women",
+    "position": 39,
+    "label_annotations": [
+        {
+            "mid": "/m/019sc",
+            "score": 0.8788009881973267,
+            "topicality": 0.8788009881973267,
+            "description": "Black"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.5611934065818787,
+            "topicality": 0.5611934065818787,
+            "description": "Abaya"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

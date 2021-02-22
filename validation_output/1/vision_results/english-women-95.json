@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/english-women/95.jpeg",
+    "search_query": "english-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9832130670547485,
+            "topicality": 0.9832130670547485,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9627216458320618,
+            "topicality": 0.9627216458320618,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9075213670730591,
+            "topicality": 0.9075213670730591,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8987988233566284,
+            "topicality": 0.8987988233566284,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.8858332633972168,
+            "topicality": 0.8858332633972168,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8819944262504578,
+            "topicality": 0.8819944262504578,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.8417196273803711,
+            "topicality": 0.8417196273803711,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.803149938583374,
+            "topicality": 0.803149938583374,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/01h1dd",
+            "score": 0.7681577801704407,
+            "topicality": 0.7681577801704407,
+            "description": "Publication"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.7345631122589111,
+            "topicality": 0.7345631122589111,
+            "description": "Brassiere"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

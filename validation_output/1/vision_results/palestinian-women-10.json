@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/palestinian-women/10.jpeg",
+    "search_query": "palestinian-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9705954790115356,
+            "topicality": 0.9705954790115356,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9566290974617004,
+            "topicality": 0.9566290974617004,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9529027342796326,
+            "topicality": 0.9529027342796326,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9445539712905884,
+            "topicality": 0.9445539712905884,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9354977011680603,
+            "topicality": 0.9354977011680603,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9314682483673096,
+            "topicality": 0.9314682483673096,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.887221097946167,
+            "topicality": 0.887221097946167,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

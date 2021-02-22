@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/american-women/1.jpeg",
+    "search_query": "american-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9838098883628845,
+            "topicality": 0.9838098883628845,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9836313128471375,
+            "topicality": 0.9836313128471375,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9805214405059814,
+            "topicality": 0.9805214405059814,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9694957733154297,
+            "topicality": 0.9694957733154297,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9437013268470764,
+            "topicality": 0.9437013268470764,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9371774196624756,
+            "topicality": 0.9371774196624756,
+            "description": "Eye"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8897316455841064,
+            "topicality": 0.8897316455841064,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8767379522323608,
+            "topicality": 0.8767379522323608,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8525198698043823,
+            "topicality": 0.8525198698043823,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8416243195533752,
+            "topicality": 0.8416243195533752,
+            "description": "Iris"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

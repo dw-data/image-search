@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mujeres-colombianas/6.jpeg",
+    "search_query": "mujeres-colombianas",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9845804572105408,
+            "topicality": 0.9845804572105408,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9835785627365112,
+            "topicality": 0.9835785627365112,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9802943468093872,
+            "topicality": 0.9802943468093872,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9330111742019653,
+            "topicality": 0.9330111742019653,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9157732725143433,
+            "topicality": 0.9157732725143433,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9096412062644958,
+            "topicality": 0.9096412062644958,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8958449363708496,
+            "topicality": 0.8958449363708496,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.8867411017417908,
+            "topicality": 0.8867411017417908,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.8802319169044495,
+            "topicality": 0.8802319169044495,
+            "description": "Swimwear"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.868815541267395,
+            "topicality": 0.868815541267395,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

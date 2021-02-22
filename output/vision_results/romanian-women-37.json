@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/romanian-women/37.jpeg",
+    "search_query": "romanian-women",
+    "position": 37,
+    "label_annotations": [
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9694364070892334,
+            "topicality": 0.9694364070892334,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9666456580162048,
+            "topicality": 0.9666456580162048,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/09fwz6",
+            "score": 0.8319797515869141,
+            "topicality": 0.8319797515869141,
+            "description": "Lap"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.7986981272697449,
+            "topicality": 0.7986981272697449,
+            "description": "Conversation"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.7869431972503662,
+            "topicality": 0.7869431972503662,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.5873404741287231,
+            "topicality": 0.5873404741287231,
+            "description": "Day dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

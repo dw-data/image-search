@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mujeres-colombianas/5.jpeg",
+    "search_query": "mujeres-colombianas",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9868794083595276,
+            "topicality": 0.9868794083595276,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.984123945236206,
+            "topicality": 0.984123945236206,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9837052822113037,
+            "topicality": 0.9837052822113037,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9771600365638733,
+            "topicality": 0.9771600365638733,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9752026200294495,
+            "topicality": 0.9752026200294495,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9734363555908203,
+            "topicality": 0.9734363555908203,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9685150384902954,
+            "topicality": 0.9685150384902954,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9539738297462463,
+            "topicality": 0.9539738297462463,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9459301829338074,
+            "topicality": 0.9459301829338074,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9402114152908325,
+            "topicality": 0.9402114152908325,
+            "description": "Eye"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

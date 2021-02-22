@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/danish-women/28.jpeg",
+    "search_query": "danish-women",
+    "position": 28,
+    "label_annotations": [
+        {
+            "mid": "/m/06rrc",
+            "score": 0.9556083083152771,
+            "topicality": 0.9556083083152771,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9083160161972046,
+            "topicality": 0.9083160161972046,
+            "description": "Leg"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8857053518295288,
+            "topicality": 0.8857053518295288,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8584804534912109,
+            "topicality": 0.8584804534912109,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/0715t2",
+            "score": 0.8373527526855469,
+            "topicality": 0.8373527526855469,
+            "description": "Calf"
+        },
+        {
+            "mid": "/m/0hgscdg",
+            "score": 0.835684061050415,
+            "topicality": 0.835684061050415,
+            "description": "Basic pump"
+        },
+        {
+            "mid": "/m/05qjc",
+            "score": 0.8274803161621094,
+            "topicality": 0.8274803161621094,
+            "description": "Performing arts"
+        },
+        {
+            "mid": "/m/02jjt",
+            "score": 0.8255226016044617,
+            "topicality": 0.8255226016044617,
+            "description": "Entertainment"
+        },
+        {
+            "mid": "/m/026bk",
+            "score": 0.8227571845054626,
+            "topicality": 0.8227571845054626,
+            "description": "Dance"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/babaeng-pilipino/10.jpeg",
+    "search_query": "babaeng-pilipino",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9790328145027161,
+            "topicality": 0.9790328145027161,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702104926109314,
+            "topicality": 0.9702104926109314,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9413828253746033,
+            "topicality": 0.9413828253746033,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9150525331497192,
+            "topicality": 0.9150525331497192,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8852908611297607,
+            "topicality": 0.8852908611297607,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.8817472457885742,
+            "topicality": 0.8817472457885742,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8550723195075989,
+            "topicality": 0.8550723195075989,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.7930094003677368,
+            "topicality": 0.7930094003677368,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/09spj9",
+            "score": 0.7851197123527527,
+            "topicality": 0.7851197123527527,
+            "description": "Layered hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/macanese-women/84.png",
+    "search_query": "macanese-women",
+    "position": 84,
+    "label_annotations": [
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.7624309062957764,
+            "topicality": 0.7624309062957764,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/05qdh",
+            "score": 0.7347791194915771,
+            "topicality": 0.7347791194915771,
+            "description": "Painting"
+        },
+        {
+            "mid": "/m/01b638",
+            "score": 0.5116519927978516,
+            "topicality": 0.5116519927978516,
+            "description": "Boot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/english-women/10.jpeg",
+    "search_query": "english-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9899250268936157,
+            "topicality": 0.9899250268936157,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.988778293132782,
+            "topicality": 0.988778293132782,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773587584495544,
+            "topicality": 0.9773587584495544,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9734117984771729,
+            "topicality": 0.9734117984771729,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9650635123252869,
+            "topicality": 0.9650635123252869,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9523671269416809,
+            "topicality": 0.9523671269416809,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9404016137123108,
+            "topicality": 0.9404016137123108,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9261649250984192,
+            "topicality": 0.9261649250984192,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/0271t",
+            "score": 0.9117757081985474,
+            "topicality": 0.9117757081985474,
+            "description": "Drink"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8985381126403809,
+            "topicality": 0.8985381126403809,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

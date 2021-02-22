@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/thai-women/35.jpeg",
+    "search_query": "thai-women",
+    "position": 35,
+    "label_annotations": [
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9652831554412842,
+            "topicality": 0.9652831554412842,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0fm3zh",
+            "score": 0.7960282564163208,
+            "topicality": 0.7960282564163208,
+            "description": "Flowerpot"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.7656109929084778,
+            "topicality": 0.7656109929084778,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/03fp41",
+            "score": 0.6389058828353882,
+            "topicality": 0.6389058828353882,
+            "description": "Houseplant"
+        },
+        {
+            "mid": "/m/01bqk0",
+            "score": 0.5975688099861145,
+            "topicality": 0.5975688099861145,
+            "description": "Bicycle wheel"
+        },
+        {
+            "mid": "/m/04_sv",
+            "score": 0.5245653390884399,
+            "topicality": 0.5245653390884399,
+            "description": "Motorcycle"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.5053273439407349,
+            "topicality": 0.5053273439407349,
+            "description": "Sleeveless shirt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/micronesian-women/39.jpeg",
+    "search_query": "micronesian-women",
+    "position": 39,
+    "label_annotations": [
+        {
+            "mid": "/m/08t9c_",
+            "score": 0.9782481789588928,
+            "topicality": 0.9782481789588928,
+            "description": "Grass"
+        },
+        {
+            "mid": "/m/018ssc",
+            "score": 0.7927334904670715,
+            "topicality": 0.7927334904670715,
+            "description": "Groundcover"
+        },
+        {
+            "mid": "/m/01v327",
+            "score": 0.6964561939239502,
+            "topicality": 0.6964561939239502,
+            "description": "Lawn"
+        },
+        {
+            "mid": "/m/04m6gz",
+            "score": 0.5915411710739136,
+            "topicality": 0.5915411710739136,
+            "description": "Porch"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

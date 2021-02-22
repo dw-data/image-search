@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/marshallese-women/41.jpeg",
+    "search_query": "marshallese-women",
+    "position": 41,
+    "label_annotations": [
+        {
+            "mid": "/m/088fh",
+            "score": 0.9737580418586731,
+            "topicality": 0.9737580418586731,
+            "description": "Yellow"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9450762271881104,
+            "topicality": 0.9450762271881104,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0ytgt",
+            "score": 0.9307880997657776,
+            "topicality": 0.9307880997657776,
+            "description": "Child"
+        },
+        {
+            "mid": "/m/0cp_p",
+            "score": 0.5209274291992188,
+            "topicality": 0.5209274291992188,
+            "description": "Taste"
+        },
+        {
+            "mid": "/m/01f5gx",
+            "score": 0.5067322850227356,
+            "topicality": 0.5067322850227356,
+            "description": "Eating"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

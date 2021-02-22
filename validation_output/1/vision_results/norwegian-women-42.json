@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/norwegian-women/42.jpeg",
+    "search_query": "norwegian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9846068024635315,
+            "topicality": 0.9846068024635315,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9840565323829651,
+            "topicality": 0.9840565323829651,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9827024340629578,
+            "topicality": 0.9827024340629578,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9755051732063293,
+            "topicality": 0.9755051732063293,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9719244241714478,
+            "topicality": 0.9719244241714478,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009718894958,
+            "topicality": 0.9509009718894958,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9373247027397156,
+            "topicality": 0.9373247027397156,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.93321293592453,
+            "topicality": 0.93321293592453,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/083jv",
+            "score": 0.9218639135360718,
+            "topicality": 0.9218639135360718,
+            "description": "White"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9038957357406616,
+            "topicality": 0.9038957357406616,
+            "description": "Human"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

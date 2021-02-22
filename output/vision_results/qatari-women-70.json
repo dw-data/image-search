@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/qatari-women/70.jpeg",
+    "search_query": "qatari-women",
+    "position": 70,
+    "label_annotations": [
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9584935307502747,
+            "topicality": 0.9584935307502747,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/050k8",
+            "score": 0.7777767777442932,
+            "topicality": 0.7777767777442932,
+            "description": "Mobile phone"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6014663577079773,
+            "topicality": 0.6014663577079773,
+            "description": "Makeover"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

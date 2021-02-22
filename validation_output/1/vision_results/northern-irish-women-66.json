@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/northern-irish-women/66.jpeg",
+    "search_query": "northern-irish-women",
+    "position": 66,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9830644130706787,
+            "topicality": 0.9830644130706787,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9666911959648132,
+            "topicality": 0.9666911959648132,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9647465944290161,
+            "topicality": 0.9647465944290161,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8852158784866333,
+            "topicality": 0.8852158784866333,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8497418165206909,
+            "topicality": 0.8497418165206909,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8433511257171631,
+            "topicality": 0.8433511257171631,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.833916187286377,
+            "topicality": 0.833916187286377,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.8082892298698425,
+            "topicality": 0.8082892298698425,
+            "description": "Community"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

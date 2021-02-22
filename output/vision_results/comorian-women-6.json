@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/comorian-women/6.jpeg",
+    "search_query": "comorian-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.7714312076568604,
+            "topicality": 0.7714312076568604,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.6642811298370361,
+            "topicality": 0.6642811298370361,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/036jvk",
+            "score": 0.5596134066581726,
+            "topicality": 0.5596134066581726,
+            "description": "Stock photography"
+        },
+        {
+            "mid": "/m/03g3w",
+            "score": 0.5138056874275208,
+            "topicality": 0.5138056874275208,
+            "description": "History"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/basotho-women/60.jpeg",
+    "search_query": "basotho-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/0404d",
+            "score": 0.9104012846946716,
+            "topicality": 0.9104012846946716,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.8354108929634094,
+            "topicality": 0.8354108929634094,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.7865780591964722,
+            "topicality": 0.7865780591964722,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6955811381340027,
+            "topicality": 0.6955811381340027,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/06httj",
+            "score": 0.6589347124099731,
+            "topicality": 0.6589347124099731,
+            "description": "Linens"
+        },
+        {
+            "mid": "/m/01s_bn",
+            "score": 0.5256548523902893,
+            "topicality": 0.5256548523902893,
+            "description": "Button"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.5081645846366882,
+            "topicality": 0.5081645846366882,
+            "description": "Portrait"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

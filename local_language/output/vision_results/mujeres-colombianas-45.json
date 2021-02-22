@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mujeres-colombianas/45.jpeg",
+    "search_query": "mujeres-colombianas",
+    "position": 45,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9834031462669373,
+            "topicality": 0.9834031462669373,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9698799252510071,
+            "topicality": 0.9698799252510071,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9657582640647888,
+            "topicality": 0.9657582640647888,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9478034377098083,
+            "topicality": 0.9478034377098083,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/02q7ylj",
+            "score": 0.9461674094200134,
+            "topicality": 0.9461674094200134,
+            "description": "Daytime"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9422497153282166,
+            "topicality": 0.9422497153282166,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9381088018417358,
+            "topicality": 0.9381088018417358,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9330382347106934,
+            "topicality": 0.9330382347106934,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/01g5v",
+            "score": 0.9293925762176514,
+            "topicality": 0.9293925762176514,
+            "description": "Blue"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

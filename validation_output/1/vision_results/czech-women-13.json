@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/czech-women/13.jpeg",
+    "search_query": "czech-women",
+    "position": 13,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.975507915019989,
+            "topicality": 0.975507915019989,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9706547856330872,
+            "topicality": 0.9706547856330872,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9669410586357117,
+            "topicality": 0.9669410586357117,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9518646597862244,
+            "topicality": 0.9518646597862244,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/02q7ylj",
+            "score": 0.9452401995658875,
+            "topicality": 0.9452401995658875,
+            "description": "Daytime"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9424849152565002,
+            "topicality": 0.9424849152565002,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9329330325126648,
+            "topicality": 0.9329330325126648,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9241264462471008,
+            "topicality": 0.9241264462471008,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8861109018325806,
+            "topicality": 0.8861109018325806,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8765475153923035,
+            "topicality": 0.8765475153923035,
+            "description": "Iris"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

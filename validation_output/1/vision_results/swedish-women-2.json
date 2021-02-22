@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/swedish-women/2.jpeg",
+    "search_query": "swedish-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9829434752464294,
+            "topicality": 0.9829434752464294,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9695394039154053,
+            "topicality": 0.9695394039154053,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9667438268661499,
+            "topicality": 0.9667438268661499,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9073672294616699,
+            "topicality": 0.9073672294616699,
+            "description": "Smile"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8858521580696106,
+            "topicality": 0.8858521580696106,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/083vt",
+            "score": 0.8721455931663513,
+            "topicality": 0.8721455931663513,
+            "description": "Wood"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8676227331161499,
+            "topicality": 0.8676227331161499,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.843479335308075,
+            "topicality": 0.843479335308075,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8326825499534607,
+            "topicality": 0.8326825499534607,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/09qqq",
+            "score": 0.819916307926178,
+            "topicality": 0.819916307926178,
+            "description": "Wall"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

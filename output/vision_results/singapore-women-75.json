@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/singapore-women/75.jpeg",
+    "search_query": "singapore-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9798516631126404,
+            "topicality": 0.9798516631126404,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9691645503044128,
+            "topicality": 0.9691645503044128,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9664807319641113,
+            "topicality": 0.9664807319641113,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9655985832214355,
+            "topicality": 0.9655985832214355,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9539908766746521,
+            "topicality": 0.9539908766746521,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9320876598358154,
+            "topicality": 0.9320876598358154,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.927895188331604,
+            "topicality": 0.927895188331604,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/0216vm",
+            "score": 0.9275928139686584,
+            "topicality": 0.9275928139686584,
+            "description": "Slipper"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.9075947403907776,
+            "topicality": 0.9075947403907776,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/02jt0t",
+            "score": 0.8963969349861145,
+            "topicality": 0.8963969349861145,
+            "description": "Little black dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

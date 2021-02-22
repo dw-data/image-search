@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/norwegian-women/10.jpeg",
+    "search_query": "norwegian-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.973482608795166,
+            "topicality": 0.973482608795166,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.970497727394104,
+            "topicality": 0.970497727394104,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9435378313064575,
+            "topicality": 0.9435378313064575,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9246888160705566,
+            "topicality": 0.9246888160705566,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.8991411328315735,
+            "topicality": 0.8991411328315735,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8800880908966064,
+            "topicality": 0.8800880908966064,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/06fvc",
+            "score": 0.8208772540092468,
+            "topicality": 0.8208772540092468,
+            "description": "Red"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8207904696464539,
+            "topicality": 0.8207904696464539,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.817180335521698,
+            "topicality": 0.817180335521698,
+            "description": "Black hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/finnish-women/16.jpeg",
+    "search_query": "finnish-women",
+    "position": 16,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9864831566810608,
+            "topicality": 0.9864831566810608,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9834451675415039,
+            "topicality": 0.9834451675415039,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9833778142929077,
+            "topicality": 0.9833778142929077,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9732121229171753,
+            "topicality": 0.9732121229171753,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702028036117554,
+            "topicality": 0.9702028036117554,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/05s2s",
+            "score": 0.9613515734672546,
+            "topicality": 0.9613515734672546,
+            "description": "Plant"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9393629431724548,
+            "topicality": 0.9393629431724548,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.936771035194397,
+            "topicality": 0.936771035194397,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9107618927955627,
+            "topicality": 0.9107618927955627,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8947241306304932,
+            "topicality": 0.8947241306304932,
+            "description": "Dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

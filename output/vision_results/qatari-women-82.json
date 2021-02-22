@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/qatari-women/82.jpeg",
+    "search_query": "qatari-women",
+    "position": 82,
+    "label_annotations": [
+        {
+            "mid": "/m/011s0",
+            "score": 0.8284834027290344,
+            "topicality": 0.8284834027290344,
+            "description": "Advertising"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.8211983442306519,
+            "topicality": 0.8211983442306519,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.7890966534614563,
+            "topicality": 0.7890966534614563,
+            "description": "Banner"
+        },
+        {
+            "mid": "/m/01444p",
+            "score": 0.7394868731498718,
+            "topicality": 0.7394868731498718,
+            "description": "Cloak"
+        },
+        {
+            "mid": "/m/05p3ygh",
+            "score": 0.5983954668045044,
+            "topicality": 0.5983954668045044,
+            "description": "Mantle"
+        },
+        {
+            "mid": "/m/03bxgrp",
+            "score": 0.5375447273254395,
+            "topicality": 0.5375447273254395,
+            "description": "Company"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

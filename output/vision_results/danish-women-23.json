@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/danish-women/23.jpeg",
+    "search_query": "danish-women",
+    "position": 23,
+    "label_annotations": [
+        {
+            "mid": "/m/062581",
+            "score": 0.9710165858268738,
+            "topicality": 0.9710165858268738,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9693856239318848,
+            "topicality": 0.9693856239318848,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9655866026878357,
+            "topicality": 0.9655866026878357,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540143013000488,
+            "topicality": 0.9540143013000488,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9341387748718262,
+            "topicality": 0.9341387748718262,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9339087009429932,
+            "topicality": 0.9339087009429932,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8958212733268738,
+            "topicality": 0.8958212733268738,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0hgn_pr",
+            "score": 0.859406054019928,
+            "topicality": 0.859406054019928,
+            "description": "Active pants"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.8465732336044312,
+            "topicality": 0.8465732336044312,
+            "description": "Fashion model"
+        },
+        {
+            "mid": "/m/0d1pc",
+            "score": 0.8277451992034912,
+            "topicality": 0.8277451992034912,
+            "description": "Model"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

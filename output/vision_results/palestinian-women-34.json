@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/palestinian-women/34.jpeg",
+    "search_query": "palestinian-women",
+    "position": 34,
+    "label_annotations": [
+        {
+            "mid": "/m/02_41",
+            "score": 0.7746122479438782,
+            "topicality": 0.7746122479438782,
+            "description": "Fire"
+        },
+        {
+            "mid": "/m/066xq",
+            "score": 0.7588032484054565,
+            "topicality": 0.7588032484054565,
+            "description": "Pollution"
+        },
+        {
+            "mid": "/m/0174n1",
+            "score": 0.6789391040802002,
+            "topicality": 0.6789391040802002,
+            "description": "Glove"
+        },
+        {
+            "mid": "/m/06q40",
+            "score": 0.6247103214263916,
+            "topicality": 0.6247103214263916,
+            "description": "Smoke"
+        },
+        {
+            "mid": "/m/01f415",
+            "score": 0.5962265729904175,
+            "topicality": 0.5962265729904175,
+            "description": "Flame"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

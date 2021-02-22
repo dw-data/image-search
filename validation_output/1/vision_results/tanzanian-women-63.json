@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/tanzanian-women/63.jpeg",
+    "search_query": "tanzanian-women",
+    "position": 63,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9833794236183167,
+            "topicality": 0.9833794236183167,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9739087224006653,
+            "topicality": 0.9739087224006653,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9649480581283569,
+            "topicality": 0.9649480581283569,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9449142813682556,
+            "topicality": 0.9449142813682556,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.927828311920166,
+            "topicality": 0.927828311920166,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9051922559738159,
+            "topicality": 0.9051922559738159,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/0f748",
+            "score": 0.8583623170852661,
+            "topicality": 0.8583623170852661,
+            "description": "Apron"
+        },
+        {
+            "mid": "/m/01mw2x",
+            "score": 0.824536919593811,
+            "topicality": 0.824536919593811,
+            "description": "Health care"
+        },
+        {
+            "mid": "/m/073g6",
+            "score": 0.8021934628486633,
+            "topicality": 0.8021934628486633,
+            "description": "Stethoscope"
+        },
+        {
+            "mid": "/m/028hfb",
+            "score": 0.783374011516571,
+            "topicality": 0.783374011516571,
+            "description": "Patient"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/north-korean-women/20.jpeg",
+    "search_query": "north-korean-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/0b5gs",
+            "score": 0.9821791648864746,
+            "topicality": 0.9821791648864746,
+            "description": "Branch"
+        },
+        {
+            "mid": "/m/016nqt",
+            "score": 0.9262146949768066,
+            "topicality": 0.9262146949768066,
+            "description": "Twig"
+        },
+        {
+            "mid": "/m/06nrc",
+            "score": 0.6993846893310547,
+            "topicality": 0.6993846893310547,
+            "description": "Shotgun"
+        },
+        {
+            "mid": "/m/01b638",
+            "score": 0.6414479613304138,
+            "topicality": 0.6414479613304138,
+            "description": "Boot"
+        },
+        {
+            "mid": "/m/099md",
+            "score": 0.6382499933242798,
+            "topicality": 0.6382499933242798,
+            "description": "Soldier"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

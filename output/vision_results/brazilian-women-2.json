@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/brazilian-women/2.jpeg",
+    "search_query": "brazilian-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9922446608543396,
+            "topicality": 0.9922446608543396,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9794808626174927,
+            "topicality": 0.9794808626174927,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9787165522575378,
+            "topicality": 0.9787165522575378,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9779788851737976,
+            "topicality": 0.9779788851737976,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/01g8j",
+            "score": 0.962139368057251,
+            "topicality": 0.962139368057251,
+            "description": "Bikini"
+        },
+        {
+            "mid": "/m/01gkx_",
+            "score": 0.9608258605003357,
+            "topicality": 0.9608258605003357,
+            "description": "Swimwear"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9581232666969299,
+            "topicality": 0.9581232666969299,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9481903314590454,
+            "topicality": 0.9481903314590454,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/09j1x",
+            "score": 0.9429662823677063,
+            "topicality": 0.9429662823677063,
+            "description": "Undergarment"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

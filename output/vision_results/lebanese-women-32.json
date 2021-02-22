@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/lebanese-women/32.png",
+    "search_query": "lebanese-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9787815809249878,
+            "topicality": 0.9787815809249878,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681845307350159,
+            "topicality": 0.9681845307350159,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/06m724",
+            "score": 0.6847867965698242,
+            "topicality": 0.6847867965698242,
+            "description": "Mime artist"
+        },
+        {
+            "mid": "/m/09kqc",
+            "score": 0.5549836754798889,
+            "topicality": 0.5549836754798889,
+            "description": "Humour"
+        },
+        {
+            "mid": "/m/01sfl",
+            "score": 0.5414378046989441,
+            "topicality": 0.5414378046989441,
+            "description": "Clown"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/monacan-women/38.jpeg",
+    "search_query": "monacan-women",
+    "position": 38,
+    "label_annotations": [
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9816488027572632,
+            "topicality": 0.9816488027572632,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/083vt",
+            "score": 0.9775014519691467,
+            "topicality": 0.9775014519691467,
+            "description": "Wood"
+        },
+        {
+            "mid": "/m/01z562",
+            "score": 0.5921590924263,
+            "topicality": 0.5921590924263,
+            "description": "Basket"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

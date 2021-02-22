@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/cambodian-women/99.jpeg",
+    "search_query": "cambodian-women",
+    "position": 99,
+    "label_annotations": [
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9569762945175171,
+            "topicality": 0.9569762945175171,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9344539046287537,
+            "topicality": 0.9344539046287537,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828155994415283,
+            "topicality": 0.8828155994415283,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/027337",
+            "score": 0.6649174094200134,
+            "topicality": 0.6649174094200134,
+            "description": "Artisan"
+        },
+        {
+            "mid": "/m/025dq0",
+            "score": 0.5832855105400085,
+            "topicality": 0.5832855105400085,
+            "description": "Sari"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

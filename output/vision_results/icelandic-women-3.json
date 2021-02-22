@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/icelandic-women/3.jpeg",
+    "search_query": "icelandic-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9891871213912964,
+            "topicality": 0.9891871213912964,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9791797995567322,
+            "topicality": 0.9791797995567322,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739640355110168,
+            "topicality": 0.9739640355110168,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/0h8k4j9",
+            "score": 0.9625888466835022,
+            "topicality": 0.9625888466835022,
+            "description": "Hair accessory"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9599859714508057,
+            "topicality": 0.9599859714508057,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/02fbqn",
+            "score": 0.9509666562080383,
+            "topicality": 0.9509666562080383,
+            "description": "Headpiece"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9420077800750732,
+            "topicality": 0.9420077800750732,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9329949617385864,
+            "topicality": 0.9329949617385864,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9180247783660889,
+            "topicality": 0.9180247783660889,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9175401329994202,
+            "topicality": 0.9175401329994202,
+            "description": "Headgear"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

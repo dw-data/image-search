@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/rwandan-women/29.jpeg",
+    "search_query": "rwandan-women",
+    "position": 29,
+    "label_annotations": [
+        {
+            "mid": "/m/07djv",
+            "score": 0.8224678039550781,
+            "topicality": 0.8224678039550781,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.6133368611335754,
+            "topicality": 0.6133368611335754,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/025dq0",
+            "score": 0.6083745956420898,
+            "topicality": 0.6083745956420898,
+            "description": "Sari"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/welsh-women/30.jpeg",
+    "search_query": "welsh-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9783986806869507,
+            "topicality": 0.9783986806869507,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9713990092277527,
+            "topicality": 0.9713990092277527,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9690104126930237,
+            "topicality": 0.9690104126930237,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639050960540771,
+            "topicality": 0.9639050960540771,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.951636791229248,
+            "topicality": 0.951636791229248,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.9119336009025574,
+            "topicality": 0.9119336009025574,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/02vwbzz",
+            "score": 0.8654221296310425,
+            "topicality": 0.8654221296310425,
+            "description": "Electric blue"
+        },
+        {
+            "mid": "/m/04xz_5",
+            "score": 0.8471564650535583,
+            "topicality": 0.8471564650535583,
+            "description": "Blazer"
+        },
+        {
+            "mid": "/m/01kq3x",
+            "score": 0.8416338562965393,
+            "topicality": 0.8416338562965393,
+            "description": "White-collar worker"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

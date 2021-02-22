@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/danish-women/71.jpeg",
+    "search_query": "danish-women",
+    "position": 71,
+    "label_annotations": [
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9760083556175232,
+            "topicality": 0.9760083556175232,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9397801160812378,
+            "topicality": 0.9397801160812378,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.875832736492157,
+            "topicality": 0.875832736492157,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8721052408218384,
+            "topicality": 0.8721052408218384,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8316547274589539,
+            "topicality": 0.8316547274589539,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0fsbk0",
+            "score": 0.8289317488670349,
+            "topicality": 0.8289317488670349,
+            "description": "Health care provider"
+        },
+        {
+            "mid": "/m/01mw2x",
+            "score": 0.8083400130271912,
+            "topicality": 0.8083400130271912,
+            "description": "Health care"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.7479985952377319,
+            "topicality": 0.7479985952377319,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/018tkd",
+            "score": 0.737733781337738,
+            "topicality": 0.737733781337738,
+            "description": "Service"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/montserratian-women/38.jpeg",
+    "search_query": "montserratian-women",
+    "position": 38,
+    "label_annotations": [
+        {
+            "mid": "/m/09ddf",
+            "score": 0.7715606093406677,
+            "topicality": 0.7715606093406677,
+            "description": "Symbol"
+        },
+        {
+            "mid": "/m/02mf1n",
+            "score": 0.7601017951965332,
+            "topicality": 0.7601017951965332,
+            "description": "Gadget"
+        },
+        {
+            "mid": "/m/029zz6",
+            "score": 0.6758071780204773,
+            "topicality": 0.6758071780204773,
+            "description": "Display device"
+        },
+        {
+            "mid": "/m/021sdg",
+            "score": 0.6400259733200073,
+            "topicality": 0.6400259733200073,
+            "description": "Graphics"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

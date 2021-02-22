@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/chilean-women/56.jpeg",
+    "search_query": "chilean-women",
+    "position": 56,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9922609329223633,
+            "topicality": 0.9922609329223633,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9771584868431091,
+            "topicality": 0.9771584868431091,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738426208496094,
+            "topicality": 0.9738426208496094,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9719016551971436,
+            "topicality": 0.9719016551971436,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9695637822151184,
+            "topicality": 0.9695637822151184,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.9495083093643188,
+            "topicality": 0.9495083093643188,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.948785126209259,
+            "topicality": 0.948785126209259,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.9299693703651428,
+            "topicality": 0.9299693703651428,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.928770124912262,
+            "topicality": 0.928770124912262,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

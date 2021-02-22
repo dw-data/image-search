@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/latvian-women/15.jpeg",
+    "search_query": "latvian-women",
+    "position": 15,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9848166108131409,
+            "topicality": 0.9848166108131409,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9845156073570251,
+            "topicality": 0.9845156073570251,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9746703505516052,
+            "topicality": 0.9746703505516052,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.969721794128418,
+            "topicality": 0.969721794128418,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9393112063407898,
+            "topicality": 0.9393112063407898,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9364830851554871,
+            "topicality": 0.9364830851554871,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.927918016910553,
+            "topicality": 0.927918016910553,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8848339319229126,
+            "topicality": 0.8848339319229126,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8558509945869446,
+            "topicality": 0.8558509945869446,
+            "description": "Happy"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8553632497787476,
+            "topicality": 0.8553632497787476,
+            "description": "People in nature"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

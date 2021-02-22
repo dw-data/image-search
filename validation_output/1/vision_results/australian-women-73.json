@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/australian-women/73.jpeg",
+    "search_query": "australian-women",
+    "position": 73,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9873934388160706,
+            "topicality": 0.9873934388160706,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9775300025939941,
+            "topicality": 0.9775300025939941,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.941907525062561,
+            "topicality": 0.941907525062561,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9408276677131653,
+            "topicality": 0.9408276677131653,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9325380921363831,
+            "topicality": 0.9325380921363831,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0hgslft",
+            "score": 0.9164912700653076,
+            "topicality": 0.9164912700653076,
+            "description": "Swimsuit top"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8908841013908386,
+            "topicality": 0.8908841013908386,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/j/148skd",
+            "score": 0.8903069496154785,
+            "topicality": 0.8903069496154785,
+            "description": "People on beach"
+        },
+        {
+            "mid": "/m/01gmv2",
+            "score": 0.890023946762085,
+            "topicality": 0.890023946762085,
+            "description": "Brassiere"
+        },
+        {
+            "mid": "/m/0h8k6fc",
+            "score": 0.8845155835151672,
+            "topicality": 0.8845155835151672,
+            "description": "Lingerie top"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/puerto-rican-women/1.jpeg",
+    "search_query": "puerto-rican-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9084159135818481,
+            "topicality": 0.9084159135818481,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9027194380760193,
+            "topicality": 0.9027194380760193,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6085048317909241,
+            "topicality": 0.6085048317909241,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.5612185001373291,
+            "topicality": 0.5612185001373291,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/014trl",
+            "score": 0.5132055282592773,
+            "topicality": 0.5132055282592773,
+            "description": "Cosmetics"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

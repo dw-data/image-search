@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/senegalese-women/32.jpeg",
+    "search_query": "senegalese-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/0180xr",
+            "score": 0.9653206467628479,
+            "topicality": 0.9653206467628479,
+            "description": "Neighbourhood"
+        },
+        {
+            "mid": "/m/09dv7",
+            "score": 0.8527366518974304,
+            "topicality": 0.8527366518974304,
+            "description": "Soil"
+        },
+        {
+            "mid": "/m/0fpdgl",
+            "score": 0.8032625913619995,
+            "topicality": 0.8032625913619995,
+            "description": "Human settlement"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.7722727656364441,
+            "topicality": 0.7722727656364441,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/0zvk5",
+            "score": 0.7634181380271912,
+            "topicality": 0.7634181380271912,
+            "description": "Helmet"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

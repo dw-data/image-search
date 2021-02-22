@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/basotho-women/98.jpeg",
+    "search_query": "basotho-women",
+    "position": 98,
+    "label_annotations": [
+        {
+            "mid": "/m/0142sg",
+            "score": 0.6649593114852905,
+            "topicality": 0.6649593114852905,
+            "description": "One-piece garment"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.6334869861602783,
+            "topicality": 0.6334869861602783,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/083mg",
+            "score": 0.5570537447929382,
+            "topicality": 0.5570537447929382,
+            "description": "Walking"
+        },
+        {
+            "mid": "/m/06g1w2",
+            "score": 0.5314844250679016,
+            "topicality": 0.5314844250679016,
+            "description": "Pattern"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.5048926472663879,
+            "topicality": 0.5048926472663879,
+            "description": "Turban"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

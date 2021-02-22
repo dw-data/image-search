@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/saudi-women/32.jpeg",
+    "search_query": "saudi-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/02d46y",
+            "score": 0.9547080397605896,
+            "topicality": 0.9547080397605896,
+            "description": "Cap"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9126200675964355,
+            "topicality": 0.9126200675964355,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/029zz6",
+            "score": 0.8821372389793396,
+            "topicality": 0.8821372389793396,
+            "description": "Display device"
+        },
+        {
+            "mid": "/m/03gt5g4",
+            "score": 0.5849175453186035,
+            "topicality": 0.5849175453186035,
+            "description": "Cricket cap"
+        },
+        {
+            "mid": "/m/0541p",
+            "score": 0.5397098660469055,
+            "topicality": 0.5397098660469055,
+            "description": "Multimedia"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/bulgarian-women/30.jpeg",
+    "search_query": "bulgarian-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9846185445785522,
+            "topicality": 0.9846185445785522,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9834166169166565,
+            "topicality": 0.9834166169166565,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9753199219703674,
+            "topicality": 0.9753199219703674,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702128171920776,
+            "topicality": 0.9702128171920776,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9680806398391724,
+            "topicality": 0.9680806398391724,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9504093527793884,
+            "topicality": 0.9504093527793884,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9369065165519714,
+            "topicality": 0.9369065165519714,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9352790713310242,
+            "topicality": 0.9352790713310242,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.928070068359375,
+            "topicality": 0.928070068359375,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8933905959129333,
+            "topicality": 0.8933905959129333,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

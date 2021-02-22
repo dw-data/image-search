@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/kuwaiti-women/60.jpeg",
+    "search_query": "kuwaiti-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/062581",
+            "score": 0.9710167050361633,
+            "topicality": 0.9710167050361633,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.9339064359664917,
+            "topicality": 0.9339064359664917,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/01s_bn",
+            "score": 0.6176389455795288,
+            "topicality": 0.6176389455795288,
+            "description": "Button"
+        },
+        {
+            "mid": "/m/0176mf",
+            "score": 0.5217807292938232,
+            "topicality": 0.5217807292938232,
+            "description": "Belt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

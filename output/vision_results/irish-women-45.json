@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/irish-women/45.jpeg",
+    "search_query": "irish-women",
+    "position": 45,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9890400767326355,
+            "topicality": 0.9890400767326355,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/038hg",
+            "score": 0.9832460284233093,
+            "topicality": 0.9832460284233093,
+            "description": "Green"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9797811508178711,
+            "topicality": 0.9797811508178711,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.9783514738082886,
+            "topicality": 0.9783514738082886,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9708299040794373,
+            "topicality": 0.9708299040794373,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9587178826332092,
+            "topicality": 0.9587178826332092,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/0271t",
+            "score": 0.9528478980064392,
+            "topicality": 0.9528478980064392,
+            "description": "Drink"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9466707110404968,
+            "topicality": 0.9466707110404968,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0lqk",
+            "score": 0.945081353187561,
+            "topicality": 0.945081353187561,
+            "description": "Alcohol"
+        },
+        {
+            "mid": "/m/012mj",
+            "score": 0.9345560669898987,
+            "topicality": 0.9345560669898987,
+            "description": "Alcoholic beverage"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

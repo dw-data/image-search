@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/malagasy-women/80.jpeg",
+    "search_query": "malagasy-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/04g3r",
+            "score": 0.9395378828048706,
+            "topicality": 0.9395378828048706,
+            "description": "Leisure"
+        },
+        {
+            "mid": "/m/031n1",
+            "score": 0.7936025261878967,
+            "topicality": 0.7936025261878967,
+            "description": "Foot"
+        },
+        {
+            "mid": "/m/049lwx",
+            "score": 0.7516239881515503,
+            "topicality": 0.7516239881515503,
+            "description": "Barefoot"
+        },
+        {
+            "mid": "/m/0216vm",
+            "score": 0.7377521991729736,
+            "topicality": 0.7377521991729736,
+            "description": "Slipper"
+        },
+        {
+            "mid": "/m/03nfch",
+            "score": 0.6003532409667969,
+            "topicality": 0.6003532409667969,
+            "description": "Sandal"
+        },
+        {
+            "mid": "/m/025znc",
+            "score": 0.5921400785446167,
+            "topicality": 0.5921400785446167,
+            "description": "Flip-flops"
+        },
+        {
+            "mid": "/m/01xlvy",
+            "score": 0.5095396041870117,
+            "topicality": 0.5095396041870117,
+            "description": "Ankle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

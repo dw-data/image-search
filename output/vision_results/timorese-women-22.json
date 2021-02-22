@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/timorese-women/22.png",
+    "search_query": "timorese-women",
+    "position": 22,
+    "label_annotations": [
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9091715216636658,
+            "topicality": 0.9091715216636658,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.88080894947052,
+            "topicality": 0.88080894947052,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/07sk94",
+            "score": 0.5188601016998291,
+            "topicality": 0.5188601016998291,
+            "description": "Headband"
+        },
+        {
+            "mid": "/m/02kvytt",
+            "score": 0.5033519268035889,
+            "topicality": 0.5033519268035889,
+            "description": "Thread"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/timorese-women/42.jpeg",
+    "search_query": "timorese-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.990138828754425,
+            "topicality": 0.990138828754425,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9882634282112122,
+            "topicality": 0.9882634282112122,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9841254949569702,
+            "topicality": 0.9841254949569702,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9793810248374939,
+            "topicality": 0.9793810248374939,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9775201082229614,
+            "topicality": 0.9775201082229614,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9765611886978149,
+            "topicality": 0.9765611886978149,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9406294822692871,
+            "topicality": 0.9406294822692871,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/0ytgt",
+            "score": 0.9365612864494324,
+            "topicality": 0.9365612864494324,
+            "description": "Child"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.9113001823425293,
+            "topicality": 0.9113001823425293,
+            "description": "Interaction"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

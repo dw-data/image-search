@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/honduran-women/60.jpeg",
+    "search_query": "honduran-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/09dv7",
+            "score": 0.9464603066444397,
+            "topicality": 0.9464603066444397,
+            "description": "Soil"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.8852929472923279,
+            "topicality": 0.8852929472923279,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/07sn5gn",
+            "score": 0.8293193578720093,
+            "topicality": 0.8293193578720093,
+            "description": "Geological phenomenon"
+        },
+        {
+            "mid": "/m/066xq",
+            "score": 0.6315137147903442,
+            "topicality": 0.6315137147903442,
+            "description": "Pollution"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.6236975193023682,
+            "topicality": 0.6236975193023682,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/0hm03",
+            "score": 0.5286020040512085,
+            "topicality": 0.5286020040512085,
+            "description": "Trail"
+        },
+        {
+            "mid": "/m/06nmjv",
+            "score": 0.5226340293884277,
+            "topicality": 0.5226340293884277,
+            "description": "Dirt road"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/israeli-women/80.jpeg",
+    "search_query": "israeli-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9846586585044861,
+            "topicality": 0.9846586585044861,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9844188094139099,
+            "topicality": 0.9844188094139099,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9748029112815857,
+            "topicality": 0.9748029112815857,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9691455364227295,
+            "topicality": 0.9691455364227295,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01bqvp",
+            "score": 0.9615702033042908,
+            "topicality": 0.9615702033042908,
+            "description": "Sky"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9362270832061768,
+            "topicality": 0.9362270832061768,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.90812748670578,
+            "topicality": 0.90812748670578,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8869957327842712,
+            "topicality": 0.8869957327842712,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/01x2j",
+            "score": 0.8824645280838013,
+            "topicality": 0.8824645280838013,
+            "description": "Camouflage"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8801987171173096,
+            "topicality": 0.8801987171173096,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/belgian-women/68.jpeg",
+    "search_query": "belgian-women",
+    "position": 68,
+    "label_annotations": [
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9776884913444519,
+            "topicality": 0.9776884913444519,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9547990560531616,
+            "topicality": 0.9547990560531616,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9464953541755676,
+            "topicality": 0.9464953541755676,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.8446497917175293,
+            "topicality": 0.8446497917175293,
+            "description": "Conversation"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.7968935966491699,
+            "topicality": 0.7968935966491699,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/019b80",
+            "score": 0.6988319754600525,
+            "topicality": 0.6988319754600525,
+            "description": "Sweater"
+        },
+        {
+            "mid": "/m/07lym_",
+            "score": 0.5717769265174866,
+            "topicality": 0.5717769265174866,
+            "description": "Grape juice"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

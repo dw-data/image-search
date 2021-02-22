@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/kiribati-women/34.jpeg",
+    "search_query": "kiribati-women",
+    "position": 34,
+    "label_annotations": [
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9807650446891785,
+            "topicality": 0.9807650446891785,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/0174n1",
+            "score": 0.8184133768081665,
+            "topicality": 0.8184133768081665,
+            "description": "Glove"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.7476774454116821,
+            "topicality": 0.7476774454116821,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/027337",
+            "score": 0.7160744071006775,
+            "topicality": 0.7160744071006775,
+            "description": "Artisan"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.667558491230011,
+            "topicality": 0.667558491230011,
+            "description": "Bracelet"
+        },
+        {
+            "mid": "/m/0dkw5",
+            "score": 0.6632534265518188,
+            "topicality": 0.6632534265518188,
+            "description": "Machine"
+        },
+        {
+            "mid": "/m/018tkd",
+            "score": 0.6600000858306885,
+            "topicality": 0.6600000858306885,
+            "description": "Service"
+        },
+        {
+            "mid": "/m/01mtb",
+            "score": 0.5742179751396179,
+            "topicality": 0.5742179751396179,
+            "description": "Cooking"
+        },
+        {
+            "mid": "/m/01b638",
+            "score": 0.5205238461494446,
+            "topicality": 0.5205238461494446,
+            "description": "Boot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/vietnamese-women/42.jpeg",
+    "search_query": "vietnamese-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9695638418197632,
+            "topicality": 0.9695638418197632,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/05s2s",
+            "score": 0.9613959193229675,
+            "topicality": 0.9613959193229675,
+            "description": "Plant"
+        },
+        {
+            "mid": "/m/06rrc",
+            "score": 0.958443820476532,
+            "topicality": 0.958443820476532,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/0c9ph5",
+            "score": 0.9580789804458618,
+            "topicality": 0.9580789804458618,
+            "description": "Flower"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9406479597091675,
+            "topicality": 0.9406479597091675,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9250684380531311,
+            "topicality": 0.9250684380531311,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8842350840568542,
+            "topicality": 0.8842350840568542,
+            "description": "Neck"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8820204138755798,
+            "topicality": 0.8820204138755798,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016q19",
+            "score": 0.8699554800987244,
+            "topicality": 0.8699554800987244,
+            "description": "Petal"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8680119514465332,
+            "topicality": 0.8680119514465332,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

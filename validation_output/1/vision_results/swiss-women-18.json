@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/swiss-women/18.jpeg",
+    "search_query": "swiss-women",
+    "position": 18,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9827986359596252,
+            "topicality": 0.9827986359596252,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9329673647880554,
+            "topicality": 0.9329673647880554,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/083wq",
+            "score": 0.9307564496994019,
+            "topicality": 0.9307564496994019,
+            "description": "Wheel"
+        },
+        {
+            "mid": "/m/0h9mv",
+            "score": 0.9282405376434326,
+            "topicality": 0.9282405376434326,
+            "description": "Tire"
+        },
+        {
+            "mid": "/m/083jv",
+            "score": 0.9218630790710449,
+            "topicality": 0.9218630790710449,
+            "description": "White"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9075350165367126,
+            "topicality": 0.9075350165367126,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/0gkxy13",
+            "score": 0.879453718662262,
+            "topicality": 0.879453718662262,
+            "description": "Handwriting"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8347271084785461,
+            "topicality": 0.8347271084785461,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.8291559815406799,
+            "topicality": 0.8291559815406799,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.8280192017555237,
+            "topicality": 0.8280192017555237,
+            "description": "Social group"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

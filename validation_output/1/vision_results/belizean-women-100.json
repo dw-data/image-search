@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/belizean-women/100.jpeg",
+    "search_query": "belizean-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9834770560264587,
+            "topicality": 0.9834770560264587,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0838f",
+            "score": 0.9751514792442322,
+            "topicality": 0.9751514792442322,
+            "description": "Water"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9722898602485657,
+            "topicality": 0.9722898602485657,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9446020722389221,
+            "topicality": 0.9446020722389221,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.941470742225647,
+            "topicality": 0.941470742225647,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.912853479385376,
+            "topicality": 0.912853479385376,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.8855533599853516,
+            "topicality": 0.8855533599853516,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8626421689987183,
+            "topicality": 0.8626421689987183,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/0b3yr",
+            "score": 0.8569812774658203,
+            "topicality": 0.8569812774658203,
+            "description": "Beach"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8476927876472473,
+            "topicality": 0.8476927876472473,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

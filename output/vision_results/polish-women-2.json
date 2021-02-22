@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/polish-women/2.jpeg",
+    "search_query": "polish-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9918791651725769,
+            "topicality": 0.9918791651725769,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9866888523101807,
+            "topicality": 0.9866888523101807,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9842489957809448,
+            "topicality": 0.9842489957809448,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9821336269378662,
+            "topicality": 0.9821336269378662,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9800230264663696,
+            "topicality": 0.9800230264663696,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774680733680725,
+            "topicality": 0.9774680733680725,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9657949805259705,
+            "topicality": 0.9657949805259705,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9439681768417358,
+            "topicality": 0.9439681768417358,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.9033231139183044,
+            "topicality": 0.9033231139183044,
+            "description": "Sunglasses"
+        },
+        {
+            "mid": "/m/071j9r",
+            "score": 0.8675864338874817,
+            "topicality": 0.8675864338874817,
+            "description": "Cool"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/bermudian-women/55.jpeg",
+    "search_query": "bermudian-women",
+    "position": 55,
+    "label_annotations": [
+        {
+            "mid": "/m/03fp41",
+            "score": 0.868000328540802,
+            "topicality": 0.868000328540802,
+            "description": "Houseplant"
+        },
+        {
+            "mid": "/m/02dgv",
+            "score": 0.8181530237197876,
+            "topicality": 0.8181530237197876,
+            "description": "Door"
+        },
+        {
+            "mid": "/m/0fm3zh",
+            "score": 0.7563138008117676,
+            "topicality": 0.7563138008117676,
+            "description": "Flowerpot"
+        },
+        {
+            "mid": "/m/0176mf",
+            "score": 0.5036419630050659,
+            "topicality": 0.5036419630050659,
+            "description": "Belt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/icelandic-women/10.jpeg",
+    "search_query": "icelandic-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9830093383789062,
+            "topicality": 0.9830093383789062,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9774313569068909,
+            "topicality": 0.9774313569068909,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9737914204597473,
+            "topicality": 0.9737914204597473,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9718899726867676,
+            "topicality": 0.9718899726867676,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9325950741767883,
+            "topicality": 0.9325950741767883,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9129462838172913,
+            "topicality": 0.9129462838172913,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9075785875320435,
+            "topicality": 0.9075785875320435,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/01g5v",
+            "score": 0.8915790915489197,
+            "topicality": 0.8915790915489197,
+            "description": "Blue"
+        },
+        {
+            "mid": "/m/0317s",
+            "score": 0.8349841237068176,
+            "topicality": 0.8349841237068176,
+            "description": "Flag of the united states"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8181324005126953,
+            "topicality": 0.8181324005126953,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

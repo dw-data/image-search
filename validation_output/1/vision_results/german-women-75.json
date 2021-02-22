@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/german-women/75.jpeg",
+    "search_query": "german-women",
+    "position": 75,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9841901063919067,
+            "topicality": 0.9841901063919067,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9840956330299377,
+            "topicality": 0.9840956330299377,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9737908840179443,
+            "topicality": 0.9737908840179443,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0fly7",
+            "score": 0.9723592400550842,
+            "topicality": 0.9723592400550842,
+            "description": "Jeans"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9324286580085754,
+            "topicality": 0.9324286580085754,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.8889962434768677,
+            "topicality": 0.8889962434768677,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8724260330200195,
+            "topicality": 0.8724260330200195,
+            "description": "Happy"
+        },
+        {
+            "mid": "/j/hqnpnd",
+            "score": 0.8490757346153259,
+            "topicality": 0.8490757346153259,
+            "description": "Family taking photos together"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.8319261074066162,
+            "topicality": 0.8319261074066162,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.8236221671104431,
+            "topicality": 0.8236221671104431,
+            "description": "Social group"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

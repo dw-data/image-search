@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/honduran-women/30.jpeg",
+    "search_query": "honduran-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9878646731376648,
+            "topicality": 0.9878646731376648,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9836670160293579,
+            "topicality": 0.9836670160293579,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9831767678260803,
+            "topicality": 0.9831767678260803,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9820549488067627,
+            "topicality": 0.9820549488067627,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774070382118225,
+            "topicality": 0.9774070382118225,
+            "description": "People"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9698129296302795,
+            "topicality": 0.9698129296302795,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/0fly7",
+            "score": 0.958745539188385,
+            "topicality": 0.958745539188385,
+            "description": "Jeans"
+        },
+        {
+            "mid": "/m/0ytgt",
+            "score": 0.9529504776000977,
+            "topicality": 0.9529504776000977,
+            "description": "Child"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9507889151573181,
+            "topicality": 0.9507889151573181,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.941875696182251,
+            "topicality": 0.941875696182251,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

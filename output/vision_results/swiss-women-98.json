@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swiss-women/98.jpeg",
+    "search_query": "swiss-women",
+    "position": 98,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9922279119491577,
+            "topicality": 0.9922279119491577,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9887231588363647,
+            "topicality": 0.9887231588363647,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9800776243209839,
+            "topicality": 0.9800776243209839,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.9710180759429932,
+            "topicality": 0.9710180759429932,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9693176746368408,
+            "topicality": 0.9693176746368408,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9651575088500977,
+            "topicality": 0.9651575088500977,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dnr7",
+            "score": 0.9578210711479187,
+            "topicality": 0.9578210711479187,
+            "description": "Textile"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9540757536888123,
+            "topicality": 0.9540757536888123,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/047vlmn",
+            "score": 0.951636791229248,
+            "topicality": 0.951636791229248,
+            "description": "Outerwear"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9331315159797668,
+            "topicality": 0.9331315159797668,
+            "description": "Style"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

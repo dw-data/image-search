@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/english-women/76.jpeg",
+    "search_query": "english-women",
+    "position": 76,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9860119819641113,
+            "topicality": 0.9860119819641113,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9838485717773438,
+            "topicality": 0.9838485717773438,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9818258881568909,
+            "topicality": 0.9818258881568909,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9777818918228149,
+            "topicality": 0.9777818918228149,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9736519455909729,
+            "topicality": 0.9736519455909729,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06rrc",
+            "score": 0.9687581658363342,
+            "topicality": 0.9687581658363342,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.948570966720581,
+            "topicality": 0.948570966720581,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.945881724357605,
+            "topicality": 0.945881724357605,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.9307060241699219,
+            "topicality": 0.9307060241699219,
+            "description": "One-piece garment"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

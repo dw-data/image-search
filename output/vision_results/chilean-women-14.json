@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/chilean-women/14.jpeg",
+    "search_query": "chilean-women",
+    "position": 14,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9895973801612854,
+            "topicality": 0.9895973801612854,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.989548921585083,
+            "topicality": 0.989548921585083,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.988021731376648,
+            "topicality": 0.988021731376648,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9781484007835388,
+            "topicality": 0.9781484007835388,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977500855922699,
+            "topicality": 0.977500855922699,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9760687351226807,
+            "topicality": 0.9760687351226807,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/038hg",
+            "score": 0.970477819442749,
+            "topicality": 0.970477819442749,
+            "description": "Green"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9630404114723206,
+            "topicality": 0.9630404114723206,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9405977725982666,
+            "topicality": 0.9405977725982666,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.9228564500808716,
+            "topicality": 0.9228564500808716,
+            "description": "Team"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

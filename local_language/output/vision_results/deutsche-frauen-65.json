@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/deutsche-frauen/65.jpeg",
+    "search_query": "deutsche-frauen",
+    "position": 65,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9845284819602966,
+            "topicality": 0.9845284819602966,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.975467324256897,
+            "topicality": 0.975467324256897,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9485892653465271,
+            "topicality": 0.9485892653465271,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9325599670410156,
+            "topicality": 0.9325599670410156,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/05s2s",
+            "score": 0.9183922410011292,
+            "topicality": 0.9183922410011292,
+            "description": "Plant"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8850592374801636,
+            "topicality": 0.8850592374801636,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8815798163414001,
+            "topicality": 0.8815798163414001,
+            "description": "Happy"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8777719736099243,
+            "topicality": 0.8777719736099243,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8682247400283813,
+            "topicality": 0.8682247400283813,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

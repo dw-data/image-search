@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/cuban-women/57.jpeg",
+    "search_query": "cuban-women",
+    "position": 57,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.985368013381958,
+            "topicality": 0.985368013381958,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9759432673454285,
+            "topicality": 0.9759432673454285,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9730398058891296,
+            "topicality": 0.9730398058891296,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9612409472465515,
+            "topicality": 0.9612409472465515,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.933802604675293,
+            "topicality": 0.933802604675293,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9326598644256592,
+            "topicality": 0.9326598644256592,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9252949953079224,
+            "topicality": 0.9252949953079224,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/0h8k6fc",
+            "score": 0.9124834537506104,
+            "topicality": 0.9124834537506104,
+            "description": "Lingerie top"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9093760251998901,
+            "topicality": 0.9093760251998901,
+            "description": "Eyelash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

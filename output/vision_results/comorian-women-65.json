@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/comorian-women/65.png",
+    "search_query": "comorian-women",
+    "position": 65,
+    "label_annotations": [
+        {
+            "mid": "/m/030zlf",
+            "score": 0.930622398853302,
+            "topicality": 0.930622398853302,
+            "description": "Colorfulness"
+        },
+        {
+            "mid": "/m/09ddf",
+            "score": 0.7518262267112732,
+            "topicality": 0.7518262267112732,
+            "description": "Symbol"
+        },
+        {
+            "mid": "/m/021sdg",
+            "score": 0.6456558108329773,
+            "topicality": 0.6456558108329773,
+            "description": "Graphics"
+        },
+        {
+            "mid": "/m/03c31",
+            "score": 0.5091277360916138,
+            "topicality": 0.5091277360916138,
+            "description": "Graphic design"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

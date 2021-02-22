@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/nicaraguan-women/15.jpeg",
+    "search_query": "nicaraguan-women",
+    "position": 15,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9896983504295349,
+            "topicality": 0.9896983504295349,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9892268180847168,
+            "topicality": 0.9892268180847168,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/080hkjn",
+            "score": 0.553892195224762,
+            "topicality": 0.553892195224762,
+            "description": "Handbag"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.5280198454856873,
+            "topicality": 0.5280198454856873,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.5057386755943298,
+            "topicality": 0.5057386755943298,
+            "description": "Sleeveless shirt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

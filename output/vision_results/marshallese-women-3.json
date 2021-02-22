@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/marshallese-women/3.jpeg",
+    "search_query": "marshallese-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9768760204315186,
+            "topicality": 0.9768760204315186,
+            "description": "People"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828054666519165,
+            "topicality": 0.8828054666519165,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/06httj",
+            "score": 0.6065028309822083,
+            "topicality": 0.6065028309822083,
+            "description": "Linens"
+        },
+        {
+            "mid": "/m/02qdwbp",
+            "score": 0.5144785046577454,
+            "topicality": 0.5144785046577454,
+            "description": "Net"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

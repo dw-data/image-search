@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/welsh-women/95.jpeg",
+    "search_query": "welsh-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/07s6nbt",
+            "score": 0.9655819535255432,
+            "topicality": 0.9655819535255432,
+            "description": "Text"
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.9127817749977112,
+            "topicality": 0.9127817749977112,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/09gg3",
+            "score": 0.9066348075866699,
+            "topicality": 0.9066348075866699,
+            "description": "Violet"
+        },
+        {
+            "mid": "/m/09ggk",
+            "score": 0.8893055319786072,
+            "topicality": 0.8893055319786072,
+            "description": "Purple"
+        },
+        {
+            "mid": "/m/01vkl",
+            "score": 0.7118178009986877,
+            "topicality": 0.7118178009986877,
+            "description": "Circle"
+        },
+        {
+            "mid": "/m/09ddf",
+            "score": 0.5998585224151611,
+            "topicality": 0.5998585224151611,
+            "description": "Symbol"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/mozambican-women/22.jpeg",
+    "search_query": "mozambican-women",
+    "position": 22,
+    "label_annotations": [
+        {
+            "mid": "/m/01qls",
+            "score": 0.9402602910995483,
+            "topicality": 0.9402602910995483,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828204274177551,
+            "topicality": 0.8828204274177551,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.6694509387016296,
+            "topicality": 0.6694509387016296,
+            "description": "Tradition"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

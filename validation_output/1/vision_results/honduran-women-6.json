@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/honduran-women/6.jpeg",
+    "search_query": "honduran-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9839912056922913,
+            "topicality": 0.9839912056922913,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.983328104019165,
+            "topicality": 0.983328104019165,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9725154638290405,
+            "topicality": 0.9725154638290405,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9705802798271179,
+            "topicality": 0.9705802798271179,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9668259024620056,
+            "topicality": 0.9668259024620056,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9478259682655334,
+            "topicality": 0.9478259682655334,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9215971827507019,
+            "topicality": 0.9215971827507019,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0hg7b",
+            "score": 0.9204080104827881,
+            "topicality": 0.9204080104827881,
+            "description": "Microphone"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9044883847236633,
+            "topicality": 0.9044883847236633,
+            "description": "Organ"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

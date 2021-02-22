@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/american-women/5.jpeg",
+    "search_query": "american-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9836435914039612,
+            "topicality": 0.9836435914039612,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9813634753227234,
+            "topicality": 0.9813634753227234,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9785290956497192,
+            "topicality": 0.9785290956497192,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9734641313552856,
+            "topicality": 0.9734641313552856,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.9113003611564636,
+            "topicality": 0.9113003611564636,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/0jjw",
+            "score": 0.8902627229690552,
+            "topicality": 0.8902627229690552,
+            "description": "Art"
+        },
+        {
+            "mid": "/m/05qdh",
+            "score": 0.7976336479187012,
+            "topicality": 0.7976336479187012,
+            "description": "Painting"
+        },
+        {
+            "mid": "/m/0dgsmq8",
+            "score": 0.7855328917503357,
+            "topicality": 0.7855328917503357,
+            "description": "Artwork"
+        },
+        {
+            "mid": "/m/0p9xx",
+            "score": 0.7840322256088257,
+            "topicality": 0.7840322256088257,
+            "description": "Visual arts"
+        },
+        {
+            "mid": "/m/048knlz",
+            "score": 0.7460906505584717,
+            "topicality": 0.7460906505584717,
+            "description": "Love"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

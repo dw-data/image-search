@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/egyptian-women/7.jpeg",
+    "search_query": "egyptian-women",
+    "position": 7,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9833293557167053,
+            "topicality": 0.9833293557167053,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9692724347114563,
+            "topicality": 0.9692724347114563,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9510844349861145,
+            "topicality": 0.9510844349861145,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9137551784515381,
+            "topicality": 0.9137551784515381,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.9056044220924377,
+            "topicality": 0.9056044220924377,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.895225465297699,
+            "topicality": 0.895225465297699,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8834954500198364,
+            "topicality": 0.8834954500198364,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.883441150188446,
+            "topicality": 0.883441150188446,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8803539276123047,
+            "topicality": 0.8803539276123047,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724502921104431,
+            "topicality": 0.8724502921104431,
+            "description": "Sleeve"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

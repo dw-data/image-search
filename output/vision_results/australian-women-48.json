@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/australian-women/48.jpeg",
+    "search_query": "australian-women",
+    "position": 48,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790076613426208,
+            "topicality": 0.9790076613426208,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9788118004798889,
+            "topicality": 0.9788118004798889,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9212735295295715,
+            "topicality": 0.9212735295295715,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.911841869354248,
+            "topicality": 0.911841869354248,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.8216177225112915,
+            "topicality": 0.8216177225112915,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8083091378211975,
+            "topicality": 0.8083091378211975,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/023j4r",
+            "score": 0.7880497574806213,
+            "topicality": 0.7880497574806213,
+            "description": "Nail"
+        },
+        {
+            "mid": "/m/097vm",
+            "score": 0.6873370409011841,
+            "topicality": 0.6873370409011841,
+            "description": "Thinking"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6752074956893921,
+            "topicality": 0.6752074956893921,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/0d1pc",
+            "score": 0.5799228549003601,
+            "topicality": 0.5799228549003601,
+            "description": "Model"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

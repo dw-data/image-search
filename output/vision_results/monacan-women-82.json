@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/monacan-women/82.jpeg",
+    "search_query": "monacan-women",
+    "position": 82,
+    "label_annotations": [
+        {
+            "mid": "/m/07s6nbt",
+            "score": 0.9655696749687195,
+            "topicality": 0.9655696749687195,
+            "description": "Text"
+        },
+        {
+            "mid": "/m/03scnj",
+            "score": 0.9317482709884644,
+            "topicality": 0.9317482709884644,
+            "description": "Line"
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "score": 0.9112256169319153,
+            "topicality": 0.9112256169319153,
+            "description": "Font"
+        },
+        {
+            "mid": "/m/0ftdwy",
+            "score": 0.551175594329834,
+            "topicality": 0.551175594329834,
+            "description": "Footprint"
+        },
+        {
+            "mid": "/m/05fwb",
+            "score": 0.5409337878227234,
+            "topicality": 0.5409337878227234,
+            "description": "Number"
+        },
+        {
+            "mid": "/m/09ddf",
+            "score": 0.5359954833984375,
+            "topicality": 0.5359954833984375,
+            "description": "Symbol"
+        },
+        {
+            "mid": "/m/01zbnw",
+            "score": 0.5329710245132446,
+            "topicality": 0.5329710245132446,
+            "description": "Screenshot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

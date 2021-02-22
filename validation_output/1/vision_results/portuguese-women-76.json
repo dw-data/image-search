@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/portuguese-women/76.jpeg",
+    "search_query": "portuguese-women",
+    "position": 76,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9832835793495178,
+            "topicality": 0.9832835793495178,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9734768271446228,
+            "topicality": 0.9734768271446228,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.968717634677887,
+            "topicality": 0.968717634677887,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9683180451393127,
+            "topicality": 0.9683180451393127,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9415512084960938,
+            "topicality": 0.9415512084960938,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9351354241371155,
+            "topicality": 0.9351354241371155,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9325876235961914,
+            "topicality": 0.9325876235961914,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9250892400741577,
+            "topicality": 0.9250892400741577,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.885567307472229,
+            "topicality": 0.885567307472229,
+            "description": "Flash photography"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/ghanaian-women/72.jpeg",
+    "search_query": "ghanaian-women",
+    "position": 72,
+    "label_annotations": [
+        {
+            "mid": "/m/0cbtm",
+            "score": 0.749178946018219,
+            "topicality": 0.749178946018219,
+            "description": "Tribe"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.5571936368942261,
+            "topicality": 0.5571936368942261,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.5189923048019409,
+            "topicality": 0.5189923048019409,
+            "description": "Village"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

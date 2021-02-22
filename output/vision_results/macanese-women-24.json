@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/macanese-women/24.jpeg",
+    "search_query": "macanese-women",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9901432394981384,
+            "topicality": 0.9901432394981384,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9896048903465271,
+            "topicality": 0.9896048903465271,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9886130094528198,
+            "topicality": 0.9886130094528198,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9846800565719604,
+            "topicality": 0.9846800565719604,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9832804203033447,
+            "topicality": 0.9832804203033447,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9801116585731506,
+            "topicality": 0.9801116585731506,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.97913658618927,
+            "topicality": 0.97913658618927,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790083765983582,
+            "topicality": 0.9790083765983582,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773359298706055,
+            "topicality": 0.9773359298706055,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9746156334877014,
+            "topicality": 0.9746156334877014,
+            "description": "Eye"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

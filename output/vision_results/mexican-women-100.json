@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/100.jpeg",
+    "search_query": "mexican-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9885270595550537,
+            "topicality": 0.9885270595550537,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/06rrc",
+            "score": 0.9570878148078918,
+            "topicality": 0.9570878148078918,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9121012687683105,
+            "topicality": 0.9121012687683105,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01c8br",
+            "score": 0.8833234310150146,
+            "topicality": 0.8833234310150146,
+            "description": "Street"
+        },
+        {
+            "mid": "/m/027k4k",
+            "score": 0.8765072822570801,
+            "topicality": 0.8765072822570801,
+            "description": "Athletic shoe"
+        },
+        {
+            "mid": "/m/03gkl",
+            "score": 0.8265020847320557,
+            "topicality": 0.8265020847320557,
+            "description": "Holiday"
+        },
+        {
+            "mid": "/m/09kjlm",
+            "score": 0.7949210405349731,
+            "topicality": 0.7949210405349731,
+            "description": "Sneakers"
+        },
+        {
+            "mid": "/m/0hgn_pr",
+            "score": 0.7915453314781189,
+            "topicality": 0.7915453314781189,
+            "description": "Active pants"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.7565962672233582,
+            "topicality": 0.7565962672233582,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/01940j",
+            "score": 0.7180331349372864,
+            "topicality": 0.7180331349372864,
+            "description": "Backpack"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

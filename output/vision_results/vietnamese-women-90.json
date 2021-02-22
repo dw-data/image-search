@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/vietnamese-women/90.jpeg",
+    "search_query": "vietnamese-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656531810760498,
+            "topicality": 0.9656531810760498,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9607900977134705,
+            "topicality": 0.9607900977134705,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9539971351623535,
+            "topicality": 0.9539971351623535,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/02wzbmj",
+            "score": 0.9471027255058289,
+            "topicality": 0.9471027255058289,
+            "description": "Standing"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.9435818195343018,
+            "topicality": 0.9435818195343018,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9419909715652466,
+            "topicality": 0.9419909715652466,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.8921862244606018,
+            "topicality": 0.8921862244606018,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.8846765756607056,
+            "topicality": 0.8846765756607056,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.8638899922370911,
+            "topicality": 0.8638899922370911,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/0hgntgw",
+            "score": 0.8629926443099976,
+            "topicality": 0.8629926443099976,
+            "description": "Active tank"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

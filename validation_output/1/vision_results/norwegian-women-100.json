@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/norwegian-women/100.jpeg",
+    "search_query": "norwegian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9701923131942749,
+            "topicality": 0.9701923131942749,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9474650621414185,
+            "topicality": 0.9474650621414185,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.940667986869812,
+            "topicality": 0.940667986869812,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9261479377746582,
+            "topicality": 0.9261479377746582,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9219838976860046,
+            "topicality": 0.9219838976860046,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.9199416041374207,
+            "topicality": 0.9199416041374207,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/0h8k6fc",
+            "score": 0.8980066776275635,
+            "topicality": 0.8980066776275635,
+            "description": "Lingerie top"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8817440867424011,
+            "topicality": 0.8817440867424011,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8792251944541931,
+            "topicality": 0.8792251944541931,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.8770219087600708,
+            "topicality": 0.8770219087600708,
+            "description": "Jaw"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

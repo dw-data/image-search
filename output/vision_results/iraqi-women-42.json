@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/iraqi-women/42.jpeg",
+    "search_query": "iraqi-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9893329739570618,
+            "topicality": 0.9893329739570618,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9775130748748779,
+            "topicality": 0.9775130748748779,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9621132612228394,
+            "topicality": 0.9621132612228394,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9586330652236938,
+            "topicality": 0.9586330652236938,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/033lpr",
+            "score": 0.7696038484573364,
+            "topicality": 0.7696038484573364,
+            "description": "Audience"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.5921623706817627,
+            "topicality": 0.5921623706817627,
+            "description": "Flag"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

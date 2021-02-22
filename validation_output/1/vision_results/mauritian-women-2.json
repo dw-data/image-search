@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/mauritian-women/2.jpeg",
+    "search_query": "mauritian-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9835159182548523,
+            "topicality": 0.9835159182548523,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9832725524902344,
+            "topicality": 0.9832725524902344,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9755052328109741,
+            "topicality": 0.9755052328109741,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9695675373077393,
+            "topicality": 0.9695675373077393,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9427886009216309,
+            "topicality": 0.9427886009216309,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.934653639793396,
+            "topicality": 0.934653639793396,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9330300688743591,
+            "topicality": 0.9330300688743591,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9170243144035339,
+            "topicality": 0.9170243144035339,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/01bqvp",
+            "score": 0.9017395973205566,
+            "topicality": 0.9017395973205566,
+            "description": "Sky"
+        },
+        {
+            "mid": "/m/019sc",
+            "score": 0.8966587781906128,
+            "topicality": 0.8966587781906128,
+            "description": "Black"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/german-women/88.jpeg",
+    "search_query": "german-women",
+    "position": 88,
+    "label_annotations": [
+        {
+            "mid": "/m/02x94h",
+            "score": 0.9637437462806702,
+            "topicality": 0.9637437462806702,
+            "description": "Trophy"
+        },
+        {
+            "mid": "/m/02w3hl",
+            "score": 0.9221822619438171,
+            "topicality": 0.9221822619438171,
+            "description": "Award"
+        },
+        {
+            "mid": "/m/06wqb",
+            "score": 0.8117213845252991,
+            "topicality": 0.8117213845252991,
+            "description": "Space"
+        },
+        {
+            "mid": "/j/4kr7kk",
+            "score": 0.6404502987861633,
+            "topicality": 0.6404502987861633,
+            "description": "Pleased"
+        },
+        {
+            "mid": "/m/01l7wg",
+            "score": 0.5994437336921692,
+            "topicality": 0.5994437336921692,
+            "description": "Chalice"
+        },
+        {
+            "mid": "/m/01504",
+            "score": 0.5783475637435913,
+            "topicality": 0.5783475637435913,
+            "description": "Brass"
+        },
+        {
+            "mid": "/m/0286h_",
+            "score": 0.5165630578994751,
+            "topicality": 0.5165630578994751,
+            "description": "Bow tie"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

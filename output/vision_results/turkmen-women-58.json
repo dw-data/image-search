@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/turkmen-women/58.jpeg",
+    "search_query": "turkmen-women",
+    "position": 58,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.989050567150116,
+            "topicality": 0.989050567150116,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.988267719745636,
+            "topicality": 0.988267719745636,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/04rky",
+            "score": 0.9417631030082703,
+            "topicality": 0.9417631030082703,
+            "description": "Mammal"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9102473258972168,
+            "topicality": 0.9102473258972168,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.5204154849052429,
+            "topicality": 0.5204154849052429,
+            "description": "Turban"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

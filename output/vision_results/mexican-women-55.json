@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/55.jpeg",
+    "search_query": "mexican-women",
+    "position": 55,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9855049848556519,
+            "topicality": 0.9855049848556519,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.959330141544342,
+            "topicality": 0.959330141544342,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9505106210708618,
+            "topicality": 0.9505106210708618,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/032b3c",
+            "score": 0.9428746700286865,
+            "topicality": 0.9428746700286865,
+            "description": "Jacket"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.913605272769928,
+            "topicality": 0.913605272769928,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.9014592170715332,
+            "topicality": 0.9014592170715332,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.8360492587089539,
+            "topicality": 0.8360492587089539,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/053hz1",
+            "score": 0.7408942580223083,
+            "topicality": 0.7408942580223083,
+            "description": "Cheering"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.7389580607414246,
+            "topicality": 0.7389580607414246,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.6996690630912781,
+            "topicality": 0.6996690630912781,
+            "description": "Scarf"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

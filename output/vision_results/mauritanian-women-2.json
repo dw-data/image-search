@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/mauritanian-women/2.jpeg",
+    "search_query": "mauritanian-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.882826030254364,
+            "topicality": 0.882826030254364,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/03hzcs",
+            "score": 0.830461859703064,
+            "topicality": 0.830461859703064,
+            "description": "Beige"
+        },
+        {
+            "mid": "/m/0276krm",
+            "score": 0.7633711695671082,
+            "topicality": 0.7633711695671082,
+            "description": "Fawn"
+        },
+        {
+            "mid": "/m/03g3w",
+            "score": 0.6198959946632385,
+            "topicality": 0.6198959946632385,
+            "description": "History"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.569839358329773,
+            "topicality": 0.569839358329773,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.5692591071128845,
+            "topicality": 0.5692591071128845,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/04rjz",
+            "score": 0.5664437413215637,
+            "topicality": 0.5664437413215637,
+            "description": "Middle ages"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/bosnian-women/80.JPEG",
+    "search_query": "bosnian-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/01h1dd",
+            "score": 0.8308506608009338,
+            "topicality": 0.8308506608009338,
+            "description": "Publication"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.8256916403770447,
+            "topicality": 0.8256916403770447,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/0n5v01m",
+            "score": 0.7898075580596924,
+            "topicality": 0.7898075580596924,
+            "description": "Bag"
+        },
+        {
+            "mid": "/m/01n5jq",
+            "score": 0.6503533720970154,
+            "topicality": 0.6503533720970154,
+            "description": "Poster"
+        },
+        {
+            "mid": "/m/05jhg",
+            "score": 0.534350574016571,
+            "topicality": 0.534350574016571,
+            "description": "News"
+        },
+        {
+            "mid": "/m/012qgt",
+            "score": 0.5131763815879822,
+            "topicality": 0.5131763815879822,
+            "description": "Social work"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

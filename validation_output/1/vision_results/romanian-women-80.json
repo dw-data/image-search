@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/romanian-women/80.jpeg",
+    "search_query": "romanian-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9811906218528748,
+            "topicality": 0.9811906218528748,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9695583581924438,
+            "topicality": 0.9695583581924438,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.955761730670929,
+            "topicality": 0.955761730670929,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.940026581287384,
+            "topicality": 0.940026581287384,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9379638433456421,
+            "topicality": 0.9379638433456421,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9118825793266296,
+            "topicality": 0.9118825793266296,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8857100605964661,
+            "topicality": 0.8857100605964661,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.8828840255737305,
+            "topicality": 0.8828840255737305,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8720406293869019,
+            "topicality": 0.8720406293869019,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8671295046806335,
+            "topicality": 0.8671295046806335,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/american-women/3.jpeg",
+    "search_query": "american-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9361655712127686,
+            "topicality": 0.9361655712127686,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/083jv",
+            "score": 0.9218672513961792,
+            "topicality": 0.9218672513961792,
+            "description": "White"
+        },
+        {
+            "mid": "/m/01g5v",
+            "score": 0.9019613862037659,
+            "topicality": 0.9019613862037659,
+            "description": "Blue"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8903563618659973,
+            "topicality": 0.8903563618659973,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724333643913269,
+            "topicality": 0.8724333643913269,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8570833206176758,
+            "topicality": 0.8570833206176758,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8457547426223755,
+            "topicality": 0.8457547426223755,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.8392605185508728,
+            "topicality": 0.8392605185508728,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.799799919128418,
+            "topicality": 0.799799919128418,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/02crq1",
+            "score": 0.7713911533355713,
+            "topicality": 0.7713911533355713,
+            "description": "Couch"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

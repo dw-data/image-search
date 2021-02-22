@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/british-women/22.jpeg",
+    "search_query": "british-women",
+    "position": 22,
+    "label_annotations": [
+        {
+            "mid": "/m/048knlz",
+            "score": 0.7028794884681702,
+            "topicality": 0.7028794884681702,
+            "description": "Love"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6154055595397949,
+            "topicality": 0.6154055595397949,
+            "description": "Makeover"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

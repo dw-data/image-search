@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/ivorian-women/100.jpeg",
+    "search_query": "ivorian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9766151905059814,
+            "topicality": 0.9766151905059814,
+            "description": "People"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828251361846924,
+            "topicality": 0.8828251361846924,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/04kkgm",
+            "score": 0.7432727813720703,
+            "topicality": 0.7432727813720703,
+            "description": "Bowl"
+        },
+        {
+            "mid": "/m/03hj559",
+            "score": 0.6469675302505493,
+            "topicality": 0.6469675302505493,
+            "description": "Mixing bowl"
+        },
+        {
+            "mid": "/m/01zfyk",
+            "score": 0.6068500876426697,
+            "topicality": 0.6068500876426697,
+            "description": "Bucket"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.6007772088050842,
+            "topicality": 0.6007772088050842,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/064rk",
+            "score": 0.5952523946762085,
+            "topicality": 0.5952523946762085,
+            "description": "Pottery"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/chinese-women/98.jpeg",
+    "search_query": "chinese-women",
+    "position": 98,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.989592432975769,
+            "topicality": 0.989592432975769,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790030717849731,
+            "topicality": 0.9790030717849731,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738805890083313,
+            "topicality": 0.9738805890083313,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9652331471443176,
+            "topicality": 0.9652331471443176,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/0rytcc5",
+            "score": 0.952500581741333,
+            "topicality": 0.952500581741333,
+            "description": "Strapless dress"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9317702651023865,
+            "topicality": 0.9317702651023865,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9253689646720886,
+            "topicality": 0.9253689646720886,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9213750958442688,
+            "topicality": 0.9213750958442688,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9207741618156433,
+            "topicality": 0.9207741618156433,
+            "description": "Dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/kittitian-women/99.jpeg",
+    "search_query": "kittitian-women",
+    "position": 99,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9870293140411377,
+            "topicality": 0.9870293140411377,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.945993959903717,
+            "topicality": 0.945993959903717,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9408712983131409,
+            "topicality": 0.9408712983131409,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.8865256905555725,
+            "topicality": 0.8865256905555725,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8752595782279968,
+            "topicality": 0.8752595782279968,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724504113197327,
+            "topicality": 0.8724504113197327,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8618199229240417,
+            "topicality": 0.8618199229240417,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8615177869796753,
+            "topicality": 0.8615177869796753,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.8071608543395996,
+            "topicality": 0.8071608543395996,
+            "description": "Trunk"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.7999995946884155,
+            "topicality": 0.7999995946884155,
+            "description": "Abdomen"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

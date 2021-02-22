@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/bulgarian-women/8.jpeg",
+    "search_query": "bulgarian-women",
+    "position": 8,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9828884601593018,
+            "topicality": 0.9828884601593018,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9702309370040894,
+            "topicality": 0.9702309370040894,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.944169819355011,
+            "topicality": 0.944169819355011,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.889439582824707,
+            "topicality": 0.889439582824707,
+            "description": "Neck"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8795109391212463,
+            "topicality": 0.8795109391212463,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8753724098205566,
+            "topicality": 0.8753724098205566,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8737446069717407,
+            "topicality": 0.8737446069717407,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724498152732849,
+            "topicality": 0.8724498152732849,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8253665566444397,
+            "topicality": 0.8253665566444397,
+            "description": "Waist"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

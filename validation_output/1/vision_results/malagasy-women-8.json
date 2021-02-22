@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/malagasy-women/8.jpeg",
+    "search_query": "malagasy-women",
+    "position": 8,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9838141798973083,
+            "topicality": 0.9838141798973083,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9547238945960999,
+            "topicality": 0.9547238945960999,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009718894958,
+            "topicality": 0.9509009718894958,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9327598810195923,
+            "topicality": 0.9327598810195923,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8798567056655884,
+            "topicality": 0.8798567056655884,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8740901947021484,
+            "topicality": 0.8740901947021484,
+            "description": "Happy"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8706900477409363,
+            "topicality": 0.8706900477409363,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.8354964852333069,
+            "topicality": 0.8354964852333069,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/01bqvp",
+            "score": 0.8127792477607727,
+            "topicality": 0.8127792477607727,
+            "description": "Sky"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

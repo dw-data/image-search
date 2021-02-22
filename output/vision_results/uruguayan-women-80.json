@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/uruguayan-women/80.jpeg",
+    "search_query": "uruguayan-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9895839691162109,
+            "topicality": 0.9895839691162109,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9881221055984497,
+            "topicality": 0.9881221055984497,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9850864410400391,
+            "topicality": 0.9850864410400391,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9843918085098267,
+            "topicality": 0.9843918085098267,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9827948808670044,
+            "topicality": 0.9827948808670044,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9787753224372864,
+            "topicality": 0.9787753224372864,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977528989315033,
+            "topicality": 0.977528989315033,
+            "description": "People"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9709561467170715,
+            "topicality": 0.9709561467170715,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681844115257263,
+            "topicality": 0.9681844115257263,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.9390130639076233,
+            "topicality": 0.9390130639076233,
+            "description": "Protest"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

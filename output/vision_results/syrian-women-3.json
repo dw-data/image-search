@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/syrian-women/3.jpeg",
+    "search_query": "syrian-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/088fh",
+            "score": 0.9740971326828003,
+            "topicality": 0.9740971326828003,
+            "description": "Yellow"
+        },
+        {
+            "mid": "/m/071j9r",
+            "score": 0.8840680718421936,
+            "topicality": 0.8840680718421936,
+            "description": "Cool"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8819400072097778,
+            "topicality": 0.8819400072097778,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.8360283970832825,
+            "topicality": 0.8360283970832825,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.7013760805130005,
+            "topicality": 0.7013760805130005,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/0670sh",
+            "score": 0.5988522171974182,
+            "topicality": 0.5988522171974182,
+            "description": "Stole"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.5145363211631775,
+            "topicality": 0.5145363211631775,
+            "description": "Scarf"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

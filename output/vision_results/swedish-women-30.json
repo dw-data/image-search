@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swedish-women/30.jpeg",
+    "search_query": "swedish-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/0h8mhzd",
+            "score": 0.982421875,
+            "topicality": 0.982421875,
+            "description": "Sports uniform"
+        },
+        {
+            "mid": "/m/02h00q",
+            "score": 0.9746214747428894,
+            "topicality": 0.9746214747428894,
+            "description": "Jersey"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9688332080841064,
+            "topicality": 0.9688332080841064,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/06rrc",
+            "score": 0.9622882604598999,
+            "topicality": 0.9622882604598999,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/0bmgjqz",
+            "score": 0.9547709822654724,
+            "topicality": 0.9547709822654724,
+            "description": "Sport venue"
+        },
+        {
+            "mid": "/m/025xryy",
+            "score": 0.9448351263999939,
+            "topicality": 0.9448351263999939,
+            "description": "Sportswear"
+        },
+        {
+            "mid": "/m/03x045",
+            "score": 0.9440077543258667,
+            "topicality": 0.9440077543258667,
+            "description": "Team sport"
+        },
+        {
+            "mid": "/m/020m7t",
+            "score": 0.9302454590797424,
+            "topicality": 0.9302454590797424,
+            "description": "Ball game"
+        },
+        {
+            "mid": "/m/019cfy",
+            "score": 0.9277592897415161,
+            "topicality": 0.9277592897415161,
+            "description": "Stadium"
+        },
+        {
+            "mid": "/m/04stdlw",
+            "score": 0.9237506985664368,
+            "topicality": 0.9237506985664368,
+            "description": "Competition event"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

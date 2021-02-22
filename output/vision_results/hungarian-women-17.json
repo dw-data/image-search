@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/hungarian-women/17.jpeg",
+    "search_query": "hungarian-women",
+    "position": 17,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790037870407104,
+            "topicality": 0.9790037870407104,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9786930084228516,
+            "topicality": 0.9786930084228516,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740007519721985,
+            "topicality": 0.9740007519721985,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9724040031433105,
+            "topicality": 0.9724040031433105,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/09w5r",
+            "score": 0.9686888456344604,
+            "topicality": 0.9686888456344604,
+            "description": "Human leg"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.964783787727356,
+            "topicality": 0.964783787727356,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/078qz",
+            "score": 0.9349849820137024,
+            "topicality": 0.9349849820137024,
+            "description": "Summer"
+        },
+        {
+            "mid": "/m/01d_ff",
+            "score": 0.93087238073349,
+            "topicality": 0.93087238073349,
+            "description": "Toe"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.926088273525238,
+            "topicality": 0.926088273525238,
+            "description": "Sitting"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

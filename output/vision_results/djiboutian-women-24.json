@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/djiboutian-women/24.jpeg",
+    "search_query": "djiboutian-women",
+    "position": 24,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9772164225578308,
+            "topicality": 0.9772164225578308,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828306794166565,
+            "topicality": 0.8828306794166565,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.6761174201965332,
+            "topicality": 0.6761174201965332,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/0138tl",
+            "score": 0.5559808611869812,
+            "topicality": 0.5559808611869812,
+            "description": "Toy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/mauritanian-women/82.jpeg",
+    "search_query": "mauritanian-women",
+    "position": 82,
+    "label_annotations": [
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7302713394165039,
+            "topicality": 0.7302713394165039,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/019brn",
+            "score": 0.6797716617584229,
+            "topicality": 0.6797716617584229,
+            "description": "Dreadlocks"
+        },
+        {
+            "mid": "/m/03_055",
+            "score": 0.5080638527870178,
+            "topicality": 0.5080638527870178,
+            "description": "Cornrows"
+        },
+        {
+            "mid": "/m/02xlf",
+            "score": 0.507175087928772,
+            "topicality": 0.507175087928772,
+            "description": "Fiction"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

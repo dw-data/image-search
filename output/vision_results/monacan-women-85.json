@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/monacan-women/85.jpeg",
+    "search_query": "monacan-women",
+    "position": 85,
+    "label_annotations": [
+        {
+            "mid": "/m/01j51",
+            "score": 0.9572730660438538,
+            "topicality": 0.9572730660438538,
+            "description": "Balloon"
+        },
+        {
+            "mid": "/m/0dwx7",
+            "score": 0.887026846408844,
+            "topicality": 0.887026846408844,
+            "description": "Logo"
+        },
+        {
+            "mid": "/m/0cmqr_4",
+            "score": 0.8859270811080933,
+            "topicality": 0.8859270811080933,
+            "description": "Party supply"
+        },
+        {
+            "mid": "/m/0hgnxbq",
+            "score": 0.648328959941864,
+            "topicality": 0.648328959941864,
+            "description": "Active shirt"
+        },
+        {
+            "mid": "/m/06y47",
+            "score": 0.5068302154541016,
+            "topicality": 0.5068302154541016,
+            "description": "Sphere"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/finnish-women/2.jpeg",
+    "search_query": "finnish-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790164828300476,
+            "topicality": 0.9790164828300476,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9787025451660156,
+            "topicality": 0.9787025451660156,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9736301898956299,
+            "topicality": 0.9736301898956299,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9209528565406799,
+            "topicality": 0.9209528565406799,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9078007340431213,
+            "topicality": 0.9078007340431213,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.891090989112854,
+            "topicality": 0.891090989112854,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.890625536441803,
+            "topicality": 0.890625536441803,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/06z0n",
+            "score": 0.8891042470932007,
+            "topicality": 0.8891042470932007,
+            "description": "Sunlight"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8751157522201538,
+            "topicality": 0.8751157522201538,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8545113801956177,
+            "topicality": 0.8545113801956177,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

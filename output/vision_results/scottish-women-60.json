@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/scottish-women/60.jpeg",
+    "search_query": "scottish-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9843118190765381,
+            "topicality": 0.9843118190765381,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9792664051055908,
+            "topicality": 0.9792664051055908,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9627968668937683,
+            "topicality": 0.9627968668937683,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9590250849723816,
+            "topicality": 0.9590250849723816,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.945686399936676,
+            "topicality": 0.945686399936676,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/0h8kxbv",
+            "score": 0.9135918021202087,
+            "topicality": 0.9135918021202087,
+            "description": "Body jewelry"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8856478929519653,
+            "topicality": 0.8856478929519653,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/04_fs",
+            "score": 0.871569812297821,
+            "topicality": 0.871569812297821,
+            "description": "Muscle"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.8568666577339172,
+            "topicality": 0.8568666577339172,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01llx7",
+            "score": 0.8455260992050171,
+            "topicality": 0.8455260992050171,
+            "description": "Bracelet"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

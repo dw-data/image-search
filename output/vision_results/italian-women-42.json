@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/italian-women/42.jpeg",
+    "search_query": "italian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9843240976333618,
+            "topicality": 0.9843240976333618,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9813491106033325,
+            "topicality": 0.9813491106033325,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.979012668132782,
+            "topicality": 0.979012668132782,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9738093614578247,
+            "topicality": 0.9738093614578247,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8987032175064087,
+            "topicality": 0.8987032175064087,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8979840278625488,
+            "topicality": 0.8979840278625488,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.8902410864830017,
+            "topicality": 0.8902410864830017,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/0d1pc",
+            "score": 0.767677366733551,
+            "topicality": 0.767677366733551,
+            "description": "Model"
+        },
+        {
+            "mid": "/m/02qbl1m",
+            "score": 0.7603169679641724,
+            "topicality": 0.7603169679641724,
+            "description": "Photo shoot"
+        },
+        {
+            "mid": "/m/02hqr87",
+            "score": 0.6777831315994263,
+            "topicality": 0.6777831315994263,
+            "description": "Fashion model"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

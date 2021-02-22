@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/western-saharan-women/90.jpeg",
+    "search_query": "western-saharan-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9815511703491211,
+            "topicality": 0.9815511703491211,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/06h12k",
+            "score": 0.8873075842857361,
+            "topicality": 0.8873075842857361,
+            "description": "Sharing"
+        },
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.7217286229133606,
+            "topicality": 0.7217286229133606,
+            "description": "Banner"
+        },
+        {
+            "mid": "/m/09dhj",
+            "score": 0.5406972169876099,
+            "topicality": 0.5406972169876099,
+            "description": "Family"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/new-zealand-women/51.jpeg",
+    "search_query": "new-zealand-women",
+    "position": 51,
+    "label_annotations": [
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828285336494446,
+            "topicality": 0.8828285336494446,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/06msq",
+            "score": 0.8467392325401306,
+            "topicality": 0.8467392325401306,
+            "description": "Sculpture"
+        },
+        {
+            "mid": "/m/04t7l",
+            "score": 0.8062787055969238,
+            "topicality": 0.8062787055969238,
+            "description": "Metal"
+        },
+        {
+            "mid": "/m/02skpt",
+            "score": 0.6765456199645996,
+            "topicality": 0.6765456199645996,
+            "description": "Artifact"
+        },
+        {
+            "mid": "/m/013_1c",
+            "score": 0.6350030899047852,
+            "topicality": 0.6350030899047852,
+            "description": "Statue"
+        },
+        {
+            "mid": "/m/0djmp",
+            "score": 0.5672011971473694,
+            "topicality": 0.5672011971473694,
+            "description": "Ancient history"
+        },
+        {
+            "mid": "/m/02nnps",
+            "score": 0.5299187898635864,
+            "topicality": 0.5299187898635864,
+            "description": "Relief"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/femmes-fran\u00e7aises/21.jpeg",
+    "search_query": "femmes-fran\u00e7aises",
+    "position": 21,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9835830330848694,
+            "topicality": 0.9835830330848694,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9789132475852966,
+            "topicality": 0.9789132475852966,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9734589457511902,
+            "topicality": 0.9734589457511902,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9689651727676392,
+            "topicality": 0.9689651727676392,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9346415400505066,
+            "topicality": 0.9346415400505066,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.8475874066352844,
+            "topicality": 0.8475874066352844,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8430549502372742,
+            "topicality": 0.8430549502372742,
+            "description": "Iris"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.8199523687362671,
+            "topicality": 0.8199523687362671,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.7920500636100769,
+            "topicality": 0.7920500636100769,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.6323714256286621,
+            "topicality": 0.6323714256286621,
+            "description": "Event"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

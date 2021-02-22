@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/spanish-women/79.jpeg",
+    "search_query": "spanish-women",
+    "position": 79,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9846668839454651,
+            "topicality": 0.9846668839454651,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9742884039878845,
+            "topicality": 0.9742884039878845,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9699898362159729,
+            "topicality": 0.9699898362159729,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9669955968856812,
+            "topicality": 0.9669955968856812,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9420902132987976,
+            "topicality": 0.9420902132987976,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9367741346359253,
+            "topicality": 0.9367741346359253,
+            "description": "Eye"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8846049904823303,
+            "topicality": 0.8846049904823303,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8792266249656677,
+            "topicality": 0.8792266249656677,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.859294593334198,
+            "topicality": 0.859294593334198,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8468254804611206,
+            "topicality": 0.8468254804611206,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

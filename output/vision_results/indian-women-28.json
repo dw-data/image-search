@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/indian-women/28.jpeg",
+    "search_query": "indian-women",
+    "position": 28,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9893625378608704,
+            "topicality": 0.9893625378608704,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9841906428337097,
+            "topicality": 0.9841906428337097,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740726947784424,
+            "topicality": 0.9740726947784424,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9729373455047607,
+            "topicality": 0.9729373455047607,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9189921617507935,
+            "topicality": 0.9189921617507935,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9170916676521301,
+            "topicality": 0.9170916676521301,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9021950364112854,
+            "topicality": 0.9021950364112854,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828232288360596,
+            "topicality": 0.8828232288360596,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8820646405220032,
+            "topicality": 0.8820646405220032,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.8803573250770569,
+            "topicality": 0.8803573250770569,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/hungarian-women/49.jpeg",
+    "search_query": "hungarian-women",
+    "position": 49,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9894934892654419,
+            "topicality": 0.9894934892654419,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9737086296081543,
+            "topicality": 0.9737086296081543,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9682411551475525,
+            "topicality": 0.9682411551475525,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656230807304382,
+            "topicality": 0.9656230807304382,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9538620710372925,
+            "topicality": 0.9538620710372925,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/01vm1p",
+            "score": 0.9423739910125732,
+            "topicality": 0.9423739910125732,
+            "description": "Elbow"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9100161790847778,
+            "topicality": 0.9100161790847778,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.8884182572364807,
+            "topicality": 0.8884182572364807,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/02ksmb",
+            "score": 0.8521595597267151,
+            "topicality": 0.8521595597267151,
+            "description": "Brown hair"
+        },
+        {
+            "mid": "/m/0294jb",
+            "score": 0.8459504842758179,
+            "topicality": 0.8459504842758179,
+            "description": "Blond"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

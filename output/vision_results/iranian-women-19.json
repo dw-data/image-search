@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/iranian-women/19.jpeg",
+    "search_query": "iranian-women",
+    "position": 19,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9886935353279114,
+            "topicality": 0.9886935353279114,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9787851572036743,
+            "topicality": 0.9787851572036743,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.977834939956665,
+            "topicality": 0.977834939956665,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977408230304718,
+            "topicality": 0.977408230304718,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9753180742263794,
+            "topicality": 0.9753180742263794,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9684873223304749,
+            "topicality": 0.9684873223304749,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9452494382858276,
+            "topicality": 0.9452494382858276,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9404311776161194,
+            "topicality": 0.9404311776161194,
+            "description": "Community"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.9298133254051208,
+            "topicality": 0.9298133254051208,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9166155457496643,
+            "topicality": 0.9166155457496643,
+            "description": "Crowd"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

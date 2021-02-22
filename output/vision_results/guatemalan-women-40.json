@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/guatemalan-women/40.jpeg",
+    "search_query": "guatemalan-women",
+    "position": 40,
+    "label_annotations": [
+        {
+            "mid": "/m/0hwky",
+            "score": 0.9649356007575989,
+            "topicality": 0.9649356007575989,
+            "description": "Pattern"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.9113004207611084,
+            "topicality": 0.9113004207611084,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/0p9xx",
+            "score": 0.758961021900177,
+            "topicality": 0.758961021900177,
+            "description": "Visual arts"
+        },
+        {
+            "mid": "/m/06g1w2",
+            "score": 0.606255054473877,
+            "topicality": 0.606255054473877,
+            "description": "Pattern"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

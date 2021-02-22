@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/american-women/10.jpeg",
+    "search_query": "american-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9798524975776672,
+            "topicality": 0.9798524975776672,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9791926145553589,
+            "topicality": 0.9791926145553589,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9682100415229797,
+            "topicality": 0.9682100415229797,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9269807934761047,
+            "topicality": 0.9269807934761047,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.9101930260658264,
+            "topicality": 0.9101930260658264,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.8812418580055237,
+            "topicality": 0.8812418580055237,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.8754317164421082,
+            "topicality": 0.8754317164421082,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/03rz8v",
+            "score": 0.8740230202674866,
+            "topicality": 0.8740230202674866,
+            "description": "Cosmetic dentistry"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8712725639343262,
+            "topicality": 0.8712725639343262,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

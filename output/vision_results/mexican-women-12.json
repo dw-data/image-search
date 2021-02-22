@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mexican-women/12.jpeg",
+    "search_query": "mexican-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9921278357505798,
+            "topicality": 0.9921278357505798,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790167808532715,
+            "topicality": 0.9790167808532715,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9779515862464905,
+            "topicality": 0.9779515862464905,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739089608192444,
+            "topicality": 0.9739089608192444,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9711628556251526,
+            "topicality": 0.9711628556251526,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.969154417514801,
+            "topicality": 0.969154417514801,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681845903396606,
+            "topicality": 0.9681845903396606,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639068841934204,
+            "topicality": 0.9639068841934204,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9490635991096497,
+            "topicality": 0.9490635991096497,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0hwky",
+            "score": 0.9475165605545044,
+            "topicality": 0.9475165605545044,
+            "description": "Pattern"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

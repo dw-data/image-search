@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/australian-women/6.jpeg",
+    "search_query": "australian-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/06z04",
+            "score": 0.9747701287269592,
+            "topicality": 0.9747701287269592,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9431848526000977,
+            "topicality": 0.9431848526000977,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9365236163139343,
+            "topicality": 0.9365236163139343,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/083jv",
+            "score": 0.9218834638595581,
+            "topicality": 0.9218834638595581,
+            "description": "White"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9188345074653625,
+            "topicality": 0.9188345074653625,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8799735307693481,
+            "topicality": 0.8799735307693481,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8796803951263428,
+            "topicality": 0.8796803951263428,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.8645384907722473,
+            "topicality": 0.8645384907722473,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/0rytcc5",
+            "score": 0.8576891422271729,
+            "topicality": 0.8576891422271729,
+            "description": "Strapless dress"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8561650514602661,
+            "topicality": 0.8561650514602661,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

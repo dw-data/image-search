@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/greek-women/26.jpeg",
+    "search_query": "greek-women",
+    "position": 26,
+    "label_annotations": [
+        {
+            "mid": "/m/037p5b",
+            "score": 0.978425145149231,
+            "topicality": 0.978425145149231,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9689467549324036,
+            "topicality": 0.9689467549324036,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681841135025024,
+            "topicality": 0.9681841135025024,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9316568374633789,
+            "topicality": 0.9316568374633789,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0fjkt",
+            "score": 0.8522822856903076,
+            "topicality": 0.8522822856903076,
+            "description": "Tongue"
+        },
+        {
+            "mid": "/m/03qc9zr",
+            "score": 0.6095044016838074,
+            "topicality": 0.6095044016838074,
+            "description": "Shout"
+        },
+        {
+            "mid": "/m/0269r2s",
+            "score": 0.5480459332466125,
+            "topicality": 0.5480459332466125,
+            "description": "Chain"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/nicaraguan-women/81.png",
+    "search_query": "nicaraguan-women",
+    "position": 81,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9770658016204834,
+            "topicality": 0.9770658016204834,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.940214216709137,
+            "topicality": 0.940214216709137,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828259706497192,
+            "topicality": 0.8828259706497192,
+            "description": "Temple"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

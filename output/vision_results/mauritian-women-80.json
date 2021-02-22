@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/mauritian-women/80.jpeg",
+    "search_query": "mauritian-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9892526268959045,
+            "topicality": 0.9892526268959045,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880397915840149,
+            "topicality": 0.9880397915840149,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9836565256118774,
+            "topicality": 0.9836565256118774,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9797107577323914,
+            "topicality": 0.9797107577323914,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9792934656143188,
+            "topicality": 0.9792934656143188,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773668050765991,
+            "topicality": 0.9773668050765991,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9740073680877686,
+            "topicality": 0.9740073680877686,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9728957414627075,
+            "topicality": 0.9728957414627075,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.949181854724884,
+            "topicality": 0.949181854724884,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/031vtq",
+            "score": 0.937288224697113,
+            "topicality": 0.937288224697113,
+            "description": "Trunk"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

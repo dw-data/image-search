@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/burkinab\u00e9-women/4.png",
+    "search_query": "burkinab\u00e9-women",
+    "position": 4,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9772224426269531,
+            "topicality": 0.9772224426269531,
+            "description": "People"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.7139039635658264,
+            "topicality": 0.7139039635658264,
+            "description": "Wrinkle"
+        },
+        {
+            "mid": "/m/09fwz6",
+            "score": 0.6558865904808044,
+            "topicality": 0.6558865904808044,
+            "description": "Lap"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/vietnamese-women/51.jpeg",
+    "search_query": "vietnamese-women",
+    "position": 51,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9838224649429321,
+            "topicality": 0.9838224649429321,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9827121496200562,
+            "topicality": 0.9827121496200562,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9793925285339355,
+            "topicality": 0.9793925285339355,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.978995144367218,
+            "topicality": 0.978995144367218,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9705261588096619,
+            "topicality": 0.9705261588096619,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9701681733131409,
+            "topicality": 0.9701681733131409,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9553837180137634,
+            "topicality": 0.9553837180137634,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9098010659217834,
+            "topicality": 0.9098010659217834,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9001471996307373,
+            "topicality": 0.9001471996307373,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

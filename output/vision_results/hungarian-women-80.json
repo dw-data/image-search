@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/hungarian-women/80.jpeg",
+    "search_query": "hungarian-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9885239601135254,
+            "topicality": 0.9885239601135254,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9839655160903931,
+            "topicality": 0.9839655160903931,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9770761132240295,
+            "topicality": 0.9770761132240295,
+            "description": "People"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9728406667709351,
+            "topicality": 0.9728406667709351,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9704758524894714,
+            "topicality": 0.9704758524894714,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.9399353861808777,
+            "topicality": 0.9399353861808777,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9160480499267578,
+            "topicality": 0.9160480499267578,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0hwky",
+            "score": 0.9013833403587341,
+            "topicality": 0.9013833403587341,
+            "description": "Pattern"
+        },
+        {
+            "mid": "/m/026bk",
+            "score": 0.79493647813797,
+            "topicality": 0.79493647813797,
+            "description": "Dance"
+        },
+        {
+            "mid": "/m/032km",
+            "score": 0.6844598054885864,
+            "topicality": 0.6844598054885864,
+            "description": "Folk dance"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

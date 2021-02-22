@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/icelandic-women/7.jpeg",
+    "search_query": "icelandic-women",
+    "position": 7,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9840041399002075,
+            "topicality": 0.9840041399002075,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9793681502342224,
+            "topicality": 0.9793681502342224,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9732467532157898,
+            "topicality": 0.9732467532157898,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9383018016815186,
+            "topicality": 0.9383018016815186,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.8492145538330078,
+            "topicality": 0.8492145538330078,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/013x8v",
+            "score": 0.8417145609855652,
+            "topicality": 0.8417145609855652,
+            "description": "Fan"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.829807460308075,
+            "topicality": 0.829807460308075,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.820694088935852,
+            "topicality": 0.820694088935852,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.7933632135391235,
+            "topicality": 0.7933632135391235,
+            "description": "Crowd"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

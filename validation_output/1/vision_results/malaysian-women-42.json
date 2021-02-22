@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/malaysian-women/42.jpeg",
+    "search_query": "malaysian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9841057658195496,
+            "topicality": 0.9841057658195496,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9829034209251404,
+            "topicality": 0.9829034209251404,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9742008447647095,
+            "topicality": 0.9742008447647095,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9692931175231934,
+            "topicality": 0.9692931175231934,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8468267917633057,
+            "topicality": 0.8468267917633057,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8396299481391907,
+            "topicality": 0.8396299481391907,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/0hg7b",
+            "score": 0.8066118955612183,
+            "topicality": 0.8066118955612183,
+            "description": "Microphone"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.7537007927894592,
+            "topicality": 0.7537007927894592,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.7495726943016052,
+            "topicality": 0.7495726943016052,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/06pg22",
+            "score": 0.7428474426269531,
+            "topicality": 0.7428474426269531,
+            "description": "Snapshot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

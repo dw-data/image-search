@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/indonesian-women/93.jpeg",
+    "search_query": "indonesian-women",
+    "position": 93,
+    "label_annotations": [
+        {
+            "mid": "/m/0gjbg72",
+            "score": 0.9040994048118591,
+            "topicality": 0.9040994048118591,
+            "description": "Shelf"
+        },
+        {
+            "mid": "/m/0h8n982",
+            "score": 0.8477734327316284,
+            "topicality": 0.8477734327316284,
+            "description": "Shelving"
+        },
+        {
+            "mid": "/m/0138tl",
+            "score": 0.5505738854408264,
+            "topicality": 0.5505738854408264,
+            "description": "Toy"
+        },
+        {
+            "mid": "/m/025dyy",
+            "score": 0.5247768759727478,
+            "topicality": 0.5247768759727478,
+            "description": "Box"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.5171316862106323,
+            "topicality": 0.5171316862106323,
+            "description": "One-piece garment"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

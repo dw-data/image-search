@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/guatemalan-women/32.jpeg",
+    "search_query": "guatemalan-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9898208379745483,
+            "topicality": 0.9898208379745483,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9892829656600952,
+            "topicality": 0.9892829656600952,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9882175922393799,
+            "topicality": 0.9882175922393799,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.983789324760437,
+            "topicality": 0.983789324760437,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774116277694702,
+            "topicality": 0.9774116277694702,
+            "description": "People"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9160754680633545,
+            "topicality": 0.9160754680633545,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/0hgntgw",
+            "score": 0.5925499796867371,
+            "topicality": 0.5925499796867371,
+            "description": "Active tank"
+        },
+        {
+            "mid": "/m/048knlz",
+            "score": 0.5249868035316467,
+            "topicality": 0.5249868035316467,
+            "description": "Love"
+        },
+        {
+            "mid": "/m/0hgsb5g",
+            "score": 0.5157149434089661,
+            "topicality": 0.5157149434089661,
+            "description": "Day dress"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

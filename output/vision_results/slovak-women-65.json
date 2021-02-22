@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/slovak-women/65.jpeg",
+    "search_query": "slovak-women",
+    "position": 65,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9884979724884033,
+            "topicality": 0.9884979724884033,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.987907350063324,
+            "topicality": 0.987907350063324,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9413931369781494,
+            "topicality": 0.9413931369781494,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9022478461265564,
+            "topicality": 0.9022478461265564,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828288316726685,
+            "topicality": 0.8828288316726685,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.8589125275611877,
+            "topicality": 0.8589125275611877,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.8347004055976868,
+            "topicality": 0.8347004055976868,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6771596074104309,
+            "topicality": 0.6771596074104309,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/0h8kxbv",
+            "score": 0.6594688892364502,
+            "topicality": 0.6594688892364502,
+            "description": "Body jewelry"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

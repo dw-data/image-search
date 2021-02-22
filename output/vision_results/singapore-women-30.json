@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/singapore-women/30.jpeg",
+    "search_query": "singapore-women",
+    "position": 30,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9893587827682495,
+            "topicality": 0.9893587827682495,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9890685677528381,
+            "topicality": 0.9890685677528381,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880773425102234,
+            "topicality": 0.9880773425102234,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774622321128845,
+            "topicality": 0.9774622321128845,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9774287343025208,
+            "topicality": 0.9774287343025208,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9699505567550659,
+            "topicality": 0.9699505567550659,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9394272565841675,
+            "topicality": 0.9394272565841675,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/021dfr",
+            "score": 0.8851664066314697,
+            "topicality": 0.8851664066314697,
+            "description": "Youth"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.882830798625946,
+            "topicality": 0.882830798625946,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8620557188987732,
+            "topicality": 0.8620557188987732,
+            "description": "Street fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/syrian-women/41.jpeg",
+    "search_query": "syrian-women",
+    "position": 41,
+    "label_annotations": [
+        {
+            "mid": "/m/02p5f1q",
+            "score": 0.7937667965888977,
+            "topicality": 0.7937667965888977,
+            "description": "Coffee cup"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.7060056924819946,
+            "topicality": 0.7060056924819946,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.704414963722229,
+            "topicality": 0.704414963722229,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.6712642312049866,
+            "topicality": 0.6712642312049866,
+            "description": "Scarf"
+        },
+        {
+            "mid": "/m/07ptj3n",
+            "score": 0.610873281955719,
+            "topicality": 0.610873281955719,
+            "description": "Cup"
+        },
+        {
+            "mid": "/m/0670sh",
+            "score": 0.6077886819839478,
+            "topicality": 0.6077886819839478,
+            "description": "Stole"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

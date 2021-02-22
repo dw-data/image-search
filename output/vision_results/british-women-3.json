@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/british-women/3.jpeg",
+    "search_query": "british-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9826634526252747,
+            "topicality": 0.9826634526252747,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9799125790596008,
+            "topicality": 0.9799125790596008,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789838194847107,
+            "topicality": 0.9789838194847107,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9704621434211731,
+            "topicality": 0.9704621434211731,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9578055739402771,
+            "topicality": 0.9578055739402771,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.9557172060012817,
+            "topicality": 0.9557172060012817,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9447195529937744,
+            "topicality": 0.9447195529937744,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9395877718925476,
+            "topicality": 0.9395877718925476,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/023j4r",
+            "score": 0.9295791983604431,
+            "topicality": 0.9295791983604431,
+            "description": "Nail"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.8956996202468872,
+            "topicality": 0.8956996202468872,
+            "description": "Fashion accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

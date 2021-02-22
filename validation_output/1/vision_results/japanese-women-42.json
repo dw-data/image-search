@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/japanese-women/42.jpeg",
+    "search_query": "japanese-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9728401303291321,
+            "topicality": 0.9728401303291321,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9645153284072876,
+            "topicality": 0.9645153284072876,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9428198933601379,
+            "topicality": 0.9428198933601379,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9346155524253845,
+            "topicality": 0.9346155524253845,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9070322513580322,
+            "topicality": 0.9070322513580322,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8905783295631409,
+            "topicality": 0.8905783295631409,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/07j7r",
+            "score": 0.8892634510993958,
+            "topicality": 0.8892634510993958,
+            "description": "Tree"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8618190884590149,
+            "topicality": 0.8618190884590149,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/014dsx",
+            "score": 0.8580898642539978,
+            "topicality": 0.8580898642539978,
+            "description": "Travel"
+        },
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.8545940518379211,
+            "topicality": 0.8545940518379211,
+            "description": "Eyewear"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

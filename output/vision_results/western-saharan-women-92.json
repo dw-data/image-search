@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/western-saharan-women/92.jpeg",
+    "search_query": "western-saharan-women",
+    "position": 92,
+    "label_annotations": [
+        {
+            "mid": "/m/03jvv0",
+            "score": 0.8369203209877014,
+            "topicality": 0.8369203209877014,
+            "description": "Teal"
+        },
+        {
+            "mid": "/m/01n5jq",
+            "score": 0.8213576078414917,
+            "topicality": 0.8213576078414917,
+            "description": "Poster"
+        },
+        {
+            "mid": "/m/0b75wg4",
+            "score": 0.7249685525894165,
+            "topicality": 0.7249685525894165,
+            "description": "Photo caption"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

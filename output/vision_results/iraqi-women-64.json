@@ -1,0 +1,36 @@
+{
+    "path": "../output/imgs/iraqi-women/64.jpeg",
+    "search_query": "iraqi-women",
+    "position": 64,
+    "label_annotations": [
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.5791977047920227,
+            "topicality": 0.5791977047920227,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/025sf20",
+            "score": 0.5044549107551575,
+            "topicality": 0.5044549107551575,
+            "description": "Sash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

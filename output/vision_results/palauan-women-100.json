@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/palauan-women/100.jpeg",
+    "search_query": "palauan-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/04d01f",
+            "score": 0.9270297884941101,
+            "topicality": 0.9270297884941101,
+            "description": "Amber"
+        },
+        {
+            "mid": "/m/03rbf6",
+            "score": 0.7887140512466431,
+            "topicality": 0.7887140512466431,
+            "description": "Macro photography"
+        },
+        {
+            "mid": "/m/07sx2n",
+            "score": 0.7815676927566528,
+            "topicality": 0.7815676927566528,
+            "description": "Natural material"
+        },
+        {
+            "mid": "/m/027_ny3",
+            "score": 0.6989051699638367,
+            "topicality": 0.6989051699638367,
+            "description": "Still life photography"
+        },
+        {
+            "mid": "/m/06g58b",
+            "score": 0.5287245512008667,
+            "topicality": 0.5287245512008667,
+            "description": "Oval"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

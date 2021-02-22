@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/australian-women/41.jpeg",
+    "search_query": "australian-women",
+    "position": 41,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9792432188987732,
+            "topicality": 0.9792432188987732,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.956777811050415,
+            "topicality": 0.956777811050415,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9035215377807617,
+            "topicality": 0.9035215377807617,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01j48b",
+            "score": 0.890191912651062,
+            "topicality": 0.890191912651062,
+            "description": "Wrist"
+        },
+        {
+            "mid": "/m/04115t2",
+            "score": 0.8550228476524353,
+            "topicality": 0.8550228476524353,
+            "description": "Job"
+        },
+        {
+            "mid": "/m/01tqrk",
+            "score": 0.8415567278862,
+            "topicality": 0.8415567278862,
+            "description": "Employment"
+        },
+        {
+            "mid": "/m/01y9k5",
+            "score": 0.8108078837394714,
+            "topicality": 0.8108078837394714,
+            "description": "Desk"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.7959526181221008,
+            "topicality": 0.7959526181221008,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/018tkd",
+            "score": 0.704038679599762,
+            "topicality": 0.704038679599762,
+            "description": "Service"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6545323729515076,
+            "topicality": 0.6545323729515076,
+            "description": "Makeover"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

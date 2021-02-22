@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/bhutanese-women/12.jpeg",
+    "search_query": "bhutanese-women",
+    "position": 12,
+    "label_annotations": [
+        {
+            "mid": "/m/01z1sv",
+            "score": 0.6813609600067139,
+            "topicality": 0.6813609600067139,
+            "description": "Tartan"
+        },
+        {
+            "mid": "/m/0250x",
+            "score": 0.6322560906410217,
+            "topicality": 0.6322560906410217,
+            "description": "Costume"
+        },
+        {
+            "mid": "/m/06g1w2",
+            "score": 0.5358693599700928,
+            "topicality": 0.5358693599700928,
+            "description": "Pattern"
+        },
+        {
+            "mid": "/m/0177t1",
+            "score": 0.5013124942779541,
+            "topicality": 0.5013124942779541,
+            "description": "Plaid"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

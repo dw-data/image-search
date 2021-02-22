@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/australian-women/20.jpeg",
+    "search_query": "australian-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9921709895133972,
+            "topicality": 0.9921709895133972,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.979011595249176,
+            "topicality": 0.979011595249176,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739474654197693,
+            "topicality": 0.9739474654197693,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681843519210815,
+            "topicality": 0.9681843519210815,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639068841934204,
+            "topicality": 0.9639068841934204,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/091410",
+            "score": 0.9575694799423218,
+            "topicality": 0.9575694799423218,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9434502720832825,
+            "topicality": 0.9434502720832825,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/032b3c",
+            "score": 0.9398083090782166,
+            "topicality": 0.9398083090782166,
+            "description": "Jacket"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.932489275932312,
+            "topicality": 0.932489275932312,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9005618691444397,
+            "topicality": 0.9005618691444397,
+            "description": "Black hair"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

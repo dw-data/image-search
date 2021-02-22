@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/nauruan-women/9.jpeg",
+    "search_query": "nauruan-women",
+    "position": 9,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9830354452133179,
+            "topicality": 0.9830354452133179,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9825252890586853,
+            "topicality": 0.9825252890586853,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9732449054718018,
+            "topicality": 0.9732449054718018,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9327359199523926,
+            "topicality": 0.9327359199523926,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/02py09",
+            "score": 0.8907924890518188,
+            "topicality": 0.8907924890518188,
+            "description": "Natural environment"
+        },
+        {
+            "mid": "/m/0gkxy13",
+            "score": 0.8525282144546509,
+            "topicality": 0.8525282144546509,
+            "description": "Handwriting"
+        },
+        {
+            "mid": "/m/01ckgp",
+            "score": 0.8394208550453186,
+            "topicality": 0.8394208550453186,
+            "description": "Interaction"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.8162646889686584,
+            "topicality": 0.8162646889686584,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.7931168675422668,
+            "topicality": 0.7931168675422668,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.7466344833374023,
+            "topicality": 0.7466344833374023,
+            "description": "Event"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

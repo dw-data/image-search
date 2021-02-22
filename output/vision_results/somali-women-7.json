@@ -1,0 +1,78 @@
+{
+    "path": "../output/imgs/somali-women/7.jpeg",
+    "search_query": "somali-women",
+    "position": 7,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789997935295105,
+            "topicality": 0.9789997935295105,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9716581106185913,
+            "topicality": 0.9716581106185913,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639065861701965,
+            "topicality": 0.9639065861701965,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8945045471191406,
+            "topicality": 0.8945045471191406,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8687590956687927,
+            "topicality": 0.8687590956687927,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.7034804224967957,
+            "topicality": 0.7034804224967957,
+            "description": "Portrait"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.6866458654403687,
+            "topicality": 0.6866458654403687,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/04d1p3",
+            "score": 0.5903202295303345,
+            "topicality": 0.5903202295303345,
+            "description": "Shawl"
+        },
+        {
+            "mid": "/m/0670sh",
+            "score": 0.5610390305519104,
+            "topicality": 0.5610390305519104,
+            "description": "Stole"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

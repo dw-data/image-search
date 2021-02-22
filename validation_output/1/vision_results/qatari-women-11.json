@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/qatari-women/11.jpeg",
+    "search_query": "qatari-women",
+    "position": 11,
+    "label_annotations": [
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9571570754051208,
+            "topicality": 0.9571570754051208,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9323528409004211,
+            "topicality": 0.9323528409004211,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9270756840705872,
+            "topicality": 0.9270756840705872,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724502325057983,
+            "topicality": 0.8724502325057983,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8709126114845276,
+            "topicality": 0.8709126114845276,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.7708364129066467,
+            "topicality": 0.7708364129066467,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/02w3_2",
+            "score": 0.7676657438278198,
+            "topicality": 0.7676657438278198,
+            "description": "Formal wear"
+        },
+        {
+            "mid": "/m/09v2ztm",
+            "score": 0.7669405341148376,
+            "topicality": 0.7669405341148376,
+            "description": "Wrap"
+        },
+        {
+            "mid": "/m/0670sh",
+            "score": 0.7631399631500244,
+            "topicality": 0.7631399631500244,
+            "description": "Stole"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

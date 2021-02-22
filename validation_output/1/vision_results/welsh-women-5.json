@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/welsh-women/5.jpeg",
+    "search_query": "welsh-women",
+    "position": 5,
+    "label_annotations": [
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9846563935279846,
+            "topicality": 0.9846563935279846,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9835647940635681,
+            "topicality": 0.9835647940635681,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9669546484947205,
+            "topicality": 0.9669546484947205,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9451485276222229,
+            "topicality": 0.9451485276222229,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8779780864715576,
+            "topicality": 0.8779780864715576,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/02vzx9",
+            "score": 0.7654761075973511,
+            "topicality": 0.7654761075973511,
+            "description": "Player"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.7627034783363342,
+            "topicality": 0.7627034783363342,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.7475329041481018,
+            "topicality": 0.7475329041481018,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.7467331290245056,
+            "topicality": 0.7467331290245056,
+            "description": "Jewellery"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

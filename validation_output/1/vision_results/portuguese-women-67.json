@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/portuguese-women/67.jpeg",
+    "search_query": "portuguese-women",
+    "position": 67,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9831018447875977,
+            "topicality": 0.9831018447875977,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9829590916633606,
+            "topicality": 0.9829590916633606,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9693325757980347,
+            "topicality": 0.9693325757980347,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9686887264251709,
+            "topicality": 0.9686887264251709,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9406177401542664,
+            "topicality": 0.9406177401542664,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9173175692558289,
+            "topicality": 0.9173175692558289,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.8738429546356201,
+            "topicality": 0.8738429546356201,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8688297271728516,
+            "topicality": 0.8688297271728516,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8541440963745117,
+            "topicality": 0.8541440963745117,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8521401286125183,
+            "topicality": 0.8521401286125183,
+            "description": "Thigh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

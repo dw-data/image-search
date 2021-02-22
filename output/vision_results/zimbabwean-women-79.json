@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/zimbabwean-women/79.jpeg",
+    "search_query": "zimbabwean-women",
+    "position": 79,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9764400720596313,
+            "topicality": 0.9764400720596313,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9587323665618896,
+            "topicality": 0.9587323665618896,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9393578171730042,
+            "topicality": 0.9393578171730042,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828104138374329,
+            "topicality": 0.8828104138374329,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/01kv7h",
+            "score": 0.7603266835212708,
+            "topicality": 0.7603266835212708,
+            "description": "Midnight"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

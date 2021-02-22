@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/nepalese-women/61.octet-stream",
+    "search_query": "nepalese-women",
+    "position": 61,
+    "label_annotations": [
+        {
+            "mid": "/m/02dl1y",
+            "score": 0.9376438856124878,
+            "topicality": 0.9376438856124878,
+            "description": "Hat"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9104670286178589,
+            "topicality": 0.9104670286178589,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0142sg",
+            "score": 0.6094495058059692,
+            "topicality": 0.6094495058059692,
+            "description": "One-piece garment"
+        },
+        {
+            "mid": "/m/0hgs526",
+            "score": 0.5461932420730591,
+            "topicality": 0.5461932420730591,
+            "description": "Costume accessory"
+        },
+        {
+            "mid": "/m/01b638",
+            "score": 0.5198811292648315,
+            "topicality": 0.5198811292648315,
+            "description": "Boot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

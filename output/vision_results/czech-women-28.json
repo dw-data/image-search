@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/czech-women/28.png",
+    "search_query": "czech-women",
+    "position": 28,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9888564348220825,
+            "topicality": 0.9888564348220825,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9840919375419617,
+            "topicality": 0.9840919375419617,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790181517601013,
+            "topicality": 0.9790181517601013,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/037p5b",
+            "score": 0.9786403775215149,
+            "topicality": 0.9786403775215149,
+            "description": "Cheek"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9741011261940002,
+            "topicality": 0.9741011261940002,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9726282358169556,
+            "topicality": 0.9726282358169556,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9723164439201355,
+            "topicality": 0.9723164439201355,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9688781499862671,
+            "topicality": 0.9688781499862671,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/025kyy",
+            "score": 0.9681837558746338,
+            "topicality": 0.9681837558746338,
+            "description": "Forehead"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9675707817077637,
+            "topicality": 0.9675707817077637,
+            "description": "Eyelash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

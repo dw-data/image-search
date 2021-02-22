@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/russian-women/4.jpeg",
+    "search_query": "russian-women",
+    "position": 4,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9865512251853943,
+            "topicality": 0.9865512251853943,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9821898937225342,
+            "topicality": 0.9821898937225342,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/06rrc",
+            "score": 0.9631105065345764,
+            "topicality": 0.9631105065345764,
+            "description": "Shoe"
+        },
+        {
+            "mid": "/m/083wq",
+            "score": 0.9588565230369568,
+            "topicality": 0.9588565230369568,
+            "description": "Wheel"
+        },
+        {
+            "mid": "/m/0h9mv",
+            "score": 0.9411647915840149,
+            "topicality": 0.9411647915840149,
+            "description": "Tire"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9108316898345947,
+            "topicality": 0.9108316898345947,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0hf58v5",
+            "score": 0.9006398916244507,
+            "topicality": 0.9006398916244507,
+            "description": "Luggage and bags"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8989736437797546,
+            "topicality": 0.8989736437797546,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/017kvv",
+            "score": 0.890472948551178,
+            "topicality": 0.890472948551178,
+            "description": "Infrastructure"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8846021890640259,
+            "topicality": 0.8846021890640259,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

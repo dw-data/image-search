@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/german-women/7.jpeg",
+    "search_query": "german-women",
+    "position": 7,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9741377830505371,
+            "topicality": 0.9741377830505371,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9733725190162659,
+            "topicality": 0.9733725190162659,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9692772626876831,
+            "topicality": 0.9692772626876831,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9348722100257874,
+            "topicality": 0.9348722100257874,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9325018525123596,
+            "topicality": 0.9325018525123596,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.9163570404052734,
+            "topicality": 0.9163570404052734,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.880979597568512,
+            "topicality": 0.880979597568512,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/083vt",
+            "score": 0.8755702376365662,
+            "topicality": 0.8755702376365662,
+            "description": "Wood"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8718028664588928,
+            "topicality": 0.8718028664588928,
+            "description": "Happy"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/northern-irish-women/81.jpeg",
+    "search_query": "northern-irish-women",
+    "position": 81,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9899419546127319,
+            "topicality": 0.9899419546127319,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9892884492874146,
+            "topicality": 0.9892884492874146,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9883095026016235,
+            "topicality": 0.9883095026016235,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.9855793118476868,
+            "topicality": 0.9855793118476868,
+            "description": "Human"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.984485924243927,
+            "topicality": 0.984485924243927,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9781319499015808,
+            "topicality": 0.9781319499015808,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774647355079651,
+            "topicality": 0.9774647355079651,
+            "description": "People"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.9713724255561829,
+            "topicality": 0.9713724255561829,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.9385057687759399,
+            "topicality": 0.9385057687759399,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9300893545150757,
+            "topicality": 0.9300893545150757,
+            "description": "Crowd"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

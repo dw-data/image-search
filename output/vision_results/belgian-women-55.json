@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/belgian-women/55.jpeg",
+    "search_query": "belgian-women",
+    "position": 55,
+    "label_annotations": [
+        {
+            "mid": "/m/09j5n",
+            "score": 0.9886957406997681,
+            "topicality": 0.9886957406997681,
+            "description": "Footwear"
+        },
+        {
+            "mid": "/m/06fvc",
+            "score": 0.9486122727394104,
+            "topicality": 0.9486122727394104,
+            "description": "Red"
+        },
+        {
+            "mid": "/m/09jfs",
+            "score": 0.9450891613960266,
+            "topicality": 0.9450891613960266,
+            "description": "Uniform"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.9105135798454285,
+            "topicality": 0.9105135798454285,
+            "description": "Team"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.7167039513587952,
+            "topicality": 0.7167039513587952,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/01zpz",
+            "score": 0.678402841091156,
+            "topicality": 0.678402841091156,
+            "description": "Crew"
+        },
+        {
+            "mid": "/m/02p9658",
+            "score": 0.6114006042480469,
+            "topicality": 0.6114006042480469,
+            "description": "Coquelicot"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

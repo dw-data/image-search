@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/american-women/80.jpeg",
+    "search_query": "american-women",
+    "position": 80,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9860732555389404,
+            "topicality": 0.9860732555389404,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9071983098983765,
+            "topicality": 0.9071983098983765,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8940547108650208,
+            "topicality": 0.8940547108650208,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "score": 0.8886968493461609,
+            "topicality": 0.8886968493461609,
+            "description": "Human"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8842988014221191,
+            "topicality": 0.8842988014221191,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8559715747833252,
+            "topicality": 0.8559715747833252,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.8087925910949707,
+            "topicality": 0.8087925910949707,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/04g3r",
+            "score": 0.8050458431243896,
+            "topicality": 0.8050458431243896,
+            "description": "Leisure"
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "score": 0.8005618453025818,
+            "topicality": 0.8005618453025818,
+            "description": "Fun"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.7503251433372498,
+            "topicality": 0.7503251433372498,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

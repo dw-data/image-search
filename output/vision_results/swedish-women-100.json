@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swedish-women/100.png",
+    "search_query": "swedish-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9924091696739197,
+            "topicality": 0.9924091696739197,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789810180664062,
+            "topicality": 0.9789810180664062,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9736245274543762,
+            "topicality": 0.9736245274543762,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9650905132293701,
+            "topicality": 0.9650905132293701,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0rytcc5",
+            "score": 0.962329089641571,
+            "topicality": 0.962329089641571,
+            "description": "Strapless dress"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9521349668502808,
+            "topicality": 0.9521349668502808,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9441071152687073,
+            "topicality": 0.9441071152687073,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9315997362136841,
+            "topicality": 0.9315997362136841,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.9135954976081848,
+            "topicality": 0.9135954976081848,
+            "description": "Beauty"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8879921436309814,
+            "topicality": 0.8879921436309814,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/macanese-women/50.jpeg",
+    "search_query": "macanese-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9847507476806641,
+            "topicality": 0.9847507476806641,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9428319334983826,
+            "topicality": 0.9428319334983826,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8724491000175476,
+            "topicality": 0.8724491000175476,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8566485643386841,
+            "topicality": 0.8566485643386841,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8420478105545044,
+            "topicality": 0.8420478105545044,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/02qqd4n",
+            "score": 0.8034349679946899,
+            "topicality": 0.8034349679946899,
+            "description": "Fashion design"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.7715158462524414,
+            "topicality": 0.7715158462524414,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.7503522038459778,
+            "topicality": 0.7503522038459778,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/02w3_2",
+            "score": 0.7502040863037109,
+            "topicality": 0.7502040863037109,
+            "description": "Formal wear"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

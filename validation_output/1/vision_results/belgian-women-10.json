@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/belgian-women/10.jpeg",
+    "search_query": "belgian-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9691950678825378,
+            "topicality": 0.9691950678825378,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9374398589134216,
+            "topicality": 0.9374398589134216,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9226303696632385,
+            "topicality": 0.9226303696632385,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0fg019",
+            "score": 0.8981149196624756,
+            "topicality": 0.8981149196624756,
+            "description": "Eye liner"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.8620790839195251,
+            "topicality": 0.8620790839195251,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.8597517013549805,
+            "topicality": 0.8597517013549805,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8188619613647461,
+            "topicality": 0.8188619613647461,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/09spj9",
+            "score": 0.7981780767440796,
+            "topicality": 0.7981780767440796,
+            "description": "Layered hair"
+        },
+        {
+            "mid": "/m/03_pfn",
+            "score": 0.7969430685043335,
+            "topicality": 0.7969430685043335,
+            "description": "Liver"
+        },
+        {
+            "mid": "/m/026mhtg",
+            "score": 0.7609618306159973,
+            "topicality": 0.7609618306159973,
+            "description": "Step cutting"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

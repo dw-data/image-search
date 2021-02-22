@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/mexican-women/90.jpeg",
+    "search_query": "mexican-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/031974",
+            "score": 0.9211702346801758,
+            "topicality": 0.9211702346801758,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/06_kbr",
+            "score": 0.7517522573471069,
+            "topicality": 0.7517522573471069,
+            "description": "Hip"
+        },
+        {
+            "mid": "/m/08y7p8",
+            "score": 0.6835692524909973,
+            "topicality": 0.6835692524909973,
+            "description": "Abdomen"
+        },
+        {
+            "mid": "/m/077p0h",
+            "score": 0.5404316782951355,
+            "topicality": 0.5404316782951355,
+            "description": "Sleeveless shirt"
+        },
+        {
+            "mid": "/m/0176mf",
+            "score": 0.5332746505737305,
+            "topicality": 0.5332746505737305,
+            "description": "Belt"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

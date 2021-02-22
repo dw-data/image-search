@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/croatian-women/20.jpeg",
+    "search_query": "croatian-women",
+    "position": 20,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9884883761405945,
+            "topicality": 0.9884883761405945,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9737895727157593,
+            "topicality": 0.9737895727157593,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9320662021636963,
+            "topicality": 0.9320662021636963,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0h8k4j9",
+            "score": 0.9317622780799866,
+            "topicality": 0.9317622780799866,
+            "description": "Hair accessory"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9314894676208496,
+            "topicality": 0.9314894676208496,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.921901524066925,
+            "topicality": 0.921901524066925,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/02fbqn",
+            "score": 0.9121763706207275,
+            "topicality": 0.9121763706207275,
+            "description": "Headpiece"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.910722017288208,
+            "topicality": 0.910722017288208,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/016q19",
+            "score": 0.910237193107605,
+            "topicality": 0.910237193107605,
+            "description": "Petal"
+        },
+        {
+            "mid": "/m/01f43",
+            "score": 0.906562864780426,
+            "topicality": 0.906562864780426,
+            "description": "Beauty"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

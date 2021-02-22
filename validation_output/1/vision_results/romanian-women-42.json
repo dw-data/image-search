@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/romanian-women/42.jpeg",
+    "search_query": "romanian-women",
+    "position": 42,
+    "label_annotations": [
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9760426878929138,
+            "topicality": 0.9760426878929138,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9732759594917297,
+            "topicality": 0.9732759594917297,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9697327017784119,
+            "topicality": 0.9697327017784119,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9410803318023682,
+            "topicality": 0.9410803318023682,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9319450855255127,
+            "topicality": 0.9319450855255127,
+            "description": "Leg"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8796210885047913,
+            "topicality": 0.8796210885047913,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/031974",
+            "score": 0.8664242029190063,
+            "topicality": 0.8664242029190063,
+            "description": "Waist"
+        },
+        {
+            "mid": "/m/01j04m",
+            "score": 0.8589902520179749,
+            "topicality": 0.8589902520179749,
+            "description": "Thigh"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8511309623718262,
+            "topicality": 0.8511309623718262,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/019swr",
+            "score": 0.8222178816795349,
+            "topicality": 0.8222178816795349,
+            "description": "Knee"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

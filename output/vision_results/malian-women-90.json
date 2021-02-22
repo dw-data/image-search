@@ -1,0 +1,42 @@
+{
+    "path": "../output/imgs/malian-women/90.jpeg",
+    "search_query": "malian-women",
+    "position": 90,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9734174609184265,
+            "topicality": 0.9734174609184265,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.7022139430046082,
+            "topicality": 0.7022139430046082,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.5107493996620178,
+            "topicality": 0.5107493996620178,
+            "description": "Portrait"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

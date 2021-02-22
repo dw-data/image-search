@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/swazi-women/55.jpeg",
+    "search_query": "swazi-women",
+    "position": 55,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.9138659834861755,
+            "topicality": 0.9138659834861755,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.6802405714988708,
+            "topicality": 0.6802405714988708,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/0hgs526",
+            "score": 0.6794694662094116,
+            "topicality": 0.6794694662094116,
+            "description": "Costume accessory"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.5070520639419556,
+            "topicality": 0.5070520639419556,
+            "description": "Turban"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

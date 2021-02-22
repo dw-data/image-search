@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/comorian-women/40.jpeg",
+    "search_query": "comorian-women",
+    "position": 40,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9764481782913208,
+            "topicality": 0.9764481782913208,
+            "description": "People"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9313510656356812,
+            "topicality": 0.9313510656356812,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9110369682312012,
+            "topicality": 0.9110369682312012,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828302621841431,
+            "topicality": 0.8828302621841431,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.8064228296279907,
+            "topicality": 0.8064228296279907,
+            "description": "Conversation"
+        },
+        {
+            "mid": "/m/04115t2",
+            "score": 0.727655827999115,
+            "topicality": 0.727655827999115,
+            "description": "Job"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

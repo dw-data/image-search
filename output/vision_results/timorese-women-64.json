@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/timorese-women/64.jpeg",
+    "search_query": "timorese-women",
+    "position": 64,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9838010668754578,
+            "topicality": 0.9838010668754578,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/039xj_",
+            "score": 0.9831110239028931,
+            "topicality": 0.9831110239028931,
+            "description": "Ear"
+        },
+        {
+            "mid": "/m/08g_yr",
+            "score": 0.8828182220458984,
+            "topicality": 0.8828182220458984,
+            "description": "Temple"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.7164648771286011,
+            "topicality": 0.7164648771286011,
+            "description": "Wrinkle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

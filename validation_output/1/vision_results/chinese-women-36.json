@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/chinese-women/36.jpeg",
+    "search_query": "chinese-women",
+    "position": 36,
+    "label_annotations": [
+        {
+            "mid": "/m/0k65p",
+            "score": 0.9591481685638428,
+            "topicality": 0.9591481685638428,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01m3v",
+            "score": 0.9572033286094666,
+            "topicality": 0.9572033286094666,
+            "description": "Computer"
+        },
+        {
+            "mid": "/m/0643t",
+            "score": 0.9353649020195007,
+            "topicality": 0.9353649020195007,
+            "description": "Personal computer"
+        },
+        {
+            "mid": "/m/01c648",
+            "score": 0.9111133217811584,
+            "topicality": 0.9111133217811584,
+            "description": "Laptop"
+        },
+        {
+            "mid": "/m/08xgn7",
+            "score": 0.9007983207702637,
+            "topicality": 0.9007983207702637,
+            "description": "Comfort"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8858423233032227,
+            "topicality": 0.8858423233032227,
+            "description": "Fashion"
+        },
+        {
+            "mid": "/m/0403lcy",
+            "score": 0.8658172488212585,
+            "topicality": 0.8658172488212585,
+            "description": "Netbook"
+        },
+        {
+            "mid": "/m/02crq1",
+            "score": 0.852586567401886,
+            "topicality": 0.852586567401886,
+            "description": "Couch"
+        },
+        {
+            "mid": "/m/0316dw",
+            "score": 0.8260154724121094,
+            "topicality": 0.8260154724121094,
+            "description": "Typing"
+        },
+        {
+            "mid": "/m/02mf1n",
+            "score": 0.8042135238647461,
+            "topicality": 0.8042135238647461,
+            "description": "Gadget"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

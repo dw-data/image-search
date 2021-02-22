@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/american-women/88.jpeg",
+    "search_query": "american-women",
+    "position": 88,
+    "label_annotations": [
+        {
+            "mid": "/m/0ffjr",
+            "score": 0.9529858827590942,
+            "topicality": 0.9529858827590942,
+            "description": "Personal protective equipment"
+        },
+        {
+            "mid": "/m/0zvk5",
+            "score": 0.9222556352615356,
+            "topicality": 0.9222556352615356,
+            "description": "Helmet"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.8994623422622681,
+            "topicality": 0.8994623422622681,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/06wqb",
+            "score": 0.8749226927757263,
+            "topicality": 0.8749226927757263,
+            "description": "Space"
+        },
+        {
+            "mid": "/m/0htp",
+            "score": 0.7656663656234741,
+            "topicality": 0.7656663656234741,
+            "description": "Astronaut"
+        },
+        {
+            "mid": "/m/02h7lkt",
+            "score": 0.5814168453216553,
+            "topicality": 0.5814168453216553,
+            "description": "Fictional character"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

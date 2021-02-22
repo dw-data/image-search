@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/nauruan-women/95.jpeg",
+    "search_query": "nauruan-women",
+    "position": 95,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9772165417671204,
+            "topicality": 0.9772165417671204,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9704335331916809,
+            "topicality": 0.9704335331916809,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9404202699661255,
+            "topicality": 0.9404202699661255,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/07bxq",
+            "score": 0.9064915776252747,
+            "topicality": 0.9064915776252747,
+            "description": "Tourism"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.866529643535614,
+            "topicality": 0.866529643535614,
+            "description": "Team"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

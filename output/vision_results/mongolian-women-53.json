@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/mongolian-women/53.jpeg",
+    "search_query": "mongolian-women",
+    "position": 53,
+    "label_annotations": [
+        {
+            "mid": "/m/04syw",
+            "score": 0.6189456582069397,
+            "topicality": 0.6189456582069397,
+            "description": "Monarch"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.6024485230445862,
+            "topicality": 0.6024485230445862,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/0hgs54_",
+            "score": 0.578361988067627,
+            "topicality": 0.578361988067627,
+            "description": "Costume hat"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.5287664532661438,
+            "topicality": 0.5287664532661438,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.5159380435943604,
+            "topicality": 0.5159380435943604,
+            "description": "Vintage clothing"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/northern-irish-women/91.jpeg",
+    "search_query": "northern-irish-women",
+    "position": 91,
+    "label_annotations": [
+        {
+            "mid": "/m/088fh",
+            "score": 0.9745467305183411,
+            "topicality": 0.9745467305183411,
+            "description": "Yellow"
+        },
+        {
+            "mid": "/m/0h8krv8",
+            "score": 0.624966025352478,
+            "topicality": 0.624966025352478,
+            "description": "Top"
+        },
+        {
+            "mid": "/m/0hgnxbq",
+            "score": 0.6214524507522583,
+            "topicality": 0.6214524507522583,
+            "description": "Active shirt"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6036123633384705,
+            "topicality": 0.6036123633384705,
+            "description": "Makeover"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

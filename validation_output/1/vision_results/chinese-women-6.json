@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/chinese-women/6.jpeg",
+    "search_query": "chinese-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9685949683189392,
+            "topicality": 0.9685949683189392,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.943675696849823,
+            "topicality": 0.943675696849823,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9326797127723694,
+            "topicality": 0.9326797127723694,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/062581",
+            "score": 0.8707272410392761,
+            "topicality": 0.8707272410392761,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8242203593254089,
+            "topicality": 0.8242203593254089,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/02qqd4n",
+            "score": 0.8147416114807129,
+            "topicality": 0.8147416114807129,
+            "description": "Fashion design"
+        },
+        {
+            "mid": "/m/02w3_2",
+            "score": 0.7565963268280029,
+            "topicality": 0.7565963268280029,
+            "description": "Formal wear"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.74913090467453,
+            "topicality": 0.74913090467453,
+            "description": "Event"
+        },
+        {
+            "mid": "/m/01kq3x",
+            "score": 0.7235393524169922,
+            "topicality": 0.7235393524169922,
+            "description": "White-collar worker"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

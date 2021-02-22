@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/estonian-women/100.jpeg",
+    "search_query": "estonian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9901570081710815,
+            "topicality": 0.9901570081710815,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9890152812004089,
+            "topicality": 0.9890152812004089,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9885071516036987,
+            "topicality": 0.9885071516036987,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9842538237571716,
+            "topicality": 0.9842538237571716,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9805845618247986,
+            "topicality": 0.9805845618247986,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9781320691108704,
+            "topicality": 0.9781320691108704,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9558185338973999,
+            "topicality": 0.9558185338973999,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.932661771774292,
+            "topicality": 0.932661771774292,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01bsxb",
+            "score": 0.9284982681274414,
+            "topicality": 0.9284982681274414,
+            "description": "Collage"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

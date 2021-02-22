@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swiss-women/86.jpeg",
+    "search_query": "swiss-women",
+    "position": 86,
+    "label_annotations": [
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.9305890798568726,
+            "topicality": 0.9305890798568726,
+            "description": "Protest"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.8982396721839905,
+            "topicality": 0.8982396721839905,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.8455265760421753,
+            "topicality": 0.8455265760421753,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.814315676689148,
+            "topicality": 0.814315676689148,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/02k88w",
+            "score": 0.7741891741752625,
+            "topicality": 0.7741891741752625,
+            "description": "Rebellion"
+        },
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.7428461313247681,
+            "topicality": 0.7428461313247681,
+            "description": "Banner"
+        },
+        {
+            "mid": "/m/053hz1",
+            "score": 0.6623713970184326,
+            "topicality": 0.6623713970184326,
+            "description": "Cheering"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.5915518403053284,
+            "topicality": 0.5915518403053284,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/012qgt",
+            "score": 0.589768648147583,
+            "topicality": 0.589768648147583,
+            "description": "Social work"
+        },
+        {
+            "mid": "/m/026yq0z",
+            "score": 0.564679741859436,
+            "topicality": 0.564679741859436,
+            "description": "Demonstration"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

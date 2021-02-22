@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/albanian-women/25.jpeg",
+    "search_query": "albanian-women",
+    "position": 25,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9840598106384277,
+            "topicality": 0.9840598106384277,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.98359614610672,
+            "topicality": 0.98359614610672,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9759892821311951,
+            "topicality": 0.9759892821311951,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.973139226436615,
+            "topicality": 0.973139226436615,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9705427885055542,
+            "topicality": 0.9705427885055542,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9432538747787476,
+            "topicality": 0.9432538747787476,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/068jd",
+            "score": 0.9429774880409241,
+            "topicality": 0.9429774880409241,
+            "description": "Photograph"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9413928389549255,
+            "topicality": 0.9413928389549255,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.940912663936615,
+            "topicality": 0.940912663936615,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.9407669901847839,
+            "topicality": 0.9407669901847839,
+            "description": "Lipstick"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

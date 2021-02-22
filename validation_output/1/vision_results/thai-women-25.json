@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/thai-women/25.jpeg",
+    "search_query": "thai-women",
+    "position": 25,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9835200309753418,
+            "topicality": 0.9835200309753418,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9762812852859497,
+            "topicality": 0.9762812852859497,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9703559875488281,
+            "topicality": 0.9703559875488281,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9577682018280029,
+            "topicality": 0.9577682018280029,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9480441808700562,
+            "topicality": 0.9480441808700562,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.946040689945221,
+            "topicality": 0.946040689945221,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9373373985290527,
+            "topicality": 0.9373373985290527,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9326770305633545,
+            "topicality": 0.9326770305633545,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9267365336418152,
+            "topicality": 0.9267365336418152,
+            "description": "Eyelash"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

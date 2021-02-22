@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/spanish-women/63.jpeg",
+    "search_query": "spanish-women",
+    "position": 63,
+    "label_annotations": [
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9791433215141296,
+            "topicality": 0.9791433215141296,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/015c4z",
+            "score": 0.9386395812034607,
+            "topicality": 0.9386395812034607,
+            "description": "Sitting"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.6616678237915039,
+            "topicality": 0.6616678237915039,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/097vm",
+            "score": 0.6375422477722168,
+            "topicality": 0.6375422477722168,
+            "description": "Thinking"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.6327893733978271,
+            "topicality": 0.6327893733978271,
+            "description": "Portrait"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

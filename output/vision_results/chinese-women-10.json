@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/chinese-women/10.jpeg",
+    "search_query": "chinese-women",
+    "position": 10,
+    "label_annotations": [
+        {
+            "mid": "/m/0jnvp",
+            "score": 0.8086427450180054,
+            "topicality": 0.8086427450180054,
+            "description": "Baby"
+        },
+        {
+            "mid": "/m/048knlz",
+            "score": 0.7695899605751038,
+            "topicality": 0.7695899605751038,
+            "description": "Love"
+        },
+        {
+            "mid": "/m/05t06b",
+            "score": 0.7470851540565491,
+            "topicality": 0.7470851540565491,
+            "description": "Wood stain"
+        },
+        {
+            "mid": "/m/02dgv",
+            "score": 0.7421696782112122,
+            "topicality": 0.7421696782112122,
+            "description": "Door"
+        },
+        {
+            "mid": "/g/1261x0jn3",
+            "score": 0.5981581211090088,
+            "topicality": 0.5981581211090088,
+            "description": "Baby Products"
+        },
+        {
+            "mid": "/m/01ffcg",
+            "score": 0.5461394190788269,
+            "topicality": 0.5461394190788269,
+            "description": "Varnish"
+        },
+        {
+            "mid": "/m/018xm",
+            "score": 0.5069199204444885,
+            "topicality": 0.5069199204444885,
+            "description": "Ball"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "POSSIBLE"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

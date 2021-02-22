@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/serbian-women/32.jpeg",
+    "search_query": "serbian-women",
+    "position": 32,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9850152134895325,
+            "topicality": 0.9850152134895325,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/03q69",
+            "score": 0.9835296869277954,
+            "topicality": 0.9835296869277954,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9716238379478455,
+            "topicality": 0.9716238379478455,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9704025387763977,
+            "topicality": 0.9704025387763977,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9494291543960571,
+            "topicality": 0.9494291543960571,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9427233934402466,
+            "topicality": 0.9427233934402466,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9342045783996582,
+            "topicality": 0.9342045783996582,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/083jv",
+            "score": 0.921869158744812,
+            "topicality": 0.921869158744812,
+            "description": "White"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9149291515350342,
+            "topicality": 0.9149291515350342,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9100619554519653,
+            "topicality": 0.9100619554519653,
+            "description": "Organ"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/eritrean-women/94.jpeg",
+    "search_query": "eritrean-women",
+    "position": 94,
+    "label_annotations": [
+        {
+            "mid": "/m/07djv",
+            "score": 0.8625275492668152,
+            "topicality": 0.8625275492668152,
+            "description": "Tradition"
+        },
+        {
+            "mid": "/m/023j4r",
+            "score": 0.7616770267486572,
+            "topicality": 0.7616770267486572,
+            "description": "Nail"
+        },
+        {
+            "mid": "/m/02cqfm",
+            "score": 0.7422900199890137,
+            "topicality": 0.7422900199890137,
+            "description": "Close-up"
+        },
+        {
+            "mid": "/m/0chml9",
+            "score": 0.595059871673584,
+            "topicality": 0.595059871673584,
+            "description": "Portrait photography"
+        },
+        {
+            "mid": "/m/02_x63",
+            "score": 0.5579797029495239,
+            "topicality": 0.5579797029495239,
+            "description": "Wrinkle"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

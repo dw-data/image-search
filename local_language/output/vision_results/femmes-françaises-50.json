@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/femmes-fran\u00e7aises/50.jpeg",
+    "search_query": "femmes-fran\u00e7aises",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9824982285499573,
+            "topicality": 0.9824982285499573,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9717795252799988,
+            "topicality": 0.9717795252799988,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9704719185829163,
+            "topicality": 0.9704719185829163,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9660951495170593,
+            "topicality": 0.9660951495170593,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9439902901649475,
+            "topicality": 0.9439902901649475,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9199206233024597,
+            "topicality": 0.9199206233024597,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/06c7f7",
+            "score": 0.9104160070419312,
+            "topicality": 0.9104160070419312,
+            "description": "Lipstick"
+        },
+        {
+            "mid": "/m/013y0j",
+            "score": 0.9016671180725098,
+            "topicality": 0.9016671180725098,
+            "description": "Organ"
+        },
+        {
+            "mid": "/m/019sc",
+            "score": 0.8976584672927856,
+            "topicality": 0.8976584672927856,
+            "description": "Black"
+        },
+        {
+            "mid": "/m/032tl",
+            "score": 0.8875952363014221,
+            "topicality": 0.8875952363014221,
+            "description": "Fashion"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/chinese-women/6.jpeg",
+    "search_query": "chinese-women",
+    "position": 6,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9895172119140625,
+            "topicality": 0.9895172119140625,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.9043225646018982,
+            "topicality": 0.9043225646018982,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.8099766969680786,
+            "topicality": 0.8099766969680786,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/m/01h8n0",
+            "score": 0.795346200466156,
+            "topicality": 0.795346200466156,
+            "description": "Conversation"
+        },
+        {
+            "mid": "/m/02pd__z",
+            "score": 0.7726656198501587,
+            "topicality": 0.7726656198501587,
+            "description": "Long hair"
+        },
+        {
+            "mid": "/m/09spj9",
+            "score": 0.7217758893966675,
+            "topicality": 0.7217758893966675,
+            "description": "Layered hair"
+        },
+        {
+            "mid": "/m/01kq3x",
+            "score": 0.7198241949081421,
+            "topicality": 0.7198241949081421,
+            "description": "White-collar worker"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.7022820115089417,
+            "topicality": 0.7022820115089417,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/02qp_b",
+            "score": 0.6746429204940796,
+            "topicality": 0.6746429204940796,
+            "description": "Makeover"
+        },
+        {
+            "mid": "/m/02qqd4n",
+            "score": 0.6117296814918518,
+            "topicality": 0.6117296814918518,
+            "description": "Fashion design"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

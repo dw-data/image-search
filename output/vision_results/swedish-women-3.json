@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swedish-women/3.jpeg",
+    "search_query": "swedish-women",
+    "position": 3,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9895856380462646,
+            "topicality": 0.9895856380462646,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9893993139266968,
+            "topicality": 0.9893993139266968,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9878201484680176,
+            "topicality": 0.9878201484680176,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9801765084266663,
+            "topicality": 0.9801765084266663,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.9545770883560181,
+            "topicality": 0.9545770883560181,
+            "description": "Fashion accessory"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.946865439414978,
+            "topicality": 0.946865439414978,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.9190917611122131,
+            "topicality": 0.9190917611122131,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/01llwg",
+            "score": 0.9114737510681152,
+            "topicality": 0.9114737510681152,
+            "description": "Necklace"
+        },
+        {
+            "mid": "/m/03120",
+            "score": 0.9064207673072815,
+            "topicality": 0.9064207673072815,
+            "description": "Flag"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

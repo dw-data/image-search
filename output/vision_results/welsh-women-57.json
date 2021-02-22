@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/welsh-women/57.jpeg",
+    "search_query": "welsh-women",
+    "position": 57,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9891674518585205,
+            "topicality": 0.9891674518585205,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/019nj4",
+            "score": 0.9795325398445129,
+            "topicality": 0.9795325398445129,
+            "description": "Smile"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9774461388587952,
+            "topicality": 0.9774461388587952,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.964974045753479,
+            "topicality": 0.964974045753479,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9627116918563843,
+            "topicality": 0.9627116918563843,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.9452396035194397,
+            "topicality": 0.9452396035194397,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/j/6ckqtp",
+            "score": 0.9251890778541565,
+            "topicality": 0.9251890778541565,
+            "description": "Celebrating"
+        },
+        {
+            "mid": "/m/013x8v",
+            "score": 0.9176846742630005,
+            "topicality": 0.9176846742630005,
+            "description": "Fan"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.9108973145484924,
+            "topicality": 0.9108973145484924,
+            "description": "Team"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

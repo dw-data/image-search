@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/swedish-women/100.jpeg",
+    "search_query": "swedish-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/062581",
+            "score": 0.8724468350410461,
+            "topicality": 0.8724468350410461,
+            "description": "Sleeve"
+        },
+        {
+            "mid": "/m/02h00q",
+            "score": 0.8707782030105591,
+            "topicality": 0.8707782030105591,
+            "description": "Jersey"
+        },
+        {
+            "mid": "/m/088fh",
+            "score": 0.8680949807167053,
+            "topicality": 0.8680949807167053,
+            "description": "Yellow"
+        },
+        {
+            "mid": "/m/01cx7t",
+            "score": 0.85978764295578,
+            "topicality": 0.85978764295578,
+            "description": "High-visibility clothing"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.852604866027832,
+            "topicality": 0.852604866027832,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/025xryy",
+            "score": 0.8319173455238342,
+            "topicality": 0.8319173455238342,
+            "description": "Sportswear"
+        },
+        {
+            "mid": "/m/06fvc",
+            "score": 0.8032757639884949,
+            "topicality": 0.8032757639884949,
+            "description": "Red"
+        },
+        {
+            "mid": "/m/0bg2p",
+            "score": 0.7884222269058228,
+            "topicality": 0.7884222269058228,
+            "description": "Security"
+        },
+        {
+            "mid": "/m/0ffjr",
+            "score": 0.7556653022766113,
+            "topicality": 0.7556653022766113,
+            "description": "Personal protective equipment"
+        },
+        {
+            "mid": "/m/081pkj",
+            "score": 0.749457061290741,
+            "topicality": 0.749457061290741,
+            "description": "Event"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

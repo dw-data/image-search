@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/mauritian-women/78.jpeg",
+    "search_query": "mauritian-women",
+    "position": 78,
+    "label_annotations": [
+        {
+            "mid": "/m/050h26",
+            "score": 0.8224084377288818,
+            "topicality": 0.8224084377288818,
+            "description": "Drinkware"
+        },
+        {
+            "mid": "/m/0h8n22v",
+            "score": 0.7950672507286072,
+            "topicality": 0.7950672507286072,
+            "description": "Serveware"
+        },
+        {
+            "mid": "/m/04shl0",
+            "score": 0.6319246292114258,
+            "topicality": 0.6319246292114258,
+            "description": "Distilled beverage"
+        },
+        {
+            "mid": "/m/03hlz0c",
+            "score": 0.5869350433349609,
+            "topicality": 0.5869350433349609,
+            "description": "Kitchen utensil"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "POSSIBLE"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/german-women/60.jpeg",
+    "search_query": "german-women",
+    "position": 60,
+    "label_annotations": [
+        {
+            "mid": "/m/09j2d",
+            "score": 0.9923030734062195,
+            "topicality": 0.9923030734062195,
+            "description": "Clothing"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9771711230278015,
+            "topicality": 0.9771711230278015,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9659256339073181,
+            "topicality": 0.9659256339073181,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9656524062156677,
+            "topicality": 0.9656524062156677,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0404d",
+            "score": 0.957560122013092,
+            "topicality": 0.957560122013092,
+            "description": "Jewellery"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.954843282699585,
+            "topicality": 0.954843282699585,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01dvt1",
+            "score": 0.9539719820022583,
+            "topicality": 0.9539719820022583,
+            "description": "Joint"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9310653805732727,
+            "topicality": 0.9310653805732727,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9000346064567566,
+            "topicality": 0.9000346064567566,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.8999896049499512,
+            "topicality": 0.8999896049499512,
+            "description": "Fashion accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

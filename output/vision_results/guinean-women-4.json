@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/guinean-women/4.jpeg",
+    "search_query": "guinean-women",
+    "position": 4,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790000915527344,
+            "topicality": 0.9790000915527344,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/01443y",
+            "score": 0.9148223996162415,
+            "topicality": 0.9148223996162415,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/0ckc5",
+            "score": 0.898177444934845,
+            "topicality": 0.898177444934845,
+            "description": "Magenta"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.5129597187042236,
+            "topicality": 0.5129597187042236,
+            "description": "Village"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.5049208402633667,
+            "topicality": 0.5049208402633667,
+            "description": "Flesh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

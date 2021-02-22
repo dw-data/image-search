@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/ukrainian-women/100.jpeg",
+    "search_query": "ukrainian-women",
+    "position": 100,
+    "label_annotations": [
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9509009122848511,
+            "topicality": 0.9509009122848511,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01bqvp",
+            "score": 0.9464950561523438,
+            "topicality": 0.9464950561523438,
+            "description": "Sky"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9393650889396667,
+            "topicality": 0.9393650889396667,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/035r7c",
+            "score": 0.9365700483322144,
+            "topicality": 0.9365700483322144,
+            "description": "Leg"
+        },
+        {
+            "mid": "/j/3gbwgn",
+            "score": 0.8914387226104736,
+            "topicality": 0.8914387226104736,
+            "description": "People in nature"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.8872669339179993,
+            "topicality": 0.8872669339179993,
+            "description": "Human body"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8835487961769104,
+            "topicality": 0.8835487961769104,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/02_n6y",
+            "score": 0.8810657262802124,
+            "topicality": 0.8810657262802124,
+            "description": "Goggles"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8803589940071106,
+            "topicality": 0.8803589940071106,
+            "description": "Neck"
+        },
+        {
+            "mid": "/m/019swr",
+            "score": 0.8762174844741821,
+            "topicality": 0.8762174844741821,
+            "description": "Knee"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

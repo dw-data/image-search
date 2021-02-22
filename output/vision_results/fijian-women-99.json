@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/fijian-women/99.jpeg",
+    "search_query": "fijian-women",
+    "position": 99,
+    "label_annotations": [
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9770745635032654,
+            "topicality": 0.9770745635032654,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03r_vp",
+            "score": 0.9193297624588013,
+            "topicality": 0.9193297624588013,
+            "description": "Adaptation"
+        },
+        {
+            "mid": "/m/06bt6",
+            "score": 0.7236158847808838,
+            "topicality": 0.7236158847808838,
+            "description": "Reptile"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.6197826266288757,
+            "topicality": 0.6197826266288757,
+            "description": "Flesh"
+        },
+        {
+            "mid": "/m/07djv",
+            "score": 0.5891737341880798,
+            "topicality": 0.5891737341880798,
+            "description": "Tradition"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

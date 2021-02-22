@@ -1,0 +1,72 @@
+{
+    "path": "../output/imgs/qatari-women/9.jpeg",
+    "search_query": "qatari-women",
+    "position": 9,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9796376824378967,
+            "topicality": 0.9796376824378967,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/01bmhj",
+            "score": 0.8099736571311951,
+            "topicality": 0.8099736571311951,
+            "description": "Thumb"
+        },
+        {
+            "mid": "/m/07jx7",
+            "score": 0.7823132872581482,
+            "topicality": 0.7823132872581482,
+            "description": "Triangle"
+        },
+        {
+            "mid": "/m/0244x1",
+            "score": 0.738527238368988,
+            "topicality": 0.738527238368988,
+            "description": "Gesture"
+        },
+        {
+            "mid": "/m/06x0q",
+            "score": 0.698767364025116,
+            "topicality": 0.698767364025116,
+            "description": "Sign language"
+        },
+        {
+            "mid": "/m/0bss51",
+            "score": 0.6362630128860474,
+            "topicality": 0.6362630128860474,
+            "description": "Thumbs signal"
+        },
+        {
+            "mid": "/m/02h9bf",
+            "score": 0.5167073607444763,
+            "topicality": 0.5167073607444763,
+            "description": "Hood"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.5122382640838623,
+            "topicality": 0.5122382640838623,
+            "description": "Abaya"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "LIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

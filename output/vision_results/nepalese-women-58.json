@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/nepalese-women/58.jpeg",
+    "search_query": "nepalese-women",
+    "position": 58,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.9010908603668213,
+            "topicality": 0.9010908603668213,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/02vwbzz",
+            "score": 0.856231153011322,
+            "topicality": 0.856231153011322,
+            "description": "Electric blue"
+        },
+        {
+            "mid": "/m/02cqfm",
+            "score": 0.7561540603637695,
+            "topicality": 0.7561540603637695,
+            "description": "Close-up"
+        },
+        {
+            "mid": "/m/01pbfj",
+            "score": 0.7406380772590637,
+            "topicality": 0.7406380772590637,
+            "description": "Turban"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.6035282015800476,
+            "topicality": 0.6035282015800476,
+            "description": "Flesh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

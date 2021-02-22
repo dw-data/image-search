@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/chinese-women/21.jpeg",
+    "search_query": "chinese-women",
+    "position": 21,
+    "label_annotations": [
+        {
+            "mid": "/m/0j272k5",
+            "score": 0.9917301535606384,
+            "topicality": 0.9917301535606384,
+            "description": "Eyewear"
+        },
+        {
+            "mid": "/m/0jyfg",
+            "score": 0.9841236472129822,
+            "topicality": 0.9841236472129822,
+            "description": "Glasses"
+        },
+        {
+            "mid": "/m/0h8jxfl",
+            "score": 0.9820653200149536,
+            "topicality": 0.9820653200149536,
+            "description": "Vision care"
+        },
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9799191355705261,
+            "topicality": 0.9799191355705261,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9790139198303223,
+            "topicality": 0.9790139198303223,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/09q2t",
+            "score": 0.9753453731536865,
+            "topicality": 0.9753453731536865,
+            "description": "Brown"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.974109947681427,
+            "topicality": 0.974109947681427,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/01jwgf",
+            "score": 0.9737181663513184,
+            "topicality": 0.9737181663513184,
+            "description": "Product"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9728910326957703,
+            "topicality": 0.9728910326957703,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/017ftj",
+            "score": 0.9720118641853333,
+            "topicality": 0.9720118641853333,
+            "description": "Sunglasses"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

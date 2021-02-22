@@ -1,0 +1,60 @@
+{
+    "path": "../output/imgs/scottish-women/50.jpeg",
+    "search_query": "scottish-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/03120",
+            "score": 0.7509515285491943,
+            "topicality": 0.7509515285491943,
+            "description": "Flag"
+        },
+        {
+            "mid": "/m/0dl6q",
+            "score": 0.6488490700721741,
+            "topicality": 0.6488490700721741,
+            "description": "Silk"
+        },
+        {
+            "mid": "/m/01b638",
+            "score": 0.5845860242843628,
+            "topicality": 0.5845860242843628,
+            "description": "Boot"
+        },
+        {
+            "mid": "/m/0hpjt",
+            "score": 0.5562772750854492,
+            "topicality": 0.5562772750854492,
+            "description": "Orator"
+        },
+        {
+            "mid": "/m/04s5jq",
+            "score": 0.5319993495941162,
+            "topicality": 0.5319993495941162,
+            "description": "Costume design"
+        },
+        {
+            "mid": "/m/09x0r",
+            "score": 0.5230257511138916,
+            "topicality": 0.5230257511138916,
+            "description": "Speech"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/ivorian-women/50.jpeg",
+    "search_query": "ivorian-women",
+    "position": 50,
+    "label_annotations": [
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9789973497390747,
+            "topicality": 0.9789973497390747,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0ds4x",
+            "score": 0.9739406704902649,
+            "topicality": 0.9739406704902649,
+            "description": "Hairstyle"
+        },
+        {
+            "mid": "/m/06z04",
+            "score": 0.9732062220573425,
+            "topicality": 0.9732062220573425,
+            "description": "Skin"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9690704345703125,
+            "topicality": 0.9690704345703125,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9654919505119324,
+            "topicality": 0.9654919505119324,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9639055132865906,
+            "topicality": 0.9639055132865906,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/0dzdr",
+            "score": 0.9528071880340576,
+            "topicality": 0.9528071880340576,
+            "description": "Chest"
+        },
+        {
+            "mid": "/m/01k74n",
+            "score": 0.9344747066497803,
+            "topicality": 0.9344747066497803,
+            "description": "Facial expression"
+        },
+        {
+            "mid": "/m/01k9lj",
+            "score": 0.9198182225227356,
+            "topicality": 0.9198182225227356,
+            "description": "Jaw"
+        },
+        {
+            "mid": "/m/0dzd8",
+            "score": 0.8821414113044739,
+            "topicality": 0.8821414113044739,
+            "description": "Neck"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "POSSIBLE"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

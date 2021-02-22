@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/swiss-women/17.jpeg",
+    "search_query": "swiss-women",
+    "position": 17,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.989371657371521,
+            "topicality": 0.989371657371521,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880821704864502,
+            "topicality": 0.9880821704864502,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773909449577332,
+            "topicality": 0.9773909449577332,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9665640592575073,
+            "topicality": 0.9665640592575073,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/0k65p",
+            "score": 0.954803466796875,
+            "topicality": 0.954803466796875,
+            "description": "Hand"
+        },
+        {
+            "mid": "/m/01nd_n",
+            "score": 0.8892027735710144,
+            "topicality": 0.8892027735710144,
+            "description": "Protest"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8672895431518555,
+            "topicality": 0.8672895431518555,
+            "description": "Public event"
+        },
+        {
+            "mid": "/m/0gkxy13",
+            "score": 0.7917128205299377,
+            "topicality": 0.7917128205299377,
+            "description": "Handwriting"
+        },
+        {
+            "mid": "/m/03gkl",
+            "score": 0.767848014831543,
+            "topicality": 0.767848014831543,
+            "description": "Holiday"
+        },
+        {
+            "mid": "/m/0dpvm",
+            "score": 0.7577672004699707,
+            "topicality": 0.7577672004699707,
+            "description": "Arch"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

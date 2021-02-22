@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/french-women/47.jpeg",
+    "search_query": "french-women",
+    "position": 47,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9898421168327332,
+            "topicality": 0.9898421168327332,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.9890401363372803,
+            "topicality": 0.9890401363372803,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9879595637321472,
+            "topicality": 0.9879595637321472,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/02p0tk3",
+            "score": 0.9687702059745789,
+            "topicality": 0.9687702059745789,
+            "description": "Human body"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9647679328918457,
+            "topicality": 0.9647679328918457,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/0rytcc5",
+            "score": 0.9451065063476562,
+            "topicality": 0.9451065063476562,
+            "description": "Strapless dress"
+        },
+        {
+            "mid": "/m/012yh1",
+            "score": 0.9326112866401672,
+            "topicality": 0.9326112866401672,
+            "description": "Style"
+        },
+        {
+            "mid": "/m/01d40f",
+            "score": 0.9296478033065796,
+            "topicality": 0.9296478033065796,
+            "description": "Dress"
+        },
+        {
+            "mid": "/m/03n3f3",
+            "score": 0.9264304637908936,
+            "topicality": 0.9264304637908936,
+            "description": "Premiere"
+        },
+        {
+            "mid": "/m/0463sg",
+            "score": 0.8982639312744141,
+            "topicality": 0.8982639312744141,
+            "description": "Fashion accessory"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "LIKELY"
+        },
+        "spoof": {
+            "likelihood": "POSSIBLE"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

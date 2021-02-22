@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/nepalese-women/83.png",
+    "search_query": "nepalese-women",
+    "position": 83,
+    "label_annotations": [
+        {
+            "mid": "/m/091410",
+            "score": 0.9590354561805725,
+            "topicality": 0.9590354561805725,
+            "description": "Collar"
+        },
+        {
+            "mid": "/m/01r546",
+            "score": 0.8706700205802917,
+            "topicality": 0.8706700205802917,
+            "description": "Earrings"
+        },
+        {
+            "mid": "/m/08v4gh",
+            "score": 0.7362018823623657,
+            "topicality": 0.7362018823623657,
+            "description": "Vintage clothing"
+        },
+        {
+            "mid": "/m/01dv4h",
+            "score": 0.6245890259742737,
+            "topicality": 0.6245890259742737,
+            "description": "Portrait"
+        },
+        {
+            "mid": "/m/02h19r",
+            "score": 0.5831902623176575,
+            "topicality": 0.5831902623176575,
+            "description": "Scarf"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "path": "../output_gcg/imgs/haitian-women/1.jpeg",
+    "search_query": "haitian-women",
+    "position": 1,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzct",
+            "score": 0.982761025428772,
+            "topicality": 0.982761025428772,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/06pj2k",
+            "score": 0.9697319865226746,
+            "topicality": 0.9697319865226746,
+            "description": "Lip"
+        },
+        {
+            "mid": "/m/0f9swq",
+            "score": 0.9656575322151184,
+            "topicality": 0.9656575322151184,
+            "description": "Chin"
+        },
+        {
+            "mid": "/m/01ssh5",
+            "score": 0.9440100193023682,
+            "topicality": 0.9440100193023682,
+            "description": "Shoulder"
+        },
+        {
+            "mid": "/m/027n3_",
+            "score": 0.9401113986968994,
+            "topicality": 0.9401113986968994,
+            "description": "Eyebrow"
+        },
+        {
+            "mid": "/m/03f52z",
+            "score": 0.9147498607635498,
+            "topicality": 0.9147498607635498,
+            "description": "Eyelash"
+        },
+        {
+            "mid": "/g/1tr17zw8",
+            "score": 0.8838695287704468,
+            "topicality": 0.8838695287704468,
+            "description": "Flash photography"
+        },
+        {
+            "mid": "/m/016pp7",
+            "score": 0.8657392859458923,
+            "topicality": 0.8657392859458923,
+            "description": "Happy"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.861359715461731,
+            "topicality": 0.861359715461731,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0lxkm",
+            "score": 0.8466676473617554,
+            "topicality": 0.8466676473617554,
+            "description": "Iris"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

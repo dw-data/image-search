@@ -1,0 +1,84 @@
+{
+    "path": "../output/imgs/tunisian-women/2.jpeg",
+    "search_query": "tunisian-women",
+    "position": 2,
+    "label_annotations": [
+        {
+            "mid": "/m/03q69",
+            "score": 0.9895012378692627,
+            "topicality": 0.9895012378692627,
+            "description": "Hair"
+        },
+        {
+            "mid": "/m/0dzct",
+            "score": 0.989227831363678,
+            "topicality": 0.989227831363678,
+            "description": "Face"
+        },
+        {
+            "mid": "/m/04hgtk",
+            "score": 0.9880335330963135,
+            "topicality": 0.9880335330963135,
+            "description": "Head"
+        },
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9837409853935242,
+            "topicality": 0.9837409853935242,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/0283dt1",
+            "score": 0.9782470464706421,
+            "topicality": 0.9782470464706421,
+            "description": "Mouth"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.977249801158905,
+            "topicality": 0.977249801158905,
+            "description": "People"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9695597290992737,
+            "topicality": 0.9695597290992737,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/032b3c",
+            "score": 0.8916492462158203,
+            "topicality": 0.8916492462158203,
+            "description": "Jacket"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8666025400161743,
+            "topicality": 0.8666025400161743,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "score": 0.8510481119155884,
+            "topicality": 0.8510481119155884,
+            "description": "Public event"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

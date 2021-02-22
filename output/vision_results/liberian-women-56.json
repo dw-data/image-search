@@ -1,0 +1,66 @@
+{
+    "path": "../output/imgs/liberian-women/56.jpeg",
+    "search_query": "liberian-women",
+    "position": 56,
+    "label_annotations": [
+        {
+            "mid": "/m/0dzf4",
+            "score": 0.9856687784194946,
+            "topicality": 0.9856687784194946,
+            "description": "Arm"
+        },
+        {
+            "mid": "/m/09g5pq",
+            "score": 0.9773802757263184,
+            "topicality": 0.9773802757263184,
+            "description": "People"
+        },
+        {
+            "mid": "/m/01b4q9",
+            "score": 0.9663116335868835,
+            "topicality": 0.9663116335868835,
+            "description": "Social group"
+        },
+        {
+            "mid": "/m/03qtwd",
+            "score": 0.9610214233398438,
+            "topicality": 0.9610214233398438,
+            "description": "Crowd"
+        },
+        {
+            "mid": "/m/01qls",
+            "score": 0.9406223297119141,
+            "topicality": 0.9406223297119141,
+            "description": "Community"
+        },
+        {
+            "mid": "/m/011l78",
+            "score": 0.8430920839309692,
+            "topicality": 0.8430920839309692,
+            "description": "Team"
+        },
+        {
+            "mid": "/m/02p16m6",
+            "score": 0.515271782875061,
+            "topicality": 0.515271782875061,
+            "description": "Flesh"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

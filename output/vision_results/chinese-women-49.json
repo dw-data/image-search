@@ -1,0 +1,54 @@
+{
+    "path": "../output/imgs/chinese-women/49.jpeg",
+    "search_query": "chinese-women",
+    "position": 49,
+    "label_annotations": [
+        {
+            "mid": "/m/0k0pj",
+            "score": 0.9838353991508484,
+            "topicality": 0.9838353991508484,
+            "description": "Nose"
+        },
+        {
+            "mid": "/m/014sv8",
+            "score": 0.9711374640464783,
+            "topicality": 0.9711374640464783,
+            "description": "Eye"
+        },
+        {
+            "mid": "/m/06nrc",
+            "score": 0.642001748085022,
+            "topicality": 0.642001748085022,
+            "description": "Shotgun"
+        },
+        {
+            "mid": "/m/011s0",
+            "score": 0.6413661241531372,
+            "topicality": 0.6413661241531372,
+            "description": "Advertising"
+        },
+        {
+            "mid": "/m/0m9cj",
+            "score": 0.5072041749954224,
+            "topicality": 0.5072041749954224,
+            "description": "Banner"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

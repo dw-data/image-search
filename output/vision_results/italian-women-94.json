@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/italian-women/94.jpeg",
+    "search_query": "italian-women",
+    "position": 94,
+    "label_annotations": [
+        {
+            "mid": "/m/09cx8",
+            "score": 0.9771203994750977,
+            "topicality": 0.9771203994750977,
+            "description": "Finger"
+        },
+        {
+            "mid": "/m/014dsx",
+            "score": 0.8792732357978821,
+            "topicality": 0.8792732357978821,
+            "description": "Travel"
+        },
+        {
+            "mid": "/m/0408t8_",
+            "score": 0.8221895098686218,
+            "topicality": 0.8221895098686218,
+            "description": "Street fashion"
+        },
+        {
+            "mid": "/m/0hjbz",
+            "score": 0.5737334489822388,
+            "topicality": 0.5737334489822388,
+            "description": "Drinking"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "VERY_UNLIKELY"
+        }
+    }
+}

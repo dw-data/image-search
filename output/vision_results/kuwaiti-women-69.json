@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/kuwaiti-women/69.jpeg",
+    "search_query": "kuwaiti-women",
+    "position": 69,
+    "label_annotations": [
+        {
+            "mid": "/m/01443y",
+            "score": 0.9006050825119019,
+            "topicality": 0.9006050825119019,
+            "description": "Headgear"
+        },
+        {
+            "mid": "/m/019sc",
+            "score": 0.8788009881973267,
+            "topicality": 0.8788009881973267,
+            "description": "Black"
+        },
+        {
+            "mid": "/m/0fc1fy",
+            "score": 0.8488814830780029,
+            "topicality": 0.8488814830780029,
+            "description": "Black hair"
+        },
+        {
+            "mid": "/m/03x59_",
+            "score": 0.5490695834159851,
+            "topicality": 0.5490695834159851,
+            "description": "Abaya"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "POSSIBLE"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}

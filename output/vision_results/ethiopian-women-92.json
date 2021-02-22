@@ -1,0 +1,48 @@
+{
+    "path": "../output/imgs/ethiopian-women/92.jpeg",
+    "search_query": "ethiopian-women",
+    "position": 92,
+    "label_annotations": [
+        {
+            "mid": "/m/0216vm",
+            "score": 0.6826875805854797,
+            "topicality": 0.6826875805854797,
+            "description": "Slipper"
+        },
+        {
+            "mid": "/m/03nfch",
+            "score": 0.5843968987464905,
+            "topicality": 0.5843968987464905,
+            "description": "Sandal"
+        },
+        {
+            "mid": "/m/031n1",
+            "score": 0.5775749087333679,
+            "topicality": 0.5775749087333679,
+            "description": "Foot"
+        },
+        {
+            "mid": "/m/0f0q9",
+            "score": 0.533108115196228,
+            "topicality": 0.533108115196228,
+            "description": "Village"
+        }
+    ],
+    "safe_search_annotations": {
+        "adult": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "racy": {
+            "likelihood": "UNLIKELY"
+        },
+        "spoof": {
+            "likelihood": "VERY_UNLIKELY"
+        },
+        "medical": {
+            "likelihood": "UNLIKELY"
+        },
+        "violence": {
+            "likelihood": "UNLIKELY"
+        }
+    }
+}
