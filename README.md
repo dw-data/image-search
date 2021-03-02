@@ -7,13 +7,44 @@ It was written by [Rodrigo Menegat](https://github.com/RodrigoMenegat) and can b
 - [English](#)
 - [Portuguese](#)
 
-## Methodology
+## Data analysis
 
-The search results used for this piece were collected using [SerpAPI](https://serpapi.com/), a commercial service that collects data automatically from many search engines.
+### Brief summary
 
-To do so, DW compiled a list of 207 countries/territories and their demonyms, which were in turn passed alongside the word women ("Brazilian women", "German women", "French women"...) as search queries for SerpAPI, which performed the searchs and saved the results as JSON files.
+In summary, the data collection and analysis for this piece happened in the following steps:
+
+1. Searching for phrases like "german women" for 207 nationalities and territorial demonyms
+2. Collecting the first 100 images and page titles that show up for each search query
+3. Running the files through Google's own image analysis software to flag "racy" pictures
+4. Filtering all the website titles that contain specific keywords
+5. Manually reviewing both pictures and websites content to confirm the findings
+6. Quantifying the reuslts
+
+An in-depth methodological discussion can be found below.
+
+### Methodological choices
+
+The search results used for this piece were collected using [SerpAPI](https://serpapi.com/), a commercial service that collects data automatically from many search engines. This resource was chosen because it retrieves Google results in a computer-readable JSON format and allows a high degree of search customization.
+
+A list of 207 countries/territories and their demonyms was compile. The demonyms were then passed, alongside the word women, as search queries for SerpAPI. The application then performed the searches form terms such as "Brazilian women" and "German women". The results were saved as JSON files.
 
 The same searches were made in local languages for 12 select nationalities ("mulheres brasileiras", "deutsche frauen", "femmes françaises"...) in order to compare them to the English results.
+
+After retrieving the search results, the images were downloaded and analysed by [Google Cloud Vision API](https://cloud.google.com/vision), a computer vision application that detects "racy" pictures — that is, pictures that are likely to contain elements such as "sheer clothing, strategically covered nudity, lewd or provocative pose". 
+
+Each image was tagged as either very likely, likely, unlikely or very unlikely to contain such elements. In our analysis, we considered as "racy" the images that were marked as "very likely" or "likely".
+
+Acknowledging that this kind of software is known to carry many biases, we did a manual review of all the pictures tagged as such to make sure that the results were reasonable. This manual review revealed that the overall trend presented in the article still holds true.
+
+The content of the websites in which the pictures were hosted was also analysed. To do so, we first selected websites with titles that contained keywords that appear frequently in image results marked as racy. Those were terms such as "marry", "date", "hot", "bride" and "sex".
+
+Then, these pages were also manually checked to determine if the content on display was objectifying or sexualizing in any way. This definition includes pages that write about international dating, marriage services, sexual tourism or that rank and describe women from certain nationalities based on physical features alone. 
+
+Then, finally, the results of both datasets -- racy images and objectfying websites -- was quantified, as presented in the article.
+
+### Caveats
+
+#### Personalized content
 
 Google search results are personalized (that is, each user is likely to see a different collection of images and links even when searching for the same exact words), which makes analysing them a complex task. 
 
@@ -27,37 +58,37 @@ The same SerpAPI data collection scripts were also run by different people, in d
 
 Even with this variation, the images that differed were also similar in nature to the overall trend — that is, they followed similar patterns of sexualization.
 
-After retrieving the search results, the images were downloaded and analysed by [Google Cloud Vision API](https://cloud.google.com/vision), a computer vision application that detects "racy" pictures — that is, pictures that are likely to contain elements such as "sheer clothing, strategically covered nudity, lewd or provocative pose". 
+#### Computer vision bias
 
-Each image was tagged as either very likely, likely, unlikely or very unlikely to contain such elements. In our analysis, we considered as "racy" the images that were marked as "very likely" or "likely" to contain provocative content.
-
-Acknowledging that this kind of software is known to carry many biases, we did a manual review of all the pictures tagged as such to make sure that the results were reasonable. 
+Computer vision software, such as Google Cloud Vision API, are know to produced skewed or biased results. This is true for this analysis as well.
 
 The software produced a significant ammount of false positives for some specific countries, such as Namibia, where pictures of women wearing [traditional garments](https://i.ytimg.com/vi/7NKxGhgibAI/maxresdefault.jpg) that didn't cover their breasts were consistently marked as racy. 
 
 Similar mistakes happened when the artificial intelligence analysed pictures of people in other kinds of ethnic clothing, such as pacific islander grass skirts. Other examples of misclassification include beach volleyball athletes in bikinis and feminist protesters in SlutWalk marches.  
 
-Nevertheless, the aforementioned manual review revealed that the overall trend presented in the article still holds true.
+However, as mentioned previously, a manual review of the results returned by the API revealed that the overall trend of sexualizaiton is true, despite those specific issues.
 
-The content of the websites in which the pictures were hosted was also analysed. 
+## Validation of analysis
 
-To do so, we first selected websites with titles that contained keywords that appear frequently in image results marked as racy. Those were terms such as "marry", "date", "hot", "bride" and "sex".
+To validate the analysis, we tried different approaches. All of them pointed to the same pattern described in the story.
 
-Then, these pages were also manually checked to determine if the content on display was objectifying or sexualizing in any way. This definition includes pages that write about international dating, marriage services, sexual tourism or that rank and describe women from certain nationalities based on physical features alone. 
+### Different SerpAPI parameters
 
-Then, finally, the results of both datasets (racy images and objectfying pages) was quantified, as presented in the article.
+SerpAPI allows the user to make automated searches with different location parameters -- that is, informing Google's search engine that the user is located in different places throughout the world. The data was collected using this parameter as "Brazil", "Philippines", "Ukraine" and "Germany". The results were similar in all of them.
 
-## Repository structure
 
-The files in this repository are divided in the following subdirectories:
+### Reproducing analysis from different locations and users
 
-- `code`: contains the scripts used to collect, analyse and validate the story findings.
-- `credentials`: should contain a JSON file with the credentials needed for using Google Cloud Vision API.
-- `dataviz`: containts the Python scripts that generated basic charts which were latter edited and published with the story.
-- `input`: contains a CSV file of all nationalities that were analysed, as well as their respective demonyms and adjectivals. There is also a file with the correspondence between those nationalities and the United Nations M49 standard, which divides the world in specific geographical regions.
-- `local_languages`: contains the scripts and data for searches made in local languages.
-- `output`: the scripts contained in the directory `code` save their outputs into this directory.
-- `validation_output`: the content on this directory is similar to the one in `output`, but it was generated in other computers and with other SerpAPI/Google Cloud Vision credentials. 
+As well as collecting the data using different SerpAPI parameters, we collected it using the same exact parameters, but from different computers, users and locations. The data was collected by people based in Brazil, Germany, Greece and the United States. Again, the results were very similar.
+
+### Comparing SerpAPI results with manual searches
+
+In order to make sure that the results retrieved by SerpAPI were consistent with what a manual Google Search would show, we also compared the data collected with what 10 people saw when doing manual searches on their personal devices for two specific searches: "German women" and "Brazilian women". Again, the results were very similar, with slight differences in the ordering of the images displayed.
+
+### Searches for men of different nationalities
+
+We also did the same analysis for searches for men of different nationalities, such as "German men" and "Brazilian men". This time, the pattern was different, with a high degree of sexualization for men from highly developed countries. The results, however, didn't present nearly as many links to websites that promote blatant objetification.
+
 
 ## Step-by-step reproduction
 
@@ -93,3 +124,17 @@ The data collection and analysis is described in details on the steps below.
 ### Local language searches
 
 The same steps were followed in order to collect results for searches in local language, except for the evaluation of keywords (step 7) and the manual checking (step 8).
+
+## Repository structure
+
+The files in this repository are divided in the following subdirectories:
+
+- `code`: contains the scripts used to collect, analyse and validate the story findings.
+- `credentials`: should contain a JSON file with the credentials needed for using Google Cloud Vision API.
+- `dataviz`: containts the Python scripts that generated basic charts which were latter edited and published with the story.
+- `input`: contains a CSV file of all nationalities that were analysed, as well as their respective demonyms and adjectivals. There is also a file with the correspondence between those nationalities and the United Nations M49 standard, which divides the world in specific geographical regions.
+- `local_languages`: contains the scripts and data for searches made in local languages.
+- `output`: the scripts contained in the directory `code` save their outputs into this directory.
+- `validation_output`: the content on this directory is similar to the one in `output`, but it was generated in other computers and with other SerpAPI/Google Cloud Vision credentials. 
+
+
