@@ -28,7 +28,7 @@ The search results used for this piece were collected using [SerpAPI](https://se
 
 A list of 207 countries/territories and their demonyms was compile. The demonyms were then passed, alongside the word women, as search queries for SerpAPI. The application then performed the searches form terms such as "Brazilian women" and "German women". The results were saved as JSON files.
 
-The same searches were made in local languages for 12 select nationalities ("mulheres brasileiras", "deutsche frauen", "femmes françaises"...) in order to compare them to the English results.
+The same searches were made in local languages for 12 select nationalities ("mulheres brasileiras", "deutsche frauen", "femmes françaises"...) in order to compare them to the English results. The 12 selected nationalities wewre Brazil, Dominica, Colombia, Philippines, Czech Republic, Ukraine, Thailand, Russia, France and Germany. The languagues used were Portuguese, Spanish, Filipino (Tagalog),  Czech, Ukrainian, Russian, Thai, French and German.
 
 After retrieving the search results, the images were downloaded and analysed by [Google Cloud Vision API](https://cloud.google.com/vision), a computer vision application that detects "racy" pictures — that is, pictures that are likely to contain elements such as "sheer clothing, strategically covered nudity, lewd or provocative pose". 
 
@@ -38,7 +38,7 @@ Acknowledging that this kind of software is known to carry many biases, we did a
 
 The content of the websites in which the pictures were hosted was also analysed. To do so, we first selected websites with titles that contained keywords that appear frequently in image results marked as racy. Those were terms such as "marry", "date", "hot", "bride" and "sex".
 
-Then, these pages were also manually checked to determine if the content on display was objectifying or sexualizing in any way. This definition includes pages that write about international dating, marriage services, sexual tourism or that rank and describe women from certain nationalities based on physical features alone. 
+Then, these pages were also manually checked to determine if the content on display was objectifying or sexualizing in any way. This definition includes pages that write about international dating, marriage services, sexual tourism or that rank and describe women from certain nationalities based on physical features alone.
 
 Then, finally, the results of both datasets -- racy images and objectfying websites -- was quantified, as presented in the article.
 
