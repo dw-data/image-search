@@ -1,4 +1,4 @@
-# Google Images and the portrayal of women from different countries
+# Google image search and the portrayal of women from different countries
 
 This repository contains the source code and detailed methodology for our story about how Google Images tends to portray women from specific countries in a more sexualized way than most developed nations, especially in Latin America, Eastern Europe and Southeast Asia.
 
@@ -6,6 +6,9 @@ It was written by [Rodrigo Menegat](https://github.com/RodrigoMenegat) and can b
 
 - [English](#)
 - [Portuguese](#)
+- [Spanish](#)
+- [Ukrainian](#)
+- [Chinese](#)
 
 ## Data analysis
 
@@ -28,7 +31,7 @@ The search results used for this piece were collected using [SerpAPI](https://se
 
 A list of 207 countries/territories and their demonyms was compile. The demonyms were then passed, alongside the word women, as search queries for SerpAPI. The application then performed the searches form terms such as "Brazilian women" and "German women". The results were saved as JSON files.
 
-The same searches were made in local languages for 12 select nationalities ("mulheres brasileiras", "deutsche frauen", "femmes françaises"...) in order to compare them to the English results. The 12 selected nationalities wewre Brazil, Dominica, Colombia, Philippines, Czech Republic, Ukraine, Thailand, Russia, France and Germany. The languagues used were Portuguese, Spanish, Filipino (Tagalog),  Czech, Ukrainian, Russian, Thai, French and German.
+The same searches were made in local languages for 12 select nationalities ("mulheres brasileiras", "deutsche frauen", "femmes françaises"...) in order to compare them to the English results. The 12 selected nationalities were Brazil, Dominica, Colombia, Philippines, Czech Republic, Ukraine, Thailand, Russia, France and Germany.
 
 After retrieving the search results, the images were downloaded and analysed by [Google Cloud Vision API](https://cloud.google.com/vision), a computer vision application that detects "racy" pictures — that is, pictures that are likely to contain elements such as "sheer clothing, strategically covered nudity, lewd or provocative pose". 
 
@@ -75,7 +78,6 @@ To validate the analysis, we tried different approaches. All of them pointed to 
 ### Different SerpAPI parameters
 
 SerpAPI allows the user to make automated searches with different location parameters -- that is, informing Google's search engine that the user is located in different places throughout the world. The data was collected using this parameter as "Brazil", "Philippines", "Ukraine" and "Germany". The results were similar in all of them.
-
 
 ### Reproducing analysis from different locations and users
 
