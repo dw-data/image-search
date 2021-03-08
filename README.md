@@ -9,7 +9,7 @@ It was written by [Rodrigo Menegat](https://github.com/RodrigoMenegat) and can b
 - [Spanish](https://www.dw.com/es/la-b%C3%BAsqueda-de-im%C3%A1genes-de-google-consolida-los-estereotipos-de-mujeres/a-56776907)
 - [Portuguese](https://www.dw.com/pt-br/como-o-google-contribui-para-perpetuar-estere%C3%B3tipos-sexistas/a-56789034)
 - [Chinese](https://p.dw.com/p/3qIOY)
-- [Ukrainian](#)
+- [Ukrainian](https://www.dw.com/uk/yak-google-zakripliuie-seksystski-stereotypy-takozh-i-shchodo-zhinok-z-ukrainy/a-56790171)
 
 ## Data analysis
 
