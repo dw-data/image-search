@@ -4,9 +4,10 @@ This repository contains the source code and detailed methodology for our story 
 
 It was written by [Rodrigo Menegat](https://github.com/RodrigoMenegat) and can be read in the following languages:
 
-- [English](#)
+- [English](https://www.dw.com/en/google-image-search-cements-national-stereotypes-of-racy-women/a-56767605)
+- [German](https://www.dw.com/de/datenanalyse-wie-google-sexistische-klischees-pusht/a-56782817)
+- [Spanish](https://www.dw.com/es/la-b%C3%BAsqueda-de-im%C3%A1genes-de-google-consolida-los-estereotipos-de-mujeres/a-56776907)
 - [Portuguese](#)
-- [Spanish](#)
 - [Ukrainian](#)
 - [Chinese](#)
 
