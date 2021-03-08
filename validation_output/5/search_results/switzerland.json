@@ -1,0 +1,891 @@
+{
+    "search_metadata": {
+        "id": "603c2dac03406c50098e4000",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/61d60bf2d1821822/603c2dac03406c50098e4000.json",
+        "created_at": "2021-02-28 23:56:28 UTC",
+        "processed_at": "2021-02-28 23:56:28 UTC",
+        "google_url": "https://www.google.com/search?q=swiss+women&oq=swiss+women&tbm=isch&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/61d60bf2d1821822/603c2dac03406c50098e4000.html",
+        "total_time_taken": 2.47
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "swiss women",
+        "google_domain": "google.com",
+        "device": "desktop",
+        "tbm": "isch"
+    },
+    "search_information": {
+        "image_results_state": "Results for exact spelling",
+        "query_displayed": "swiss women"
+    },
+    "suggested_searches": [
+        {
+            "name": "italian",
+            "link": "https://www.google.com/search?q=swiss+women&tbm=isch&chips=q:swiss+women,g_1:italian:5F9LEZHgbww%3D&hl=en-US&sa=X&ved=2ahUKEwiozub_443vAhWNxuAKHf5KBKkQ4lYoAHoECAEQGA",
+            "chips": "q:swiss+women,g_1:italian:5F9LEZHgbww%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aswiss%2Bwomen%2Cg_1%3Aitalian%3A5F9LEZHgbww%253D&device=desktop&engine=google&google_domain=google.com&q=swiss+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/6d86a7090ef738f18d632634f365f58a03256a92ba1b07a2adc118ab3cf2c517.jpeg"
+        },
+        {
+            "name": "french",
+            "link": "https://www.google.com/search?q=swiss+women&tbm=isch&chips=q:swiss+women,g_1:french:Xs2jJphKKYU%3D&hl=en-US&sa=X&ved=2ahUKEwiozub_443vAhWNxuAKHf5KBKkQ4lYoAXoECAEQGg",
+            "chips": "q:swiss+women,g_1:french:Xs2jJphKKYU%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aswiss%2Bwomen%2Cg_1%3Afrench%3AXs2jJphKKYU%253D&device=desktop&engine=google&google_domain=google.com&q=swiss+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/6d86a7090ef738f18d632634f365f58adb8035c947940890ce2c25e64772e26b.jpeg"
+        },
+        {
+            "name": "police",
+            "link": "https://www.google.com/search?q=swiss+women&tbm=isch&chips=q:swiss+women,g_1:police:VNzbUXMBnWI%3D&hl=en-US&sa=X&ved=2ahUKEwiozub_443vAhWNxuAKHf5KBKkQ4lYoAnoECAEQHA",
+            "chips": "q:swiss+women,g_1:police:VNzbUXMBnWI%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aswiss%2Bwomen%2Cg_1%3Apolice%3AVNzbUXMBnWI%253D&device=desktop&engine=google&google_domain=google.com&q=swiss+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/6d86a7090ef738f18d632634f365f58a33b72a7bf097e077aaa0d1926c7961c1.jpeg"
+        },
+        {
+            "name": "actress",
+            "link": "https://www.google.com/search?q=swiss+women&tbm=isch&chips=q:swiss+women,g_1:actress:KxKZaGUQvAs%3D&hl=en-US&sa=X&ved=2ahUKEwiozub_443vAhWNxuAKHf5KBKkQ4lYoA3oECAEQHg",
+            "chips": "q:swiss+women,g_1:actress:KxKZaGUQvAs%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aswiss%2Bwomen%2Cg_1%3Aactress%3AKxKZaGUQvAs%253D&device=desktop&engine=google&google_domain=google.com&q=swiss+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/6d86a7090ef738f18d632634f365f58a213e1ed795c0434cfd84a542cda90ec0.jpeg"
+        },
+        {
+            "name": "olympic",
+            "link": "https://www.google.com/search?q=swiss+women&tbm=isch&chips=q:swiss+women,g_1:olympic&hl=en-US&sa=X&ved=2ahUKEwiozub_443vAhWNxuAKHf5KBKkQ4lYoBHoECAEQIA",
+            "chips": "q:swiss+women,g_1:olympic",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aswiss%2Bwomen%2Cg_1%3Aolympic&device=desktop&engine=google&google_domain=google.com&q=swiss+women&tbm=isch"
+        },
+        {
+            "name": "marriage",
+            "link": "https://www.google.com/search?q=swiss+women&tbm=isch&chips=q:swiss+women,g_1:marriage&hl=en-US&sa=X&ved=2ahUKEwiozub_443vAhWNxuAKHf5KBKkQ4lYoBXoECAEQIQ",
+            "chips": "q:swiss+women,g_1:marriage",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aswiss%2Bwomen%2Cg_1%3Amarriage&device=desktop&engine=google&google_domain=google.com&q=swiss+women&tbm=isch"
+        },
+        {
+            "name": "english",
+            "link": "https://www.google.com/search?q=swiss+women&tbm=isch&chips=q:swiss+women,g_1:english&hl=en-US&sa=X&ved=2ahUKEwiozub_443vAhWNxuAKHf5KBKkQ4lYoBnoECAEQIg",
+            "chips": "q:swiss+women,g_1:english",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aswiss%2Bwomen%2Cg_1%3Aenglish&device=desktop&engine=google&google_domain=google.com&q=swiss+women&tbm=isch"
+        },
+        {
+            "name": "man",
+            "link": "https://www.google.com/search?q=swiss+women&tbm=isch&chips=q:swiss+women,g_1:man&hl=en-US&sa=X&ved=2ahUKEwiozub_443vAhWNxuAKHf5KBKkQ4lYoB3oECAEQIw",
+            "chips": "q:swiss+women,g_1:man",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aswiss%2Bwomen%2Cg_1%3Aman&device=desktop&engine=google&google_domain=google.com&q=swiss+women&tbm=isch"
+        },
+        {
+            "name": "business",
+            "link": "https://www.google.com/search?q=swiss+women&tbm=isch&chips=q:swiss+women,g_1:business&hl=en-US&sa=X&ved=2ahUKEwiozub_443vAhWNxuAKHf5KBKkQ4lYoCHoECAEQJA",
+            "chips": "q:swiss+women,g_1:business",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aswiss%2Bwomen%2Cg_1%3Abusiness&device=desktop&engine=google&google_domain=google.com&q=swiss+women&tbm=isch"
+        },
+        {
+            "name": "player",
+            "link": "https://www.google.com/search?q=swiss+women&tbm=isch&chips=q:swiss+women,g_1:player&hl=en-US&sa=X&ved=2ahUKEwiozub_443vAhWNxuAKHf5KBKkQ4lYoCXoECAEQJQ",
+            "chips": "q:swiss+women,g_1:player",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aswiss%2Bwomen%2Cg_1%3Aplayer&device=desktop&engine=google&google_domain=google.com&q=swiss+women&tbm=isch"
+        }
+    ],
+    "images_results": [
+        {
+            "position": 1,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794d12aa2f3a793ad9ec4dbd099da6ff18196f4d7c7d7fd553a.jpeg",
+            "source": "theguardian.com",
+            "title": "Swiss women strike to demand equal pay | World news | The Guardian",
+            "link": "https://www.theguardian.com/world/2019/jun/14/swiss-women-strike-demand-equal-pay",
+            "original": "https://i.guim.co.uk/img/media/60c02e4669101d9c2c16b09d02cf9f09422f1cfa/0_14_6099_3659/master/6099.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=ea5e13b3feac3fb5c6a6d40b8ab84f17"
+        },
+        {
+            "position": 2,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794e70fce82bc42fdbda2a0a61bdba0c447a07f40bb4ff653ac.jpeg",
+            "source": "facebook.com",
+            "title": "Swiss Women are Hot - Home | Facebook",
+            "link": "https://www.facebook.com/swisswomenarehot/",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1483295305294930"
+        },
+        {
+            "position": 3,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f1279477cabb989333da6331e928fbb8e2fcc4ccccdf1a5804496e.jpeg",
+            "source": "wesa.fm",
+            "title": "Wages. Time. Respect': Swiss Women Go On Strike | 90.5 WESA",
+            "link": "https://www.wesa.fm/post/wages-time-respect-swiss-women-go-strike",
+            "original": "http://media.npr.org/assets/img/2019/06/14/gettyimages-1149928984_custom-dca3fcbd3690dbc0010d594e9c9fe39a4aaf00b9.jpg"
+        },
+        {
+            "position": 4,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f127940f017a1999629f7024026c518fd235ab0573d9196a9d5653.jpeg",
+            "source": "womensagenda.com.au",
+            "title": "Women in Switzerland are calling time on inequality with major strikes",
+            "link": "https://womensagenda.com.au/politics/swiss-women-are-calling-time-on-inequality-with-major-strikes-across-the-country/",
+            "original": "https://womensagenda.com.au/wp-content/uploads/2019/06/shutterstock_1425531506-e1560816790796.jpg"
+        },
+        {
+            "position": 5,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794260c6eb226cec3c300cc12ef0790cca323beb185edd4d950.jpeg",
+            "source": "bbc.com",
+            "title": "Swiss women strike for more money, time and respect - BBC News",
+            "link": "https://www.bbc.com/news/world-europe-48615911",
+            "original": "https://news.files.bbci.co.uk/include/idt2/assets/023f4644-9586-4588-b42a-6f2f4752045a"
+        },
+        {
+            "position": 6,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794b88389e42d637962266c3a97c99b398d130f01e08ff7dcc8.jpeg",
+            "source": "swissinfo.ch",
+            "title": "Left behind and locked out of Swiss democracy - SWI swissinfo.ch",
+            "link": "https://www.swissinfo.ch/eng/directdemocracy/politics_left-behind-and-locked-out-of-swiss-democracy/44733846",
+            "original": "https://www.swissinfo.ch/resource/image/44731778/landscape_ratio3x2/280/187/446e479eb6021d44572ed34f4d02d00a/3D8FFD613DB0ADD6A8EB317D6271C2B9/353187229.jpg"
+        },
+        {
+            "position": 7,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f127941b055fe8b30e7defc8a3321ac9ea3a4267f6bd278bac60e3.jpeg",
+            "source": "pinterest.com",
+            "title": "Beautiful Swiss Women | The World's most recently posted photos of huracan  and switzerland - Flickr Hive Mind | Long hair styles, Hair styles, Beauty",
+            "link": "https://www.pinterest.com/pin/599471400374286168/",
+            "original": "https://i.pinimg.com/736x/dd/65/03/dd6503b62844b8ed2f874bdb7aee3ffa.jpg"
+        },
+        {
+            "position": 8,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794384a2e89de9f8e444379db307cc95daa755500902d7b44ee.jpeg",
+            "source": "thefamouspeople.com",
+            "title": "Famous Swiss Women",
+            "link": "https://www.thefamouspeople.com/switzerland-women.php",
+            "original": "https://www.thefamouspeople.com/profiles/thumbs/jocelyn-wildenstein-1.jpg"
+        },
+        {
+            "position": 9,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f127942ea39727e65c46d15596cd7dd81110bcf6693a2c91016ef4.jpeg",
+            "source": "msn.com",
+            "title": "Equality, she screamed: Swiss women stage mass scream against violence, pay  gap",
+            "link": "https://www.msn.com/en-ca/news/world/equality-she-screamed-swiss-women-stage-mass-scream-against-violence-pay-gap/ar-BB15w1Ci",
+            "original": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB15waJF.img?h=0&w=600&m=6&q=60&u=t&o=f&l=f&x=568&y=281"
+        },
+        {
+            "position": 10,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f127943a088b68bf2edc93092e410bc85cff7743e3c1b8d5099563.jpeg",
+            "source": "pinterest.com",
+            "title": "Beautiful Swiss Women, Switzerland - People | Beauty, Beauty women, Curvy  fit women",
+            "link": "https://www.pinterest.com/pin/332422016221435593/",
+            "original": "https://i.pinimg.com/originals/76/20/4e/76204e5d461f4e73cd9ae3d896bd8141.jpg"
+        },
+        {
+            "position": 11,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794e70fce82bc42fdbdc4ee3ac81b0aac1bcf035f9efa138595.jpeg",
+            "source": "confettiskies.com",
+            "title": "Swiss Brides: Things to Know About Dating Swiss Women",
+            "link": "https://confettiskies.com/swiss-women/",
+            "original": "https://confettiskies.com/wp-content/uploads/2020/10/a150610885c124102e0f410a9aa6c350.jpg"
+        },
+        {
+            "position": 12,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794e70fce82bc42fdbd1d1773290c6c2dc37be531b0bc90f7ab.jpeg",
+            "source": "uk.reuters.com",
+            "title": "Factbox: Swiss women to strike in call for equal pay and rights - Reuters",
+            "link": "https://uk.reuters.com/article/uk-swiss-women-portraits-factbox/factbox-swiss-women-to-strike-in-call-for-equal-pay-and-rights-idUKKCN1TD1OE?il=0",
+            "original": "https://s3.reutersmedia.net/resources/r/?m=02&d=20190612&t=2&i=1397097992&r=LYNXNPEF5B1LN&w=1280"
+        },
+        {
+            "position": 13,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794e70fce82bc42fdbd1cbdbe6e1fd2fa28814b420b8b0370fd.jpeg",
+            "source": "rosa.ie",
+            "title": "500,000 on the streets in Swiss \"Women's Strike\" - Solidarity & Struggle is  powerful - ROSA",
+            "link": "http://rosa.ie/500000-on-the-streets-in-swiss-womens-strike-solidarity-struggle-is-powerful/",
+            "original": "http://rosa.ie/wp-content/uploads/2019/06/swiss-2.jpg"
+        },
+        {
+            "position": 14,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794e70fce82bc42fdbdb4f284f3b6131bb53feb221df829e8e4.jpeg",
+            "source": "youtube.com",
+            "title": "You Know You're Dating a Swiss Woman When... - YouTube",
+            "link": "https://www.youtube.com/watch?v=Jpm2OkTbn_Y",
+            "original": "https://i.ytimg.com/vi/Jpm2OkTbn_Y/maxresdefault.jpg"
+        },
+        {
+            "position": 15,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794e70fce82bc42fdbddaa4ecd8af49666ac00f48beaf830d7f.jpeg",
+            "source": "extra.heraldtribune.com",
+            "title": "Swiss women strike for more money, time and respect - Extra",
+            "link": "http://extra.heraldtribune.com/2020/03/01/swiss-women-strike-for-more-money-time-and-respect/",
+            "original": "https://24.media.tumblr.com/294b33e4417fa5b926139f73dc4b3daf/tumblr_n0w6n1n7R81qh0vcro1_400.jpg"
+        },
+        {
+            "position": 16,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794e70fce82bc42fdbd660869e91a6ee852945b0e4eb6a53636.jpeg",
+            "source": "wimseries.com",
+            "title": "Swiss Women Match Racing Team | Women's International Match Racing Series",
+            "link": "http://www.wimseries.com/?team=alexa-bezel",
+            "original": "http://www.wimseries.com/wp-content/uploads/2017/11/Bezel-Busan2017-2-600x400.jpg"
+        },
+        {
+            "position": 17,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794e70fce82bc42fdbd7261e8375777f1e5457b00586c04bcda.jpeg",
+            "source": "rio2016.fivb.com",
+            "title": "News detail - Swiss women central Olympic figures - FIVB - Olympic Games -  Rio 2016",
+            "link": "http://rio2016.fivb.com/en/news/swiss-women-central-olympic-figures?id=63921",
+            "original": "https://www.fivb.org/Vis2009/Images/GetImage.asmx?No=63921&type=Press&width=920&height=588&stretch=uniformtofill"
+        },
+        {
+            "position": 18,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794e70fce82bc42fdbd709ed3e084a9ae16b022dda4af4a6d67.jpeg",
+            "source": "cnn.com",
+            "title": "Swiss women stage scream-in for equality - CNN",
+            "link": "https://www.cnn.com/2020/06/15/europe/switzerland-women-scream-protest-scli-intl/index.html",
+            "original": "https://cdn.cnn.com/cnnnext/dam/assets/200615124735-01-switzerland-womens-strike-0614-large-169.jpg"
+        },
+        {
+            "position": 19,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794e70fce82bc42fdbd46af4f761d80330ddbe5a246bd98fcc3.jpeg",
+            "source": "bbc.co.uk",
+            "title": "Swiss women strike over unequal pay - BBC News",
+            "link": "https://www.bbc.co.uk/news/world-europe-48635600",
+            "original": "https://ichef.bbci.co.uk/images/ic/400xn/p07d49vt.jpg"
+        },
+        {
+            "position": 20,
+            "thumbnail": "https://serpapi.com/searches/603c2dac03406c50098e4000/images/fc4d7db158f12794e70fce82bc42fdbd3e98562788b7cc278bb4fcc34ed375a2.jpeg",
+            "source": "weforum.org",
+            "title": "Women in Switzerland march for gender equality and fairer pay | World  Economic Forum",
+            "link": "https://www.weforum.org/agenda/2020/06/switzerland-swiss-women-protest-domestic-violence-pay-gap/",
+            "original": "https://assets.weforum.org/article/image/large_SUHv7Mf-Q5ctk4lhdH9A4jJb_Jc48Qk_VTGobXe4qA4.JPG"
+        },
+        {
+            "position": 21,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQysI7Dq43xvKVPOM_b_ofBQp-sVriGt5hT9w&usqp=CAU",
+            "source": "wionews.com",
+            "title": "Swiss women get loud to demand equal treatment, World News | wionews.com",
+            "link": "https://www.wionews.com/world/swiss-women-get-loud-to-demand-equal-treatment-305869",
+            "original": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/06/14/144836-swiss-women.jpg"
+        },
+        {
+            "position": 22,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcl6hCU6PEOKO2DGImljp_bJhBJrw-04f2KA&usqp=CAU",
+            "source": "cde.news",
+            "title": "Swiss women's international footballer Florijana Ismaili confirmed dead",
+            "link": "https://cde.news/swiss-womens-international-footballer-florijana-ismaili-confirmed-dead/",
+            "original": "https://i0.wp.com/cde.news/wp-content/uploads/2019/07/Florijana.jpg?fit=800%2C533&ssl=1"
+        },
+        {
+            "position": 23,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhE44VKIKe4n1Iwv_dXA9-7xDfMPrinkw7Q&usqp=CAU",
+            "source": "france24.com",
+            "title": "History proves them right': Three decades on, Swiss women strike again for  equality",
+            "link": "https://www.france24.com/en/20190613-switzerland-women-strike-gender-equality-pay-gap-metoo",
+            "original": "https://s.france24.com/media/display/01eb566e-9c21-11e9-bbb9-005056bff430/w:1280/p:1x1/women-strike-swiss.jpg"
+        },
+        {
+            "position": 24,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ42A9vJdrguz3PtwW37IpZWymVjULRWhIsA&usqp=CAU",
+            "source": "onlineforlove.com",
+            "title": "Swiss Women: Meeting, Dating, and More (LOTS of Pics)",
+            "link": "https://onlineforlove.com/swiss-women/",
+            "original": "https://onlineforlove.com/wp-content/uploads/2020/01/SWISS-WOMEN.jpg"
+        },
+        {
+            "position": 25,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Gj5f--OdiDuEQLY1zXpiKzyqKai-J_aurQ&usqp=CAU",
+            "source": "ft.com",
+            "title": "Swiss women go on strike as outrage builds over inequality | Financial Times",
+            "link": "https://www.ft.com/content/8928133a-8dd8-11e9-a1c1-51bf8f989972",
+            "original": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F84b7651a-8e89-11e9-b8cb-26a9caa9d67b?fit=scale-down&source=next&width=700"
+        },
+        {
+            "position": 26,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTakinXpzHzarFjcJnHOsgzEFxOEZpNwWupNA&usqp=CAU",
+            "source": "suaramedianasional.co.id",
+            "title": "Swiss Women And Their Irresistible Charm | Suara Media Nasional",
+            "link": "https://suaramedianasional.co.id/swiss-women-and-their-irresistible-charm.html",
+            "original": "https://i1.wp.com/cdn.icepop.com/wp-content/uploads/2019/11/SWITZERLAND-Instagram-19san80.jpg?w=260&ssl=1"
+        },
+        {
+            "position": 27,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIPs5BvG1j0CwCrXSplT266kPQtAASfO9Auw&usqp=CAU",
+            "source": "nytimes.com",
+            "title": "Swiss Women Strike Nationwide to Protest Inequalities - The New York Times",
+            "link": "https://www.nytimes.com/2019/06/14/world/europe/switzerland-women-strike.html",
+            "original": "https://static01.nyt.com/images/2019/06/14/world/14swisswomen1/merlin_156434583_44d783a3-d856-41fd-be46-d3cd0b6eb89c-superJumbo.jpg"
+        },
+        {
+            "position": 28,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD0XNnPQCS4GpMFFkjxKrpU1ezrLG4eGOPag&usqp=CAU",
+            "source": "beauty-around.com",
+            "title": "Top-17 Beautiful Swiss Women. Photo",
+            "link": "http://beauty-around.com/en/tops/item/1300-most-beautiful-swiss-women",
+            "original": "http://beauty-around.com/images/sampledata/Swiss_Women/7Lauriane_Gillieron.jpg"
+        },
+        {
+            "position": 29,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwkFRm3wwN-W1WhKDfaAjWrlvpNE3Kc-0gTw&usqp=CAU",
+            "source": "kesecurix.com",
+            "title": "Two Swiss Women you need to know \u2013 Kesecurix",
+            "link": "http://kesecurix.com/en/2018/08/26/two-swiss-women-you-need-to-know/",
+            "original": "http://kesecurix.com/en/wp-content/uploads/2019/03/Screenshot-2019-03-09-at-05.35.23-4-1170x616.png"
+        },
+        {
+            "position": 30,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3s0eschLCXJF0vvVbueY2JEejUB3evPqG2w&usqp=CAU",
+            "source": "nst.com.my",
+            "title": "A sea of purple: Swiss women rise up for equal pay",
+            "link": "https://www.nst.com.my/world/2019/06/496368/sea-purple-swiss-women-rise-equal-pay",
+            "original": "https://assets.nst.com.my/images/articles/SWITZERLAND-STRIKE-SOCIAL-WAGE-DISCRIMINATION2-146_1560522716.jpg"
+        },
+        {
+            "position": 31,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZEbFRaWrGGNpjH5IbZqSHNA0SXG8G7zkBkw&usqp=CAU",
+            "source": "worldwomen2015.com",
+            "title": "Swiss women honoured - WW - International Ice Hockey Federation IIHF",
+            "link": "http://www.worldwomen2015.com/en/news/swiss-women-honoured/",
+            "original": "http://www.worldwomen2015.com/media/516503/SUI-women-award-2014.jpg"
+        },
+        {
+            "position": 32,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIgVhguq0t8kVRECpGJO-8oPadr0zRnz8NQ&usqp=CAU",
+            "source": "wimseries.com",
+            "title": "Swiss International Women's Match 2018 | Women's International Match Racing  Series",
+            "link": "http://www.wimseries.com/event/swiss-international-womens-match-2018/",
+            "original": "http://www.wimseries.com/wp-content/uploads/2017/11/Bezel-Busan2017-2-400x400.jpg"
+        },
+        {
+            "position": 33,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLfHZv-JqmNOCEig6mgeKNBpErjPJmsQF3ww&usqp=CAU",
+            "source": "quotidien-lematinal.net",
+            "title": "Swiss Women Strike For More Money, Time And Respect - LE MATINAL",
+            "link": "http://quotidien-lematinal.net/swiss-women-strike-for-more-money-time-and-respect/",
+            "original": "http://watdaconheo.com/wp-content/uploads/2010/05/Switzerland-600x759.jpg"
+        },
+        {
+            "position": 34,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgUAO2HamprKwYHa72BV-0PzPrxDc1mMYKg&usqp=CAU",
+            "source": "venturelab.ch",
+            "title": "Women to watch in the startup scene \u2013 Venturelab",
+            "link": "https://www.venturelab.ch/Women-to-watch-in-the-startup-scene",
+            "original": "https://www.venturelab.ch/demandit/files/M_BB941CC4DCEF687AD98/dms/Image/womentowatch.jpg"
+        },
+        {
+            "position": 35,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSST1DXaVDOjNUQ1EowyotQVPYfqafStAiu3Q&usqp=CAU",
+            "source": "yourmailorderbride.com",
+            "title": "The Ultimate Guide To Dating Swiss Women in 2020 - YourMailOrderBride",
+            "link": "https://yourmailorderbride.com/swiss-women/",
+            "original": "https://yourmailorderbride.com/wp-content/uploads/2020/05/1-8-2.jpg"
+        },
+        {
+            "position": 36,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXzUB2UJpPtL6mHLF7P8HEdVwrb7fQ50b1Q&usqp=CAU",
+            "source": "beautiful-women-pedia.com",
+            "title": "Beautiful Swiss Women \u2013 Beautiful Women Pedia",
+            "link": "http://www.beautiful-women-pedia.com/beautiful-swiss-women/",
+            "original": "http://www.beautifulwomenpedia.com/images/xenia-tchoumitcheva-p-1.jpg"
+        },
+        {
+            "position": 37,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTAp0T1QqsHR4_cgLpHPV2klKIPhu5K9LNg&usqp=CAU",
+            "source": "thelocal.ch",
+            "title": "Swiss women will 'work for free' for the rest of year - The Local",
+            "link": "https://www.thelocal.ch/20161021/swiss-women-will-work-for-free-for-the-rest-of-year",
+            "original": "https://www.thelocal.ch/userdata/images/article/a4a0d4f27f4769897c80ec1cd2b7a35d371a6880d49759cbc76e58196d7ad42d.jpg"
+        },
+        {
+            "position": 38,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRd8lPfbsJTxKOvtHSQf-jOGBMClskXkCA2A&usqp=CAU",
+            "source": "top10for.com",
+            "title": "Top 10 Most Beautiful Swiss Women in 2015",
+            "link": "http://top10for.com/top-10-most-beautiful-swiss-women-in-2015/",
+            "original": "http://top10for.com/wp-content/uploads/2015/06/Most-Beautiful-Swiss-Women.jpg"
+        },
+        {
+            "position": 39,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUnmsbHtOx00nxzjwNIhhDAc-znBGBg9oMUw&usqp=CAU",
+            "source": "arenapile.com",
+            "title": "Who Are The Top 10 Most Beautiful Swiss Women In The World",
+            "link": "https://www.arenapile.com/beautiful-swiss-women/",
+            "original": "https://www.arenapile.com/wp-content/uploads/2017/10/Michelle-Hunziker-1.jpg"
+        },
+        {
+            "position": 40,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTilLssaroNUYmzQiDlRF3SbQpiyKrVGZR2BQ&usqp=CAU",
+            "source": "france24.com",
+            "title": "History proves them right': Three decades on, Swiss women strike again for  equality",
+            "link": "https://www.france24.com/en/20190613-switzerland-women-strike-gender-equality-pay-gap-metoo",
+            "original": "https://s.france24.com/media/display/01eb566e-9c21-11e9-bbb9-005056bff430/w:1280/p:16x9/women-strike-swiss.webp"
+        },
+        {
+            "position": 41,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL0DgzTjuqiYvwAr24du-47f7FH7jz7nEKQ&usqp=CAU",
+            "source": "youtube.com",
+            "title": "Top 10 Most Beautiful Swiss Women - YouTube",
+            "link": "https://www.youtube.com/watch?v=Edk9XBwyxRk",
+            "original": "https://i.ytimg.com/vi/Edk9XBwyxRk/maxresdefault.jpg"
+        },
+        {
+            "position": 42,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MNVsWZn-Pm4InZ1CqbuPk0cKs2ciNn1QoQ&usqp=CAU",
+            "source": "venturelab.ch",
+            "title": "Swiss Female Entrepreneurs to Watch \u2013 Venturelab",
+            "link": "https://www.venturelab.ch/Swiss-Female-Entrepreneurs-to-Watch",
+            "original": "https://mypage.netlive.ch/demandit/files/M_BB941CC4DCEF687AD98/dms/Image/Mosaic_Womantowatch_2020_1000w_definitiv_ok.jpg"
+        },
+        {
+            "position": 43,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDzZ0jsdfa1WddVIk9_Yr2fy9EM3jOcZAZiA&usqp=CAU",
+            "source": "springmakeshow.com",
+            "title": "Beautiful Swiss Women - SpringMakeShow.com",
+            "link": "https://springmakeshow.com/beautiful-swiss-women/",
+            "original": "https://springmakeshow.com/wp-content/uploads/2020/09/2019-10-20-b31he7mhf-t.jpg"
+        },
+        {
+            "position": 44,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz_Ublox1yXsFDlsBPawFyeHChP4CESdqbA&usqp=CAU",
+            "source": "livemint.com",
+            "title": "Swiss women stage mass strike demanding overdue equality",
+            "link": "https://www.livemint.com/news/world/swiss-women-stage-mass-strike-demanding-overdue-equality-1560539165036.html",
+            "original": "https://images.livemint.com/img/2019/06/14/600x338/e0c3e17e58db4d7b9fd7334e92a8484a-e0c3e17e58db4d7b9fd7334e92a8484a-0_1560539213890_1560539235854.jpg"
+        },
+        {
+            "position": 45,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZV0FqTzhqqSmAJ8CxAZCmr856CJamntmKhw&usqp=CAU",
+            "source": "euronews.com",
+            "title": "Swiss women strike for gender equality | Euronews",
+            "link": "https://www.euronews.com/2019/06/14/swiss-women-strike-for-gender-equality",
+            "original": "https://static.euronews.com/articles/stories/03/96/15/80/320x180_cmsv2_b8b1bb74-3e0e-5f58-ae1e-1abbfd2d076d-3961580.jpg"
+        },
+        {
+            "position": 46,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHzSnn2-GpmFUzwvkYEfkyCmbaUxieD_6LQA&usqp=CAU",
+            "source": "swissinfo.ch",
+            "title": "Women underrepresented at top levels of Swiss business - SWI swissinfo.ch",
+            "link": "https://www.swissinfo.ch/eng/international-comparison_women-underrepresented-at-top-levels-of-swiss-business/42490302",
+            "original": "https://www.swissinfo.ch/resource/image/42490396/landscape_ratio3x2/280/187/6f5690f8d8ef9d277579e13370d806ec/4F492292AD7BAA24E6798990DE107710/marissa-jpg.jpg"
+        },
+        {
+            "position": 47,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgGe8IUblLmO8hLJX2n_dmObyocjQ2fctn3Q&usqp=CAU",
+            "source": "thisistrouble.com",
+            "title": "Swiss Women \u2022 The #1 A-Z Seduction Guide - This Is Trouble",
+            "link": "https://thisistrouble.com/swiss-women/",
+            "original": "https://thisistrouble.com/wp-content/uploads/2019/12/Date-Swiss-Women-1024x684.jpg"
+        },
+        {
+            "position": 48,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEOCWaWhvfgkQxQGux4bzECyXrIg5uxrixTQ&usqp=CAU",
+            "source": "rendezvous.blogs.nytimes.com",
+            "title": "The Swiss Offer Some Economic Advice to Europe - The New York Times",
+            "link": "https://rendezvous.blogs.nytimes.com/2013/05/30/the-swiss-offer-some-economic-advice-to-europe/",
+            "original": "https://static01.nyt.com/images/2013/05/30/blogs/30rdv-swiss/30rdv-swiss-hpMedium.jpg"
+        },
+        {
+            "position": 49,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVGCB4niPJRdsEbvihnhixmBHy2UNfXb2J6A&usqp=CAU",
+            "source": "businesslive.co.za",
+            "title": "Women strike to secure the rights promised in Swiss constitution",
+            "link": "https://www.businesslive.co.za/bd/world/europe/2019-06-14-women-strike-to-secure-the-rights-promised-in-swiss-constitution/",
+            "original": "https://lh3.googleusercontent.com/1inQ9KA82i-EFYdZXGUsA2E_KhohfAXok4OQzoix6229Hd-ZmmiVFheEyb_XhGaQe0M8bG8irDIeLC4-Ma3NkHpdb-SfT-s=s750"
+        },
+        {
+            "position": 50,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP3YSigNEOrm9GFcaUEo4HKhVrjjJueByEUQ&usqp=CAU",
+            "source": "sante-tchad.org",
+            "title": "Swiss dating: understanding Swiss women and men that are swiss \u2013 Minist\u00e8re  de la Sant\u00e9 Publique et de la Solidarit\u00e9 Nationale du Tchad",
+            "link": "https://sante-tchad.org/swiss-dating-understanding-swiss-women-and-men/",
+            "original": "https://akns-images.eonline.com/eol_images/Entire_Site/201865/rs_600x600-180705164203-600-reality-dating-shows.jpg?fit=around|600:467&crop=600:467;center,top&output-quality=90"
+        },
+        {
+            "position": 51,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTopugQI7Po7W7GSvbX0dPn5K_RZhBp7wrXrw&usqp=CAU",
+            "source": "cev.eu",
+            "title": "CEV - Conf\u00e9d\u00e9ration Europ\u00e9enne de Volleyball",
+            "link": "https://www.cev.eu/News.aspx?NewsID=21266&ID=7",
+            "original": "https://www.cev.eu/NewsImages/21266/Original/GetPhoto.aspx.jpg"
+        },
+        {
+            "position": 52,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZqUChbNKcEG3c4Dqg-YYT8CJ3uApA_JIhg&usqp=CAU",
+            "source": "dw.com",
+            "title": "Swiss women go on strike over inequality | News | DW | 14.06.2019",
+            "link": "https://www.dw.com/en/swiss-women-go-on-strike-over-inequality/a-49119906",
+            "original": "https://m.dw.com/image/49202250_401.jpg"
+        },
+        {
+            "position": 53,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQR2efY47EmC2Ya6RyPaQE57KA0H6b--q0dg&usqp=CAU",
+            "source": "reuters.com",
+            "title": "Pay, time, respect: nearly three decades on, Swiss women strike again",
+            "link": "https://www.reuters.com/article/instant-article/idUKKCN1TD1O7",
+            "original": "https://static.reuters.com/resources/r/?m=02&d=20190612&t=2&i=1397073825&r=LYNXNPEF5B1EA&w=640"
+        },
+        {
+            "position": 54,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1pxcz4EiLEIOI13Zol8sEcU3Q-1r96Hb0dA&usqp=CAU",
+            "source": "vox.com",
+            "title": "Switzerland women's strike: thousands walk out to protest inequality - Vox",
+            "link": "https://www.vox.com/world/2019/6/14/18679308/switzerland-women-strike-equal-pay-protests",
+            "original": "https://cdn.vox-cdn.com/thumbor/fBh2QqQogRySCMj49JOnzIgV1_s=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16345298/GettyImages_1149977647.jpg"
+        },
+        {
+            "position": 55,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhSiGwDmejKfPjH7o2RrECI2StJ9DxZujG6Q&usqp=CAU",
+            "source": "ewn.co.za",
+            "title": "Sea of purple: Swiss women strike for equal pay",
+            "link": "https://ewn.co.za/2019/06/15/sea-of-purple-swiss-women-strike-for-equal-pay",
+            "original": "https://live.mrf.io/statics/i/ps/cdn.primedia.co.za/primedia-broadcasting/image/upload/c_fill,h_437,w_700/d2atd8jx7hhpir9b1lwl?width=1200&enable=upscale"
+        },
+        {
+            "position": 56,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Ni5dvdh0OkJeOMsUI_rPzk6BzWY7xUQukQ&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Lara Gut | Lara, Beauty around the world, Women",
+            "link": "https://www.pinterest.com/pin/392798398724931865/",
+            "original": "https://i.pinimg.com/originals/15/7a/8e/157a8ee31b03670a231c91d895c6fd63.jpg"
+        },
+        {
+            "position": 57,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwi_ZflMGWkJKtm8Ul0MwvntugdDhT-ckqag&usqp=CAU",
+            "source": "thelocal.ch",
+            "title": "13 key milestones in the history of women's rights in Switzerland - The  Local",
+            "link": "https://www.thelocal.ch/20190308/12-fascinating-facts-about-the-history-of-womens-rights-in-switzerland",
+            "original": "https://www.thelocal.ch/userdata/images/1552037596_elb%20(1).jpg"
+        },
+        {
+            "position": 58,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0tU1p3g4EUfs5W7dCxaRNL0kUcvL1DVNxbg&usqp=CAU",
+            "source": "cbc.ca",
+            "title": "Women strike in Switzerland for fairer pay, more equality | CBC News",
+            "link": "https://www.cbc.ca/news/business/women-strike-switzerland-fairer-pay-equality-1.5175779",
+            "original": "https://i.cbc.ca/1.5175787.1560528360!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_780/switzerland-women-s-strike.jpg"
+        },
+        {
+            "position": 59,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_4d52jVUcIgR6cCg3zVI2aDQt-6XAqzwfjA&usqp=CAU",
+            "source": "abc.net.au",
+            "title": "Swiss women go on strike, burn bras in protest against the gender pay gap  and sexism - ABC News",
+            "link": "https://www.abc.net.au/news/2019-06-15/swiss-women-strike-protest-gender-pay-gap-sexism-sexual-violence/11213444",
+            "original": "https://www.abc.net.au/cm/rimage/11213504-16x9-xlarge.jpg?v=2"
+        },
+        {
+            "position": 60,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBGkmqKt5ruvih11R7DX3BpmqfLrOvGHTqw&usqp=CAU",
+            "source": "extra.heraldtribune.com",
+            "title": "Women This Week: Swiss Women on Strike - Extra",
+            "link": "https://extra.heraldtribune.com/2019/10/12/women-this-week-swiss-women-on-strike/",
+            "original": "http://www.beautiful-women-pedia.com/images/julie-ordon-swiss-girl.jpg"
+        },
+        {
+            "position": 61,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7KChw4yJpQdIgM9tHTttotC0Rig52BgUztA&usqp=CAU",
+            "source": "vawnet.org",
+            "title": "Swiss women stage a mass scream over domestic violence, pay gap",
+            "link": "https://vawnet.org/news/swiss-women-stage-mass-scream-over-domestic-violence-pay-gap",
+            "original": "https://vawnet.org/sites/default/files/styles/max_325x325/public/assets/images/Scream-NewsBlog.jpg?itok=H7d9OVsb"
+        },
+        {
+            "position": 62,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwXy8AQgkp-OdrZRwtDe1i8jQk6e-Qktsq5A&usqp=CAU",
+            "source": "globalnews.ca",
+            "title": "Equality, she screamed: Swiss women stage mass scream against violence, pay  gap - National | Globalnews.ca",
+            "link": "https://globalnews.ca/news/7067758/mass-scream-switzerland/",
+            "original": "https://i1.wp.com/media.globalnews.ca/videostatic/news/bauvixifgu-qw9cw4kmuc/Sequence_01.00_05_03_27.Still004.jpg?w=1040&quality=70&strip=all"
+        },
+        {
+            "position": 63,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_1G8IfoguxEB7ioCyG9CCIL6DKKKLQc8Kw&usqp=CAU",
+            "source": "lenews.ch",
+            "title": "Switzerland's army to be headed by a woman for the first time",
+            "link": "https://lenews.ch/2018/12/13/switzerlands-army-to-be-headed-by-a-woman-for-the-first-time/",
+            "original": "https://lenews.ch/wp-content/uploads/2018/12/Swiss-army-women.jpg"
+        },
+        {
+            "position": 64,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwdka6sVE-W5CJAnFyivQsi-rEuCx-PD1HQg&usqp=CAU",
+            "source": "tellerreport.com",
+            "title": "Alpine skiing: two Swiss women on the downhill podium in Altenmarkt -  France 24 - Teller Report",
+            "link": "https://www.tellerreport.com/news/2020-01-11---alpine-skiing--two-swiss-women-on-the-downhill-podium-in-altenmarkt---france-24-.SJeq_YIwgL.html",
+            "original": "https://s.france24.com/media/display/073db5f6-347b-11ea-a42e-005056a98db9/w:1240/p:16x9/2a7db130984cd1d24df48e0ba2a959bfeaa133d1.jpg"
+        },
+        {
+            "position": 65,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6USjAdx_kzbr8-4ASI9CTEWiqplvluqp2ZQ&usqp=CAU",
+            "source": "nst.com.my",
+            "title": "A sea of purple: Swiss women rise up for equal pay",
+            "link": "https://www.nst.com.my/world/2019/06/496368/sea-purple-swiss-women-rise-equal-pay",
+            "original": "https://assets.nst.com.my/images/articles/SWISS-WOMEN_1-146_1560522702.jpg"
+        },
+        {
+            "position": 66,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-buR8AUAe0iifbCcT80pwhyXAuy9NihgVZA&usqp=CAU",
+            "source": "fintechnews.ch",
+            "title": "7 Swiss Fintech Women to Watch in 2020 | Fintech Schweiz Digital Finance  News \u2013 FintechNewsCH",
+            "link": "https://fintechnews.ch/fintech/7-swiss-fintech-women-to-watch-in-2020/33415/",
+            "original": "https://fintechnews.ch/wp-content/uploads/2020/03/7-Swiss-Fintech-Women-to-Watch-in-2020.png"
+        },
+        {
+            "position": 67,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQciJRc7OT__zdUwIYoFSFpTb3JzMronBFnA&usqp=CAU",
+            "source": "twitter.com",
+            "title": "Swiss Women in Chemistry (@SwissWomenChem) | Twitter",
+            "link": "https://twitter.com/swisswomenchem",
+            "original": "https://pbs.twimg.com/media/Et3Ni_aWQAUp1GP.jpg"
+        },
+        {
+            "position": 68,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcb6dUQ0-lh1mqf9Qca0708qjLxQMfhxzog&usqp=CAU",
+            "source": "byrdie.com",
+            "title": "How to Get Clear Skin\u2014Swiss Women Tell Their Secrets",
+            "link": "https://www.byrdie.com/clear-skin-swiss-women",
+            "original": "https://www.byrdie.com/thmb/6K9_Yqiaw5TbH8Rwvu8vSVGCmmo=/700x366/filters:fill(auto,1)/cdn.cliqueinc.com__cache__posts__225019__clear-skin-swiss-women-225019-1495671364027-fb.700x0c-bda6f7cc884a4ce1bda8ffad78de649f.jpg"
+        },
+        {
+            "position": 69,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3lNCzlumRH7xvR9SpNFGq2UTm8klyuXH2aA&usqp=CAU",
+            "source": "taipeitimes.com",
+            "title": "Swiss women go on strike urging fair pay, equality - Taipei Times",
+            "link": "http://www.taipeitimes.com/News/world/archives/2019/06/16/2003717043",
+            "original": "https://www.taipeitimes.com/images/2019/06/16/P05-190616-301.jpg"
+        },
+        {
+            "position": 70,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1-PpXGZAYGKNnOIXc5mvfzmQ7ew6HPAH9VA&usqp=CAU",
+            "source": "istockphoto.com",
+            "title": "145 Beautiful Swiss Women Fan Stock Photos, Pictures & Royalty-Free Images  - iStock",
+            "link": "https://www.istockphoto.com/photos/beautiful-swiss-women-fan",
+            "original": "https://media.istockphoto.com/photos/baseball-fan-picture-id1185082163?k=6&m=1185082163&s=612x612&w=0&h=AVQpR7zpP1Lb8YOjJLBdBYL2jI_t0iyzRPKJ8vKrkn8="
+        },
+        {
+            "position": 71,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQElgu_k3IBg-Mi8p-LjnDFhFR0aB-pG94rlw&usqp=CAU",
+            "source": "kladeratsh.com",
+            "title": "The most beautiful Swiss women \u2013 Kladeratsh!",
+            "link": "https://kladeratsh.com/2020/06/05/the-most-beautiful-swiss-women/",
+            "original": "https://kladeratsh.com/wp-content/uploads/2020/04/E8C6D7EA-CF28-4AFB-8006-75A9C42606FA-1030x438.jpeg"
+        },
+        {
+            "position": 72,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqcLHjo-KQQwEsz3j-GzZfQtjy4DMW8UW7pw&usqp=CAU",
+            "source": "newsclick.in",
+            "title": "Sea of Purple: With Prams and Whistles, Swiss Women Strike for Equal Pay |  NewsClick",
+            "link": "https://www.newsclick.in/sea-purple-with-prams-whistles-swiss-women-strike-equal-pay",
+            "original": "https://www.newsclick.in/sites/default/files/2019-06/swiss%20women%20protest15_0.jpeg"
+        },
+        {
+            "position": 73,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqtWKBga8vQfksGb4QMJdP2TvGlg7SfrdGww&usqp=CAU",
+            "source": "rte.ie",
+            "title": "Swiss women rise up for equal pay",
+            "link": "https://www.rte.ie/news/business/2019/0614/1055375-swiss-women-equal-pay/",
+            "original": "https://img.rasset.ie/00123775-500.jpg"
+        },
+        {
+            "position": 74,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTImROAtb4CiLJnwN5us6POWQ1YVXkKEfizoA&usqp=CAU",
+            "source": "telesurenglish.net",
+            "title": "Swiss Women Rally Against Labor Discrimination, Wage Gaps | News | teleSUR  English",
+            "link": "https://www.telesurenglish.net/news/Swiss-Women-Rallied-Against-Labor-Discrimination-Wage-Gaps-20190615-0006.html",
+            "original": "https://www.telesurenglish.net/__export/1560621409113/sites/telesur/img/2019/06/15/a_protester_lights_during_a_womenxs_strike_in_zurichx_switzerlandx_june_14x_2019_.jpg_1718483346.jpg?mrf-size=m"
+        },
+        {
+            "position": 75,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmJLZcd8W3OBMCg66rdhLDw0dY_B_-e4887g&usqp=CAU",
+            "source": "cnn.com",
+            "title": "Switzerland women's strike: 'Inequality is non-negotiable' - CNN Business",
+            "link": "https://www.cnn.com/2019/06/14/business/switzerland-women-protest-strike-gender-inequality-intl/index.html",
+            "original": "https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190614112513-swiss-womens-strike.jpg"
+        },
+        {
+            "position": 76,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvGnak8d_tNXGxJ-ne-Vrsk9cUi05UQNNHeA&usqp=CAU",
+            "source": "contifootball.wordpress.com",
+            "title": "The Swiss are coming: The rise of the Swiss women's national team |  contiWfootball",
+            "link": "https://contifootball.wordpress.com/2014/09/19/the-swiss-are-coming-the-rise-of-the-swiss-womens-national-team/",
+            "original": "https://contifootball.files.wordpress.com/2014/09/546x0.jpeg?w=546"
+        },
+        {
+            "position": 77,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNx0cGwLEJH1ilYuxD9JVOGt_XuveA9-h9Kw&usqp=CAU",
+            "source": "istockphoto.com",
+            "title": "145 Beautiful Swiss Women Fan Stock Photos, Pictures & Royalty-Free Images  - iStock",
+            "link": "https://www.istockphoto.com/photos/beautiful-swiss-women-fan",
+            "original": "https://media.istockphoto.com/photos/switzerland-sports-fan-picture-id1097804080?k=6&m=1097804080&s=612x612&w=0&h=lNztblzROUf6BYI_mRno5H6cP31XE6kL9YrPw-vHmKM="
+        },
+        {
+            "position": 78,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiA8HMaGZJ4EcjjXe6h9oFpLnpwQNIgOaNOg&usqp=CAU",
+            "source": "bloomberg.com",
+            "title": "Swiss Women Hold a Day of Protest Over Workplace Inequality - Bloomberg",
+            "link": "https://www.bloomberg.com/news/articles/2019-06-14/swiss-women-hold-a-day-of-protest-over-workplace-inequality",
+            "original": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifxpP7XLBUDY/v0/1000x-1.jpg"
+        },
+        {
+            "position": 79,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbVJL1mnqnuQV6ePOHDqBYZgIeWL82laD0aA&usqp=CAU",
+            "source": "politico.eu",
+            "title": "Swiss women go on strike over inequality \u2013 POLITICO",
+            "link": "https://www.politico.eu/article/swiss-women-go-on-strike-over-inequality/",
+            "original": "https://www.politico.eu/wp-content/uploads/2019/06/GettyImages-1149911791-1160x773.jpg"
+        },
+        {
+            "position": 80,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWf3R2T7VeJ1eBKb1NgoHK512Q-IsyX06Kbg&usqp=CAU",
+            "source": "alphasonics.com.sg",
+            "title": "Why Swiss women are back on strike right now - Alphasonics",
+            "link": "http://alphasonics.com.sg/why-swiss-women-are-back-on-strike-right-now/",
+            "original": "https://www.rnz.co.nz/assets/news/198473/eight_col_switz_two.jpg"
+        },
+        {
+            "position": 81,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRVs624xLEaTiKkTqBkoVV3U-sZxlQ3lwUg&usqp=CAU",
+            "source": "mail-order-bride.com",
+            "title": "Swiss Brides - Find Swiss Women for Marriage",
+            "link": "https://mail-order-bride.com/swiss-brides",
+            "original": "https://mail-order-bride.com/images/all/85-1566545802489.jpg"
+        },
+        {
+            "position": 82,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtriHW9F_vShiX6UzonUrqfnJIDX5NhQSnZQ&usqp=CAU",
+            "source": "nautilusint.org",
+            "title": "Swiss women strike for equal pay, time and respect",
+            "link": "https://www.nautilusint.org/en/news-insight/news/swiss-women-strike-for-equal-pay-time-and-respect/",
+            "original": "https://www.nautilusint.org/globalassets/news-by-topic/switzerland/swiss_womens_strike_basel_theaterplatz_news.jpg"
+        },
+        {
+            "position": 83,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5n0IMoJHNE3BQLO3H_q1HOsHqHJ-VOp9gg&usqp=CAU",
+            "source": "thebigphotos.com",
+            "title": "Beautiful Swiss Woman. Julie Ordon \u00b7 The Big Photos",
+            "link": "http://thebigphotos.com/swiss-woman/",
+            "original": "http://thebigphotos.com/wp-content/uploads/2018/11/beautiful-swiss-woman.jpg"
+        },
+        {
+            "position": 84,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnybCYTgijTcn3u0406vpOV2yKzT8lB_o_Q&usqp=CAU",
+            "source": "houseofswitzerland.org",
+            "title": "Apps, wine and literature \u2013 the young generation of Swiss women creators |  House of Switzerland",
+            "link": "https://houseofswitzerland.org/swissstories/society/apps-wine-and-literature-young-generation-swiss-women-creators",
+            "original": "https://houseofswitzerland.org/sites/default/files/styles/cover_huge/public/story/cover/trio_headline_0.jpg?h=11e040ac&itok=PyXHJb2C"
+        },
+        {
+            "position": 85,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGsGkN2LlX862JLJIqc6sdrs6zZHFKg_yVA&usqp=CAU",
+            "source": "newlyswissed.com",
+            "title": "Did you know? 35 interesting statistics about the Swiss and their lifestyle",
+            "link": "https://www.newlyswissed.com/statistics-about-the-swiss/",
+            "original": "https://www.newlyswissed.com/wp-content/uploads/2018/07/World-of-Average-Faces-Swiss.jpg"
+        },
+        {
+            "position": 86,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXG4FHVgHHUt5kWjOkuJvSpZscbA-USunfA&usqp=CAU",
+            "source": "expatica.com",
+            "title": "Guide to Swiss dating: looking for love in Switzerland | Expatica",
+            "link": "https://www.expatica.com/ch/living/love/swiss-dating-106713/",
+            "original": "https://www.expatica.com/app/uploads/sites/9/2020/05/Online-dating-1024x683.jpg"
+        },
+        {
+            "position": 87,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfaUOXUP2E6yzyAuqjErU11-ogmpCElndukQ&usqp=CAU",
+            "source": "thejakartapost.com",
+            "title": "Swiss women team player missing after swimming accident - Sports - The  Jakarta Post",
+            "link": "https://www.thejakartapost.com/news/2019/06/30/swiss-women-team-player-missing-after-swimming-accident.html",
+            "original": "https://img.jakpost.net/c/2019/06/30/2019_06_30_75496_1561899435._large.jpg"
+        },
+        {
+            "position": 88,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrvC-yyJvWDK-v2fihd5zuj8s8lEubXX0y0Q&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "Swiss women get the vote \u2013 archive, 1971 | Switzerland | The Guardian",
+            "link": "https://www.theguardian.com/world/from-the-archive-blog/2021/feb/10/swiss-women-get-the-vote-archive-1971",
+            "original": "https://i.guim.co.uk/img/media/f024366546fb80b012b33756da3bac8acb240942/0_110_3000_1800/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=d545d290e276e00245eebd1da727dbc0"
+        },
+        {
+            "position": 89,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrAhSg1iU0yPpVXQbjXdPcncCraK8YzpChXw&usqp=CAU",
+            "source": "livinginnyon.com",
+            "title": "New book on Amazing Swiss Women - Spies, Stuntwomen, Reformers, Activists  and Artists - Living in Nyon",
+            "link": "https://livinginnyon.com/new-book-on-amazing-swiss-women-spies-stuntwomen-reformers-activists-and-artists/",
+            "original": "https://i0.wp.com/livinginnyon.com/wordpress/wp-content/uploads/2020/12/cover.jpg?fit=1605%2C2047&ssl=1"
+        },
+        {
+            "position": 90,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUOIz7LF1SczUCCwLyLPDVOoIyM1vZpIWyA&usqp=CAU",
+            "source": "xinhuanet.com",
+            "title": "Swiss parliament chooses two women to join cabinet - Xinhua |  English.news.cn",
+            "link": "http://www.xinhuanet.com/english/2018-12/05/c_137653340.htm",
+            "original": "http://www.xinhuanet.com/english/2018-12/05/137653340_15440536871981n.jpg"
+        },
+        {
+            "position": 91,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnoY_LzHeHc5bphpffQnD3jk84muVftBukvw&usqp=CAU",
+            "source": "stuff.co.nz",
+            "title": "Striking Swiss women burn bras and block traffic in nationwide protests |  Stuff.co.nz",
+            "link": "https://www.stuff.co.nz/business/world/113517722/striking-swiss-women-burn-bras-and-block-traffic-in-nationwide-protests",
+            "original": "https://resources.stuff.co.nz/content/dam/images/1/v/l/2/u/n/image.related.StuffLandscapeSixteenByNine.710x400.1vl2u2.png/1560591542595.jpg?format=pjpg&optimize=medium"
+        },
+        {
+            "position": 92,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSA71Om6G5wueJ5EFPmKfoToXDYQN5bsC5QQ&usqp=CAU",
+            "source": "telegraph.co.uk",
+            "title": "Swiss women strike en masse to end 'scandalous' gender pay gap",
+            "link": "https://www.telegraph.co.uk/news/2019/06/14/swiss-women-strike-end-scandalous-gender-pay-gap/",
+            "original": "https://www.telegraph.co.uk/content/dam/news/2019/06/14/TELEMMGLPICT000200739144_trans_NvBQzQNjv4BqBDCnIxthzPLaVuHdTEmpqJ73dq_ohU5dG7pZOyOIh3g.jpeg"
+        },
+        {
+            "position": 93,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkooQlFeMKfkgX_GJ4zYwHzlscnhVmehlDJg&usqp=CAU",
+            "source": "houseofswitzerland.org",
+            "title": "10 influential Swiss women making a splash | Swiss Society",
+            "link": "https://www.houseofswitzerland.org/swissstories/society/10-influential-swiss-women-making-splash",
+            "original": "https://www.houseofswitzerland.org/sites/default/files/styles/portrait/public/story/portrait/Kayture%20-%20Kristina%20Bazan%201_0.jpg?h=4a7d1ed4&itok=s2qjhnvH"
+        },
+        {
+            "position": 94,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpn-GH7OoBUMbiWsD3YctS8Di1w4RspHd51w&usqp=CAU",
+            "source": "peoplesdispatch.org",
+            "title": "Swiss women demand equality and gender justice in massive national strike :  Peoples Dispatch",
+            "link": "https://peoplesdispatch.org/2019/06/17/swiss-women-demand-equality-and-gender-justice-in-massive-national-strike/",
+            "original": "https://peoplesdispatch.org/wp-content/uploads/2019/06/14-6-Womens-strike-switzerland.jpg"
+        },
+        {
+            "position": 95,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ofMZUstsy5Iw88HHe_BDhUD2cL5XvrTFZg&usqp=CAU",
+            "source": "opiniojuris.org",
+            "title": "The Decision of the Swiss Federal Supreme Court in the Caster Semenya Case:  A Human Rights and Gender Analysis - Opinio Juris",
+            "link": "https://opiniojuris.org/2020/09/30/the-decision-of-the-swiss-federal-supreme-court-in-the-caster-semenya-case-a-human-rights-and-gender-analysis/",
+            "original": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/Caster_Inline-743x545.jpg?fit=743%2C545&ssl=1"
+        },
+        {
+            "position": 96,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAr9VDb4xfdT0alyeW9yLS6_vbncF1qh-Rw&usqp=CAU",
+            "source": "tnnews.tv",
+            "title": "Swiss women strike Women across Switzerland commemorative entirely convinced",
+            "link": "https://tnnews.tv/2019/06/14/swiss-women-strike-for-more-money-time-and-respect/",
+            "original": "https://news.files.bbci.co.uk/include/idt2/assets/bba8d7cc-e456-4bfa-a95e-6a544fc0fda5"
+        },
+        {
+            "position": 97,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ_aQshZ-l6K-4rEN12J32u8DfcIPiloR6pg&usqp=CAU",
+            "source": "snowindustrynews.com",
+            "title": "Free, Women-Only Swiss Alps Cycling Packages Launched By Kudos Cycling",
+            "link": "https://www.snowindustrynews.com/articles/2018/june/free-women-only-swiss-alps-cycling-packages-launched-by-kudos-cycling/",
+            "original": "https://www.snowindustrynews.com/media/2683/kudos-women-only-cycling.jpg"
+        },
+        {
+            "position": 98,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsGW_ia1FtUWwEB21R6w9koDJ6CeJWtL50_A&usqp=CAU",
+            "source": "france24.com",
+            "title": "Swiss women claim first ever majority in cabinet",
+            "link": "https://www.france24.com/en/20100922-swiss-women-claim-first-ever-majority-cabinet-gender-equality-politics-switzerland",
+            "original": "https://s.france24.com/media/display/9e582cd6-0a8e-11e9-8c0a-005056bff430/w:1280/p:4x3/swiss-women.jpg"
+        },
+        {
+            "position": 99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSKT8k0dWxYVOvbOYA8161iS_sWKSQQsThQ&usqp=CAU",
+            "source": "womenstennisblog.com",
+            "title": "Forever 21 & K-Swiss launch back-to-school tennis-chic collab | Women's  Tennis Blog",
+            "link": "https://womenstennisblog.com/2019/08/23/forever21-kswiss-tennis-collection/",
+            "original": "https://3qe5h71bfi0p3im9cwcntjwb-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Forever-21-K-Swiss.jpg"
+        },
+        {
+            "position": 100,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb3cLQIXAddoPXS2LcgOfX_c4WktdPRpmECw&usqp=CAU",
+            "source": "independent.co.uk",
+            "title": "Swiss suffragettes were still fighting for the right to vote in 1971 | The  Independent | The Independent",
+            "link": "https://www.independent.co.uk/news/world/politics/swiss-suffragettes-were-still-fighting-for-the-right-to-vote-in-1971-10514445.html",
+            "original": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/09/25/20/suffragette.jpg?width=982&height=726&auto=webp&quality=75"
+        }
+    ]
+}

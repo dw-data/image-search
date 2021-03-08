@@ -1,0 +1,981 @@
+{
+    "search_metadata": {
+        "id": "603f46e577573d5268b36e34",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/fea6bdc20a9b0a3b/603f46e577573d5268b36e34.json",
+        "created_at": "2021-03-03 08:20:53 UTC",
+        "processed_at": "2021-03-03 08:20:53 UTC",
+        "google_url": "https://www.google.com/search?q=syrian+women&oq=syrian+women&tbm=isch&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/fea6bdc20a9b0a3b/603f46e577573d5268b36e34.html",
+        "total_time_taken": 3.94
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "syrian women",
+        "google_domain": "google.com",
+        "device": "desktop",
+        "tbm": "isch"
+    },
+    "search_information": {
+        "image_results_state": "Results for exact spelling",
+        "query_displayed": "syrian women"
+    },
+    "suggested_searches": [
+        {
+            "name": "sad",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:sad:psDAW_cJnms%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoAHoECAEQGA",
+            "chips": "q:syrian+women,g_1:sad:psDAW_cJnms%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Asad%3ApsDAW_cJnms%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/8832220042e17d2ab58c80d677bdd2e6062e2d1a730cd56763ea0c97845d2d94.jpeg"
+        },
+        {
+            "name": "white",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:white:l_yAVDOkyX4%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoAXoECAEQGg",
+            "chips": "q:syrian+women,g_1:white:l_yAVDOkyX4%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Awhite%3Al_yAVDOkyX4%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/8832220042e17d2ab58c80d677bdd2e6604b29aac618b89242cb090a6207283c.jpeg"
+        },
+        {
+            "name": "american",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:american:HdUsWCUPHrY%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoAnoECAEQHA",
+            "chips": "q:syrian+women,g_1:american:HdUsWCUPHrY%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Aamerican%3AHdUsWCUPHrY%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/8832220042e17d2ab58c80d677bdd2e6c634f7140c0b32050296f15e0d7d98d2.jpeg"
+        },
+        {
+            "name": "girls",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:girls:txtOaT3WwQc%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoA3oECAEQHg",
+            "chips": "q:syrian+women,g_1:girls:txtOaT3WwQc%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Agirls%3AtxtOaT3WwQc%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/8832220042e17d2ab58c80d677bdd2e63d1a7d88f23cf40c87c156584f8ce8da.jpeg"
+        },
+        {
+            "name": "street",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:street:IEOq2zjpFto%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoBHoECAEQIA",
+            "chips": "q:syrian+women,g_1:street:IEOq2zjpFto%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Astreet%3AIEOq2zjpFto%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/8832220042e17d2ab58c80d677bdd2e6d759c3b166ce98b322f6c64fd799a8ff.jpeg"
+        },
+        {
+            "name": "damascus",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:damascus:4covPFIVnxg%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoBXoECAEQIg",
+            "chips": "q:syrian+women,g_1:damascus:4covPFIVnxg%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Adamascus%3A4covPFIVnxg%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/8832220042e17d2ab58c80d677bdd2e659336deecf4d894cae131b8d28fe2c15.jpeg"
+        },
+        {
+            "name": "kurdish",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:kurdish:LKhPOPFAVws%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoBnoECAEQJA",
+            "chips": "q:syrian+women,g_1:kurdish:LKhPOPFAVws%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Akurdish%3ALKhPOPFAVws%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/8832220042e17d2ab58c80d677bdd2e6730b88eeb8a719aa2e8f3de52dab6ca7.jpeg"
+        },
+        {
+            "name": "pregnant",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:pregnant:Xt1SMseiaCM%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoB3oECAEQJg",
+            "chips": "q:syrian+women,g_1:pregnant:Xt1SMseiaCM%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Apregnant%3AXt1SMseiaCM%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/8832220042e17d2ab58c80d677bdd2e6f2965d076df61571386589fe01051d80.jpeg"
+        },
+        {
+            "name": "third most beautiful",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:third+most+beautiful:HSlWgV4LUQs%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoCHoECAEQKA",
+            "chips": "q:syrian+women,g_1:third+most+beautiful:HSlWgV4LUQs%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Athird%2Bmost%2Bbeautiful%3AHSlWgV4LUQs%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/8832220042e17d2ab58c80d677bdd2e6f82077101a8349757acc4afb946d179d.jpeg"
+        },
+        {
+            "name": "happy",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:happy:_oNZ3XgFPu4%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoCXoECAEQKg",
+            "chips": "q:syrian+women,g_1:happy:_oNZ3XgFPu4%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Ahappy%3A_oNZ3XgFPu4%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/8832220042e17d2ab58c80d677bdd2e6b2c6cbec3700f459a4a2478f79737a5e.jpeg"
+        },
+        {
+            "name": "fighter",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:fighter&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoCnoECAEQLA",
+            "chips": "q:syrian+women,g_1:fighter",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Afighter&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch"
+        },
+        {
+            "name": "flag",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:flag:Tdz9el-YkIc%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoC3oECAEQLQ",
+            "chips": "q:syrian+women,g_1:flag:Tdz9el-YkIc%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Aflag%3ATdz9el-YkIc%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/8832220042e17d2ab58c80d677bdd2e64a9479c50303dc166d00fdec02a1de0a.jpeg"
+        },
+        {
+            "name": "children",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:children&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoDHoECAEQLw",
+            "chips": "q:syrian+women,g_1:children",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Achildren&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch"
+        },
+        {
+            "name": "green",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:green:Ou_sFUA4zxw%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoDXoECAEQMA",
+            "chips": "q:syrian+women,g_1:green:Ou_sFUA4zxw%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Agreen%3AOu_sFUA4zxw%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZpa7sRQCk8UHQJbu9g3xJOzmRGgK1IbppVJ7LJ2rJftMjBMMK&usqp=CAU"
+        },
+        {
+            "name": "full",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:full&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoDnoECAEQMg",
+            "chips": "q:syrian+women,g_1:full",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Afull&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch"
+        },
+        {
+            "name": "bride",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:bride&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoD3oECAEQMw",
+            "chips": "q:syrian+women,g_1:bride",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Abride&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch"
+        },
+        {
+            "name": "catholic",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:catholic:NVS0gumycuE%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoEHoECAEQNA",
+            "chips": "q:syrian+women,g_1:catholic:NVS0gumycuE%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Acatholic%3ANVS0gumycuE%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdlQIAMjKoo-_tdb4k_l6dAbRhnIFzujgX3b-tOit3vtX-Nlmq&usqp=CAU"
+        },
+        {
+            "name": "circassian",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:circassian&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoEXoECAEQNg",
+            "chips": "q:syrian+women,g_1:circassian",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Acircassian&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch"
+        },
+        {
+            "name": "strong",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:strong:MdwJGP3ncpQ%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoEnoECAEQNw",
+            "chips": "q:syrian+women,g_1:strong:MdwJGP3ncpQ%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Astrong%3AMdwJGP3ncpQ%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjouZ-UYK-qpmsh0QYkGsMxiT7aNC2eAalE5btS_yt171eGiPx&usqp=CAU"
+        },
+        {
+            "name": "orthodox",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:orthodox:6JoeIRAyMuc%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoE3oECAEQOQ",
+            "chips": "q:syrian+women,g_1:orthodox:6JoeIRAyMuc%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Aorthodox%3A6JoeIRAyMuc%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFUwhBc9_eRlZ6hLMTuQah5_dT7AZNJjUq_7Tk7SOsTaIA37B&usqp=CAU"
+        },
+        {
+            "name": "peace",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:peace&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoFHoECAEQOw",
+            "chips": "q:syrian+women,g_1:peace",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Apeace&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch"
+        },
+        {
+            "name": "natural",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:natural:9-UdMHks5Pc%3D&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoFXoECAEQPA",
+            "chips": "q:syrian+women,g_1:natural:9-UdMHks5Pc%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Anatural%3A9-UdMHks5Pc%253D&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb52aqkGE7JGNy4cEd6A6uiqKBilMojwtOJ1rpAulYMGmHfZbV&usqp=CAU"
+        },
+        {
+            "name": "local",
+            "link": "https://www.google.com/search?q=syrian+women&tbm=isch&chips=q:syrian+women,g_1:local&hl=en-US&sa=X&ved=2ahUKEwjnxYa-2JPvAhUQF6wKHbduBdEQ4lYoFnoECAEQPg",
+            "chips": "q:syrian+women,g_1:local",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asyrian%2Bwomen%2Cg_1%3Alocal&device=desktop&engine=google&google_domain=google.com&q=syrian+women&tbm=isch"
+        }
+    ],
+    "images_results": [
+        {
+            "position": 1,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b208150c2d011883ecd75a5f03175ccfdfb16da3c0d1a92d4150.jpeg",
+            "source": "reliefweb.int",
+            "title": "Empowered Syrian women are paying it forward - Syrian Arab Republic |  ReliefWeb",
+            "link": "https://reliefweb.int/report/syrian-arab-republic/empowered-syrian-women-are-paying-it-forward",
+            "original": "https://reliefweb.int/sites/reliefweb.int/files/styles/report-large/public/report-images/syria_MG_0087.jpg?itok=QWB2Dqk0"
+        },
+        {
+            "position": 2,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b20879bf1a983cb4a2362da96e8812416b71dc8b78bcc478fc1b.jpeg",
+            "source": "theconversation.com",
+            "title": "Why so many Syrian women get divorced when they move to western countries",
+            "link": "https://theconversation.com/why-so-many-syrian-women-get-divorced-when-they-move-to-western-countries-151501",
+            "original": "https://images.theconversation.com/files/373335/original/file-20201207-23-1kj007d.jpg?ixlib=rb-1.1.0&rect=15%2C0%2C5097%2C3407&q=45&auto=format&w=496&fit=clip"
+        },
+        {
+            "position": 3,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b2085427eb541434df18637e930fab44dc4ffe75cd4600fdd278.jpeg",
+            "source": "deeply.thenewhumanitarian.org",
+            "title": "Why Syrian Women Could Be the Key to Successful Peace \u2014 Peacebuilding Deeply",
+            "link": "https://deeply.thenewhumanitarian.org/peacebuilding/articles/2018/06/19/why-syrian-women-could-be-the-key-to-successful-peace-talks",
+            "original": "https://deeply-assets.thenewhumanitarian.org/20180619115030/953318451.jpg?w=640&fit=max&q=60"
+        },
+        {
+            "position": 4,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b208dbc7227886283f8a7e0d45cbbb400ec5e8ad681f926e154d.jpeg",
+            "source": "abcnews.go.com",
+            "title": "Meet the 'brave' Syrian women who came to the US to change their country's  fate - ABC News",
+            "link": "https://abcnews.go.com/US/brave-syrian-women-answer-call-make-voices-heard/story?id=46774502",
+            "original": "https://s.abcnews.com/images/US/ABC-syrian-women-02-jef-170426_16x9t_992.jpg"
+        },
+        {
+            "position": 5,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b208e7789a54148afca5a3d9ae346b220800e4c67b3e51b60321.jpeg",
+            "source": "jusoorsyria.com",
+            "title": "Celebrating Syrian Women on International Women's Day ~ Jusoor",
+            "link": "https://jusoorsyria.com/celebrating-syrian-women-on-international-womens-day/",
+            "original": "https://jusoorsyria.com/wp/wp-content/uploads/2020/02/Aphrodite-Al-Zouhouri-1.jpg"
+        },
+        {
+            "position": 6,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b2083e9db952cf448413e654f6dc35f224635fce0c74db6696f9.jpeg",
+            "source": "pinterest.com",
+            "title": "Syrian women | Beauty photos, Beautiful women pictures, Greece women",
+            "link": "https://www.pinterest.com/pin/268245721534733336/",
+            "original": "https://i.pinimg.com/originals/10/57/42/10574288bfafe5f09afdc8d25ec2abbf.jpg"
+        },
+        {
+            "position": 7,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b20898be3b10239bedd7811a45474904ea843c37928045214f04.jpeg",
+            "source": "crs.org",
+            "title": "Empowering Syrian Women Refugees | CRS",
+            "link": "https://www.crs.org/stories/empowering-syrian-women-refugees",
+            "original": "https://www.crs.org/sites/default/files/crs-files/syrian_refugee_in_egypt_egy201948454.jpg"
+        },
+        {
+            "position": 8,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b208dfab1900353d01277f31d0e5a75e7897258cbc9b0622a26e.jpeg",
+            "source": "refugeesinternational.org",
+            "title": "Debunking Myths of Syrian Women's Absence from Jordan's Labor Market \u2014  Refugees International",
+            "link": "https://www.refugeesinternational.org/reports/2018/7/20/debunking-myths-of-syrian-womens-absence-from-jordans-labor-market",
+            "original": "https://images.squarespace-cdn.com/content/v1/506c8ea1e4b01d9450dd53f5/1532112251654-S5YHSUZT1MA5KEFEITGS/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/20180624_145455.jpg?format=1500w"
+        },
+        {
+            "position": 9,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b2082aeb86ab501ea783c13e4caae7e220d171ea548b14b599e3.jpeg",
+            "source": "ippf.org",
+            "title": "Stop Sexual Assaults and Violence Against Syrian Women and Girls | IPPF",
+            "link": "https://www.ippf.org/blogs/stop-sexual-assaults-and-violence-against-syrian-women-and-girls",
+            "original": "https://www.ippf.org/sites/default/files/styles/featured_image_crop_sm/public/2016-07/0125_Syria_2007_ChloeHall.jpg?itok=GMglo0Kd"
+        },
+        {
+            "position": 10,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b208063b996bc5c2c51692d8bbf975b4c59bf6eec0dbe1338e71.jpeg",
+            "source": "icanpeacework.org",
+            "title": "Peace Heroes: Najlaa El Sheikh Helps Syrian Women Refugees Become Business  Owners - ICAN",
+            "link": "https://icanpeacework.org/2019/06/03/peace-heroes-syrian-najlaa-el-sheikh-helping-women-refugees-become-business-owners/",
+            "original": "https://icanpeacework.org/wp-content/uploads/2019/05/Najlaa-El-Sheikh-Profile.jpg"
+        },
+        {
+            "position": 11,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b20879bf1a983cb4a2364e3066624f70cb478a47b6754d80631b.jpeg",
+            "source": "inclusivesecurity.org",
+            "title": "10 Ways Syrian Women Are Building Peace and Democracy",
+            "link": "https://www.inclusivesecurity.org/2014/02/21/10-ways-syrian-women-building-peace-democracy/",
+            "original": "https://www.inclusivesecurity.org/wp-content/uploads/2014/02/6959300001_dff5fba6a0_o1-e1392992626190.jpg"
+        },
+        {
+            "position": 12,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b20879bf1a983cb4a23639dfdfe4d40c2859316f0df0713c7e76.jpeg",
+            "source": "pri.org",
+            "title": "Syria's women fight for peace",
+            "link": "https://www.pri.org/stories/2015-06-26/10-ways-syrian-women-risk-it-all-peace",
+            "original": "https://media.pri.org/s3fs-public/styles/story_main/public/6%20-%20Survival.jpg?itok=-RWX8VlP"
+        },
+        {
+            "position": 13,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b20879bf1a983cb4a23600e04c9c86c29c7fe1d1bea628e5fc4d.jpeg",
+            "source": "borgenmagazine.com",
+            "title": "Helping Turkish and Syrian Women Amid COVID-19 - BORGEN",
+            "link": "https://www.borgenmagazine.com/turkish-and-syrian-women/",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%27All_I_want_to_do_is_to_go_back_to_Syria%22_%2811173851805%29.jpg/2048px-%27All_I_want_to_do_is_to_go_back_to_Syria%22_%2811173851805%29.jpg"
+        },
+        {
+            "position": 14,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b20879bf1a983cb4a2360aa08e18c35cf36266ac51d0602b82b4.jpeg",
+            "source": "jusoorsyria.com",
+            "title": "Celebrating Syrian Women on International Women's Day ~ Jusoor",
+            "link": "https://jusoorsyria.com/celebrating-syrian-women-on-international-womens-day/",
+            "original": "https://jusoorsyria.com/wp/wp-content/uploads/2020/02/Bushra-Aljbawi-Formal-Photo-2-1.png"
+        },
+        {
+            "position": 15,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b20879bf1a983cb4a23642a708236ddb481a6ca84cdedb7cf2a0.jpeg",
+            "source": "nytimes.com",
+            "title": "Sisters in Arms Join the Fighting in Syria - The New York Times",
+            "link": "https://www.nytimes.com/2013/04/11/world/middleeast/sisters-in-arms-join-the-fighting-in-syria.html",
+            "original": "https://static01.nyt.com/images/2013/02/12/blogs/20130212POD-slide-2OXN/20130212POD-slide-2OXN-jumbo-v2.jpg"
+        },
+        {
+            "position": 16,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b20879bf1a983cb4a236fb1f882062127a47e762b8df83af7f86.jpeg",
+            "source": "aa.com.tr",
+            "title": "19,000 Syrian women killed by Assad regime since 2011: NGO",
+            "link": "https://www.aa.com.tr/en/middle-east/19-000-syrian-women-killed-by-assad-regime-since-2011-ngo/481545",
+            "original": "https://cdnuploads.aa.com.tr/uploads/Contents/2015/11/26/thumbs_b_c_d4b9eb61d1a195f09ce5db99784d3e79.jpg"
+        },
+        {
+            "position": 17,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b20879bf1a983cb4a236d3c42b24bff07be167e4a27fdd5b67cc.jpeg",
+            "source": "cheryltiu.com",
+            "title": "MIAMI: Mother's Day Brunch With Syrian Women Refugees (May 12)",
+            "link": "http://www.cheryltiu.com/miami-mothers-day-brunch-with-syrian-women-refugees-may-12/",
+            "original": "http://www.cheryltiu.com/wp-content/uploads/2019/05/Zaytouna-Food-Miami.jpg"
+        },
+        {
+            "position": 18,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b20879bf1a983cb4a2364da980c8608a3e3625fb4843917be5bd.jpeg",
+            "source": "youtube.com",
+            "title": "WFP Salutes Syrian Women - YouTube",
+            "link": "https://www.youtube.com/watch?v=_PMgixPuyWI",
+            "original": "https://i.ytimg.com/vi/_PMgixPuyWI/maxresdefault.jpg"
+        },
+        {
+            "position": 19,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b20879bf1a983cb4a236821282d9e2908a59b5a0b575f1eca660.jpeg",
+            "source": "careinternational.org.uk",
+            "title": "Syrian women refugees: Ready to lead the way | CARE",
+            "link": "https://www.careinternational.org.uk/stories/syrian-women-refugees-ready-lead-way",
+            "original": "https://www.careinternational.org.uk/sites/default/files/Jordan_Syrian-Women-Leadership-Council-Yasmin_2018_860px.jpg"
+        },
+        {
+            "position": 20,
+            "thumbnail": "https://serpapi.com/searches/603f46e577573d5268b36e34/images/0127dacfedc8b20879bf1a983cb4a236eea4c793fcc11532e5102f95e3d36c21.jpeg",
+            "source": "icmp.int",
+            "title": "ICMP Syrian Women Must Have Leadership Roles in the Missing Persons Process",
+            "link": "https://www.icmp.int/press-releases/syrian-women-must-have-leadership-roles-in-the-missing-persons-process/",
+            "original": "https://www.icmp.int/wp-content/uploads/2020/12/2K3A9471-1000x500.jpg"
+        },
+        {
+            "position": 21,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi1ypzhXNuVbv-_YkBQBncfmWp-JrKPZ5zPQ&usqp=CAU",
+            "source": "welthungerhilfe.org",
+            "title": "United in Diversity - Syrian Refugees in Turkey - Welthungerhilfe",
+            "link": "https://www.welthungerhilfe.org/news/latest-articles/united-in-diversity-syrian-refugees-in-turkey/",
+            "original": "https://www.welthungerhilfe.org/fileadmin/_processed_/9/b/csm_2016-women-refugees-integratio-syria-turkey-c-hanna-noori_5049abf6cf.jpg"
+        },
+        {
+            "position": 22,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVlJicESepB6xfAXDn68Mws_Btdo1IOmNDw&usqp=CAU",
+            "source": "telegraph.co.uk",
+            "title": "Meet the women with guns who fought Isil in Syria - and are now battling  its patriarchy",
+            "link": "https://www.telegraph.co.uk/women/life/meet-women-guns-fought-isil-syria-now-battling-patriarchy/",
+            "original": "https://www.telegraph.co.uk/content/dam/women/2019/09/10/P6133431_trans_NvBQzQNjv4BqZPVFFbCSzHWTPEdf5MFbGrmGWWpIYa8XMAaoKOBoYS8.JPG"
+        },
+        {
+            "position": 23,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV9BcBWpFkRfLtF8gpB06QlQ3X5t8GheQIWw&usqp=CAU",
+            "source": "borgenproject.org",
+            "title": "Women in Syria - The Borgen Project",
+            "link": "https://borgenproject.org/women-syria/",
+            "original": "https://borgenproject.org/wp-content/uploads/womin-in-syria.jpg"
+        },
+        {
+            "position": 24,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgB1ZFGUS-9RNvGSZeWNZs6bm1NpGNTQCgxw&usqp=CAU",
+            "source": "independent.co.uk",
+            "title": "Syrian women still gravely suffering nine years on: 'Husbands refrain from  having a sexual life with them. They just leave them' | The Independent |  The Independent",
+            "link": "https://www.independent.co.uk/news/world/middle-east/syria-crisis-women-sexual-violence-conflict-war-a9401646.html",
+            "original": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/03/17/18/syria-war.jpg?width=1200"
+        },
+        {
+            "position": 25,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKjFjvMLfSd1ZumaqYYELNKcnYy4sLslBvSw&usqp=CAU",
+            "source": "caritas.org",
+            "title": "Syrian refugee women in Lebanon win international prize - Caritas",
+            "link": "https://www.caritas.org/2015/03/basmehzeitooneh/",
+            "original": "https://www.caritas.org/wordpress/wp-content/uploads/2015/03/Reem_Alhaswani.jpg"
+        },
+        {
+            "position": 26,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmfaTFNi-uorLUa4Fyc-Ozcd80P_by_o7ZQg&usqp=CAU",
+            "source": "inclusivesecurity.org",
+            "title": "Syrian Women Demand End to Siege of Zabadani",
+            "link": "https://www.inclusivesecurity.org/2015/08/24/syrian-women-demand-end-to-siege-of-zabadani/",
+            "original": "https://www.inclusivesecurity.org/wp-content/uploads/2015/08/Syrian-women-protest.jpg"
+        },
+        {
+            "position": 27,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkKsh0CIW0NJaUto6UcVHeleVbrLiX22cVg&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "The Syrian women fighting to save their city | Syria | The Guardian",
+            "link": "https://www.theguardian.com/world/2015/nov/15/syrian-women-fighting-to-save-aleppo",
+            "original": "https://i.guim.co.uk/img/media/bc08370fab6de17cf415b56c6c53259f4d84f36e/0_0_4750_2851/master/4750.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=8c26cdc4652265d7bcf3c663d0951263"
+        },
+        {
+            "position": 28,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxD40zfSxUVMJGCGtIW6PZIRkYOyCPGGIjQ&usqp=CAU",
+            "source": "usnews.com",
+            "title": "Refugee Women and Children Suffer as Syrian Civil War Enters Fifth Year |  US News",
+            "link": "https://www.usnews.com/news/articles/2015/03/15/refugee-women-and-children-suffer-as-syrian-civil-war-enters-fifth-year",
+            "original": "https://www.usnews.com/dims4/USNEWS/00981f4/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fcd%2F44%2Fd8ae6f444c759c80dbd11cbfa814%2F150313-syria-editorial.jpg"
+        },
+        {
+            "position": 29,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6PPpl9AukSr_kfoBOCej50TG218CxGPmlw&usqp=CAU",
+            "source": "views-voices.oxfam.org.uk",
+            "title": "No hope of earning an income for Syrian women in Jordan | Oxfam Views &  Voices",
+            "link": "https://views-voices.oxfam.org.uk/2018/04/income-for-syrian-women-in-jordan/",
+            "original": "https://views-voices.oxfam.org.uk/wp-content/uploads/2018/04/Ghozlan.jpg"
+        },
+        {
+            "position": 30,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuzUkisG9dxkNLugBcPbocPk9Advjp_YLELA&usqp=CAU",
+            "source": "news.un.org",
+            "title": "Health services for Syrian women caught up in war, foster safety and hope:  UNFPA | | UN News",
+            "link": "https://news.un.org/en/story/2020/01/1055921",
+            "original": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/23-01-2020-UNFPA-Syria-01.jpg/image1170x530cropped.jpg"
+        },
+        {
+            "position": 31,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJy6a-teBTLYtcghnPGwOSivXggUOEevIuw&usqp=CAU",
+            "source": "france24.com",
+            "title": "Jordan: Syrian women in distress - Reporters",
+            "link": "https://www.france24.com/en/20140425-reporters-syria-jordan-sexual-violence-against-women-refugees",
+            "original": "https://s.france24.com/media/display/c2759dce-09bc-11e9-ae22-005056a964fe/w:1280/p:1x1/RER%20JORANIE%20OKOK.jpg"
+        },
+        {
+            "position": 32,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_xfk1HoxwCAJ_KEsYjAB47-g8loVJiJpKA&usqp=CAU",
+            "source": "concernusa.org",
+            "title": "Syrian women look to the future | Concern Worldwide",
+            "link": "https://www.concernusa.org/story/syrian-women-look-to-the-future/",
+            "original": "https://www.concernusa.org/wp-content/uploads/2019/03/Lama-header-1280x800.jpg"
+        },
+        {
+            "position": 33,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy5TpaSL_9Yd1MXFe1rQBbN4V-P5B8gPVDLA&usqp=CAU",
+            "source": "syriahr.com",
+            "title": "The Syrian women and children waiting in the shadows of Lebanon's refugee  camps \u2022 The Syrian Observatory For Human Rights",
+            "link": "https://www.syriahr.com/en/96072/",
+            "original": "https://www.syriahr.com/en/wp-content/uploads/2018/06/muslim-aid-lebanon-paddy-dowling-11.jpg"
+        },
+        {
+            "position": 34,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Mi9qsOAbyhBQB6y9r-wo1ydKFb9NJVb8Iw&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "A Portrait of Syrian Women | Free Travel Talk | People with blue eyes,  Portrait, Women",
+            "link": "https://www.pinterest.com/pin/521502831824179603/",
+            "original": "https://i.pinimg.com/originals/cb/52/6c/cb526ce1689db4ac316048fd218b6f29.jpg"
+        },
+        {
+            "position": 35,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo2rvqtMKT5wVD2Kem8WHghy-eiiNXFHDEkQ&usqp=CAU",
+            "source": "quora.com",
+            "title": "Syria: Why are Syrian women stereotyped as beautiful? - Quora",
+            "link": "https://www.quora.com/Syria-Why-are-Syrian-women-stereotyped-as-beautiful",
+            "original": "https://qph.fs.quoracdn.net/main-qimg-2f79874100829c87c4ab7b8ba8c4614d.webp"
+        },
+        {
+            "position": 36,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGw0z5zerlrBXVHVePXwzuqTVLlarzBopRfQ&usqp=CAU",
+            "source": "ec.europa.eu",
+            "title": "Syrian women, agents for change | Service for Foreign Policy Instruments  (FPI)",
+            "link": "https://ec.europa.eu/fpi/showcases/syrian-women-agents-change_en",
+            "original": "https://ec.europa.eu/fpi/sites/fpi/files/styles/fpi_main_image/public/syrianwomen.jpg?itok=iqWv9yLT"
+        },
+        {
+            "position": 37,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpnEPEEHCo2a_ZIW81OcuCB9UMwp_inX1qg&usqp=CAU",
+            "source": "arabnews.com",
+            "title": "Syrian women seek virtual marriages amid uncertain futures | Arab News",
+            "link": "https://www.arabnews.com/node/1220346/middle-east",
+            "original": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2018/01/06/1067981-1081370383.jpg?itok=qxJKMPv0"
+        },
+        {
+            "position": 38,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtgaUQvqD4ooVlj8wrxiC7NmpXNN52Hme3g&usqp=CAU",
+            "source": "aa.com.tr",
+            "title": "Education center in Syria 'a source of hope' for women",
+            "link": "https://www.aa.com.tr/en/life/education-center-in-syria-a-source-of-hope-for-women/1412649",
+            "original": "https://cdnuploads.aa.com.tr/uploads/Contents/2019/03/08/thumbs_b_c_6fd4c95027bdcd1668a847cbe9468be7.jpg?v=125130"
+        },
+        {
+            "position": 39,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvt8_99wRcciRXTqDE_AbyhiHJGwGl0iSjew&usqp=CAU",
+            "source": "asiatimes.com",
+            "title": "Syrian women make hard choices to get by in Turkey - Asia Times",
+            "link": "https://asiatimes.com/2019/06/syrian-women-make-hard-choices-to-get-by-in-turkey/",
+            "original": "https://i1.wp.com/asiatimes.com/wp-content/uploads/2019/04/000_J803J-e1556614654521.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+            "position": 40,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYkx-lVmr1DdEzhdycP6ZINIeCfXi7qEu8aA&usqp=CAU",
+            "source": "alamy.com",
+            "title": "Syrian Women High Resolution Stock Photography and Images - Alamy",
+            "link": "https://www.alamy.com/stock-photo/syrian-women.html",
+            "original": "https://c8.alamy.com/comp/DDGH76/demo-against-intervention-in-syria-young-syrian-women-with-flags-painted-DDGH76.jpg"
+        },
+        {
+            "position": 41,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlqRdvRchQlTEUcaB8A95Fys-LACX4MhDpw&usqp=CAU",
+            "source": "theconversation.com",
+            "title": "Deportation to Syria could mean death for women, children and LGBTQ  refugees in Turkey",
+            "link": "https://theconversation.com/deportation-to-syria-could-mean-death-for-women-children-and-lgbtq-refugees-in-turkey-125195",
+            "original": "https://images.theconversation.com/files/297977/original/file-20191021-56203-159jer0.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C3960%2C2855&q=45&auto=format&w=496&fit=clip"
+        },
+        {
+            "position": 42,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgg4G8BSdimwWSppzDjXjE09bzn9_iznNi1Q&usqp=CAU",
+            "source": "pbs.org",
+            "title": "Across borders, Syrian women gain strength from each other | PBS NewsHour",
+            "link": "https://www.pbs.org/newshour/world/across-borders-syrian-women-gain-strength",
+            "original": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2016/08/maria-1024x710.jpg"
+        },
+        {
+            "position": 43,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl-koMtnFCbGlEUxxP2bYz6IK_-Td8Wp_L6Q&usqp=CAU",
+            "source": "hurriyetdailynews.com",
+            "title": "Syrian women take up bread-winner role as war lingers on",
+            "link": "https://www.hurriyetdailynews.com/syrian-women-take-up-bread-winner-role-as-war-lingers-on-143855",
+            "original": "https://i.hurimg.com/i/hdn/75/0x0/5cf11ba00f25441fe87809bb.jpg"
+        },
+        {
+            "position": 44,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_9EBltNTjDNcBKy60pWGSQToJsLfKkPbiw&usqp=CAU",
+            "source": "al-fanarmedia.org",
+            "title": "A Syrian Women's Organization Illuminates Possibilities for Private Efforts  - Al-Fanar Media",
+            "link": "https://www.al-fanarmedia.org/2019/03/a-syrian-womens-organization-illuminates-possibilities-for-private-efforts/",
+            "original": "https://s3.amazonaws.com/media.al-fanarmedia.org/wp-content/uploads/2019/03/04132319/WhatsApp-Image-2019-03-04-at-4.25.33-PM.jpeg"
+        },
+        {
+            "position": 45,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtZ5OlS2ExK6jCy-3m_o2I_XJTc23IsHDODw&usqp=CAU",
+            "source": "thestar.com",
+            "title": "Scholarships aim to help Syrian women displaced by war | The Star",
+            "link": "https://www.thestar.com/news/immigration/2016/06/17/scholarships-aim-to-help-syrian-women-displaced-by-war.html",
+            "original": "https://images.thestar.com/lTkw59XrCPpzku3PRVvcS4A337A=/0x273:942x900/1280x1024/smart/filters:cb(1570968047764)/https://www.thestar.com/content/dam/thestar/news/immigration/2016/06/17/scholarships-aim-to-help-syrian-women-displaced-by-war/roua-alkadi.jpg"
+        },
+        {
+            "position": 46,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDlmc8e1vP2HBwe8DaFiRVPe9CbMObLpBKg&usqp=CAU",
+            "source": "syrianobserver.com",
+            "title": "Three Syrian Women on BBC 100 Women 2020 List - The Syrian Observer",
+            "link": "https://syrianobserver.com/features/62132/three-syrian-women-on-bbc-100-women-2020-list.html",
+            "original": "https://syrianobserver.com/wp-content/uploads/2020/11/3-women.jpg"
+        },
+        {
+            "position": 47,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0W1AUeCixITMEnJoCmVyV7fDVKqn_Xujolg&usqp=CAU",
+            "source": "sbs.com.au",
+            "title": "SBS Language | Australia through the eyes of two Syrian women: A homeland  or a disappointment?",
+            "link": "https://www.sbs.com.au/language/english/audio/australia-through-the-eyes-of-two-syrian-women-a-homeland-or-a-disappointment",
+            "original": "https://sl.sbs.com.au/public/image/file/88bbf268-25b5-4b69-9338-8e422cb7835c/crop/16x9"
+        },
+        {
+            "position": 48,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7RcD3749H4lIdZQBI9QS0tmEOe_nrxL9EQ&usqp=CAU",
+            "source": "aljazeera.com",
+            "title": "Syrian women and children struggle in Lebanon | Syria News | Al Jazeera",
+            "link": "https://www.aljazeera.com/gallery/2015/1/16/syrian-women-and-children-struggle-in-lebanon",
+            "original": "https://www.aljazeera.com/wp-content/uploads/2015/01/201511474321948872_8.jpeg?resize=1000%2C630"
+        },
+        {
+            "position": 49,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr4nWlYGFyK__kMtOTqzGur3HJncw55-sf3A&usqp=CAU",
+            "source": "icrc.org",
+            "title": "Testimonies of Syrian women refugees | International Committee of the Red  Cross",
+            "link": "https://www.icrc.org/en/document/testimonies-syrian-women-refugees",
+            "original": "https://www.icrc.org/sites/default/files/styles/amp_thumbnail_image_16-9/public/document/image/syrian-women-home.jpg?itok=0iKqRt3A"
+        },
+        {
+            "position": 50,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMF2gSqI9b83tFqqtaB98f_FaV9_AzKHuDRw&usqp=CAU",
+            "source": "insidearabia.com",
+            "title": "Syria's Women Journalists Fight For Their Country",
+            "link": "https://insidearabia.com/syrian-women-journalists-fight-for-their-country/",
+            "original": "https://insidearabia.com/wp-content/uploads/2019/03/In-late-2011-Kholoud-Helmi-teamed-up-with-24-others-two-thirds-of-whom-were-women-to-start-a-newspaper-called-Enab-Baladi.-1198x640.jpg"
+        },
+        {
+            "position": 51,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_SBx-rksOFTYgi4ft8OvhoK0l91ASjI01_Q&usqp=CAU",
+            "source": "arabwomendating.org",
+            "title": "Syrian Mail Order Brides | arabwomendating.org [2021]",
+            "link": "https://arabwomendating.org/syrian-brides/",
+            "original": "https://arabwomendating.org/wp-content/uploads/2019/10/arab-bride-6-747x1024.jpg"
+        },
+        {
+            "position": 52,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVdh-t_go0zHrjiacdYpCy3WFGPMaD-lGCtQ&usqp=CAU",
+            "source": "cnn.com",
+            "title": "Syria's women: Fighting a war on two fronts - CNN",
+            "link": "https://www.cnn.com/2013/03/07/world/meast/syrian-revolution-women/index.html",
+            "original": "https://cdn.cnn.com/cnnnext/dam/assets/130307171452-woman-at-anti-syrian-regime-protest-live-video.jpg"
+        },
+        {
+            "position": 53,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7l2I3HcILgZzFYgLCrpT5_dmZgJoQW-3Hug&usqp=CAU",
+            "source": "wilsoncenter.org",
+            "title": "Syrian Women Dream and Get Organized | Wilson Center",
+            "link": "https://www.wilsoncenter.org/blog-post/syrian-women-dream-and-get-organized",
+            "original": "https://www.wilsoncenter.org/sites/default/files/styles/embed_text_block/public/media/images/blog_post/syria_shutterstock.jpg"
+        },
+        {
+            "position": 54,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGeGhkEC1TE_VKfRdeloutEkMQXGaao-r_wQ&usqp=CAU",
+            "source": "mei.edu",
+            "title": "The Role of Women in Syria's Future | Middle East Institute",
+            "link": "https://www.mei.edu/events/role-women-syrias-future",
+            "original": "https://www.mei.edu/sites/default/files/2019-11/unnamed_0.jpg"
+        },
+        {
+            "position": 55,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfmU85jQSpQrrwMKwvsVDTI-Buv1dxFtS6oQ&usqp=CAU",
+            "source": "eeca.unfpa.org",
+            "title": "UNFPA EECA | Syrian women share their experiences as refugees in Turkey",
+            "link": "https://eeca.unfpa.org/en/news/syrian-women-share-their-experiences-refugees-turkey",
+            "original": "https://eeca.unfpa.org/sites/default/files/styles/news_detail/public/news/slideshow-article.jpg?itok=poNLNmES"
+        },
+        {
+            "position": 56,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTczVUcZVVKFGM5DHlbdNBkFaE1LwgSDg83A&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Watch An Inspiring Short Film On The Resilient Women In Syrian Refugee  Camps | Women, Arab girls hijab, Refugee",
+            "link": "https://www.pinterest.com/pin/630081804086642691/",
+            "original": "https://i.pinimg.com/originals/44/23/df/4423df166fcafdbbba81fe96d1bf0513.jpg"
+        },
+        {
+            "position": 57,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tTGkm0fgU4rQtXQZbNhO-xiaK2XHhcPJQg&usqp=CAU",
+            "source": "syrianobserver.com",
+            "title": "Women Refugees Can't Escape Traditions of Domestic Violence - The Syrian  Observer",
+            "link": "https://syrianobserver.com/EN/features/22160/women_refugees_can_escape_traditions_domestic_violence.html",
+            "original": "https://syrianobserver.com/wp-content/uploads/2018/08/IMG-CRX-14538.jpg"
+        },
+        {
+            "position": 58,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToOpgzO4J_5DcecuRjmRGrrdugTdSwZ5LJQw&usqp=CAU",
+            "source": "fes-connect.org",
+            "title": "Living in a big prison",
+            "link": "https://www.fes-connect.org/people/living-in-a-big-prison/",
+            "original": "https://www.fes-connect.org/fileadmin/user_upload/images/news/people/FMI_beitrag-syrerinnen-in-berlin_NISRIN-HABIB.jpg"
+        },
+        {
+            "position": 59,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Mvsmr7Mf1x14rh1ZnVD2pwGaZAvCQgNEUw&usqp=CAU",
+            "source": "care.org",
+            "title": "How One Syrian Refugee is Empowering Women in Her Community - CARE",
+            "link": "https://www.care.org/news-and-stories/culture/how-one-syrian-refugee-is-empowering-women-in-her-community/",
+            "original": "https://www.care.org/wp-content/uploads/2020/05/RS64555_Noora-lpr-1.jpg"
+        },
+        {
+            "position": 60,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVlJmffGzo8j60ndK4IuB9TbB5wTTPSq-YPA&usqp=CAU",
+            "source": "independent.co.ug",
+            "title": "For single Syrian women, search for soulmate comes up empty",
+            "link": "https://www.independent.co.ug/single-syrian-women-search-soulmate-comes-empty/",
+            "original": "https://www.independent.co.ug/wp-content/uploads/2018/02/Syrian-Women.jpg"
+        },
+        {
+            "position": 61,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPKn1ReaNILATUsZ4kQj7Fdr5SyfhZHIvrTA&usqp=CAU",
+            "source": "nytimes.com",
+            "title": "These Syrian Women Rarely Left the House. Then the Men Disappeared. - The  New York Times",
+            "link": "https://www.nytimes.com/2020/01/19/world/middleeast/syria-war-women.html",
+            "original": "https://static01.nyt.com/images/2020/01/19/world/19syria-women-p1/merlin_166181754_fd689ea3-9c7a-411d-9370-33d12cea1234-superJumbo.jpg"
+        },
+        {
+            "position": 62,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOGAIWcWJKKLfM__kEZhEezLA9VL28kCmRg&usqp=CAU",
+            "source": "usatoday.com",
+            "title": "U.N. official: Syrian women seek abortions and suffer rapes because of war.",
+            "link": "https://www.usatoday.com/story/news/world/2016/02/04/un-official-syrian-women-and-girls-suffering-most/79815256/",
+            "original": "https://www.gannett-cdn.com/-mm-/97c57e3656e1b4c8ad74a75a3ed7f108c2c3ab02/c=0-115-4094-2428/local/-/media/2016/02/04/USATODAY/USATODAY/635901823736894767-EPA-LEBANON-SYRIA-REFUGEES-CRISIS-79354722.JPG"
+        },
+        {
+            "position": 63,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaGfISOHWVsqGnOQtNaDkbGIWK7dUw8hCWwQ&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Syrian women makeup | Cute woman, Woman face, Womens makeup",
+            "link": "https://www.pinterest.com/pin/511369732675344237/",
+            "original": "https://i.pinimg.com/originals/96/81/4e/96814ec5397974ebb65d12a217ab128a.jpg"
+        },
+        {
+            "position": 64,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_YMXuyUrHChrkCGb1kLLkqheA-j3P_BCbtQ&usqp=CAU",
+            "source": "blogs.worldbank.org",
+            "title": "The multiple tragedies of Syria's displaced women, and why the G20 needs to  pay attention",
+            "link": "https://blogs.worldbank.org/arabvoices/multiple-tragedies-syria-s-displaced-women",
+            "original": "https://blogs.worldbank.org/sites/default/files/arabvoices/blog_syrian_women.jpg"
+        },
+        {
+            "position": 65,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2cfx0oEOUHFWZ0wgfo14BQceu_O3gKLXSQ&usqp=CAU",
+            "source": "abcnews.go.com",
+            "title": "Meet the 'brave' Syrian women who came to the US to change their country's  fate - ABC News",
+            "link": "https://abcnews.go.com/US/brave-syrian-women-answer-call-make-voices-heard/story?id=46774502",
+            "original": "https://s.abcnews.com/images/US/ABC-syrian-women-01-jef-170426_16x9_608.jpg"
+        },
+        {
+            "position": 66,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55Ri9CE1QWPd48at-UHwyxf6oxl2efWHHnA&usqp=CAU",
+            "source": "un.org",
+            "title": "A pilot for empowering Syrian women refugees | United Nations Democracy Fund",
+            "link": "https://www.un.org/democracyfund/news/pilot-empowering-syrian-women-refugees",
+            "original": "https://www.un.org/democracyfund/sites/www.un.org.democracyfund/files/styles/panopoly_image_full/public/general/tur.jpg?itok=MDP8kVhc"
+        },
+        {
+            "position": 67,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFRjsirUIhXftgCxH9OHo43C-VKzbafp314Q&usqp=CAU",
+            "source": "fao.org",
+            "title": "Syrian women food producers learn new skills from Italian farmers : FAO in  Emergencies",
+            "link": "http://www.fao.org/emergencies/fao-in-action/stories/stories-detail/en/c/1206210/",
+            "original": "http://www.fao.org/fileadmin/user_upload/emergencies/img/PO_SYR_201907__47A3286.jpg"
+        },
+        {
+            "position": 68,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrdQkB-xoxwn0KwxV-nLT9LzY9Zy32EtOow&usqp=CAU",
+            "source": "rand.org",
+            "title": "The Health Needs of Syrian Women in and Around the Za'atari Refugee Camp |  RAND",
+            "link": "https://www.rand.org/blog/2014/10/the-health-needs-of-syrian-women-in-and-around-the.html",
+            "original": "https://wwwassets.rand.org/content/rand/blog/2014/10/the-health-needs-of-syrian-women-in-and-around-the/jcr:content/par/blogpost.aspectcrop.868x455.cm.jpg/1516125368813.jpg"
+        },
+        {
+            "position": 69,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYH_MfXHFqOknJrAFiONpCP6AKjVKm_HqH0Q&usqp=CAU",
+            "source": "artisanandfox.com",
+            "title": "Syrian Scarfs \u2014 Artisan & Fox | Ethical Artisan Jewellery, Accessories,  Home & Lifestyle Goods",
+            "link": "https://www.artisanandfox.com/syria",
+            "original": "https://images.squarespace-cdn.com/content/v1/556c65dfe4b0923c3c72ad5b/1513015901338-1YRAK8YG7L1SR8L820M3/ke17ZwdGBToddI8pDm48kPqQfq0L3n3wpHIsRapTfg8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKczo5Zn4xktlpMsMj-QlHXeMfNK6GwvtVkYEWiR8XAPyD3GfLCe_DXOSC_YcAacWL_/threads+of+syria+stand+with+refugees"
+        },
+        {
+            "position": 70,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbZm_ZOIM73TJD2Jw_DgtxULKOBGHIBsV8A&usqp=CAU",
+            "source": "ebrd.com",
+            "title": "EBRD and EU help Syrian refugee women build their businesses",
+            "link": "https://www.ebrd.com/news/2019/ebrd-and-eu-help-syrian-refugee-women-build-their-businesses.html",
+            "original": "http://www.ebrd.com/image/1395287086359.jpg"
+        },
+        {
+            "position": 71,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_l7epJ3I_bVSndFC0faR0vnfdkhoo3wgMg&usqp=CAU",
+            "source": "pbs.org",
+            "title": "Meet the Syrian women educating refugee girls about early marriage | PBS  NewsHour",
+            "link": "https://www.pbs.org/newshour/world/meet-the-syrian-women-educating-refugee-girls-about-early-marriage",
+            "original": "https://d3i6fh83elv35t.cloudfront.net/static/2018/06/aydah_edit-1024x933.jpg"
+        },
+        {
+            "position": 72,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAb7BXd0_t0IRo5cA-dn0SyZ7WocvdpUfHhQ&usqp=CAU",
+            "source": "bestasianwomen.com",
+            "title": "Beautiful Syrian Women: Why They're So Popular Nowadays?",
+            "link": "https://bestasianwomen.com/syrian-women/",
+            "original": "https://bestasianwomen.com/wp-content/uploads/2020/05/syria.jpg"
+        },
+        {
+            "position": 73,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8IiJNoZhfRqGqnoVvIl779q5X0k3xZiaArg&usqp=CAU",
+            "source": "middleeastmonitor.com",
+            "title": "Syria regime militias execute old woman who refused to leave her home \u2013  Middle East Monitor",
+            "link": "https://www.middleeastmonitor.com/20190904-syria-regime-militias-execute-old-woman-who-refused-to-leave-her-home/",
+            "original": "https://i2.wp.com/www.middleeastmonitor.com/wp-content/uploads/2019/09/Maryam-Al-Shalat.jpg?resize=1200%2C800&quality=85&strip=all&zoom=1&ssl=1"
+        },
+        {
+            "position": 74,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjhOJ-9hMLGRYRCHIf0Prb8IX_3itvBkUWw&usqp=CAU",
+            "source": "youtube.com",
+            "title": "Testimonies of Syrian women refugees - YouTube",
+            "link": "https://www.youtube.com/watch?v=Rumn-zk13tY",
+            "original": "https://i.ytimg.com/vi/Rumn-zk13tY/maxresdefault.jpg"
+        },
+        {
+            "position": 75,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJAyl3NtKAdPzGnPpttPLzNrAfnqAkH0zjg&usqp=CAU",
+            "source": "passblue.com",
+            "title": "Fleeing Violence, Syrian Women Try to Cope in Turkey and Lebanon - PassBlue",
+            "link": "https://www.passblue.com/2016/04/06/fleeing-violence-to-violence-syrian-women-cope-in-turkey-and-lebanon/",
+            "original": "https://www.passblue.com/wp-content/uploads/2016/04/Syrian-women-1200x720.jpg"
+        },
+        {
+            "position": 76,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-p1k02CEZErwyb0xVCBmYM_z-xRrkcOjtOw&usqp=CAU",
+            "source": "pbs.org",
+            "title": "Meet the Syrian women educating refugee girls about early marriage | PBS  NewsHour",
+            "link": "https://www.pbs.org/newshour/world/meet-the-syrian-women-educating-refugee-girls-about-early-marriage",
+            "original": "https://d3i6fh83elv35t.cloudfront.net/static/2018/06/hala-fatima-1024x683.jpg"
+        },
+        {
+            "position": 77,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz00a6rK50fwgSOuVYo4CWxYF3OUnXpoB-sQ&usqp=CAU",
+            "source": "mei.edu",
+            "title": "Empowered Syrian Women Breaking Taboos | Middle East Institute",
+            "link": "https://www.mei.edu/publications/empowered-syrian-women-breaking-taboos",
+            "original": "https://www.mei.edu/sites/default/files/styles/featured_image_article/public/syria%2520woman%2520red%2520cres.jpg?itok=swXUbO-h"
+        },
+        {
+            "position": 78,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREeH11bKhvOl8RyuZpBEhDlAwPO9WQZ5OZIA&usqp=CAU",
+            "source": "insights.careinternational.org.uk",
+            "title": "Women, work &amp; war: Syrian women and the struggle to survive five years  of conflict | Policy and research from CARE Insights",
+            "link": "https://insights.careinternational.org.uk/publications/women-work-war-syrian-women-and-the-struggle-to-survive-five-years-of-conflict",
+            "original": "https://insights.careinternational.org.uk/media/k2/items/cache/181bbfa794e218f5cd90439ff3dd1578_L.jpg"
+        },
+        {
+            "position": 79,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbM0RsJfKWqaahNX7C5j4eHBXq79sQ0gjNZg&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "We want to change things': Syrian women begin UK theatre tour | Theatre |  The Guardian",
+            "link": "https://www.theguardian.com/stage/2016/jul/05/syrian-women-uk-theatre-tour-queens-of-syria-refugees",
+            "original": "https://i.guim.co.uk/img/media/31c566c47f317595c0b1abcf3c07924d37f1f80b/0_0_4799_2878/4799.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&s=a3580332263fe019e8632803aeb756d3"
+        },
+        {
+            "position": 80,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsy1RfoyjJ6ILwTeiWgvjMsworvCdBAwVxCg&usqp=CAU",
+            "source": "flickr.com",
+            "title": "Young and old, Syrian women adjust to new conditions | Flickr",
+            "link": "https://www.flickr.com/photos/69583224@N05/8995711776",
+            "original": "https://live.staticflickr.com/7311/8995711776_f5952bf13f_c.jpg"
+        },
+        {
+            "position": 81,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf4NnlhO4Vu-jO7m1EbPtm2NrZ-TixZ5T-_g&usqp=CAU",
+            "source": "theatlantic.com",
+            "title": "Can Soap Operas Make Life Better for Syrian Women? - The Atlantic",
+            "link": "https://www.theatlantic.com/entertainment/archive/2010/11/can-soap-operas-make-life-better-for-syrian-women/66251/",
+            "original": "https://cdn.theatlantic.com/static/mt/assets/culture_test/Syrian%20Soaps.jpg"
+        },
+        {
+            "position": 82,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Ezo9gkUSkqjZ1Lt65U27-V3cWXTxiOmHhg&usqp=CAU",
+            "source": "latimes.com",
+            "title": "Widowed, divorced, abandoned &#8212; Syrian refugee women forge new lives  in Jordan - Los Angeles Times",
+            "link": "https://www.latimes.com/world/global-development/la-fg-global-women-syrian-refugees-snap-story.html",
+            "original": "https://ca-times.brightspotcdn.com/dims4/default/67a14ba/2147483647/strip/true/crop/2048x1151+0+0/resize/840x472!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2Fe3%2Fc9c53c97fb270488a8f761b81a80%2Fla-1473382660-snap-photo"
+        },
+        {
+            "position": 83,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMHyPXguLUtHVYu2uMW4khZAf_8jF8F1p-xQ&usqp=CAU",
+            "source": "sn4hr.org",
+            "title": "Brief Report: On International Women's Day\u2026 Syrian Women Continue to Suffer  from the Worst Types of Violations | Syrian Network for Human Rights",
+            "link": "https://sn4hr.org/blog/2020/03/08/54746/",
+            "original": "https://sn4hr.org/wp-content/uploads/2020/03/mojez-women-e.jpg"
+        },
+        {
+            "position": 84,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2OqDuBvNAk6xO20aULerjefMEqwJWIu2Xgg&usqp=CAU",
+            "source": "medium.com",
+            "title": "WomensDay \u2014 Meet 7 refugee women determined to thrive in exile | by UN  Refugee Agency | We The Peoples | Medium",
+            "link": "https://medium.com/we-the-peoples/womensday-meet-7-refugee-women-determined-to-thrive-in-exile-375354337fe8",
+            "original": "https://miro.medium.com/max/11520/1*iVhGOkNq2tNV85wDJbFupw.jpeg"
+        },
+        {
+            "position": 85,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpJPjNgflfUieS18gWVRJAit8cT8jRFHEKA&usqp=CAU",
+            "source": "cbc.ca",
+            "title": "Syrian women in Victoria, B.C., find work with a little help from Canadian  friends | CBC News",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/syrian-women-victoria-work-1.4295052",
+            "original": "https://i.cbc.ca/1.4295189.1505754830!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/hanna-and-weam-ali.JPG"
+        },
+        {
+            "position": 86,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITMxuGAJfxsnyUvYtaQ-9l6oQCmWurXJADg&usqp=CAU",
+            "source": "medium.com",
+            "title": "Syrian Women in Berlin: Yara Speaks | by Brother's Keeper International |  Medium",
+            "link": "https://medium.com/@BrothersKeeper/syrian-women-in-berlin-yara-speaks-a9cf8f509891",
+            "original": "https://miro.medium.com/max/6048/1*buGhIQYwVooQTn5tAu2X-Q.jpeg"
+        },
+        {
+            "position": 87,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEfGweh9I4ttQELn2CmpJ7NjeXSw_SJMttg&usqp=CAU",
+            "source": "deeply.thenewhumanitarian.org",
+            "title": "Women at the Forefront of Saving Syria's Heritage \u2014 Syria Deeply",
+            "link": "https://deeply.thenewhumanitarian.org/syria/articles/2017/12/07/women-at-the-forefront-of-saving-syrias-heritage",
+            "original": "https://deeply-assets.thenewhumanitarian.org/20171207020740/14679661131_ce7c7c54ef_o.jpg?w=640&fit=max&q=60"
+        },
+        {
+            "position": 88,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfeZ1PyudnNDABsPH7UwlsYGUzUrEq1I57iA&usqp=CAU",
+            "source": "wvxu.org",
+            "title": "For these Syrian women, their 20s have been defined by war | WVXU",
+            "link": "https://www.wvxu.org/post/these-syrian-women-their-20s-have-been-defined-war",
+            "original": "https://mediad.publicbroadcasting.net/p/shared/pmp/styles/x_large/pmpshared/201603/db46c61f-706a-401a-9a5d-b66696b7bf5b.jpg"
+        },
+        {
+            "position": 89,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJr2ohluKbdY078tnfP0WEsdUTENMshvxgyQ&usqp=CAU",
+            "source": "npr.org",
+            "title": "Syrian Women Displaced By War Make Tragedy Of 'Antigone' Their Own :  Parallels : NPR",
+            "link": "https://www.npr.org/sections/parallels/2014/12/12/370343232/syrian-women-displaced-by-war-make-tragedy-of-antigone-their-own",
+            "original": "https://media.npr.org/assets/img/2014/12/12/khamissy-antigone-01_custom-d261d4dbc07a86f09a8564b86e5e7911ad885fbc.jpg"
+        },
+        {
+            "position": 90,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aw0pzeu_xkxAKLrJif1-2o1dcQFnrYfYNg&usqp=CAU",
+            "source": "voanews.com",
+            "title": "Rights Group Details Torture of Syrian Detainees | Voice of America -  English",
+            "link": "https://www.voanews.com/archive/rights-group-details-torture-syrian-detainees",
+            "original": "https://im-media.voltron.voanews.com/Drupal/01live-166/styles/892x501/s3/2019-04/F756EA8E-1022-42B0-9890-740F84EB04E5.jpg?itok=9rnWMlk7"
+        },
+        {
+            "position": 91,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqhts0AECir4n4AFLQXQsPSYv4bln0datslQ&usqp=CAU",
+            "source": "america.aljazeera.com",
+            "title": "Syrian women demand voice at peace talks | Al Jazeera America",
+            "link": "http://america.aljazeera.com/articles/2014/1/13/syrian-women-demandvoiceatgenevapeacetalks.html",
+            "original": "http://america.aljazeera.com/content/ajam/articles/2014/1/13/syrian-women-demandvoiceatgenevapeacetalks/jcr:content/mainpar/adaptiveimage/src.adapt.960.high.SyrianWomen_112613.1389704337239.jpg"
+        },
+        {
+            "position": 92,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKmRU9HakqxzyiwKIwZJVIDNfi1OMm9kEzQA&usqp=CAU",
+            "source": "vagabomb.com",
+            "title": "How the 'Beauty' of Syrian Women Has Been Redefined Over 100 Years",
+            "link": "https://www.vagabomb.com/Beauty-of-Syrian-Women-Has-Been-Redefined-in-100-Years/",
+            "original": "https://s3.scoopwhoop.com/anj/syrian_beauty/675412672.jpg"
+        },
+        {
+            "position": 93,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwCRe-qewA7QAOSXAhyAObkmmHyyQjrHE3Q&usqp=CAU",
+            "source": "pri.org",
+            "title": "6,000 cases of women raped during Syrian conflict, human rights group says  | The World from PRX",
+            "link": "https://www.pri.org/stories/2013-11-26/6000-cases-women-raped-during-syrian-conflict-human-rights-group-says",
+            "original": "https://media.pri.org/s3fs-public/styles/open_graph/public/photos/2013-November/syrian_women_rape.jpg?itok=9Zym7Q2e"
+        },
+        {
+            "position": 94,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-A1E_HIX-N0DQTkZSW4dE5igOuaug_QUtg&usqp=CAU",
+            "source": "deeply.thenewhumanitarian.org",
+            "title": "For Many Syrian Women, Healthcare is a Matter of Geography \u2014 Syria Deeply",
+            "link": "https://deeply.thenewhumanitarian.org/syria/articles/2017/08/16/for-many-syrian-women-healthcare-is-a-matter-of-geography",
+            "original": "https://deeply-assets.thenewhumanitarian.org/20170816105913/SYRIA-CONFLICT-HEALTH.jpg?w=640&fit=max&q=60"
+        },
+        {
+            "position": 95,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA3oyZjAhtG5vUTI1oP-XF48xWWhjfk3dpEQ&usqp=CAU",
+            "source": "plan.org.au",
+            "title": "My Future: Stories from Syria's Women and Girls | Plan International  Australia",
+            "link": "https://www.plan.org.au/learn/who-we-are/blog/2017/09/21/my-future-stories-from-syrian-women-and-girls",
+            "original": "https://www.plan.org.au/wp-content/uploads/2020/07/stories-from-syrian-women-and-girls-1230x540.jpg"
+        },
+        {
+            "position": 96,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemkH-6EEXLcxNUhlHZ1Sh6PqoLkilZi12BA&usqp=CAU",
+            "source": "thelancet.com",
+            "title": "Hidden crisis: violence against Syrian female refugees - The Lancet",
+            "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2815%2961091-1/fulltext",
+            "original": "https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/2040710706/2054409240/fx1.jpg"
+        },
+        {
+            "position": 97,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTsXfGX40lcXr9yW2sBZHkNNtgmCdv3tepg&usqp=CAU",
+            "source": "theintercept.com",
+            "title": "Syrian Women in Turkey Seek to Define Their Independence",
+            "link": "https://theintercept.com/2019/02/03/syrian-women-turkey-empowerment/",
+            "original": "https://theintercept.com/wp-uploads/sites/1/2019/01/nada-al-fawwal-1548885018.jpg"
+        },
+        {
+            "position": 98,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaD4btok7vTh_RntlPu2zvqhOgbknGS7h4Dw&usqp=CAU",
+            "source": "news.ucsc.edu",
+            "title": "Alumna's film about Syrian refugees wins Audience Award for Best Feature at  SF DocFest",
+            "link": "https://news.ucsc.edu/2019/07/auger-sf-filmfest.html",
+            "original": "https://news.ucsc.edu/2019/07/images/syrian-women-film-still-450.png"
+        },
+        {
+            "position": 99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5s87zpEMrKkd6D9b5hPs0BWT69LrKej86Ug&usqp=CAU",
+            "source": "news.un.org",
+            "title": "Syrian crisis reaching stage of civil war, UN human rights chief says | |  UN News",
+            "link": "https://news.un.org/en/story/2011/12/396952-syrian-crisis-reaching-stage-civil-war-un-human-rights-chief-says",
+            "original": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2011/11/13815/image1170x530cropped.jpg"
+        },
+        {
+            "position": 100,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFaBYqcDoP6MRKfCyvYSd3MWVfwpE5jmXgw&usqp=CAU",
+            "source": "bbc.com",
+            "title": "World Cup: Iranian women refused entry to match despite holding tickets -  BBC News",
+            "link": "https://www.bbc.com/news/world-middle-east-41166706",
+            "original": "https://c.files.bbci.co.uk/9928/production/_97680293_syrianwomen1.jpg"
+        }
+    ]
+}

@@ -1,0 +1,913 @@
+{
+    "search_metadata": {
+        "id": "603c2cc438c0ef98cae5a7de",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8ce5235bf21f3308/603c2cc438c0ef98cae5a7de.json",
+        "created_at": "2021-02-28 23:52:36 UTC",
+        "processed_at": "2021-02-28 23:52:36 UTC",
+        "google_url": "https://www.google.com/search?q=kenyan+women&oq=kenyan+women&tbm=isch&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/8ce5235bf21f3308/603c2cc438c0ef98cae5a7de.html",
+        "total_time_taken": 1.2
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "kenyan women",
+        "google_domain": "google.com",
+        "device": "desktop",
+        "tbm": "isch"
+    },
+    "search_information": {
+        "image_results_state": "Results for exact spelling",
+        "query_displayed": "kenyan women"
+    },
+    "suggested_searches": [
+        {
+            "name": "modern",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:modern:tpdnPifg0Jk%3D&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoAHoECAEQGA",
+            "chips": "q:kenyan+women,g_1:modern:tpdnPifg0Jk%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Amodern%3AtpdnPifg0Jk%253D&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/d5fcffff95627e1f727fedc0a5b34ab63d10d34a62d11ae2f497e0019b294285.jpeg"
+        },
+        {
+            "name": "native",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:native:gRZUBpAjdtc%3D&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoAXoECAEQGg",
+            "chips": "q:kenyan+women,g_1:native:gRZUBpAjdtc%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Anative%3AgRZUBpAjdtc%253D&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/d5fcffff95627e1f727fedc0a5b34ab681b79bc5802387cbe5269f573d7a2ac7.jpeg"
+        },
+        {
+            "name": "mini",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:mini:azi8hxSh544%3D&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoAnoECAEQHA",
+            "chips": "q:kenyan+women,g_1:mini:azi8hxSh544%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Amini%3Aazi8hxSh544%253D&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/d5fcffff95627e1f727fedc0a5b34ab6c27e0da202f78639de46a8b464f015e4.jpeg"
+        },
+        {
+            "name": "rural",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:rural:Hoq8IOmAMmw%3D&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoA3oECAEQHg",
+            "chips": "q:kenyan+women,g_1:rural:Hoq8IOmAMmw%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Arural%3AHoq8IOmAMmw%253D&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/d5fcffff95627e1f727fedc0a5b34ab651ce6a744cc47819342be1ca54b29696.jpeg"
+        },
+        {
+            "name": "clothes",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:clothes:lT_iYej3T4k%3D&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoBHoECAEQIA",
+            "chips": "q:kenyan+women,g_1:clothes:lT_iYej3T4k%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Aclothes%3AlT_iYej3T4k%253D&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/d5fcffff95627e1f727fedc0a5b34ab63c615591bcebf0c178008a0325f72eaa.jpeg"
+        },
+        {
+            "name": "professional",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:professional:vPih8HMfTtc%3D&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoBXoECAEQIg",
+            "chips": "q:kenyan+women,g_1:professional:vPih8HMfTtc%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Aprofessional%3AvPih8HMfTtc%253D&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/d5fcffff95627e1f727fedc0a5b34ab63b41cf343e7ee119a2ea8eaf9d252be2.jpeg"
+        },
+        {
+            "name": "market",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:market&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoBnoECAEQJA",
+            "chips": "q:kenyan+women,g_1:market",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Amarket&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch"
+        },
+        {
+            "name": "birth",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:birth&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoB3oECAEQJQ",
+            "chips": "q:kenyan+women,g_1:birth",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Abirth&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch"
+        },
+        {
+            "name": "street",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:street:C7XDywlt1NU%3D&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoCHoECAEQJg",
+            "chips": "q:kenyan+women,g_1:street:C7XDywlt1NU%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Astreet%3AC7XDywlt1NU%253D&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/d5fcffff95627e1f727fedc0a5b34ab637c9b2ae0b5b0ce80035b472dcf69789.jpeg"
+        },
+        {
+            "name": "military",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:military:StutUOTzgZM%3D&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoCXoECAEQKA",
+            "chips": "q:kenyan+women,g_1:military:StutUOTzgZM%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Amilitary%3AStutUOTzgZM%253D&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/d5fcffff95627e1f727fedc0a5b34ab6a3f362a4d22b130c877f25af71c8e01c.jpeg"
+        },
+        {
+            "name": "new",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:new&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoCnoECAEQKg",
+            "chips": "q:kenyan+women,g_1:new",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Anew&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch"
+        },
+        {
+            "name": "media",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:media&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoC3oECAEQKw",
+            "chips": "q:kenyan+women,g_1:media",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Amedia&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch"
+        },
+        {
+            "name": "different",
+            "link": "https://www.google.com/search?q=kenyan+women&tbm=isch&chips=q:kenyan+women,g_1:different&hl=en-US&sa=X&ved=2ahUKEwiYlY-R443vAhUCQa0KHSx3AOcQ4lYoDHoECAEQLA",
+            "chips": "q:kenyan+women,g_1:different",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Akenyan%2Bwomen%2Cg_1%3Adifferent&device=desktop&engine=google&google_domain=google.com&q=kenyan+women&tbm=isch"
+        }
+    ],
+    "images_results": [
+        {
+            "position": 1,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182bae2599cbcf68e7fb70cd112783559e11d7e137905377a2a.jpeg",
+            "source": "usaid.gov",
+            "title": "Beads Turn Kenyan Women Into Entrepreneurs\u2014and Conservationists |  Transforming Lives | Kenya | U.S. Agency for International Development",
+            "link": "https://www.usaid.gov/results-data/success-stories/beads-conservation",
+            "original": "https://www.usaid.gov/sites/default/files/success_story/BeadWORKS_NalanguLokoloto.jpg"
+        },
+        {
+            "position": 2,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182949cbee7848c1a9e559be3821b1cc765568cd1931e8e00d8.jpeg",
+            "source": "capitalfm.co.ke",
+            "title": "The Seven: Trailblazing Kenyan women - The Sauce",
+            "link": "https://www.capitalfm.co.ke/thesauce/the-seven-trailblazing-kenyan-women/",
+            "original": "https://www.capitalfm.co.ke/thesauce/files/2020/03/Lupita-Nyongo-30.jpg"
+        },
+        {
+            "position": 3,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f179661825f0db2ca133dccceef9900170d57cc762280838217d8e565.jpeg",
+            "source": "sheleadsafrica.org",
+            "title": "Esther Hahanyu: Helping Kenyan women achieve their weight goals through  Social Media | She Leads Africa | #1 destination for young African  ambitious women",
+            "link": "https://sheleadsafrica.org/esther-hahanyu-diet/",
+            "original": "https://sheleadsafrica.org/wp-content/uploads/2018/07/Screen-Shot-2018-07-10-at-6.28.09-PM-1200x900.png"
+        },
+        {
+            "position": 4,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182ff8cd82e994033d6c1ea99aa344e6d66efa6d82d29bedb44.jpeg",
+            "source": "commons.wikimedia.org",
+            "title": "File:Kenyan Women in Nairobi 01.jpg - Wikimedia Commons",
+            "link": "https://commons.wikimedia.org/wiki/File:Kenyan_Women_in_Nairobi_01.jpg",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kenyan_Women_in_Nairobi_01.jpg"
+        },
+        {
+            "position": 5,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f179661825f434c2ee9b6f3d6d8f0a833e11211c72756d6cd8566b96f.jpeg",
+            "source": "international-love.dating",
+            "title": "Kenyan women quick quide | International Love",
+            "link": "https://www.international-love.dating/en/kenyan-women",
+            "original": "https://www.international-love.dating/uploads/__editor/blog/kenyan-women.jpeg"
+        },
+        {
+            "position": 6,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f1796618228e886d1ad593b4b6640d5612eec6bef327af7662a8426a9.jpeg",
+            "source": "eyepro.net",
+            "title": "Join EYE PRO in Raising Awareness and Support of Kenyan Women | Eye Pro,  Inc.",
+            "link": "http://www.eyepro.net/join-eye-pro-in-raising-awareness-and-support-of-kenyan-women/",
+            "original": "http://www.eyepro.net/wp-content/uploads/2015/06/2015-03-05-Il-Negwesi-2-days-071.jpg"
+        },
+        {
+            "position": 7,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f179661825a809ad7cfdbc48126e37e112012d90a76df70609ee8904c.jpeg",
+            "source": "afropunk.com",
+            "title": "Dark-skinned Kenyan women are celebrated in this gorgeous photo series |  AFROPUNK",
+            "link": "https://afropunk.com/2018/05/dark-skinned-kenyan-women-are-celebrated-in-this-gorgeous-photo-series/",
+            "original": "http://fq8ku9wqwk7gai1z3frl16nd-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/15403683_10156083669688405_7522045052351802215_o-683x1024.jpg"
+        },
+        {
+            "position": 8,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182b1e1686ade2ba8f50f5bd4d29b252e7f39a4620f3a44ae9f.jpeg",
+            "source": "pinterest.com",
+            "title": "Pics] Nairobi Salon Gives Natural Hair Makeovers to 30 Kenyan Women for  Stunning Photo Series (Black Girl with Long Hair) | Curly hair styles  naturally, Hair styles, African hairstyles",
+            "link": "https://www.pinterest.com/pin/117445502761780271/",
+            "original": "https://i.pinimg.com/originals/c1/2b/9f/c12b9f53924a0d0435e6664449b84792.jpg"
+        },
+        {
+            "position": 9,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f1796618253b80518f0bbcc07836bec5ce98533df6e6a84283c647d76.jpeg",
+            "source": "impakter.com",
+            "title": "The Fight for a Woman's Right to Property After Divorce in Kenya - Impakter",
+            "link": "https://impakter.com/the-fight-for-a-womans-right-to-property-after-divorce-in-kenya/",
+            "original": "https://impakter.com/wp-content/uploads/2019/07/ethan-mcarthur-Ue5kuMVmIhU-unsplash.jpg"
+        },
+        {
+            "position": 10,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182a203f664d48998c7653aa6ea766b243f056bfeb123518ad9.jpeg",
+            "source": "pinterest.com",
+            "title": "Nikki (AKA Sheila Mwanyigha) (TV presenter, singer / pr\u00e9sentatrice t\u00e9l\u00e9,  chanteuse) | Beauty science, Beautiful women pictures, How to exfoliate skin",
+            "link": "https://www.pinterest.com/pin/459437599466949836/",
+            "original": "https://i.pinimg.com/originals/e9/d3/33/e9d333a922e5321faed24bd912ff7ca0.jpg"
+        },
+        {
+            "position": 11,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182949cbee7848c1a9e9896c6b46525b05b033255cc60bfc627.jpeg",
+            "source": "tagged.com",
+            "title": "I Love Kenyan Women - Tagged",
+            "link": "http://www.tagged.com/kenyangirls",
+            "original": "http://i4.tagstat.com/p1/p/zLEkTF11CeMp4H7YeDgplcBP1GC0c0-hlKfEWltBP7qu41tVwtQQadtwhxPT7207.jpg"
+        },
+        {
+            "position": 12,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182949cbee7848c1a9e2e6c11c0a65ffed802bf54363a3a50b7.jpeg",
+            "source": "africanexponent.com",
+            "title": "Kenyan Woman Founds Country's First Digital Car Insurance Company | The  African Exponent.",
+            "link": "https://www.africanexponent.com/post/6884-kenyan-woman-founds-countrys-first-digital-car-insurance-company",
+            "original": "https://d7nm3c5ruslmy.cloudfront.net/africanexponent-com-client/images/dfa06adb-d596-469c-8d53-b51b65a3107d-jihan_aspR_0.62_w454_h732_e400.png"
+        },
+        {
+            "position": 13,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182949cbee7848c1a9e703700988304eea74e8ad3e2a4d0f027.jpeg",
+            "source": "citizentv.co.ke",
+            "title": "5 disrespectful things Kenyan women do to men",
+            "link": "https://citizentv.co.ke/lifestyle/5-disrespectful-things-kenyan-women-do-to-men-102557/",
+            "original": "https://3dwnh01icn0h133s00sokwo1-wpengine.netdna-ssl.com/wp-content/uploads/2015/10/fighting.jpg"
+        },
+        {
+            "position": 14,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182949cbee7848c1a9e0337073550bb3a322e863e1923415414.jpeg",
+            "source": "kenyadating.org",
+            "title": "5 Reasons Kenyan Women Prefer Foreigners | Date Hot Kenyan Girls!",
+            "link": "https://www.kenyadating.org/5-reasons-kenyan-women-prefer-foreigners/",
+            "original": "https://www.kenyadating.org/wp-content/uploads/2017/05/hot-kenyan.jpg"
+        },
+        {
+            "position": 15,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182949cbee7848c1a9e74bac5897e924f7f2ec9a21f3521a8fb.jpeg",
+            "source": "yali.state.gov",
+            "title": "Kenyan Women United by Political Aspirations | YALI",
+            "link": "https://yali.state.gov/kenyan-women-united-by-political-aspirations/",
+            "original": "https://yali.state.gov/wp-content/uploads/2016/08/Akili-Dada-blog-post.jpg"
+        },
+        {
+            "position": 16,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182949cbee7848c1a9e30a835c58a247ae9846eb1aad4f0c37e.jpeg",
+            "source": "awmagazine.org",
+            "title": "Kenyan men living abroad should just forget Kenyan women and move on -  African Warrior Magazine",
+            "link": "https://www.awmagazine.org/kenyan-men-living-abroad-just-forget-kenyan-women-move/",
+            "original": "https://i1.wp.com/www.awmagazine.org/wp-content/uploads/2018/08/Kenyan-Curvy-and-Fabulous-women-10.png?fit=474%2C593&ssl=1"
+        },
+        {
+            "position": 17,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182949cbee7848c1a9ee9a77190ac228863ae091917d3f668f4.jpeg",
+            "source": "peopleofcolorintech.com",
+            "title": "How Linda Kamau is Teaching 10,000 Kenyan Women to Code...",
+            "link": "https://peopleofcolorintech.com/learn-to-code/how-linda-kamau-is-teaching-10000-kenyan-women-to-code/",
+            "original": "https://peopleofcolorintech.com/wp-content/uploads/2020/04/unnamed.jpg"
+        },
+        {
+            "position": 18,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182949cbee7848c1a9ebcef599d9f340f7bdb54ce08fd922935.jpeg",
+            "source": "answersafrica.com",
+            "title": "6 Reasons Kenyan Women Choose To Marry White Men Over Kenyans",
+            "link": "https://answersafrica.com/6-reasons-why-kenyan-women-choose-to-marry-white-men-over-kenyan-men.html",
+            "original": "https://answersafrica.com/wp-content/uploads/2015/09/1522683071-7564-541-Subscription-Monthly-XXL.jpg"
+        },
+        {
+            "position": 19,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182949cbee7848c1a9ed8f8885ac3ed84ea84b695bfa90370e8.jpeg",
+            "source": "iknowpolitics.org",
+            "title": "Faces of 4 brilliant, youthful Kenyan women doing greatness behind  progressive politics arena | International Knowledge Network of Women in  Politics",
+            "link": "https://www.iknowpolitics.org/en/news/partner-news/faces-4-brilliant-youthful-kenyan-women-doing-greatness-behind-progressive",
+            "original": "https://www.iknowpolitics.org/sites/default/files/styles/event_image__710_x_440_/public/field/image/tukotuko.png?itok=hA9retQk"
+        },
+        {
+            "position": 20,
+            "thumbnail": "https://serpapi.com/searches/603c2cc438c0ef98cae5a7de/images/b3dca53f17966182949cbee7848c1a9ee11770ecb679223028503a644799a2fe.jpeg",
+            "source": "expatkings.com",
+            "title": "30 Most Beautiful Kenyan Women in the World - Expat Kings",
+            "link": "https://www.expatkings.com/beautiful-kenyan-women/",
+            "original": "https://www.expatkings.com/wp-content/uploads/2018/07/1522669710-3227-Brenda-Wairimu-1.png"
+        },
+        {
+            "position": 21,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zIcGoFzjpLrIPY8hHF3Xroe0TC5U8sI0uQ&usqp=CAU",
+            "source": "founder360mag.com",
+            "title": "11 Kenyan Women Entrepreneurs Making Inspiring Waves across Africa -  Founder360\u00b0",
+            "link": "https://founder360mag.com/11-kenyan-women-entrepreneurs-making-inspiring-waves-across-africa/",
+            "original": "https://founder360mag.com/wp-content/uploads/2018/08/Mary-Njoki-1.jpg"
+        },
+        {
+            "position": 22,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ce5nKxKQhB8s1YJVdDO3uSoTCyEdr8d0JA&usqp=CAU",
+            "source": "standardmedia.co.ke",
+            "title": "It's not a single story of big wins and losses for Kenyan women - The  Standard",
+            "link": "https://www.standardmedia.co.ke/nairobi/article/2001382054/its-not-a-single-story-of-big-wins-and-losses-for-kenyan-women",
+            "original": "https://cdn.standardmedia.co.ke/images/monday/dqxoz96mrgxovczct5f3196c960bde.jpg"
+        },
+        {
+            "position": 23,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrlbNq_aEbXCwFQKikHFbGv5dhmDhYXOcSDA&usqp=CAU",
+            "source": "thedouglasreview.com",
+            "title": "Domestic Violence: Are Kenyan Women Finally Able to get Due Process? - All  Things Africa News",
+            "link": "https://www.thedouglasreview.com/domestic-violence-are-kenyan-women-finally-able-to-get-due-process/",
+            "original": "https://www.thedouglasreview.com/wp-content/uploads/2018/09/bigstock-Business-Woman-Standing-Outsid-83484119-2-1600x800.jpg"
+        },
+        {
+            "position": 24,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRfDVI_6TM-frOyRB1dtJqvN1GplYldfeThQ&usqp=CAU",
+            "source": "unicef.org",
+            "title": "On being a woman, wife and mother in Kenya | UNICEF Eastern and Southern  Africa",
+            "link": "https://www.unicef.org/esa/stories/being-woman-wife-and-mother-kenya",
+            "original": "https://www.unicef.org/esa/sites/unicef.org.esa/files/styles/hero_mobile/public/kenya-2018-woman-wife-mother-story.JPG?itok=iAucuYVe"
+        },
+        {
+            "position": 25,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbAFt1cqCPtLqbd_JiI0PGAVRpvsvNmBSaAg&usqp=CAU",
+            "source": "beautiful-women-pedia.com",
+            "title": "Beautiful Kenyan Women \u2013 Beautiful Women Pedia",
+            "link": "http://www.beautiful-women-pedia.com/beautiful-kenyan-women/",
+            "original": "http://www.beautifulwomenpedia.com/images/eva-ndachi-p-1.jpg"
+        },
+        {
+            "position": 26,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsquaPqRBPr9K3pxGzDz2ru6szWy_fXttjyQ&usqp=CAU",
+            "source": "womenfitness.net",
+            "title": "Beauty comes second for Kenyan Women - Women Fitness",
+            "link": "https://www.womenfitness.net/news-flash/kenyan-women/",
+            "original": "http://www.womenfitness.net/wp/wp-content/uploads/2016/09/kenyan-women.jpg"
+        },
+        {
+            "position": 27,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz-0SBuc10fmxc7MY8Uj4aEwMVNYQeWfb6w&usqp=CAU",
+            "source": "standardmedia.co.ke",
+            "title": "Five Kenyan women running corporate Kenya Eve Woman",
+            "link": "https://www.standardmedia.co.ke/evewoman/article/2001386749/five-kenyan-women-running-corporate-kenya",
+            "original": "https://cdn.standardmedia.co.ke/evemedia/eveimages/thursday/ngvk70g4qhyte5f635029049fe.jpg"
+        },
+        {
+            "position": 28,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxjLdbFqWCtfI2wUmkCOZ-ntkJB0B28tUKQ&usqp=CAU",
+            "source": "samrack.com",
+            "title": "Kenyan Diaspora Woman Expands U.S. Business to Kenya! | Samrack Media",
+            "link": "https://samrack.com/kenyan-diaspora-woman-expands-u-s-business-to-kenya-2/",
+            "original": "https://samrack.com/wp-content/uploads/2015/01/Mumbi-Dunjwa1.jpg"
+        },
+        {
+            "position": 29,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0oGO6E_Xhk69ZM3RmduG9EHAMnY8cIXMO2g&usqp=CAU",
+            "source": "tendermeets.com",
+            "title": "Enjoy Dating Kenyan Girl Online and Finding Local Single Women",
+            "link": "https://www.tendermeets.com/kenyan-women-dating.html",
+            "original": "https://www.tendermeets.com/seo/resource/id/20c20fdd4766d4304351143d76e7319e.jpg"
+        },
+        {
+            "position": 30,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_5cOtEiUOGu9K8GfZuA7krEWccWTIZh6vw&usqp=CAU",
+            "source": "citizentv.co.ke",
+            "title": "7 traits that make Kenyan women unmarriageable",
+            "link": "https://citizentv.co.ke/blogs/7-traits-that-make-kenyan-women-unmarriageable-108579/",
+            "original": "https://3dwnh01icn0h133s00sokwo1-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/angry-woman.jpg"
+        },
+        {
+            "position": 31,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiX5PhAbPLxyIl76788CvoJUJc7KpjB-f10Q&usqp=CAU",
+            "source": "gotta.news",
+            "title": "Kenyan women are simply irresistible - Musings of Nigerian man in Nairobi -  GOTTA.news",
+            "link": "https://gotta.news/kenyan-women-are-simply-irresistible-musings-of-nigerian-man-in-nairobi/",
+            "original": "https://293892.smushcdn.com/1443425/wp-content/uploads/2020/04/Kenyan-woman-1280x640.jpg?lossy=1&strip=1&webp=1"
+        },
+        {
+            "position": 32,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3qK_SRzWlijaq3B-1OR0AO1Um_wpkTybN0w&usqp=CAU",
+            "source": "answersafrica.com",
+            "title": "20 Most Beautiful Kenyan Women Celebrities in 2021",
+            "link": "https://answersafrica.com/beautiful-kenyan-women.html",
+            "original": "https://answersafrica.com/wp-content/uploads/2014/06/29_beautiful-Kenyan-women-1-e1426935975498.jpg"
+        },
+        {
+            "position": 33,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbW_wigf4qFgpbhpkFr4c7u4GESNizbtcDzg&usqp=CAU",
+            "source": "jeangasho.com",
+            "title": "White Man Sleeps With Over 50 Black Kenyan Women, Proving The Curse Of  Canaan \u2013 jeangasho.com",
+            "link": "https://jeangasho.com/2020/08/26/white-man-sleeps-with-over-50-black-kenyan-women-proving-the-curse-of-canaan/",
+            "original": "https://jeangashodotcom.files.wordpress.com/2020/08/118280249_3351986764862098_6797983620005622570_n.jpg"
+        },
+        {
+            "position": 34,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTrUZ2ulW1HhpyeWNi0O7fPnFe8ahh0flEng&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Samburuland - Kenya / Woman from Kenya - Kenyan beauties #kenyan #Kenya  #kenyanwoman #kenyans #women #girlspower #Kenia #\u30b1\u30cb\u30a2 #kenianisch #\u30b1\u2026 | Women,  Kenya, Kenyan",
+            "link": "https://www.pinterest.com/pin/512003051386289952/",
+            "original": "https://i.pinimg.com/originals/7a/b6/44/7ab644766e7241552aa6bb030f122b35.jpg"
+        },
+        {
+            "position": 35,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sfM3fHC7Sz1gjcdu7-pPaljM5hOfXZg6-w&usqp=CAU",
+            "source": "diaspoint.nl",
+            "title": "Why are Kenyan women so difficult to handle? | African Migrants In Europe",
+            "link": "https://diaspoint.nl/why-are-kenyan-women-so-difficult-to-handle/",
+            "original": "https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://diaspoint.nl/wp-content/uploads/2020/08/Relationship0408.jpg"
+        },
+        {
+            "position": 36,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hAAvuL6KgG7E2cp5nJ8wILImLLTg1TfI7Q&usqp=CAU",
+            "source": "tuko.co.ke",
+            "title": "These 21 Kenyan women compete on who has the perfect hips and and lusty men  will enjoy seeing this \u25b7 Tuko.co.ke",
+            "link": "https://www.tuko.co.ke/259422-these-21-kenyan-women-compete-perfect-hips-lusty-men-enjoy-this.html",
+            "original": "https://netstorage-tuko.akamaized.net/images/421e662803a9b513.jpg?imwidth=900"
+        },
+        {
+            "position": 37,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLhj4XaYF9IA9yOef55pAoH2SSFobfFYw2A&usqp=CAU",
+            "source": "answersafrica.com",
+            "title": "10 Highly Respected And Most Beautiful Kenyan Women",
+            "link": "https://answersafrica.com/respected-beautiful-kenyan-women.html",
+            "original": "https://answersafrica.com/wp-content/uploads/2015/06/2_Lupita-Nyongo.jpg"
+        },
+        {
+            "position": 38,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvva0DSk_kSUl_mkt1lsXLukPPKEcg-ERxVw&usqp=CAU",
+            "source": "pd.co.ke",
+            "title": "Ten least known Kenyan women billionaires",
+            "link": "https://www.pd.co.ke/lifestyle/ten-least-known-kenyan-women-billionaires-38794/",
+            "original": "https://www.pd.co.ke/wp-content/uploads/2020/06/Kenyan-women-billionaires-1200x900.gif"
+        },
+        {
+            "position": 39,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmfp_EEsfm_h1Bhse3bxqHo-ui3-oY5cBn8w&usqp=CAU",
+            "source": "ft.com",
+            "title": "How Kenyan women are changing their lives with a new way to buy homes |  Financial Times",
+            "link": "https://www.ft.com/content/ad4d4576-f258-11e8-9623-d7f9881e729f",
+            "original": "https://www.ft.com/__origami/service/image/v2/images/raw/http://prod-upp-image-read.ft.com/5977be64-f329-11e8-9623-d7f9881e729f?source=next&fit=scale-down&quality=highest&width=1440"
+        },
+        {
+            "position": 40,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhTkTImcxeHXt01CuG79gFjGA68uFCzWj_g&usqp=CAU",
+            "source": "vogue.com",
+            "title": "The Kenyan Cool Girl's Guide to Nairobi | Vogue",
+            "link": "https://www.vogue.com/article/the-kenyan-cool-girls-guide-to-nairobi",
+            "original": "https://assets.vogue.com/photos/5b367f939fb6a34e8cf34a06/master/w_1600%2Cc_limit/12-kenyan-cool-girl-guide-to-nairobi.jpg"
+        },
+        {
+            "position": 41,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJi16C4jHnAesopYIT-FzOB-ac0w2euV5oNQ&usqp=CAU",
+            "source": "ipsnews.net",
+            "title": "Q&A: Kenyan Women Set to Take on Men in Elections | Inter Press Service",
+            "link": "http://www.ipsnews.net/2012/11/qa-kenyan-women-set-to-take-on-men-in-elections/",
+            "original": "http://cdn.ipsnews.net/Library/2012/11/Lichuma-mug-shot-315x472.jpg"
+        },
+        {
+            "position": 42,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFozcOPgF1AxhPkoZ8dk9mh1uFy9ZGTnGDAw&usqp=CAU",
+            "source": "solidaritycenter.org",
+            "title": "Solidarity Center - U.S. Women Activists Connect with Kenyan Women Workers",
+            "link": "https://www.solidaritycenter.org/u-s-women-activists-connect-kenyan-women-workers/",
+            "original": "https://scdev.wavemotion.dev/wp-content/uploads/2017/07/Kenya.Black-Womens-Roundtable-Exchange.6.17.-Isaac-Khaguli.jpg"
+        },
+        {
+            "position": 43,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQP7D0cY6LWkkI_-AH6KP9EE1IaHfB5bY7IA&usqp=CAU",
+            "source": "en.wikipedia.org",
+            "title": "Women in Kenya - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Women_in_Kenya",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Miss_kenya_08_Ruth_Kinuthia.jpg/149px-Miss_kenya_08_Ruth_Kinuthia.jpg"
+        },
+        {
+            "position": 44,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgEeTNhKXUQaPDuZwLXtciiZPfxZKNZQtlQA&usqp=CAU",
+            "source": "tribeza.com",
+            "title": "How Ubuntu is Aiding Kenyan Women and Leading Them Towards Economic Freedom  - Tribeza",
+            "link": "https://tribeza.com/soles-with-purpose/",
+            "original": "https://i0.wp.com/tribeza.com/wp-content/uploads/2018/04/ubuntu1-1.jpg?fit=900%2C750&ssl=1"
+        },
+        {
+            "position": 45,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZUTXZPmPVI9BM4icATVNJgT-W9jkaTyaXw&usqp=CAU",
+            "source": "daughtersofafrica.org",
+            "title": "Women in Kenya | Daughters Of Africa",
+            "link": "https://daughtersofafrica.org/eget-tempor-justo-purus-montes/",
+            "original": "https://daughtersofafrica.org/wp-content/uploads/2016/08/womenkenya.jpg"
+        },
+        {
+            "position": 46,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIiaz2-o9zqtRuwV1x-DV7fCubG2tDLenvBw&usqp=CAU",
+            "source": "answersafrica.com",
+            "title": "10 Rewarding Reasons to Date Kenyan Women",
+            "link": "https://answersafrica.com/kenyan-women.html",
+            "original": "https://answersafrica.com/wp-content/uploads/2013/08/1522663477-8933-black-woman.jpg"
+        },
+        {
+            "position": 47,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI9D2W_NlD6NBEvnMxRbci_2F1mq8khw-t4g&usqp=CAU",
+            "source": "ifes.org",
+            "title": "Empowering Kenyan Women with Disabilities as Policy Advocates | IFES",
+            "link": "https://www.ifes.org/news/empowering-kenyan-women-disabilities-policy-advocates",
+            "original": "https://www.ifes.org/sites/default/files/styles/img-featured-node/public/women_challenged_to_challenge_1_795.jpg?itok=Zmx1jgHK"
+        },
+        {
+            "position": 48,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCmnB4vPMXhF39Uqv1K6LfBS74jpbnI_lpmw&usqp=CAU",
+            "source": "fullerproject.org",
+            "title": "In Wake of Beirut's Devastating Blast, Stranded Kenyan Domestic Workers  Demand Repatriation | The Fuller Project",
+            "link": "https://fullerproject.org/story/domestic-workers-kenya-beirut-blast-repatriation/",
+            "original": "https://fullerproject.org/wp-content/uploads/2020/08/Kenyan-women-beirut-1.jpg"
+        },
+        {
+            "position": 49,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMoVRGAsOOh5TCAKDHl8fSURpEeGU6O3uWA&usqp=CAU",
+            "source": "negromanosphere.com",
+            "title": "5 Unique Things to hate About Kenyan Women - Negromanosphere",
+            "link": "https://negromanosphere.com/5-unique-things-hate-kenyan-women/",
+            "original": "https://negromanosphere.com/wp-content/uploads/2018/01/Kenyan-women-678x381.jpg"
+        },
+        {
+            "position": 50,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLoRzffE4kn-jg6ktdt0rzSCOGUYwREP3Qog&usqp=CAU",
+            "source": "madre.org",
+            "title": "Help women fight climate change | MADRE",
+            "link": "https://www.madre.org/projects/indigenous-women-climate-defenders",
+            "original": "https://www.madre.org/sites/default/files/styles/2400xauto/public/images/Kenyan%20Woman%20%28c%29%20EJ%20Rappaport.jpg"
+        },
+        {
+            "position": 51,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5i_p1M7NKU9HoYH-jgBovdsKbm86s9eJsUg&usqp=CAU",
+            "source": "eviegrace.org",
+            "title": "Inequality of Women in Kenya \u2013 Evie Grace Foundation",
+            "link": "https://eviegrace.org/inequality-of-women/",
+            "original": "https://eviegrace.org/wp-content/uploads/elementor/thumbs/Inequality-of-Kenyan-Women-1-oorg6ffn9iafod7kupoz37mpv6u9imnffm58709myw.jpg"
+        },
+        {
+            "position": 52,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBE-r9oP0cr0aD1ev9t83L8RnGywOerdJQ&usqp=CAU",
+            "source": "hivisasa.com",
+            "title": "Why kenyan women are falling for foreign men",
+            "link": "https://hivisasa.com/posts/why-kenyan-women-are-falling-for-foreign-men",
+            "original": "https://images.hivisasa.com/1200/4J02avCC98whi.jpg"
+        },
+        {
+            "position": 53,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZux1vTjWxYEMZwvsxSb14daLtDVVw59CQNQ&usqp=CAU",
+            "source": "en.wikipedia.org",
+            "title": "Women in Kenya - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Women_in_Kenya",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/MalaikaFirth-MichaelKorsSS14-ChristopherMacsurak.jpg"
+        },
+        {
+            "position": 54,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpsZr1_Zg9Sd2gjsrKTspWFvOoKlY77RW-w&usqp=CAU",
+            "source": "alamy.com",
+            "title": "Three young Kenyan women look at a message on a phone, Nairobi, Kenya Stock  Photo - Alamy",
+            "link": "https://www.alamy.com/stock-photo-three-young-kenyan-women-look-at-a-message-on-a-phone-nairobi-kenya-40213377.html",
+            "original": "https://c8.alamy.com/comp/C9BTG1/three-young-kenyan-women-look-at-a-message-on-a-phone-nairobi-kenya-C9BTG1.jpg"
+        },
+        {
+            "position": 55,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwSBWGcK0D35dkfeCSEa8laxFHi1vyTbDMpA&usqp=CAU",
+            "source": "durangoherald.com",
+            "title": "Kenyan mob strips woman after protest",
+            "link": "https://durangoherald.com/articles/82202",
+            "original": "https://dur-duweb.newscyclecloud.com/storyimage/DU/20141118/NEWS03/141119523/AR/0/AR-141119523.jpg"
+        },
+        {
+            "position": 56,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfONL1e15p-rS3u1TS2xyIKoxe1e9Y1s6Prw&usqp=CAU",
+            "source": "globalknowledgeinitiative.org",
+            "title": "Improving the lives of rural Kenyan women through improved water access \u2013  Global Knowledge Initiative",
+            "link": "http://globalknowledgeinitiative.org/2013/08/26/improving-the-lives-of-rural-kenyan-women-through-improved-water-access/",
+            "original": "http://globalknowledgeinitiative.org/wp-content/uploads/2013/08/dsc_0123.jpg"
+        },
+        {
+            "position": 57,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVbL-ajbEFUPLCAZYFoAV5NmTRggZZmErwFw&usqp=CAU",
+            "source": "nairobiwire.com",
+            "title": "13 Common Lies Kenyan Women Tell",
+            "link": "http://nairobiwire.com/2013/11/13-common-lies-kenyan-women-tell.html",
+            "original": "https://4.bp.blogspot.com/-b5AWSPXZh7M/UYFmUj_VIGI/AAAAAAAAVXo/QYxE26eU64k/s1600/women4.jpg"
+        },
+        {
+            "position": 58,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM1_62kWBXZ9WgHCXruvoWfPszgxQm5N99yw&usqp=CAU",
+            "source": "islamic-relief.org",
+            "title": "Improved healthcare for Kenyan women and children | Islamic Relief Worldwide",
+            "link": "https://www.islamic-relief.org/improved-healthcare-for-kenyan-women-and-children/",
+            "original": "https://www.islamic-relief.org/wp-content/uploads/2014/08/Kenya_health-605x340.jpg"
+        },
+        {
+            "position": 59,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDgqIpgRBqv9QWmPk_YGFGcqA_zQz1g9TDkA&usqp=CAU",
+            "source": "howshelooks.com",
+            "title": "Women Of Nairobi, Kenya - (Casual)",
+            "link": "https://www.howshelooks.com/women-nairobi-kenya-casual/",
+            "original": "https://www.howshelooks.com/wp-content/uploads/2020/01/tinder-nairobi-kenya-attractive-kenyan-woman-780x507.jpg"
+        },
+        {
+            "position": 60,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORxmfVdvzUHGmuVaxfMPAXDIiiX3NddbOcw&usqp=CAU",
+            "source": "thenewhumanitarian.org",
+            "title": "The New Humanitarian | Kenyan women lead fight against police violence",
+            "link": "https://www.thenewhumanitarian.org/news-feature/2020/09/03/Kenya-women-gender-police-violence",
+            "original": "https://assets.irinnews.org/s3fs-public/styles/responsive_large/public/kenya-gender-cops-lead-she-said.jpg?Gm_F.mos81.TT1LkgXev4HyHe4OM5Crj&itok=usK9BQz8"
+        },
+        {
+            "position": 61,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSytat0mRqf9YUX-_o89x5pWGGdeLft0G36A&usqp=CAU",
+            "source": "datingeverywhere.com",
+            "title": "Kenyan Girls Guide: How to Meet the Perfect One - Dating Everywhere",
+            "link": "https://datingeverywhere.com/kenyan-women/",
+            "original": "https://datingeverywhere.com/wp-content/uploads/2020/09/kenya-women-guide-2-589x750.jpg"
+        },
+        {
+            "position": 62,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4LzEYeYXH8j9DPHLVV93xm5wngvId2YhR6g&usqp=CAU",
+            "source": "hapakenya.com",
+            "title": "12 Kenyan women looking fabulous with natural hair - HapaKenya",
+            "link": "https://hapakenya.com/2015/10/06/12-kenyan-women-looking-fabulous-with-natural-hair/",
+            "original": "https://hapakenya.com/wp-content/uploads/2015/10/Rachael-Muthoni.jpg"
+        },
+        {
+            "position": 63,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Q2TSRZ6XwTfFXx1bf0LpliRfvBCHz1DRSA&usqp=CAU",
+            "source": "tma.melbourneanglican.org.au",
+            "title": "Strengthening life' for Kenyan women and children",
+            "link": "http://tma.melbourneanglican.org.au/news/strengthening-life-aoa-aid-work-kenya-070519",
+            "original": "http://tma.melbourneanglican.org.au/img/assets/1622-Kenya-aid-work-640.jpg"
+        },
+        {
+            "position": 64,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQhEDrkhGXeuYRDuXS_iLPUrIF0R4wtn13Q&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "Team Lioness: the Kenyan women rangers risking their lives for wildlife |  Environment | The Guardian",
+            "link": "https://www.theguardian.com/environment/2020/jul/13/team-lioness-the-kenyan-women-rangers-risking-their-lives-for-wildlife-aoe",
+            "original": "https://i.guim.co.uk/img/media/0bc3082225fedc3ab50389c342f50f7a75d9da6f/0_100_1500_900/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=1383c48f839f1ed6b30b5af187bd9259"
+        },
+        {
+            "position": 65,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLb-VS9YQYZoJPltqvT3TrQqEcTs_1Tq5nvA&usqp=CAU",
+            "source": "199flags.com",
+            "title": "5 Best Dating Sites & Apps in Kenya \u2022 (Ultimate 2021 Guide)",
+            "link": "https://www.199flags.com/dating-sites-apps-in-kenya/",
+            "original": "https://www.199flags.com/wp-content/uploads/2019/08/Best-Dating-Sites-Apps-in-Kenya-%E2%80%A2-Meet-Date-Hot-Kenyan-Women-featured-image.jpg"
+        },
+        {
+            "position": 66,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8fP_4KpKb57vQmfLb5BBLbaLjqRYwuBOIjA&usqp=CAU",
+            "source": "beirut-today.com",
+            "title": "General Security takes over repatriation process for Kenyan workers",
+            "link": "https://beirut-today.com/2020/08/15/general-security-repatriation-kenyan-workers/",
+            "original": "https://beirut-today.com/wp-content/uploads/2020/08/banner-women.jpg"
+        },
+        {
+            "position": 67,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGbrp9tzdKE-iHfbDnVFX0JZG026A1MR0hXg&usqp=CAU",
+            "source": "theconversation.com",
+            "title": "Why we did it: the Kenyan women and girls who joined Al-Shabaab",
+            "link": "https://theconversation.com/why-we-did-it-the-kenyan-women-and-girls-who-joined-al-shabaab-151592",
+            "original": "https://images.theconversation.com/files/384987/original/file-20210218-22-5suhag.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop"
+        },
+        {
+            "position": 68,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaO9YE-2MrXb8cBko9Ldp2C2Wgzn6jKSh7KQ&usqp=CAU",
+            "source": "pri.org",
+            "title": "What if you were a Kenyan woman?",
+            "link": "https://www.pri.org/stories/2015-12-14/how-does-your-life-stack-against-kenyan-womans",
+            "original": "https://media.pri.org/s3fs-public/styles/story_main/public/story/images/kenya-quiz-lead.jpg?itok=nVUuXJzk"
+        },
+        {
+            "position": 69,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiyyh5cjlemTXoA4AKbf0v91R-s4Za_Z2A0g&usqp=CAU",
+            "source": "mpasho.co.ke",
+            "title": "Ogas taking over! Here are Kenyan women married to Nigerian men",
+            "link": "https://mpasho.co.ke/ogas-taking-over-here-are-kenyan-women-married-to-nigerian-men/",
+            "original": "https://live.mrf.io/statics/i/ps/assets.mpasho.co.ke/wp-content/uploads/2019/11/Nigerian-men.jpg?width=1200&enable=upscale"
+        },
+        {
+            "position": 70,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDKk12WkmyVteLHMNQFFLE0hVQGf6m2pNVQ&usqp=CAU",
+            "source": "theafricancourier.de",
+            "title": "New association of Kenyan women in Germany launches \u2014 THE AFRICAN COURIER.  Reporting Africa and its Diaspora!",
+            "link": "https://www.theafricancourier.de/germany/living-in-germany/new-association-of-kenyan-women-in-germany-launches/",
+            "original": "https://www.theafricancourier.de/wp-content/uploads/2019/10/Kenyan-Women-in-Germany-2019-1200x900.jpg"
+        },
+        {
+            "position": 71,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLoUFuxfIW-DDiw_FgSHjPsEBG-6xna_Wgw&usqp=CAU",
+            "source": "voanews.com",
+            "title": "Kenyan Women Returning to Traditional Birth Attendants | Voice of America -  English",
+            "link": "https://www.voanews.com/africa/kenyan-women-returning-traditional-birth-attendants",
+            "original": "https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-04/831F3FDB-9316-453D-8B1F-15C5BAD86EAE.jpg?itok=PBUb10ic"
+        },
+        {
+            "position": 72,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBe8StNm7doY9iojzaDbMpMn8pEOYLvbeSsw&usqp=CAU",
+            "source": "africawebtv.nl",
+            "title": "Nigerians and the women of Kenya \u2013 Africa Web TV Blogs",
+            "link": "https://africawebtv.nl/blog/nigerians-and-the-women-of-kenya/",
+            "original": "https://africawebtv.nl/blog/wp-content/uploads/sites/7/2016/05/20160423_145822.jpg"
+        },
+        {
+            "position": 73,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO3U-fazwPM9hqwGI_b88Yl3YJHejmmgb1g&usqp=CAU",
+            "source": "mail-order-brides.co.uk",
+            "title": "Meet Real Kenyan Women For Marriage Online | UPDATE: 2 '21",
+            "link": "https://mail-order-brides.co.uk/african/kenyan-brides/for-marriage/",
+            "original": "https://mail-order-brides.co.uk/wp-content/uploads/2019/12/beautiful-kenyan-women-for-marriage-year_long.jpg"
+        },
+        {
+            "position": 74,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhDQBP4C2-xnjvQxpe2Rg9sxzNBYyjqbDM-Q&usqp=CAU",
+            "source": "awmagazine.org",
+            "title": "The 40 Inspiring, Remarkable, and Motivating Kenyan Women in America  Diaspora in Eyes of Kenyans. - African Warrior Magazine",
+            "link": "https://www.awmagazine.org/40-inspiring-remarkable-motivating-kenyan-women-america-diaspora-eyes-kenyans/",
+            "original": "https://www.awmagazine.org/wp-content/uploads/2018/09/Judy-Nzeki-Photo-for-Main-Cover-Page.jpeg"
+        },
+        {
+            "position": 75,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Z7PWLouAqURGpoNEIKtoTzV6w_w3GbG2uQ&usqp=CAU",
+            "source": "ghafla.com",
+            "title": "Anerlisa: Kenyan women hate me since I transformed my body and got a  successful business - Ghafla! Kenya",
+            "link": "http://www.ghafla.com/ke/anerlisa-kenyan-women-hate-me-since-i-transformed-my-body-and-got-a-successful-business/",
+            "original": "http://www.ghafla.com/ke/wp-content/uploads/sites/4/2018/07/anerlisa-2.png"
+        },
+        {
+            "position": 76,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdmKy-y2oo-Z9yqzcU2rmQNRQEWFQPOioBnA&usqp=CAU",
+            "source": "pinterest.co.uk",
+            "title": "Pin on Beautiful Women from Kenya",
+            "link": "https://www.pinterest.co.uk/pin/459437599467087305/",
+            "original": "https://i.pinimg.com/originals/c1/18/a0/c118a047e7bd661c44013dd8b8c29a8b.jpg"
+        },
+        {
+            "position": 77,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVdcX27jfIHp2eMSGzKjv3YcXcTaZiZaHcw&usqp=CAU",
+            "source": "diasporamessenger.com",
+            "title": "10 Kenyan Women Billionaires Making Headlines (Huge investments)",
+            "link": "https://diasporamessenger.com/2019/06/10-kenyan-women-billionaires-making-headlines/",
+            "original": "https://i0.wp.com/diasporamessenger.com/wp-content/uploads/2019/06/Kenyan-Women-Billionaires.jpg?fit=600%2C300&ssl=1&resize=1280%2C720"
+        },
+        {
+            "position": 78,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzQUrXnprZVbfqJpnLaClU27u053aNPHngw&usqp=CAU",
+            "source": "thisisafrica.me",
+            "title": "The natural hair movement spurs business opportunities for Kenyan women |  This is africa",
+            "link": "https://thisisafrica.me/african-identities/the-natural-hair-movement-spurns-business-opportunities-for-kenyan-women/",
+            "original": "https://thisisafrica.me/wp-content/uploads/2016/09/Lucy-Kingori.jpg"
+        },
+        {
+            "position": 79,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq81Ai6op7VytyhiSKRUhZmPyqvmWSZ2Wvjg&usqp=CAU",
+            "source": "shutterstock.com",
+            "title": "Kenyan Women HD Stock Images | Shutterstock",
+            "link": "https://www.shutterstock.com/search/kenyan+women",
+            "original": "https://image.shutterstock.com/image-photo/kenyan-woman-sitting-near-fence-260nw-363071480.jpg"
+        },
+        {
+            "position": 80,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShnIZDxU-6VsdC1ykQSBHWa1PpJo1TzbFssg&usqp=CAU",
+            "source": "hapakenya.com",
+            "title": "10 Kenyan women who look stunning with short hair - HapaKenya",
+            "link": "https://hapakenya.com/2016/03/24/10-kenyan-women-look-stunning-short-hair/",
+            "original": "https://hapakenya.com/wp-content/uploads/2016/03/Patricia-Kihoro.jpg"
+        },
+        {
+            "position": 81,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yw-0Fe9svv8SiUIdxi6vUzcOVT-rY_Qbzg&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "They see us as slaves': Kenyan women head for the Gulf despite abuse fears  | Domestic workers | The Guardian",
+            "link": "https://www.theguardian.com/global-development/2019/oct/29/kenyan-women-gulf-despite-abuse-fears-domestic-workers",
+            "original": "https://i.guim.co.uk/img/media/7f4ca89ff41bdb21a0e2df7bdaf2a4b394d77bbf/0_0_6000_3600/master/6000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=40a6ccea437f3dc084e5a29f89c7f603"
+        },
+        {
+            "position": 82,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizysUWeko5RRvO11BLTm1NU_uqvWcE7Bewg&usqp=CAU",
+            "source": "binti.co.ke",
+            "title": "Kenya Fashion Tips for Kenyan Women - Binti - The Kenyan Fashion Blog",
+            "link": "https://binti.co.ke/blog/7-timeless-kenya-fashion-tips-advice-women/kenya-fashion-tips-for-kenyan-women/",
+            "original": "https://binti.co.ke/blog/wp-content/uploads/2017/07/Kenya-Fashion-Tips-for-Kenyan-Women.jpg"
+        },
+        {
+            "position": 83,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScD8tAmVN3d-kESNJwstZAI8nRJ--dzmwbng&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Judith & James tunics | Kleding",
+            "link": "https://www.pinterest.com/pin/33706697185347401/",
+            "original": "https://i.pinimg.com/originals/4e/93/f0/4e93f01819fd3ebcb7f282ccf4d10d88.jpg"
+        },
+        {
+            "position": 84,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRzcOrva2Ozs1uCqzMTzyPNC1cpHG1xiPjhQ&usqp=CAU",
+            "source": "shutterstock.com",
+            "title": "Kenyan Women HD Stock Images | Shutterstock",
+            "link": "https://www.shutterstock.com/search/kenyan+women",
+            "original": "https://image.shutterstock.com/image-photo/nairobi-kenya-september-17-2013-260nw-1397360594.jpg"
+        },
+        {
+            "position": 85,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUhUgD2isOYjHPUwDTB91uH9B6qqJsLu3iQ&usqp=CAU",
+            "source": "kwitu.org",
+            "title": "KENYAN WOMEN ON THE MOVE \u2013 KWITU-Kenya Women in the United States | A  transformative group for Kenyan women in the United States and Canada",
+            "link": "http://www.kwitu.org/kwitudcvisit/",
+            "original": "http://www.kwitu.org/wp-content/uploads/2017/09/32668477_950381118463933_1580886674638897152_n-1.jpg"
+        },
+        {
+            "position": 86,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_ymQOEBhp9ZbbjGaFIzioS1h_d6s1jMg8Q&usqp=CAU",
+            "source": "whats4eats.com",
+            "title": "Kenya: Recipes and Cuisine | Whats4eats",
+            "link": "https://www.whats4eats.com/africa/kenya-cuisine",
+            "original": "https://www.whats4eats.com/files/country-kenya-singing-masai-women-flickr-marcsamsom-2316324361-4x3.jpg"
+        },
+        {
+            "position": 87,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHx0YHSR-hR7soQRFZhvtlLMpY2wLp3u4sxw&usqp=CAU",
+            "source": "hookuptravels.com",
+            "title": "How to Get Laid in Kenya - Where to Pick Up and Date Girls",
+            "link": "https://hookuptravels.com/wiki/Kenya",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kenyan_Woman_in_Nairobi.jpg/900px-Kenyan_Woman_in_Nairobi.jpg"
+        },
+        {
+            "position": 88,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13q19YOaUBt0hXMhul9g9aRF8NzBjYfkcfw&usqp=CAU",
+            "source": "iwpr.net",
+            "title": "Kenyan Women Face Obstacles in Public Life | Institute for War and Peace  Reporting",
+            "link": "https://iwpr.net/global-voices/kenyan-women-face-obstacles-public-life",
+            "original": "https://iwpr.net/sites/default/files/styles/story_focal_590/public/images/2014_Story_Images/kib1.jpg?itok=le_zGZbK"
+        },
+        {
+            "position": 89,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuA8Awe4bYxTxNsv9gTeNIcIN1rO35t-zO1Q&usqp=CAU",
+            "source": "alamy.com",
+            "title": "Three young Kenyan women laugh together, Nairobi, Kenya Stock Photo - Alamy",
+            "link": "https://www.alamy.com/three-young-kenyan-women-laugh-together-nairobi-kenya-image281757333.html",
+            "original": "https://c8.alamy.com/comp/XAB49W/three-young-kenyan-women-laugh-together-nairobi-kenya-XAB49W.jpg"
+        },
+        {
+            "position": 90,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVSj7FZUhgJLAR7IzPIJ3jCT7D0K6oQQpr3w&usqp=CAU",
+            "source": "medtreksinternational.com",
+            "title": "Women in Medicine ~ A success story of a young female doctor in Kenya -  MedTreks International",
+            "link": "https://medtreksinternational.com/2019/11/26/women-in-medicine-a-success-story-of-a-young-female-doctor-in-kenya/",
+            "original": "https://i1.wp.com/www.medtreksinternational.com/wp-content/uploads/2019/11/dr-esther.jpg?fit=2048%2C1536&ssl=1"
+        },
+        {
+            "position": 91,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvmL90dzm6hxArRmYQtnt6jJ97JV6rVS8BoA&usqp=CAU",
+            "source": "genderinkenya.org",
+            "title": "New Women's Empowerment Index for Kenyan Women and Girls - Gender in Kenya",
+            "link": "https://www.genderinkenya.org/news/new-womens-empowerment-index-for-kenyan-women-and-girls/",
+            "original": "https://www.genderinkenya.org/wp-content/uploads/2020/08/110-1-680x380.jpg"
+        },
+        {
+            "position": 92,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8k4z250N9FTWItYFWHu_u5H5SVLyH4Iqmvg&usqp=CAU",
+            "source": "globalphilanthropyalliance.org",
+            "title": "Empower and Serve Kenya: coding for Kenyan women \u2013 GPA",
+            "link": "https://globalphilanthropyalliance.org/empower-and-serve-kenya-coding-for-kenyan-women/",
+            "original": "https://globalphilanthropyalliance.org/wp-content/uploads/emp-serve-trainers-2.png"
+        },
+        {
+            "position": 93,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF1TM3PfTmXsYjkg7_pJ5tIUmhhsHtICn3gA&usqp=CAU",
+            "source": "standardmedia.co.ke",
+            "title": "Extreme measures Kenyan women use to keep their hubbies Eve Woman",
+            "link": "https://www.standardmedia.co.ke/evewoman/my-man/article/2000229471/extreme-measures-kenyan-women-use-to-keep-their-hubbies",
+            "original": "https://cdn.standardmedia.co.ke/evemedia/eveimages/wednesday/odcjul7pwbormz5875df08ec313.jpg"
+        },
+        {
+            "position": 94,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShs3DFaDWO2znk-6AiUxUGZFoGrgtQxF05Hg&usqp=CAU",
+            "source": "foodtank.com",
+            "title": "Empowering Kenyan Women with Nutrition Education \u2013 Food Tank",
+            "link": "https://foodtank.com/news/2018/06/empowering-kenyan-women-with-nutrition-education/",
+            "original": "https://foodtank.com/wp-content/uploads/2018/06/food-tank-smart-food-kenyan-women-cooking.jpg"
+        },
+        {
+            "position": 95,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Smy3VCMEeYx87C4l92WpkQtamPmXK_yddA&usqp=CAU",
+            "source": "hapakenya.com",
+            "title": "19 Pioneering Kenyan women that you should know - HapaKenya",
+            "link": "https://hapakenya.com/2016/03/15/pioneering-kenyan-women-that-you-should-know/",
+            "original": "https://hapakenya.com/wp-content/uploads/2016/03/Wangari-Maathai.jpg"
+        },
+        {
+            "position": 96,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDgTD4A7_vbGX9ABcYbfm5_eEi8IxGFEAZJw&usqp=CAU",
+            "source": "theelephant.info",
+            "title": "GENDER PAY GAP: Why do Kenyan women get paid less than men for equal work?  | The Elephant",
+            "link": "https://www.theelephant.info/specials/2018/03/08/gender-pay-gap-why-do-kenyan-women-get-paid-less-than-men-for-equal-work/",
+            "original": "https://www.theelephant.info/wp-content/uploads/2018/03/women-at-work.jpg"
+        },
+        {
+            "position": 97,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmZQepu723e4jLTwECyE3c1beHTQfD3WqoA&usqp=CAU",
+            "source": "cid.suny.edu",
+            "title": "Kenyan Women Leaders Advance County Development Agenda | SUNY/CID",
+            "link": "http://www.cid.suny.edu/newsroom/news2018/newsroom_2018_ahadi_women.shtml",
+            "original": "http://www.cid.suny.edu/newsphotos1/news2018_ahadi_women.jpg"
+        },
+        {
+            "position": 98,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk51XMxqkP-5dwU5hOvnvyPRbRvWohNZYSXw&usqp=CAU",
+            "source": "dailyscoopmg.com",
+            "title": "Playboy Mzungu Mike oliver exposes more than 15 Kenyan women | Daily Scoop  Magazine",
+            "link": "https://dailyscoopmg.com/playboy-mzungu-mike-oliver-exposes-more-than-15-kenyan-women",
+            "original": "https://dailyscoopmg.com/wp-content/uploads/2020/08/Mike-Oliver-1.jpg"
+        },
+        {
+            "position": 99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-2XBFROrxfOM90dN7_hlER5pS4T2WGcOd-g&usqp=CAU",
+            "source": "hivisasa.com",
+            "title": "Harrowing tale of Kenyan women dating foreigners",
+            "link": "https://hivisasa.com/posts/900-why-you-need-to-be-careful-when-dating-nigerian-guys-and-any-other-foreigners",
+            "original": "https://images.hivisasa.com/1200/knwPPAqoKHhappy-couple-e1427124903499.jpg"
+        },
+        {
+            "position": 100,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-G9HEp5Vft8o4Qa-5yUkhuFNZgg3x3LWG4g&usqp=CAU",
+            "source": "chathamhouse.org",
+            "title": "Achieving Gender Equality in Kenya: 'A constitution is just a piece of  paper if it's not implemented' | Chatham House \u2013 International Affairs  Think Tank",
+            "link": "https://www.chathamhouse.org/2020/07/achieving-gender-equality-kenya-constitution-just-piece-paper-if-its-not-implemented",
+            "original": "https://www.chathamhouse.org/sites/default/files/styles/chat_social_1200_630/public/2020-07-01-Kenyan-Women-Protest.jpg?itok=SxK18mWx"
+        }
+    ]
+}

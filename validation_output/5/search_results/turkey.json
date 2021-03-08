@@ -1,0 +1,932 @@
+{
+    "search_metadata": {
+        "id": "603c2dc6555dd9a2daa913ab",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a3b92eb93d75337c/603c2dc6555dd9a2daa913ab.json",
+        "created_at": "2021-02-28 23:56:54 UTC",
+        "processed_at": "2021-02-28 23:56:54 UTC",
+        "google_url": "https://www.google.com/search?q=turkish+women&oq=turkish+women&tbm=isch&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/a3b92eb93d75337c/603c2dc6555dd9a2daa913ab.html",
+        "total_time_taken": 1.2
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "turkish women",
+        "google_domain": "google.com",
+        "device": "desktop",
+        "tbm": "isch"
+    },
+    "search_information": {
+        "image_results_state": "Results for exact spelling",
+        "query_displayed": "turkish women"
+    },
+    "suggested_searches": [
+        {
+            "name": "dress",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:dress:hMjH9V3uyrc%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoAHoECAEQGA",
+            "chips": "q:turkish+women,g_1:dress:hMjH9V3uyrc%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Adress%3AhMjH9V3uyrc%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/64bbcbb34d76dc5b4f0aa34d0541e241ae9c27eb577c2fb4477d70082e8340a0.jpeg"
+        },
+        {
+            "name": "persian",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:persian:VzUgJAW4V-g%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoAXoECAEQGg",
+            "chips": "q:turkish+women,g_1:persian:VzUgJAW4V-g%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Apersian%3AVzUgJAW4V-g%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/64bbcbb34d76dc5b4f0aa34d0541e24132478247f08aec6a33a3cf4f8e04f1ac.jpeg"
+        },
+        {
+            "name": "secular",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:secular:X-q4phaWi4w%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoAnoECAEQHA",
+            "chips": "q:turkish+women,g_1:secular:X-q4phaWi4w%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Asecular%3AX-q4phaWi4w%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/64bbcbb34d76dc5b4f0aa34d0541e2410411279376b566ffbe9360847e69e5ba.jpeg"
+        },
+        {
+            "name": "rural",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:rural:omPjOOhB5_0%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoA3oECAEQHg",
+            "chips": "q:turkish+women,g_1:rural:omPjOOhB5_0%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Arural%3AomPjOOhB5_0%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/64bbcbb34d76dc5b4f0aa34d0541e2416ae9ffa69cecf9d12d7a83af5082eccc.jpeg"
+        },
+        {
+            "name": "afro",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:afro:RkX8fvCsRhM%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoBHoECAEQIA",
+            "chips": "q:turkish+women,g_1:afro:RkX8fvCsRhM%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Aafro%3ARkX8fvCsRhM%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/64bbcbb34d76dc5b4f0aa34d0541e241ae4a3c7d768ce6864d0e2fd72dc94ab7.jpeg"
+        },
+        {
+            "name": "veiled",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:veiled:nHAsQbWw55U%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoBXoECAEQIg",
+            "chips": "q:turkish+women,g_1:veiled:nHAsQbWw55U%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Aveiled%3AnHAsQbWw55U%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/64bbcbb34d76dc5b4f0aa34d0541e241f7e12601e7473f88ed1f20090f649f74.jpeg"
+        },
+        {
+            "name": "ankara",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:ankara:cvLLQMQcw-c%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoBnoECAEQJA",
+            "chips": "q:turkish+women,g_1:ankara:cvLLQMQcw-c%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Aankara%3AcvLLQMQcw-c%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/64bbcbb34d76dc5b4f0aa34d0541e24115f615bd135282626d6063157e092eba.jpeg"
+        },
+        {
+            "name": "mongolian",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:mongolian:B_z9Jy47bKQ%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoB3oECAEQJg",
+            "chips": "q:turkish+women,g_1:mongolian:B_z9Jy47bKQ%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Amongolian%3AB_z9Jy47bKQ%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/64bbcbb34d76dc5b4f0aa34d0541e241adbdd88feaa326b34204adb45635d0e9.jpeg"
+        },
+        {
+            "name": "pale",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:pale:YeVTNzE_QCA%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoCHoECAEQKA",
+            "chips": "q:turkish+women,g_1:pale:YeVTNzE_QCA%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Apale%3AYeVTNzE_QCA%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/64bbcbb34d76dc5b4f0aa34d0541e241eceab671377db0e2c689839ea77276eb.jpeg"
+        },
+        {
+            "name": "iranian",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:iranian:JIb6IdEUdb0%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoCXoECAEQKg",
+            "chips": "q:turkish+women,g_1:iranian:JIb6IdEUdb0%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Airanian%3AJIb6IdEUdb0%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/64bbcbb34d76dc5b4f0aa34d0541e241771d83e3d2fdeb1628621eb3ba921344.jpeg"
+        },
+        {
+            "name": "gypsy",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:gypsy:WtcwfxHpVWI%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoCnoECAEQLA",
+            "chips": "q:turkish+women,g_1:gypsy:WtcwfxHpVWI%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Agypsy%3AWtcwfxHpVWI%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/64bbcbb34d76dc5b4f0aa34d0541e24168b1714fe5537bf563c9f50712e049c4.jpeg"
+        },
+        {
+            "name": "alevi",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:alevi:f7MgFcFKXyQ%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoC3oECAEQLg",
+            "chips": "q:turkish+women,g_1:alevi:f7MgFcFKXyQ%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Aalevi%3Af7MgFcFKXyQ%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/64bbcbb34d76dc5b4f0aa34d0541e241c9c0e2eac9f3a4257c48ee69b6e56ce0.jpeg"
+        },
+        {
+            "name": "turkey",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:turkey:zCt_GC_oeGE%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoDHoECAEQMA",
+            "chips": "q:turkish+women,g_1:turkey:zCt_GC_oeGE%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Aturkey%3AzCt_GC_oeGE%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0w3YXblxUVxzifEqEEk3i9SIW_VMFxKhoHjJXK_6bvldeeMNe&usqp=CAU"
+        },
+        {
+            "name": "middle eastern",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:middle+eastern:GS2vNI-N1cs%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoDXoECAEQMg",
+            "chips": "q:turkish+women,g_1:middle+eastern:GS2vNI-N1cs%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Amiddle%2Beastern%3AGS2vNI-N1cs%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRln82QqIcvrhBxqi8IP7a4GbHt5X5pz1yA11eD0IZVpgeUr0OV&usqp=CAU"
+        },
+        {
+            "name": "hayat",
+            "link": "https://www.google.com/search?q=turkish+women&tbm=isch&chips=q:turkish+women,g_1:hayat:y537x7msMss%3D&hl=en-US&sa=X&ved=2ahUKEwiX5_yL5I3vAhVWf6wKHWbFARMQ4lYoDnoECAEQNA",
+            "chips": "q:turkish+women,g_1:hayat:y537x7msMss%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aturkish%2Bwomen%2Cg_1%3Ahayat%3Ay537x7msMss%253D&device=desktop&engine=google&google_domain=google.com&q=turkish+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13s5W2nNLLeLa1IzD0Hc0-jiXRX5e4WgJMOZvCtiBpKvOhz4q&usqp=CAU"
+        }
+    ],
+    "images_results": [
+        {
+            "position": 1,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd7ee0e2ee215cd1aff677da8441cda4900858eedb76b792de.jpeg",
+            "source": "emerging-europe.com",
+            "title": "Turkish women engineering a better world - Emerging Europe",
+            "link": "https://emerging-europe.com/voices/turkish-women-engineering-a-better-world/",
+            "original": "https://emerging-europe.com/wp-content/uploads/2020/03/image004-990x556.jpg"
+        },
+        {
+            "position": 2,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd9be7c6800fbf1411f013798f5a3ceac5b576d023ff3ba995.jpeg",
+            "source": "dailysabah.com",
+            "title": "Turkish women set to be nuclear energy pioneers | Daily Sabah",
+            "link": "https://www.dailysabah.com/turkey/turkish-women-set-to-be-nuclear-energy-pioneers/news",
+            "original": "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/02/26/22397.jpg"
+        },
+        {
+            "position": 3,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd1aa4d8f99282a29e56dfe0a469dec6ce55a9e82b8baf14d1.jpeg",
+            "source": "thearabweekly.com",
+            "title": "Shedding the headscarf, Turkish women tell of pressures and new solidarity  | Thomas Seibert | AW",
+            "link": "https://thearabweekly.com/shedding-headscarf-turkish-women-tell-pressures-and-new-solidarity",
+            "original": "https://thearabweekly.com/sites/default/files/styles/article_image_800x450_/public/2019-02/a1_55.jpg?itok=6aL_iC6d"
+        },
+        {
+            "position": 4,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cdbc5622e2d0eda1d04cb6bf62ebdfd672253b905187d0c40e.jpeg",
+            "source": "xinhuanet.com",
+            "title": "Turkish women smoke for \"freedom\" in male-dominated society - Xinhua |  English.news.cn",
+            "link": "http://www.xinhuanet.com/english/2018-03/27/c_137069516.htm",
+            "original": "http://www.xinhuanet.com/english/2018-03/27/CcrbeeE005005_20180327_CRMFN0A001_11n.jpg"
+        },
+        {
+            "position": 5,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cde7d4c445818b384c6c9abc6c858ff685c332eecacfa0c374.jpeg",
+            "source": "huffpost.com",
+            "title": "Why Many Turkish Women Struggle With Post-Secondary Education And Careers |  HuffPost",
+            "link": "https://www.huffpost.com/entry/women-turkey-workforce-gender-gap_n_585c2000e4b0eb58648598b8",
+            "original": "https://img.huffingtonpost.com/asset/585c224e1600002500bdf3e8.jpeg?cache=nymwd7kfwq&ops=scalefit_630_noupscale"
+        },
+        {
+            "position": 6,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cdf1e4e2de547fad1417273d28d786017c3069d75c0ba21599.jpeg",
+            "source": "reuters.com",
+            "title": "Turkish women march in rights protest in Istanbul | Reuters",
+            "link": "https://www.reuters.com/article/us-turkey-rights-women-idUSKBN1AE0PK",
+            "original": "https://static.reuters.com/resources/r/?m=02&d=20170730&t=2&i=1195047239&r=LYNXMPED6S0G1&w=800"
+        },
+        {
+            "position": 7,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd2bb7a19e3c8c2f7cb34b6911d86dfc98efb0a68ba23fcb92.jpeg",
+            "source": "al-monitor.com",
+            "title": "Outraged over mother's murder, Turkish women demand protection -  Al-Monitor: the Pulse of the Middle East",
+            "link": "https://www.al-monitor.com/pulse/originals/2019/08/mother-murder-women-violence-domestic-law-turkey.html",
+            "original": "https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2019/08/RTX6Q8Q5.jpg/RTX6Q8Q5.jpg"
+        },
+        {
+            "position": 8,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cdf5a57ee02489d13544aca8e2e14ae62c9778d9ee618e6c61.jpeg",
+            "source": "hurriyetdailynews.com",
+            "title": "Turkey mourns young woman killed in gruesome femicide - Turkey News",
+            "link": "https://www.hurriyetdailynews.com/turkey-mourns-grusome-killing-of-young-woman-156786",
+            "original": "https://i.hurimg.com/i/hdn/75/0x0/5f18390267b0a90a2cca78cd.jpeg"
+        },
+        {
+            "position": 9,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd4aa323a14d78e4f02ed511522bb215340f20a858fd65d2c8.jpeg",
+            "source": "economictimes.indiatimes.com",
+            "title": "Gender violence: Before you post a #ChallengeAccepted picture, here's the  truth behind the new trend - The Economic Times",
+            "link": "https://economictimes.indiatimes.com/magazines/panache/before-you-post-a-challengeaccepted-picture-heres-the-truth-behind-the-new-trend/articleshow/77299865.cms",
+            "original": "https://img.etimg.com/thumb/msid-77299937,width-650,imgsize-395855,,resizemode-4,quality-100/bollywood-actresses-ananya-pandey-and-sara-ali-khan-joined-the-challengeaccepted-trend-that-went-viral-.jpg"
+        },
+        {
+            "position": 10,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd31de5d765346fbb6dabe4078e968795c5abb27078928c0bd.jpeg",
+            "source": "ahvalnews.com",
+            "title": "Just 28 percent of Turkish women in work \u2013 report | Ahval",
+            "link": "https://ahvalnews.com/womens-rights/just-28-percent-turkish-women-work-report",
+            "original": "https://ahvalnews.com/sites/default/files/styles/is_article_featured_top_1200x550/public/2018-02/hayat.png?h=423d451f&itok=NQr8AWzQ"
+        },
+        {
+            "position": 11,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd9be7c6800fbf141105a7421b9036ca63692d2e79c0bad960.jpeg",
+            "source": "pinterest.com",
+            "title": "Turkish Beauty by Serdar Sertce | Woman face, Beauty, Pretty face",
+            "link": "https://www.pinterest.com/pin/395050198556715356/",
+            "original": "https://i.pinimg.com/originals/70/33/9e/70339e32726cd31e780fdcf89360c4d6.jpg"
+        },
+        {
+            "position": 12,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd9be7c6800fbf1411d1bdbbf06d8d61b40b40e9805b6c4e28.jpeg",
+            "source": "hurriyetdailynews.com",
+            "title": "Why do (Turkish) women have to choose between clich\u00e9s?",
+            "link": "https://www.hurriyetdailynews.com/why-do-turkish-women-have-to-choose-between-clichs-103532",
+            "original": "https://i.hurimg.com/i/hdn/75/0x0/59c9960945d2a027e83db380.jpg"
+        },
+        {
+            "position": 13,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd9be7c6800fbf1411000d074bb048e162988451cd9b01b25f.jpeg",
+            "source": "thetimes.co.uk",
+            "title": "They are hunted like birds here': killings of women soar in Turkey | World  | The Sunday Times",
+            "link": "https://www.thetimes.co.uk/article/they-are-hunted-like-birds-here-killings-of-women-soar-in-turkey-twzp0spv2",
+            "original": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F62a58bc4-d40a-11ea-867d-b1ae14c05a8c.jpg?crop=2667%2C1500%2C0%2C0"
+        },
+        {
+            "position": 14,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd9be7c6800fbf1411725e112e919f0e4bf491fdda3d7da964.jpeg",
+            "source": "dailysabah.com",
+            "title": "Anniversary of suffrage: A rocky road for Turkish women | Daily Sabah",
+            "link": "https://www.dailysabah.com/turkey/2019/12/05/anniversary-of-suffrage-a-rocky-road-for-turkish-women",
+            "original": "https://iadsb.tmgrup.com.tr/7646c2/1200/627/0/6/1000/528?u=https://idsb.tmgrup.com.tr/2019/12/05/1575553155196.jpg"
+        },
+        {
+            "position": 15,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd9be7c6800fbf1411e84134d42092ac3702c146f1178f7806.jpeg",
+            "source": "opendemocracy.net",
+            "title": "Gender and authoritarian populism in Turkey: the two phases of AKP rule |  openDemocracy",
+            "link": "https://www.opendemocracy.net/en/rethinking-populism/gender-and-authoritarian-populism-turkey-two-phases-akp-rule/",
+            "original": "https://cdn-prod.opendemocracy.net/media/images/PA-49045853.max-760x504.jpg"
+        },
+        {
+            "position": 16,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd9be7c6800fbf14111a7c9cac95fe5aa59548a862b3be3cc5.jpeg",
+            "source": "aljazeera.com",
+            "title": "Turkey: The life of a battered woman | Turkey News | Al Jazeera",
+            "link": "https://www.aljazeera.com/features/2014/2/10/turkey-the-life-of-a-battered-woman",
+            "original": "https://www.aljazeera.com/wp-content/uploads/2014/02/201426122914512734_20.jpeg?resize=570%2C380"
+        },
+        {
+            "position": 17,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd9be7c6800fbf1411b02baffd91c2f3f617a7f079429b59e1.jpeg",
+            "source": "sat7uk.org",
+            "title": "Struggle and sacrifice\u201d \u2013 being a woman in modern-day Turkey \u00bb SAT-7 UK",
+            "link": "https://www.sat7uk.org/struggle-and-sacrifice-being-a-woman-in-modern-day-turkey/",
+            "original": "https://www.sat7uk.org/wp-content/uploads/2020/03/Young-Turkish-Women-in-Traditional-Dress.jpg"
+        },
+        {
+            "position": 18,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd9be7c6800fbf1411a18c520b8215d89fbb1b9b1d7d38a6bd.jpeg",
+            "source": "pinterest.com",
+            "title": "Turkish Cypriot in Istanbul, Turkey | Beauty, Beauty women, Beauty videos",
+            "link": "https://www.pinterest.com/pin/326581410459479421/",
+            "original": "https://i.pinimg.com/originals/b7/b6/11/b7b611f0abdc7391daa1ebc390d38cbd.jpg"
+        },
+        {
+            "position": 19,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd9be7c6800fbf1411a549be280746b9c50557decb284b0238.jpeg",
+            "source": "middleeasteye.net",
+            "title": "The Turkish mother who brought the lives of village women to the world |  Middle East Eye",
+            "link": "https://www.middleeasteye.net/discover/turkish-mother-if-theres-talent-inside-you-it-always-finds-way-out",
+            "original": "https://www.middleeasteye.net/sites/default/files/styles/article_page/public/images-story/kocak1.jpg?itok=Ze-SBQIx"
+        },
+        {
+            "position": 20,
+            "thumbnail": "https://serpapi.com/searches/603c2dc6555dd9a2daa913ab/images/8ce7f515a2f2f9cd9be7c6800fbf14115546999d862ac63de229493d05f39b03.jpeg",
+            "source": "balcanicaucaso.org",
+            "title": "F\u00e4tmag\u00fcl Berktay: \u201cTurkish women root for the EU\u201d / All the news / Homepage  - Osservatorio Balcani e Caucaso Transeuropa",
+            "link": "https://www.balcanicaucaso.org/eng/All-the-news/Faetmaguel-Berktay-Turkish-women-root-for-the-EU-80557",
+            "original": "https://www.balcanicaucaso.org/var/obc/storage/images/topics/human-rights/faetmaguel-berktay-turkish-women-root-for-the-eu/425696-17-eng-GB/Faetmaguel-Berktay-Turkish-women-root-for-the-EU.jpg"
+        },
+        {
+            "position": 21,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIoDQJOG22vdTqk6t1LLfq2fyW0MLygbTDw&usqp=CAU",
+            "source": "unsplash.com",
+            "title": "Turkish Woman Pictures | Download Free Images on Unsplash",
+            "link": "https://unsplash.com/s/photos/turkish-woman",
+            "original": "https://images.unsplash.com/photo-1591089079607-73a2d0343394?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8dHVya2lzaCUyMHdvbWFufGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80"
+        },
+        {
+            "position": 22,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdMt94intBxaPZrFDzPOlgJdu3sNFoRMpu_A&usqp=CAU",
+            "source": "assembly.malala.org",
+            "title": "Shedding the stigma around Turkish women and menstruation \u2014 Assembly |  Malala Fund",
+            "link": "https://assembly.malala.org/stories/menstruation-rural-turkey",
+            "original": "http://static1.squarespace.com/static/5f402a9d4e121b7f850b4374/5f402ad54e121b7f850b4975/5f402adc4e121b7f850b53f4/1605207224720/IMG_8461.jpg?format=1500w"
+        },
+        {
+            "position": 23,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb5o3uYI9C8YtDzgdjTdKwEuZVlbqs-v4v1w&usqp=CAU",
+            "source": "voanews.com",
+            "title": "Turkish Women's Groups Gird for Abortion Rights Battle | Voice of America -  English",
+            "link": "https://www.voanews.com/europe/turkish-womens-groups-gird-abortion-rights-battle",
+            "original": "https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-04/61886AA4-0977-418A-9F7A-996CB169F547.jpg?itok=mANJF6FO"
+        },
+        {
+            "position": 24,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5u2XY7POTDKb7_q4U5gOO3LMMCLpUdTlFQ&usqp=CAU",
+            "source": "themasculinetraveler.com",
+            "title": "Turkish Women: Dating Tips for the Crossroads of Europe & Asia | The  Masculine Traveler",
+            "link": "https://www.themasculinetraveler.com/turkish-women/",
+            "original": "https://www.themasculinetraveler.com/wp-content/uploads/2019/08/turkish-women1.jpg"
+        },
+        {
+            "position": 25,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR0zJFAP0J-b8T0zhnYCdey9RQZWJLjhzvNw&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Hande Er\u00e7el | Turkish women beautiful, Turkish beauty, Beautiful blonde girl",
+            "link": "https://www.pinterest.com/pin/829154981376422694/",
+            "original": "https://i.pinimg.com/originals/c9/92/f7/c992f74dfd02304dc9a1a3bc8c7fdae2.jpg"
+        },
+        {
+            "position": 26,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0EMxLmxdkX4OZoW9yi1MUtZ_MooZEEYMm4w&usqp=CAU",
+            "source": "abcnews.go.com",
+            "title": "Iranian and Turkish women join black-and-white Instagram challenge - ABC  News",
+            "link": "https://abcnews.go.com/International/iranian-turkish-women-join-black-white-instagram-challenge/story?id=72084792",
+            "original": "https://s.abcnews.com/images/International/protest-gty-er-200730_1596155727099_hpMain_16x9_1600.jpg"
+        },
+        {
+            "position": 27,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjPrHQ8zcUd4B9zrXmOPuKjc2nsJ26qajzg&usqp=CAU",
+            "source": "aldianews.com",
+            "title": "ChallengeAccepted for Turkish women | AL D\u00cdA News",
+            "link": "https://aldianews.com/articles/culture/social/challengeaccepted-turkish-women/59892",
+            "original": "https://aldianews.com/sites/default/files/styles/article_image/public/articles/hbz-gabrielle-union-jennifer-lopez-index-1595961747_0.jpg?itok=tfaBa5Vp"
+        },
+        {
+            "position": 28,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDHLf4gOuN1AXlB62p_iUapVdQV3jaXKDAw&usqp=CAU",
+            "source": "npr.org",
+            "title": "We Don't Want To Die': Women In Turkey Decry Rise In Violence And Killings  : NPR",
+            "link": "https://www.npr.org/2019/09/15/760135010/we-dont-want-to-die-women-in-turkey-decry-rise-in-violence-and-killings",
+            "original": "https://media.npr.org/assets/img/2019/09/12/turkey-gender-violence-fidan-ataselim-0b05b3d69a2b8f738500721829de7f3b4c2abb9f.jpg"
+        },
+        {
+            "position": 29,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf6qDkzWaCpBfAsE8q943mhvVtTekrJNJObg&usqp=CAU",
+            "source": "thetelegram.com",
+            "title": "Lockdown sees Turkish women bear brunt of unpaid work: research | World |  News | The Telegram",
+            "link": "https://www.thetelegram.com/news/lockdown-sees-turkish-women-bear-brunt-of-unpaid-work-research-482086/",
+            "original": "https://www.thetelegram.com/media/photologue/photos/cache/lockdown-sees-turkish-women-bear-brunt-of-unpaid-work-research_large"
+        },
+        {
+            "position": 30,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbTV37sqZSbcQKVKoI4sHqChOswsykr8GRA&usqp=CAU",
+            "source": "dailysabah.com",
+            "title": "Turkish women mark 84th year of suffrage | Daily Sabah",
+            "link": "https://www.dailysabah.com/turkey/2018/12/05/turkish-women-mark-84th-year-of-suffrage",
+            "original": "https://iadsb.tmgrup.com.tr/de49e4/0/0/0/0/800/535?u=https://idsb.tmgrup.com.tr/2018/12/05/turkish-women-mark-84th-year-of-suffrage-1544027138292.jpg"
+        },
+        {
+            "position": 31,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjUyA1u7dK5m2imp4HEQrT4hdWIcvGAQu2ug&usqp=CAU",
+            "source": "femaleonezero.com",
+            "title": "The most Inspirational Turkish Women Entrepreneurs | Female One Zero",
+            "link": "https://femaleonezero.com/people/most-inspirational-turkish-women-entrepreneurs/",
+            "original": "https://femaleonezero.com/wp-content/uploads/2019/03/Mujde-Esin-300x300.jpg"
+        },
+        {
+            "position": 32,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlO2R82j0ngmfi675DPLNvuJVvh1wtPEteyQ&usqp=CAU",
+            "source": "middleeastmonitor.com",
+            "title": "Turkey: 39 women killed in gender-based violence in November \u2013 Middle East  Monitor",
+            "link": "https://www.middleeastmonitor.com/20191205-turkey-39-women-killed-in-gender-based-violence-in-november/",
+            "original": "https://i1.wp.com/www.middleeastmonitor.com/wp-content/uploads/2019/12/Ceren-%C3%96zdemirCeren-O%CC%88zdemir.jpg?resize=1200%2C800&quality=85&strip=all&zoom=1&ssl=1"
+        },
+        {
+            "position": 33,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN5hvXbuWO6Zqw9l0IA1wg0hsbY7H3-SMjfg&usqp=CAU",
+            "source": "pri.org",
+            "title": "How women who've left Turkey are helping those left behind | The World from  PRX",
+            "link": "https://www.pri.org/stories/2019-04-19/how-women-who-ve-left-turkey-are-helping-those-left-behind",
+            "original": "https://media.pri.org/s3fs-public/styles/story_main/public/images/2019/04/turkish-041719.jpg?itok=plqZTZxx"
+        },
+        {
+            "position": 34,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMAJvZeM1Gg_z5HoPAD4NPYkX2aivAgpV6w&usqp=CAU",
+            "source": "bestasianwomen.com",
+            "title": "Beautiful Turkish Women: What Makes Them So Desirable?",
+            "link": "https://bestasianwomen.com/turkish-women/",
+            "original": "https://bestasianwomen.com/wp-content/uploads/2020/04/turk4.jpg"
+        },
+        {
+            "position": 35,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1hkVPIwR9yzrF9jYAM2iV0oXd5XRBSPIbgA&usqp=CAU",
+            "source": "quora.com",
+            "title": "Are Turkish women the most beautiful girls in the world? - Quora",
+            "link": "https://www.quora.com/Are-Turkish-women-the-most-beautiful-girls-in-the-world",
+            "original": "https://qph.fs.quoracdn.net/main-qimg-173778f415e693928c6a5dcad8b5ab25"
+        },
+        {
+            "position": 36,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8xl0pmFGWiIhD9DhAsijxLgW_lV-8Vg8eA&usqp=CAU",
+            "source": "thearabweekly.com",
+            "title": "Turkish women's rights activists concerned about proposed 'amnesty for  child abusers' || AW",
+            "link": "https://thearabweekly.com/turkish-womens-rights-activists-concerned-about-proposed-amnesty-child-abusers",
+            "original": "https://thearabweekly.com/sites/default/files/styles/article_image_800x450_/public/2020-02/turkeywomen.jpg?itok=6pzbzAoA"
+        },
+        {
+            "position": 37,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXefc3EmunbkuaXSvcwrMPRcbSaZFSu7i7Nw&usqp=CAU",
+            "source": "internationalteflacademy.com",
+            "title": "Adjusting to Turkish Life: An American Woman in Ankara",
+            "link": "https://www.internationalteflacademy.com/blog/adjusting-to-turkish-life-an-american-woman-teaching-in-ankara",
+            "original": "https://f.hubspotusercontent10.net/hub/67369/hubfs/650-Turkey-Pouneh-Eftekhari-group-women.jpg?width=800"
+        },
+        {
+            "position": 38,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJblN1wH679aR8pmEXqU2yFhFgCDep3tn3Dw&usqp=CAU",
+            "source": "femaleonezero.com",
+            "title": "The most Inspirational Turkish Women Entrepreneurs | Female One Zero",
+            "link": "https://femaleonezero.com/people/most-inspirational-turkish-women-entrepreneurs/",
+            "original": "https://femaleonezero.com/wp-content/uploads/2019/03/The-most-Inspirational-Turkish-Women-Entrepreneurs.jpg"
+        },
+        {
+            "position": 39,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt53s0sY3Vd5BQPc2xauVgv8M3I09dp0Atag&usqp=CAU",
+            "source": "hyperallergic.com",
+            "title": "For Turkish Women Artists and Advocates, #challengeaccepted Is About More  Than Just Selfies",
+            "link": "https://hyperallergic.com/581546/turkish-women-respond-to-challenge-accepted/",
+            "original": "https://i0.wp.com/hyperallergic.com/wp-content/uploads/2020/08/Screen-Shot-2020-08-07-at-6.49.21-PM.png?resize=1200%2C1190&quality=100&ssl=1"
+        },
+        {
+            "position": 40,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVhXsT2Q_w_w3y3qpZIoR2X-j_Iq7PPHQ83w&usqp=CAU",
+            "source": "pri.org",
+            "title": "Domestic violence and divorce rates on the rise in Turkey",
+            "link": "https://www.pri.org/stories/2019-02-20/fed-women-turkey-leave-marriages-domestic-violence-and-divorce-rates-rise",
+            "original": "https://media.pri.org/s3fs-public/styles/story_main/public/images/2019/02/022019-turkish-divorce1.jpg?itok=acbtsgj3"
+        },
+        {
+            "position": 41,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoX2USVjeUTV8w6cjbfFwtpi62LfWwh-N60g&usqp=CAU",
+            "source": "spiegel.de",
+            "title": "Fleeing 'Life in Hell': German Charity Helps Turkish Women Escape Forced  Marriages - DER SPIEGEL",
+            "link": "https://www.spiegel.de/international/germany/fleeing-life-in-hell-german-charity-helps-turkish-women-escape-forced-marriages-a-549489.html",
+            "original": "https://cdn.prod.www.spiegel.de/images/8aa8f134-0001-0005-0000-000000954377_w305_r0.7261904761904762_fpx49.84_fpy59.05.jpg"
+        },
+        {
+            "position": 42,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdYBYzoY3JGlk8n3JmbuO5pIgwkb3pJwcOA&usqp=CAU",
+            "source": "abcnews.go.com",
+            "title": "Turkish Women Defiantly Laugh at Official Who Says They Shouldn't LOL - ABC  News",
+            "link": "https://abcnews.go.com/International/turkish-women-defiantly-laugh-official-lol/story?id=24779386",
+            "original": "https://s.abcnews.com/images/International/ht_esra_kansu_twitpic_smile_turkey_jc_140730_16x9_992.jpg"
+        },
+        {
+            "position": 43,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeMvR6qAenPeecIleOHrPrsdAUQddUf70g6g&usqp=CAU",
+            "source": "asiatimes.com",
+            "title": "Turkey may get even more dangerous for women - Asia Times",
+            "link": "https://asiatimes.com/2020/08/turkey-may-get-even-more-dangerous-for-women/",
+            "original": "https://i1.wp.com/asiatimes.com/wp-content/uploads/2020/03/000_1PP7IS-scaled.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+            "position": 44,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdcq1eRc_R0pAMHxwUfypQBgEP3ythPb-olg&usqp=CAU",
+            "source": "alamy.com",
+            "title": "Turkish women wearing matching pashminas in Istiklal avenue, Istanbul.  Turkey Stock Photo - Alamy",
+            "link": "https://www.alamy.com/turkish-women-wearing-matching-pashminas-in-istiklal-avenue-istanbul-turkey-image352001869.html",
+            "original": "https://c8.alamy.com/comp/2BCK1Y9/turkish-women-wearing-matching-pashminas-in-istiklal-avenue-istanbul-turkey-2BCK1Y9.jpg"
+        },
+        {
+            "position": 45,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9soIRGBInD1Dw4MxZ3VAIQw0Gx0YjNeXiUQ&usqp=CAU",
+            "source": "reddit.com",
+            "title": "Turkish women, early years of the republic in Turkey : europe",
+            "link": "https://www.reddit.com/r/europe/comments/dnk0z4/turkish_women_early_years_of_the_republic_in/",
+            "original": "https://i.redd.it/lwyjg8azvwu31.jpg"
+        },
+        {
+            "position": 46,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGVZiG52XvY933eA6pLaI-Gt4VTNr5rU_A9Q&usqp=CAU",
+            "source": "hurriyetdailynews.com",
+            "title": "103 woman candidates elected to Turkish Parliament in June 24 poll - Turkey  News",
+            "link": "https://www.hurriyetdailynews.com/103-woman-candidates-elected-to-turkish-parliament-in-june-24-poll-133781",
+            "original": "https://i.hurimg.com/i/hdn/75/0x0/5b31e2625379ff2218018022.jpg"
+        },
+        {
+            "position": 47,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTYdhhljXhKQ32fY9n-PIwtX4JRusYJ2CjVw&usqp=CAU",
+            "source": "teehog.com",
+            "title": "The Ultimate Guide to Dating Turkish Women - teehog",
+            "link": "http://teehog.com/the-ultimate-guide-to-dating-turkish-women/",
+            "original": "https://live.staticflickr.com/3701/13132033103_edcc95c68d_z.jpg"
+        },
+        {
+            "position": 48,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt3EdeM3N8uv7ehT6OTrO4Znnm0WUMBrOlxw&usqp=CAU",
+            "source": "kqed.org",
+            "title": "Empowerment' Selfies Are Burying a Turkish Women's Rights Campaign | KQED",
+            "link": "https://www.kqed.org/arts/13883979/empowerment-selfies-are-burying-a-turkish-womens-rights-campaign",
+            "original": "https://ww2.kqed.org/app/uploads/sites/2/2020/07/womensupportingwomen-800x495.jpg"
+        },
+        {
+            "position": 49,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwmX2WdhrXt7XZM6SWcCIz3YTGhvADLmfng&usqp=CAU",
+            "source": "aljazeera.com",
+            "title": "Turkish women fight back against domestic abuse | Human Rights News | Al  Jazeera",
+            "link": "https://www.aljazeera.com/news/2015/5/21/turkish-women-fight-back-against-domestic-abuse",
+            "original": "https://www.aljazeera.com/wp-content/uploads/2015/05/d6afa8cae0344fc7bfe1cbad96da16c5_18.jpeg?resize=770%2C513"
+        },
+        {
+            "position": 50,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6S0duJ5Hzfm1-GC-eUjVDCgc9ChALPVBmDw&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "Turkey elections mark the start of a revolution for women | Global  development | The Guardian",
+            "link": "https://www.theguardian.com/global-development/2015/jun/19/turkey-elections-revolution-hdp-women-female-mps",
+            "original": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/16/1434449364009/aa7cee75-232a-4a7c-bfdd-fee15d8bc223-2060x1236.jpeg?width=445&quality=45&auto=format&fit=max&dpr=2&s=8feea39f4cf55c86fc66ca25144c1538"
+        },
+        {
+            "position": 51,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUE1QF-lDOrAhSLEiR4LD4A0HGs7WbdcZUVA&usqp=CAU",
+            "source": "hotasianbride.org",
+            "title": "Hot Turkish Women & Girls - Why Are They The Best Brides?",
+            "link": "https://hotasianbride.org/turkish-women-brides/",
+            "original": "https://hotasianbride.org/wp-content/uploads/2020/04/Turkish-Women.jpg"
+        },
+        {
+            "position": 52,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwfVWTeaPHPxHnS1zADHS0HJJCoHBm-lkmg&usqp=CAU",
+            "source": "alamy.com",
+            "title": "Turkish women wearing matching pashminas in Istiklal avenue, Istanbul.  Turkey Stock Photo - Alamy",
+            "link": "https://www.alamy.com/turkish-women-wearing-matching-pashminas-in-istiklal-avenue-istanbul-turkey-image352002051.html",
+            "original": "https://c8.alamy.com/comp/2BCK25R/turkish-women-wearing-matching-pashminas-in-istiklal-avenue-istanbul-turkey-2BCK25R.jpg"
+        },
+        {
+            "position": 53,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWUejzYC6Up3lZ9EAz3tp05fAa7qmcuujmA&usqp=CAU",
+            "source": "balkaninsight.com",
+            "title": "Turkish Women Stage Protests in Support of Istanbul Convention | Balkan  Insight",
+            "link": "https://balkaninsight.com/2020/08/05/turkish-women-stage-protests-in-support-of-istanbul-convention/",
+            "original": "https://balkaninsight.com/wp-content/uploads/2020/08/h_56098940-1-1280x720.jpg"
+        },
+        {
+            "position": 54,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDQk9VO2iQuPJO5q4yjKlQMbl4ltB2oCQo8A&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "CHARACTER IDEAS \ud83d\udca1 - Esra Bilgi\u00e7 | Esra bilgic, Turkish women beautiful,  Turkish beauty",
+            "link": "https://www.pinterest.com/pin/782852347718079792/",
+            "original": "https://i.pinimg.com/736x/56/e1/93/56e1936f8dac0ad6089a20f933a44597.jpg"
+        },
+        {
+            "position": 55,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmT0OW6bCIBYjl7veq7HgiCpXJiXXxEoi2g&usqp=CAU",
+            "source": "asianbrides.org",
+            "title": "The Ultimate Guide to Dating Turkish Women - AsianBrides",
+            "link": "https://asianbrides.org/turkish-women/",
+            "original": "https://asianbrides.org/wp-content/uploads/2020/03/4-4.jpg"
+        },
+        {
+            "position": 56,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_D4f3hT0vNsiUVBMtGX3kmvQ_KZSpmCwFA&usqp=CAU",
+            "source": "foreignpolicy.com",
+            "title": "Turkish Women Can Now Wear Headscarves in Military \u2013 Foreign Policy",
+            "link": "https://foreignpolicy.com/2017/02/22/turkish-women-can-now-wear-headscarves-in-military/",
+            "original": "https://foreignpolicy.com/wp-content/uploads/2017/02/erdogan.jpg?w=800&h=383&quality=90"
+        },
+        {
+            "position": 57,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyPkV6Rl07c0WuWLbsCdD8D2z1_Rc2XSFyQ&usqp=CAU",
+            "source": "thisistrouble.com",
+            "title": "Date Turkish Women - This Is Trouble",
+            "link": "https://thisistrouble.com/turkish-women/date-turkish-women/",
+            "original": "https://thisistrouble.com/wp-content/uploads/2019/11/Date-Turkish-Women-scaled.jpg"
+        },
+        {
+            "position": 58,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlK4b7YNPmzodTkU9uIM6zrWh3cHCloO7SQg&usqp=CAU",
+            "source": "balcanicaucaso.org",
+            "title": "Turkey: the map of violence against women / Turkey / Areas / Homepage -  Osservatorio Balcani e Caucaso Transeuropa",
+            "link": "https://www.balcanicaucaso.org/eng/Areas/Turkey/Turkey-the-map-of-violence-against-women-185984",
+            "original": "https://www.balcanicaucaso.org/var/obc/storage/images/aree/turchia/turchia-la-mappa-della-violenza-sulle-donne-185984/1275607-4-ita-IT/Turkey-the-map-of-violence-against-women.jpg"
+        },
+        {
+            "position": 59,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrXkK2XgSXbMr5NWSbOnbYUWM41uV2cfx1Q&usqp=CAU",
+            "source": "hollywoodreporter.com",
+            "title": "Netflix Buys Turkish Women's Prison Drama 'Avlu' | Hollywood Reporter",
+            "link": "https://www.hollywoodreporter.com/news/netflix-buys-turkish-womens-prison-drama-avlu-1247772",
+            "original": "https://static.hollywoodreporter.com/sites/default/files/2019/10/avlu_002-928x523.jpg"
+        },
+        {
+            "position": 60,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5110xJeGopXWORytjtqWnS7TKdVz2WIKvYg&usqp=CAU",
+            "source": "shutterstock.com",
+            "title": "Turkish women march during protest rally marking Editorial Stock Photo -  Stock Image | Shutterstock",
+            "link": "https://www.shutterstock.com/editorial/image-editorial/turkish-women-mark-international-womens-day-in-ankara-turkey-08-mar-2018-9452032d",
+            "original": "https://editorial01.shutterstock.com/wm-preview-1500/9452032d/a678c708/turkish-women-mark-international-womens-day-in-ankara-turkey-shutterstock-editorial-9452032d.jpg"
+        },
+        {
+            "position": 61,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7vcLSEwI2GPgKdXKcwpXPKpsA1lkRWkTAgA&usqp=CAU",
+            "source": "huffpost.com",
+            "title": "Despite Legal Gains, Turkish Women Are Still Dying Over The Right To  Divorce | HuffPost",
+            "link": "https://www.huffpost.com/entry/turkish-women-divorce_n_6133470",
+            "original": "https://img.huffingtonpost.com/asset/5cc140d2260000350070a464.jpeg?ops=scalefit_630_noupscale"
+        },
+        {
+            "position": 62,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0EVc4xCF6qPX3sUJ-h__SfWJ3UP2QVK4VlA&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "This silence hurts Turkish women | Turkey | The Guardian",
+            "link": "https://www.theguardian.com/commentisfree/2012/jul/15/turkey-caesarian-ban-silence-hurts-womrn",
+            "original": "https://i.guim.co.uk/img/static/sys-images/Environment/Pix/pictures/2012/7/15/1342372244694/Turkish-women-at-a-protes-008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTIucG5n&enable=upscale&s=dc18796ef22fac9e6f30ffd7a76bd1a6"
+        },
+        {
+            "position": 63,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZYeYDLltFT5O_68V7L30k5gxdNkdmv_EgQ&usqp=CAU",
+            "source": "arabnews.com",
+            "title": "Turkish women decry state inaction in the face of femicide | Arab News",
+            "link": "https://www.arabnews.com/node/1599456/middle-east",
+            "original": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2019/12/16/1888586-729230892.jpg?itok=9O6lpRdS"
+        },
+        {
+            "position": 64,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRkOg0ozOwq5G-08LDQTHMOtBbGIyFm_aGw&usqp=CAU",
+            "source": "medium.com",
+            "title": "Standing with Turkish Women. Turkish people wake up every day to\u2026 | by  Selin Ozunaldim | COSY | Medium",
+            "link": "https://medium.com/cosy/standing-with-turkish-women-7f00ac08457f",
+            "original": "https://miro.medium.com/max/826/1*_ea8nwEV_hmtdGh7cShi_w.jpeg"
+        },
+        {
+            "position": 65,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26_sE84uMalfRs1O_RbpxRI5MLhg8xD8FZA&usqp=CAU",
+            "source": "america.aljazeera.com",
+            "title": "Turkish women struggle with Erdogan legacy | Al Jazeera America",
+            "link": "http://america.aljazeera.com/articles/2014/9/30/turkish-women-strugglewitherdoganlegacy.html",
+            "original": "http://america.aljazeera.com/content/ajam/articles/2014/9/30/turkish-women-strugglewitherdoganlegacy/jcr:content/headlineImage.adapt.1460.high.turkish_women_protest2.1412181593222.jpg"
+        },
+        {
+            "position": 66,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqxs0zRPG5Xlv1t3ao6Da5zDnl3qtnhigRKw&usqp=CAU",
+            "source": "npr.org",
+            "title": "We Don't Want To Die': Women In Turkey Decry Rise In Violence And Killings  : NPR",
+            "link": "https://www.npr.org/2019/09/15/760135010/we-dont-want-to-die-women-in-turkey-decry-rise-in-violence-and-killings",
+            "original": "https://media.npr.org/assets/img/2019/09/12/turkey-gender-violence-selin-nakipoglu-628dc9b8d0378337614416bd96a2e9ec07a7ef57.jpg"
+        },
+        {
+            "position": 67,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4ocx46KWQGyrr0ITC7w6qYupkb_FMNUztw&usqp=CAU",
+            "source": "shaamtimes.net",
+            "title": "Police rough up 2 Turkish women at traffic stop in France \u2013 ShamTimes News  Agency",
+            "link": "https://shaamtimes.net/en/2020/10/24/police-rough-up-2-turkish-women-at-traffic-stop-in-france/",
+            "original": "https://shaamtimes.net/en/wp-content/uploads/2020/10/Police-rough-up-2-Turkish-women-at-traffic-stop-in-France.jpg"
+        },
+        {
+            "position": 68,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dRqVAKjbHRuLmxoSiFO-L85HEVYwijTPpQ&usqp=CAU",
+            "source": "cnn.com",
+            "title": "Turkish women rally against domestic violence as ruling party contemplates  leaving key rights convention - CNN",
+            "link": "https://www.cnn.com/2020/08/05/europe/turkey-gender-protests-istanbul-convention-intl/index.html",
+            "original": "https://cdn.cnn.com/cnnnext/dam/assets/200805184958-01-turkey-gender-protests-istanbul-convention-intl-large-169.jpg"
+        },
+        {
+            "position": 69,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu68FTrWxJu8shrHOed7WbbYWGsbzKz8X5WQ&usqp=CAU",
+            "source": "hurriyetdailynews.com",
+            "title": "Turkish women launch petition to join Police Special Operations Department  - Turkey News",
+            "link": "https://www.hurriyetdailynews.com/turkish-women-launch-petition-to-join-police-special-operations-department-126564",
+            "original": "https://i.hurimg.com/i/hdn/75/0x0/5a71974018c7741fb0de0294.jpg"
+        },
+        {
+            "position": 70,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrycrQaueDLDxkJfEmh7YPiyRnAlR88RjdQ&usqp=CAU",
+            "source": "yourmailorderbride.com",
+            "title": "Useful Guidelines for Dating Turkish Women - YourMailOrderBride",
+            "link": "https://yourmailorderbride.com/turkish-women/",
+            "original": "https://yourmailorderbride.com/wp-content/uploads/2020/05/1-17-1.jpg"
+        },
+        {
+            "position": 71,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon2EWv9P4GsE-qLJSwubnyVIq_YTeycoKFw&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Esra bilgi\u00e7 fan page \ud83d\udc93 posted on Instagram: \u201c#halimesultan #ertu\u011frul  #ertugrul #dirilisertugrul #dirili\u2026 | Beauty girl, Turkish women beautiful,  Cool girl pictures",
+            "link": "https://www.pinterest.com/pin/582160689327338660/",
+            "original": "https://i.pinimg.com/736x/39/f0/e3/39f0e32561033280eed631ac06d32dc8.jpg"
+        },
+        {
+            "position": 72,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-t7XTmfDCMsdUNmklXGN12mm_qDYfyiVc4g&usqp=CAU",
+            "source": "elle.com",
+            "title": "Turkish Women Laugh In Protest on Instagram",
+            "link": "https://www.elle.com/culture/career-politics/news/a25101/turkish-women-protest-with-laughter/",
+            "original": "https://hips.hearstapps.com/ell.h-cdn.co/assets/cm/15/02/640x320/54ae8f9a84de2_-_elle-turkish-women-laugh-lgn.jpg?resize=640:*"
+        },
+        {
+            "position": 73,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxi9LI00X0osM3NWrzochDJp0Z5RYbwQOEUQ&usqp=CAU",
+            "source": "arabnews.com",
+            "title": "Turkish women torn between their rights and polarization | Arab News",
+            "link": "https://www.arabnews.com/node/1699546",
+            "original": "https://www.arabnews.com/sites/default/files/2020/07/03/2173946-1593803228-1005366.jpg"
+        },
+        {
+            "position": 74,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjIvnaospVxDFzjRxeqk61rvqWFFzI9jxiUQ&usqp=CAU",
+            "source": "india.com",
+            "title": "Challenge Accepted' Origin: Shared a Black & White Pic on Instagram?  Femicide in Turkey is The Real Reason Behind the Viral Trend | India.com",
+            "link": "https://www.india.com/viral/challenge-accepted-origin-femicide-in-turkey-is-the-real-reason-behind-the-viral-instagram-trend-4097854/",
+            "original": "https://static.india.com/wp-content/uploads/2020/07/turkey-femicide.jpg"
+        },
+        {
+            "position": 75,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsNAI-8Gp6BUKc6jxzwyz4Dqpwp4nmBxZQg&usqp=CAU",
+            "source": "bbc.co.uk",
+            "title": "BBC World Service - The Conversation, Body hair, How Turkish women wax",
+            "link": "https://www.bbc.co.uk/programmes/p07831fl",
+            "original": "https://ichef.bbci.co.uk/images/ic/640x360/p078335l.jpg"
+        },
+        {
+            "position": 76,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2T39MpQVhnnatE5UXHHV_4B_xTydonyemgw&usqp=CAU",
+            "source": "macleans.ca",
+            "title": "Turkey's attacks on women wearing shorts - Macleans.ca",
+            "link": "https://www.macleans.ca/news/world/turkeys-attacks-on-women-wearing-shorts/",
+            "original": "https://www.macleans.ca/wp-content/uploads/2017/08/AUG10_KHAN_TURKISH_WOMEN_POST01.jpg"
+        },
+        {
+            "position": 77,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQep3OzNdW4LNdJ70cUsA9RxSnWifaMh-nonA&usqp=CAU",
+            "source": "dailysabah.com",
+            "title": "Sexist attacks against women in Turkish politics reveal resistance to  social change | Daily Sabah",
+            "link": "https://www.dailysabah.com/politics/news-analysis/sexist-attacks-against-women-in-turkish-politics-reveal-resistance-to-social-change",
+            "original": "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/07/03/44424.jpg"
+        },
+        {
+            "position": 78,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaGADOKctjwHVFfTE-G7-FtN3vI9N-hHtsiw&usqp=CAU",
+            "source": "umseen.com",
+            "title": "For Turkish Women Artists and Advocates, #challengeaccepted Is About More  Than Just Selfies - UMSEEN",
+            "link": "https://umseen.com/for-turkish-women-artists-and-advocates-challengeaccepted-is-about-more-than-just-selfies/",
+            "original": "https://i2.wp.com/umseen.com/wp-content/uploads/2020/08/1596844408_520_For-Turkish-Women-Artists-and-Advocates-challengeaccepted-Is-About-More.jpg?resize=1020%2C660&ssl=1"
+        },
+        {
+            "position": 79,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Y_X7yMFBM0ikB3wMplqJV9dl4TStoVywcw&usqp=CAU",
+            "source": "wherewomenwork.com",
+            "title": "ERBD helps 20,000 Turkish women achieve business dreams",
+            "link": "https://www.wherewomenwork.com/Career/2024/EBRD-women-in-business-Turkey",
+            "original": "https://wherewomenwork.s3-eu-west-1.amazonaws.com/insight/EBRD-Women-in-Business-Turkey-BIG-16.jpg"
+        },
+        {
+            "position": 80,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUT-LDgKEPHAC6MXnTlH2CZDqMPsHx4XG5vA&usqp=CAU",
+            "source": "shutterstock.com",
+            "title": "Turkish Women Stock Photo (Edit Now) 135150080",
+            "link": "https://www.shutterstock.com/image-photo/turkish-women-135150080",
+            "original": "https://image.shutterstock.com/image-photo/turkish-women-600w-135150080.jpg"
+        },
+        {
+            "position": 81,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGiIRkeRNOTT3UweaJB_vhaImdgo2qXmLNA&usqp=CAU",
+            "source": "tendermeets.com",
+            "title": "Dating Turkish Women Online Just Got a Whole Lot Easier!",
+            "link": "https://www.tendermeets.com/turkish-women-dating.html",
+            "original": "https://www.tendermeets.com/seo/resource/id/047bfb68e7bf4f3aeef00a9e5e150e27.jpg"
+        },
+        {
+            "position": 82,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWqcsWJmOhOic8WBC4pp96Bqg3SifppudZQ&usqp=CAU",
+            "source": "onlineforlove.com",
+            "title": "Turkish Women \u2013 Meeting, Dating, and More (LOTS of Pics)",
+            "link": "https://onlineforlove.com/turkish-women/",
+            "original": "https://onlineforlove.com/wp-content/uploads/2020/01/TURKISH-WOMEN.jpg"
+        },
+        {
+            "position": 83,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFoJYS-A6Xk004mqgfYYfz4Yg_8_6TZhqYkA&usqp=CAU",
+            "source": "bestbrides.org",
+            "title": "Turkish Brides - Hot Single Ladies Looking For Their Man | BestBrides",
+            "link": "https://bestbrides.org/turkish-brides/",
+            "original": "https://bestbrides.org/wp-content/uploads/2019/11/turkish-2.jpg"
+        },
+        {
+            "position": 84,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27Kg4Zq1Cl902Ytn4s1pWQnriKXsc-KsDcQ&usqp=CAU",
+            "source": "mailorderbridess.com",
+            "title": "Turkish Women - Your Mail Order Bride with Combination of East and West",
+            "link": "https://mailorderbridess.com/turkish-women/",
+            "original": "http://mailorderbridess.com/wp-content/uploads/2020/04/turkish1.jpg"
+        },
+        {
+            "position": 85,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ237Vs0sNUhDkQU7sWZSsOkxVodGfxWDNOKw&usqp=CAU",
+            "source": "bizjournals.com",
+            "title": "Turkish government to pay women to have kids, boost maternity benefits -  Bizwomen",
+            "link": "https://www.bizjournals.com/bizwomen/news/latest-news/2015/01/turkish-government-to-pay-women-to-have-kids-boost.html?page=all",
+            "original": "http://media.bizj.us/view/img/3317961/turkey*800xx3000-1688-0-156.jpg"
+        },
+        {
+            "position": 86,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-QiylnJiSiFnzEUcDaHIe-7Jd9Q4eyFTr0Q&usqp=CAU",
+            "source": "thegroundtruthproject.org",
+            "title": "Turkey's Empire of Men | The GroundTruth Project",
+            "link": "https://thegroundtruthproject.org/1682-2/",
+            "original": "http://america.aljazeera.com/content/ajam/articles/2015/6/30/in-turkey-womens-issues-gain-visibility/jcr:content/mainpar/textimage_1/image.adapt.990.high.turkey_women_akp_rally.1435671353773.jpg"
+        },
+        {
+            "position": 87,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGRHWk91xYZw8AkvssVx-rP8o7nLDgbu6xA&usqp=CAU",
+            "source": "commons.wikimedia.org",
+            "title": "File:Turkish woman in Ottoman costume (Turqoise and gold).jpg - Wikimedia  Commons",
+            "link": "https://commons.wikimedia.org/wiki/File:Turkish_woman_in_Ottoman_costume_%28Turqoise_and_gold%29.jpg",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Turkish_woman_in_Ottoman_costume_%28Turqoise_and_gold%29.jpg"
+        },
+        {
+            "position": 88,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXm9wrxnO8sy8JjrY0GQiyB45n0gPxZZsM-Q&usqp=CAU",
+            "source": "istockphoto.com",
+            "title": "Beautiful Young Turkish Woman In Grand Bazaar Istanbul Turkey Stock Photo -  Download Image Now - iStock",
+            "link": "https://www.istockphoto.com/photo/beautiful-young-turkish-woman-in-grand-bazaar-istanbul-turkey-gm1038167648-277890651",
+            "original": "https://media.istockphoto.com/photos/beautiful-young-turkish-woman-in-grand-bazaar-istanbul-turkey-picture-id1038167648"
+        },
+        {
+            "position": 89,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZRuhhDDbE2GfU-U5p_l0tH5QuYZhrPUkpg&usqp=CAU",
+            "source": "elle.com",
+            "title": "How 'Women Supporting Women' Challenge Is Connected to Turkish Femicide",
+            "link": "https://www.elle.com/culture/career-politics/a33469766/women-supporting-women-turkish-femicide/",
+            "original": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/turkish-women-take-part-in-a-choreographed-performance-news-photo-1596121943.jpg"
+        },
+        {
+            "position": 90,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK04BQPxGjS21muBuc2e1AcYOBRwXpeRbBzg&usqp=CAU",
+            "source": "craigconsidinetcd.com",
+            "title": "Politician in Turkey Calls on Turkish Women to Stop Laughing in Public,  Calling it \u201cImmoral\u201d. \u2013 Dr. Considine's Blog",
+            "link": "https://craigconsidinetcd.com/2014/08/03/politician-in-turkey-calls-on-turkish-women-to-stop-laughing-in-public-calling-it-immoral/",
+            "original": "https://drcraigconsidine.files.wordpress.com/2014/08/turkey-laughter-women-scandal-si-1.jpg"
+        },
+        {
+            "position": 91,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV9svXXd6hJb9WPwZeNQgycgFmJoqBvl_T4g&usqp=CAU",
+            "source": "express.co.uk",
+            "title": "Turkish women protest against Erdogan following attacks in Istanbul over  freedom demands | World | News | Express.co.uk",
+            "link": "https://www.express.co.uk/news/world/835879/turkey-istanbul-erdogan-rally-womens-rights-ramadan-conservative-headscarf-mini-skirt",
+            "original": "https://cdn.images.express.co.uk/img/dynamic/78/590x/turkey-istanbul-erdogan-rally-womens-rights-ramadan-conservative-headscarf-mini-skirt-Kilicdaroglu-835879.jpg"
+        },
+        {
+            "position": 92,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJpyQtBMxWR6ry0hPBioO-yRT1XQQN2LnIrA&usqp=CAU",
+            "source": "legitmailorderbride.com",
+            "title": "Turkish Mail Order Brides | legitmailorderbride.com [2021]",
+            "link": "https://legitmailorderbride.com/turkish-brides/",
+            "original": "https://topchristiandatingsites.com/wp-content/uploads/2019/10/Turkish-Women-1024x576.jpg"
+        },
+        {
+            "position": 93,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXd0uObWxLrdVWvJRn3YyVtje0X6PngnUCNQ&usqp=CAU",
+            "source": "scenearabia.com",
+            "title": "Index",
+            "link": "https://scenearabia.com/Life/ChallengeAccepted-Turkish-Feminists-Demanding-Justice-Drowned-Out-by-Empowerment-Selfies",
+            "original": "https://scenearabia.com/Content/Admin/Uploads/Articles/ArticlesMainPhoto/817/254849fb-a4a6-4bf1-baa8-a9058979360b.jpg"
+        },
+        {
+            "position": 94,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_IyJLUbgLX7oFleweDO8Eic7ieOD8xL3ygg&usqp=CAU",
+            "source": "vogue.com",
+            "title": "Dilara Findikoglu's New Photo Series Is a Powerful Ode to Turkish Women |  Vogue",
+            "link": "https://www.vogue.com/article/dilara-findikoglu-turkey-photo-series",
+            "original": "https://assets.vogue.com/photos/5fac6610923d38bb1ff6a838/master/w_1600%2Cc_limit/df%252520(10).jpeg"
+        },
+        {
+            "position": 95,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzbxJv8SdFLJafLEk96vdlusU6hMITD_yDZA&usqp=CAU",
+            "source": "cafebabel.com",
+            "title": "Turkish women: cover your hair, not your mouth",
+            "link": "https://cafebabel.com/en/article/turkish-women-cover-your-hair-not-your-mouth-5ae004fff723b35a145dc94d/",
+            "original": "https://media.cafebabel.com/resized-images/6e/68/37ca263ed0112ba4ca33c57f4e3585e6ee2a.jpg"
+        },
+        {
+            "position": 96,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcuh3XQez0bldFjiTbZ7iwlUoycWjKY4mUdg&usqp=CAU",
+            "source": "pbs.org",
+            "title": "Photo: Turkish women spring forward | PBS NewsHour",
+            "link": "https://www.pbs.org/newshour/arts/photo-turkish-women-spring-forward",
+            "original": "https://www.pbs.org/newshour/app/uploads/2017/03/GettyImages-655970272-1024x752.jpg"
+        },
+        {
+            "position": 97,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoPdNw83oJxU9IFtrx28dGbaM0ve50iuwq_g&usqp=CAU",
+            "source": "timesofisrael.com",
+            "title": "Outrage in Turkey after state agency says girls can marry from age 9 | The  Times of Israel",
+            "link": "https://www.timesofisrael.com/outrage-in-turkey-after-state-agency-says-girls-can-marry-from-age-9/",
+            "original": "https://static.timesofisrael.com/www/uploads/2018/01/AP_16331579240456.jpg"
+        },
+        {
+            "position": 98,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4gKPX_h-66DyAhrJpV54-4bew0yohce-JlQ&usqp=CAU",
+            "source": "middleeasteye.net",
+            "title": "We want justice': Turkish activists push for new investigations into women's  'suspicious' deaths | Middle East Eye",
+            "link": "https://www.middleeasteye.net/news/we-want-justice-turkish-activists-push-new-investigations-womens-suspicious-deaths",
+            "original": "https://www.middleeasteye.net/sites/default/files/styles/article_page/public/images-story/000_1ao35g.jpg?itok=gU2h6amF"
+        },
+        {
+            "position": 99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_k6VDl4I_efkzsXOQ48NPJIOOf0TPYDZqnw&usqp=CAU",
+            "source": "foreign-brides.net",
+            "title": "Turkish Brides \u1408 Mail-Order Single Women For Marriage Here!",
+            "link": "https://foreign-brides.net/asia/turkish-brides",
+            "original": "https://foreign-brides.net/images/64-1587139343114.jpg"
+        },
+        {
+            "position": 100,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROoS560xQtelw2wCNAyEk1V-hA9Ddeg05X8g&usqp=CAU",
+            "source": "medium.com",
+            "title": "It Doesn't Matter If They Started #ChallengeAccepted. Turkish Women Want To  Be Heard, Too. | by Deniz \u00c7am | Medium",
+            "link": "https://medium.com/@deno/it-doesnt-matter-if-they-started-challengeaccepted-turkish-women-want-to-be-heard-too-3fb3856be8b3",
+            "original": "https://miro.medium.com/max/824/1*KPWRLE46XVdAPAR2njKEug.jpeg"
+        }
+    ]
+}

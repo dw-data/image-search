@@ -1,0 +1,962 @@
+{
+    "search_metadata": {
+        "id": "603c2db3e071fc3600e17e56",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2885ff19eab846cb/603c2db3e071fc3600e17e56.json",
+        "created_at": "2021-02-28 23:56:35 UTC",
+        "processed_at": "2021-02-28 23:56:35 UTC",
+        "google_url": "https://www.google.com/search?q=tanzanian+women&oq=tanzanian+women&tbm=isch&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/2885ff19eab846cb/603c2db3e071fc3600e17e56.html",
+        "total_time_taken": 2.41
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "tanzanian women",
+        "google_domain": "google.com",
+        "device": "desktop",
+        "tbm": "isch"
+    },
+    "search_information": {
+        "image_results_state": "Results for exact spelling",
+        "query_displayed": "tanzanian women"
+    },
+    "suggested_searches": [
+        {
+            "name": "beauty",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:beauty:vcMSuktRFAU%3D&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoAHoECAEQGA",
+            "chips": "q:tanzanian+women,g_1:beauty:vcMSuktRFAU%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Abeauty%3AvcMSuktRFAU%253D&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/9549cde0ff3391fcf9329bdce79846110d86468a54c48a4c43bb52465f52df64.jpeg"
+        },
+        {
+            "name": "traditional",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:traditional:MPp7lFIs8Kw%3D&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoAXoECAEQGg",
+            "chips": "q:tanzanian+women,g_1:traditional:MPp7lFIs8Kw%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Atraditional%3AMPp7lFIs8Kw%253D&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/9549cde0ff3391fcf9329bdce7984611c2807a5b3bbc69a784d4687d3eca1ae5.jpeg"
+        },
+        {
+            "name": "hip",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:hip:ydsjTvC3BKk%3D&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoAnoECAEQHA",
+            "chips": "q:tanzanian+women,g_1:hip:ydsjTvC3BKk%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Ahip%3AydsjTvC3BKk%253D&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/9549cde0ff3391fcf9329bdce7984611f641380aeb4bc2aec34f9a4ea5975800.jpeg"
+        },
+        {
+            "name": "white",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:white:QAOZcix18JI%3D&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoA3oECAEQHg",
+            "chips": "q:tanzanian+women,g_1:white:QAOZcix18JI%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Awhite%3AQAOZcix18JI%253D&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/9549cde0ff3391fcf9329bdce7984611051106f7695ba5607c6c21e9355621ba.jpeg"
+        },
+        {
+            "name": "native",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:native:ouZk7nvKI14%3D&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoBHoECAEQIA",
+            "chips": "q:tanzanian+women,g_1:native:ouZk7nvKI14%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Anative%3AouZk7nvKI14%253D&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/9549cde0ff3391fcf9329bdce7984611224885e70f20e7e4655fc2b0ca128095.jpeg"
+        },
+        {
+            "name": "modern",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:modern:WBoAICLLFb8%3D&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoBXoECAEQIg",
+            "chips": "q:tanzanian+women,g_1:modern:WBoAICLLFb8%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Amodern%3AWBoAICLLFb8%253D&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/9549cde0ff3391fcf9329bdce7984611f50249f0b74be4946be5c4d02a30af0f.jpeg"
+        },
+        {
+            "name": "hairstyle",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:hairstyle&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoBnoECAEQJA",
+            "chips": "q:tanzanian+women,g_1:hairstyle",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Ahairstyle&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch"
+        },
+        {
+            "name": "clothing",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:clothing&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoB3oECAEQJQ",
+            "chips": "q:tanzanian+women,g_1:clothing",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Aclothing&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch"
+        },
+        {
+            "name": "person",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:person:2aDREXXcuZ8%3D&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoCHoECAEQJg",
+            "chips": "q:tanzanian+women,g_1:person:2aDREXXcuZ8%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Aperson%3A2aDREXXcuZ8%253D&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/9549cde0ff3391fcf9329bdce7984611457010d3ee6f186df2f931a577b0e64e.jpeg"
+        },
+        {
+            "name": "swahili",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:swahili&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoCXoECAEQKA",
+            "chips": "q:tanzanian+women,g_1:swahili",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Aswahili&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch"
+        },
+        {
+            "name": "fashion",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:fashion&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoCnoECAEQKQ",
+            "chips": "q:tanzanian+women,g_1:fashion",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Afashion&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch"
+        },
+        {
+            "name": "kanga",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:kanga&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoC3oECAEQKg",
+            "chips": "q:tanzanian+women,g_1:kanga",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Akanga&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch"
+        },
+        {
+            "name": "pants",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:pants:Ml3MFNfOxGs%3D&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoDHoECAEQKw",
+            "chips": "q:tanzanian+women,g_1:pants:Ml3MFNfOxGs%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Apants%3AMl3MFNfOxGs%253D&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoczWpwAaRX_iUyi6NU_-cSrwe6krRTfOI5VprR2U1yMUCmNXd&usqp=CAU"
+        },
+        {
+            "name": "farm",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:farm&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoDXoECAEQLQ",
+            "chips": "q:tanzanian+women,g_1:farm",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Afarm&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch"
+        },
+        {
+            "name": "marriage",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:marriage:MSU7OZPYOHM%3D&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoDnoECAEQLg",
+            "chips": "q:tanzanian+women,g_1:marriage:MSU7OZPYOHM%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Amarriage%3AMSU7OZPYOHM%253D&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1RFY4wMkoKZeLlWho1lwhFvdsmGBCAIuKy5fqu8IgiHM5IjtB&usqp=CAU"
+        },
+        {
+            "name": "market",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:market&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoD3oECAEQMA",
+            "chips": "q:tanzanian+women,g_1:market",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Amarket&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch"
+        },
+        {
+            "name": "tourist",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:tourist&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoEHoECAEQMQ",
+            "chips": "q:tanzanian+women,g_1:tourist",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Atourist&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch"
+        },
+        {
+            "name": "baby",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:baby&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoEXoECAEQMg",
+            "chips": "q:tanzanian+women,g_1:baby",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Ababy&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch"
+        },
+        {
+            "name": "jeans",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:jeans&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoEnoECAEQMw",
+            "chips": "q:tanzanian+women,g_1:jeans",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Ajeans&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch"
+        },
+        {
+            "name": "chura",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:chura&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoE3oECAEQNA",
+            "chips": "q:tanzanian+women,g_1:chura",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Achura&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch"
+        },
+        {
+            "name": "actor",
+            "link": "https://www.google.com/search?q=tanzanian+women&tbm=isch&chips=q:tanzanian+women,g_1:actor&hl=en-US&sa=X&ved=2ahUKEwjhwL2D5I3vAhWQPOwKHR2gAfEQ4lYoFHoECAEQNQ",
+            "chips": "q:tanzanian+women,g_1:actor",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atanzanian%2Bwomen%2Cg_1%3Aactor&device=desktop&engine=google&google_domain=google.com&q=tanzanian+women&tbm=isch"
+        }
+    ],
+    "images_results": [
+        {
+            "position": 1,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741074adf20d786560801b6bcd66c268ce388734e96d5a5fd0f.jpeg",
+            "source": "tuko.co.ke",
+            "title": "20 HOTTEST Tanzanian Women Celebrities in 2019 \u25b7 Tuko.co.ke",
+            "link": "https://www.tuko.co.ke/282596-20-hottest-tanzanian-women-celebrities.html",
+            "original": "https://netstorage-tuko.akamaized.net/images/0fgjhs2ug4rvhrhsv.jpg?imwidth=900"
+        },
+        {
+            "position": 2,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741236f498ca0cb7a5fe994ef8301c6c708de8f3737e4fd1be8.jpeg",
+            "source": "commons.wikimedia.org",
+            "title": "File:Tanzanian women.jpg - Wikimedia Commons",
+            "link": "https://commons.wikimedia.org/wiki/File:Tanzanian_women.jpg",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Tanzanian_women.jpg"
+        },
+        {
+            "position": 3,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741329100c063b0961b2422c79a180c64c3864aa14c101d855e.jpeg",
+            "source": "globalseducer.com",
+            "title": "How to Meet Tanzanian Women (and Zanzibar Girls) - Global Seducer",
+            "link": "https://www.globalseducer.com/tanzanian-women/",
+            "original": "https://www.globalseducer.com/wp-content/uploads/2018/01/young-tanzanian-woman-smiling-against-blurred-background.jpg"
+        },
+        {
+            "position": 4,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d74171051f5d3fbe03997d92ea2b773a90d14aeccf8189476ef7.jpeg",
+            "source": "liberty.edu",
+            "title": "FACS alumna uses sewing to empower Tanzanian women \u00bb Liberty News",
+            "link": "https://www.liberty.edu/news/2018/04/05/facs-alumna-uses-sewing-to-empower-tanzanian-women/",
+            "original": "https://www.liberty.edu/media/1617/2018/april/FACS-Tenzi-2.jpg"
+        },
+        {
+            "position": 5,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d7418939f634ba2600cb759856c380d255a8b6719b5678aa9005.jpeg",
+            "source": "facebook.com",
+            "title": "Tanzanian Women - Home | Facebook",
+            "link": "https://www.facebook.com/pages/category/Community/Tanzanian-Women-297367793714483/",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=455077647943496"
+        },
+        {
+            "position": 6,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741bee79a39029a30f00f21d582a7c5e701c27f135453ee3abc.jpeg",
+            "source": "pinterest.com",
+            "title": "TANZANIAN WOMEN IN NATURAL SHORT HAIRDO!! | Short hairdos, Hairdo, Women",
+            "link": "https://www.pinterest.com/pin/508484614164075860/",
+            "original": "https://i.pinimg.com/originals/c3/f8/44/c3f844bc7d7e8d02d2ab48e8492eaa94.jpg"
+        },
+        {
+            "position": 7,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741c538b52332d8d4aae93b1dc9751d63323bc33fb8c22cc3f5.jpeg",
+            "source": "equalityintourism.org",
+            "title": "Empowering 30 Tanzanian women through tourism and farming - Equality In  Tourism",
+            "link": "https://www.equalityintourism.org/get-30-empowering-tanzanian-women-through-tourism-and-farming/",
+            "original": "http://equalityintourism.org/wp-content/uploads/2017/11/Equalityintourism_Empower-Women_chuffedbanner.png"
+        },
+        {
+            "position": 8,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d74123d463296357b69dd23ff3fd8e4d0e3a94789265017214cc.jpeg",
+            "source": "facebook.com",
+            "title": "Tanzanian Cute Babes - Home | Facebook",
+            "link": "https://www.facebook.com/tzbabes/",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1122690651182912"
+        },
+        {
+            "position": 9,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d74195639000874fcaab15b774093c49a53f2f7f67e4fd569b74.jpeg",
+            "source": "pinterest.com",
+            "title": "Nancy Sumari | Black girl bob hairstyles, African beauty, Cute beauty",
+            "link": "https://www.pinterest.com/pin/533746993309555753/",
+            "original": "https://i.pinimg.com/originals/c8/cf/91/c8cf91eb7101eb68c1f0303f2db6763c.jpg"
+        },
+        {
+            "position": 10,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d7415ee4841363f5857d989b173ac04bb282fbe952b533db9c19.jpeg",
+            "source": "proudtanzaniasafaris.com",
+            "title": "Empowering the Women of Tanzania | Proud African Safaris",
+            "link": "https://www.proudtanzaniasafaris.com/empowering-the-women-of-tanzania/",
+            "original": "https://www.proudtanzaniasafaris.com/wp-content/uploads/2019/07/EmpoweringTanzaniaWomen.jpg"
+        },
+        {
+            "position": 11,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741236f498ca0cb7a5fda81133f2aedab10ada9c4066a5cd25b.jpeg",
+            "source": "carnegie.org",
+            "title": "A Tanzanian Human Rights Lawyer Empowers Rural Women : News | Carnegie  Corporation of New York",
+            "link": "https://www.carnegie.org/news/articles/tanzanian-human-rights-lawyer-empowers-rural-women/",
+            "original": "https://media.carnegie.org/filer_public_thumbnails/filer_public/56/20/5620c750-e149-4259-97c4-4d95e6c05e18/tanzanian-human-rights-570.jpg__570x380_q85_crop_subsampling-2_upscale.jpg"
+        },
+        {
+            "position": 12,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741236f498ca0cb7a5f7e391f2a68bc17a38d52d835923b34b7.jpeg",
+            "source": "spiegel.de",
+            "title": "Tanzanian Women Fight to Stop Genital Mutilation and Cycles of Suffering -  DER SPIEGEL",
+            "link": "https://www.spiegel.de/international/world/tanzanian-women-fight-to-stop-genital-mutilation-and-cycles-of-suffering-a-0e7abdea-0918-4fbd-9a36-29fc20a90b2e",
+            "original": "https://cdn.prod.www.spiegel.de/images/fc74e611-5974-4985-8eab-235668ef9061_w948_r1.77_fpx42_fpy21.jpg"
+        },
+        {
+            "position": 13,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741236f498ca0cb7a5f54f26d8fd5703cf4e7c2bd8963bffaea.jpeg",
+            "source": "weeffect.org",
+            "title": "Focus on local issues in Tanzanian villages gave women access to land -  WeEffect Global",
+            "link": "https://weeffect.org/news/tanzania-access-to-land/",
+            "original": "http://weeffect.org/app/uploads/2017/10/nasekukisambu.jpg"
+        },
+        {
+            "position": 14,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741236f498ca0cb7a5f667c040c9b6abe2e194f672bad64a3f9.jpeg",
+            "source": "bbc.com",
+            "title": "Why some Tanzanian women are marrying women - BBC News",
+            "link": "https://www.bbc.com/news/world-africa-34059556",
+            "original": "https://c.files.bbci.co.uk/23F9/production/_85190290_85190289.jpg"
+        },
+        {
+            "position": 15,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741236f498ca0cb7a5f55e96d0ce5c62457f37327deefa3fd32.jpeg",
+            "source": "beautiful-women-pedia.com",
+            "title": "Beautiful Tanzanian Women \u2013 Beautiful Women Pedia",
+            "link": "http://www.beautiful-women-pedia.com/tanzanian-women/",
+            "original": "http://www.beautifulwomenpedia.com/images/hot-tanzanian-model-nancy-sumari-1.jpg"
+        },
+        {
+            "position": 16,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741236f498ca0cb7a5f31ce4b407b839db4b2e27549ed2a1175.jpeg",
+            "source": "news24.com",
+            "title": "Tanzanian women flip their wigs and braids over hair extension tax | W24",
+            "link": "https://www.news24.com/w24/style/beauty/hairstyles/tanzanian-women-flip-their-wigs-and-braids-over-hair-extension-tax-20190701",
+            "original": "https://cdn.24.co.za/files/Cms/General/d/8937/c00853da85454ce6bdf72ea05e7636af.jpg"
+        },
+        {
+            "position": 17,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741236f498ca0cb7a5fa844d6476087f095a7aadbf7eed2c1b8.jpeg",
+            "source": "zoomtanzania.com",
+            "title": "Tanzanian Women Who Will Inspire You - Zoomtanzania Blog",
+            "link": "https://www.zoomtanzania.com/blog/tanzanian-women-will-inspire/",
+            "original": "https://www.zoomtanzania.com/blog/wp-content/uploads/sites/2/2017/07/Inspiring_Women_main2-1.jpg"
+        },
+        {
+            "position": 18,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741236f498ca0cb7a5f274f16c240d3596d10c68d24d815ab76.jpeg",
+            "source": "youtube.com",
+            "title": "Most Beautiful Women In East Africa.(Tanzania) - YouTube",
+            "link": "https://www.youtube.com/watch?v=vSQWtBdCl1E",
+            "original": "https://i.ytimg.com/vi/vSQWtBdCl1E/maxresdefault.jpg"
+        },
+        {
+            "position": 19,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741236f498ca0cb7a5f42e70e90149eedc8f3cebdb06960df3d.jpeg",
+            "source": "globalgiving.org",
+            "title": "Reports on Make Motherhood Safe for Tanzanian Women - GlobalGiving",
+            "link": "https://www.globalgiving.org/projects/one-bed-per-mother/reports/",
+            "original": "https://files.globalgiving.org/pfil/8594/pict_large.jpg?m=1311340926000"
+        },
+        {
+            "position": 20,
+            "thumbnail": "https://serpapi.com/searches/603c2db3e071fc3600e17e56/images/1428298a8480d741236f498ca0cb7a5f249ba41ec9df0c6719dd1d541b617c85.jpeg",
+            "source": "genderjustice.org.za",
+            "title": "Women in the labour market in Tanzania \u2013 Sonke Gender Justice",
+            "link": "https://genderjustice.org.za/news-item/women-in-the-labour-market-in-tanzania/",
+            "original": "https://genderjustice.org.za/wp-content/uploads/2020/04/Tanzania-Woman.jpg"
+        },
+        {
+            "position": 21,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtBcuPh4k8iHB7yLV7Jtq1s_U2Fatep5gpxQ&usqp=CAU",
+            "source": "facebook.com",
+            "title": "Tanzanian Women - Posts | Facebook",
+            "link": "https://www.facebook.com/Tanzanian-Women-297367793714483/posts",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1608503849200098"
+        },
+        {
+            "position": 22,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPVjycIXH3RTgboQ15snwXDl_Fj5sg9CIxYA&usqp=CAU",
+            "source": "answersafrica.com",
+            "title": "Most Beautiful And Sexiest Tanzanian Women You Must See",
+            "link": "https://answersafrica.com/beautiful-tanzanian-women.html",
+            "original": "https://answersafrica.com/wp-content/uploads/2013/12/1522669264-4574-Faraja-Kotta-Nyalandu.jpg"
+        },
+        {
+            "position": 23,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-usKde8M9M__8BurjvpqYZuXb2QL3UNguww&usqp=CAU",
+            "source": "mamaye.org",
+            "title": "Maternal & newborn survival in Tanzania | Mama Ye",
+            "link": "https://mamaye.org/index.php/countries/tanzania",
+            "original": "https://mamaye.org/sites/default/files/styles/march2019_1366x900/public/slideimg/9257045678_eef3f9ef5d_previewed3.png?itok=rDv37Yuy"
+        },
+        {
+            "position": 24,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbTNvmQGz1Yeq_NGg4DKyh65dL2RaFnSNxRA&usqp=CAU",
+            "source": "asanteafrica.org",
+            "title": "Two Young Tanzanian Women and Their List of American \u201cFirsts\u201d (in Chicago)  - Asante Africa Foundation",
+            "link": "https://asanteafrica.org/two-tanzanian-women-and-their-list-of-american-firsts/",
+            "original": "https://149359309.v2.pressablecdn.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-13-at-5.41.03-PM.png"
+        },
+        {
+            "position": 25,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqnNjeJfcHADP79teou7gpzaeo-nvx84Vzsw&usqp=CAU",
+            "source": "iwmf.org",
+            "title": "Straight Women Are Marrying Each Other for Safety in Tanzania - IWMF",
+            "link": "https://www.iwmf.org/reporting/straight-women-are-marrying-each-other-for-safety-in-tanzania/",
+            "original": "https://video-images.vice.com/articles/5bd07710075a30000700a7ce/lede/1540389453122-Land-TZ-DSCF5453.jpeg?crop=0.5974xw%3A0.8961xh%3B0.2888xw%2C0.1032xh&resize=650%3A*&output-quality=55"
+        },
+        {
+            "position": 26,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7PJ5i5BHpziv0zyCqiXF1sSwnj7t6obWSAg&usqp=CAU",
+            "source": "mail-order-bride.com",
+            "title": "Tanzanian Bride: Find Beautiful Tanzanian Women For Marriage",
+            "link": "https://mail-order-bride.com/tanzanian-brides",
+            "original": "https://mail-order-bride.com/images/all/79-1593254584199.jpg"
+        },
+        {
+            "position": 27,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpnULO4CMx-rDchlgorAEsYJLG8mOQUPERdQ&usqp=CAU",
+            "source": "howwemadeitinafrica.com",
+            "title": "Nuya's Essence: Tanzanian beauty queen finds her business groove with  natural skincare products",
+            "link": "https://www.howwemadeitinafrica.com/nuyas-essence-how-a-tanzanian-beauty-queen-found-her-business-groove-with-natural-skincare-products/62038/",
+            "original": "https://www.howwemadeitinafrica.com/wp-content/uploads/2018/08/Hellen-Dausen.png"
+        },
+        {
+            "position": 28,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1tSTmxqFIQAwuWKmSuX2j3bh0Hnt4wc-RyA&usqp=CAU",
+            "source": "bloglaw.ku.edu",
+            "title": "Law student starts nonprofit to empower, educate Tanzanian women - KU Law  Blog",
+            "link": "https://bloglaw.ku.edu/careers/law-student-starts-nonprofit-to-empower-educate-tanzanian-women/",
+            "original": "https://bloglaw.ku.edu/wp-content/uploads/2018/10/denning-660px.jpg"
+        },
+        {
+            "position": 29,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGzmsVRTP315nGKezTOH6jMmrcHQcxdKaUQ&usqp=CAU",
+            "source": "en.wikipedia.org",
+            "title": "File:Tanzania-woman.jpg - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/File:Tanzania-woman.jpg",
+            "original": "https://upload.wikimedia.org/wikipedia/en/4/44/Tanzania-woman.jpg"
+        },
+        {
+            "position": 30,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1IUE2K1RMznvEaXvqsAtdrV-CmqMgOY0rGw&usqp=CAU",
+            "source": "chikaoduahblog.com",
+            "title": "Heaven On Earth? Maidens Made In Tanga Tanzania | Afrocentric Confessions",
+            "link": "https://chikaoduahblog.com/2013/09/30/heaven-on-earth-maidens-made-in-tanga-tanzania/",
+            "original": "https://chikaoduahblog.files.wordpress.com/2013/09/tanga-women-1.jpg"
+        },
+        {
+            "position": 31,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-fIJdY8f5P1zhoYgcM31037GSSFSNCDkrqg&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Most Beautiful And Sexiest Tanzanian Women You Must See | Face lace,  Beautiful, Makeup looks",
+            "link": "https://www.pinterest.com/pin/533746993309555759/",
+            "original": "https://i.pinimg.com/originals/c7/d3/fc/c7d3fca2268c22057b40ef846a637eaa.jpg"
+        },
+        {
+            "position": 32,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-K4RWwwmbsZnbrHMpxiKn-xo7TMgjL2jNQ&usqp=CAU",
+            "source": "africanarguments.org",
+            "title": "Insiders Insight: Restricting women's rights in Tanzania | African Arguments",
+            "link": "https://africanarguments.org/2018/09/insiders-insight-restricting-womens-rights-in-tanzania/",
+            "original": "https://africanarguments.org/wp-content/uploads/2018/09/tanzania-women.jpg"
+        },
+        {
+            "position": 33,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSYaJvxGFYFeWvYQQRB1ORMUJBpQDh7Gm6-g&usqp=CAU",
+            "source": "zoomtanzania.com",
+            "title": "Tanzanian Women Who Will Inspire You - Zoomtanzania Blog",
+            "link": "https://www.zoomtanzania.com/blog/tanzanian-women-will-inspire/",
+            "original": "https://www.zoomtanzania.com/blog/wp-content/uploads/sites/2/2017/07/Inspiring_women_hellen-1-1024x445.jpg"
+        },
+        {
+            "position": 34,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_mphqsMfrm7Gga47v9d0ZGWfxS-ANXFP-qg&usqp=CAU",
+            "source": "abc.net.au",
+            "title": "Australian citizen and campaigner for ex-Muslim women Zara Kay arrested in  Tanzania - ABC News",
+            "link": "https://www.abc.net.au/news/2021-01-03/australian-woman-arrested-in-tanzania-on-politically-motivated/13028550",
+            "original": "https://www.abc.net.au/cm/rimage/13028556-16x9-xlarge.jpg?v=2"
+        },
+        {
+            "position": 35,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0CetnKe8omsmVhcBsCuCjZ3GHbLcYE9CHg&usqp=CAU",
+            "source": "theconversation.com",
+            "title": "Why Tanzanian women entrepreneurs don't apply for formal loans",
+            "link": "https://theconversation.com/why-tanzanian-women-entrepreneurs-dont-apply-for-formal-loans-102429",
+            "original": "https://cdn.theconversation.com/avatars/540468/width170/file-20180823-149472-sciaew.jpg"
+        },
+        {
+            "position": 36,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaFOzkO-pNTmnSBkN5Q8vJcLlPIR1_6J8nPQ&usqp=CAU",
+            "source": "thecitizen.co.tz",
+            "title": "Tanzanian women who influence the digital space - The Citizen",
+            "link": "https://www.thecitizen.co.tz/tanzania/magazines/woman/-tanzanian-women-who-influence-the-digital-space-2714920",
+            "original": "https://www.thecitizen.co.tz/resource/image/2714922/landscape_ratio16x9/400/225/2a1a866f38a06465df51348a3bf4ddd2/st/women-pic.jpg"
+        },
+        {
+            "position": 37,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyPDbJfYeeHSLiuBVXsfdH7mYnT5CfBL5Ew&usqp=CAU",
+            "source": "sbs.com.au",
+            "title": "SBS Sexuality",
+            "link": "https://www.sbs.com.au/topics/pride/agenda/article/2016/08/10/tanzanian-women-are-marrying-each-other-avoid-sexism-and-violence",
+            "original": "https://www.sbs.com.au/topics/sites/sbs.com.au.topics/files/gettyimages-106650764_drupal.jpg"
+        },
+        {
+            "position": 38,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_9rG3mIaGgEgTZfxql0mwAEOAyNCbiLi7TQ&usqp=CAU",
+            "source": "georgewbush-whitehouse.archives.gov",
+            "title": "Tanzanian women in dresses bearing the likeness of President George W. Bush  wave flags from Tanzania",
+            "link": "https://georgewbush-whitehouse.archives.gov/news/releases/2008/02/images/20080216-5_p021608cg-0520-515h.html",
+            "original": "https://georgewbush-whitehouse.archives.gov/news/releases/2008/02/images/20080216-5_p021608cg-0520-515h.jpg"
+        },
+        {
+            "position": 39,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_CqDTwvBTl-MCs-xsS22aUqd-1gvQRxP-IQ&usqp=CAU",
+            "source": "globalgiving.org",
+            "title": "Make Motherhood Safe for Tanzanian Women - GlobalGiving",
+            "link": "https://www.globalgiving.org/projects/one-bed-per-mother/",
+            "original": "https://files.globalgiving.org/pfil/8594/ph_8594_49328.jpg?m=1372355660000"
+        },
+        {
+            "position": 40,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJE6NMvVDH7QWsCF5uooyptaHPKjjj7moBMA&usqp=CAU",
+            "source": "twitter.com",
+            "title": "Channel 3 Zones on Twitter: \"#Tanzanian women are beautiful!! #AFRICAN  #africanweeding #africabeauty #africanwomen somewhere in #Dar Es Salam\u2026 \"",
+            "link": "https://twitter.com/channel3zone/status/842012105918296064",
+            "original": "https://pbs.twimg.com/media/C69thhYWwAA6y53.jpg"
+        },
+        {
+            "position": 41,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbLp__kaGEaupReTtvoVUNVypRhg9CheUiQ&usqp=CAU",
+            "source": "line.17qq.com",
+            "title": "Women in Tanzania (Page 7) - Line.17QQ.com",
+            "link": "https://line.17qq.com/articles/cclkoccpv_p7.html",
+            "original": "https://img.17qq.com/images/cuaehqx.jpeg"
+        },
+        {
+            "position": 42,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC22v5P9k7eN1cWSCXiKSU4tPwWWZ2-JXX1A&usqp=CAU",
+            "source": "tuko.co.ke",
+            "title": "20 HOTTEST Tanzanian Women Celebrities in 2019 \u25b7 Tuko.co.ke",
+            "link": "https://www.tuko.co.ke/282596-20-hottest-tanzanian-women-celebrities.html",
+            "original": "https://netstorage-tuko.akamaized.net/images/0fgjhs1tnmmpbaecg.jpg?imwidth=900"
+        },
+        {
+            "position": 43,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5zMYtSItAIubGnG75sx2J6ceEIQNtxfDEgA&usqp=CAU",
+            "source": "internews.org",
+            "title": "Tanzania Video Addresses Sexual Harassment of Women Students & Journalists  | Internews",
+            "link": "https://internews.org/updates/tanzania-video-addresses-sexual-harassment-women-students-journalists",
+            "original": "https://internews.org/sites/default/files/2019-05/video_screenshot_pleasestop-crop.png"
+        },
+        {
+            "position": 44,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq4MBAg2tqKAw_XPZwcWV4TA8-a4j4auYLcQ&usqp=CAU",
+            "source": "afrikalyrics.com",
+            "title": "Tanzanian Women All Stars Lyrics, Biography and Albums | AfrikaLyrics",
+            "link": "https://afrikalyrics.com/artist/tanzanian-women-all-stars",
+            "original": "https://afrikalyrics.com/assets/artistes/thumbs/tanzanian-women-all-stars.jpg"
+        },
+        {
+            "position": 45,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1MtUeqEygvB6Lwk1M-vA8teAYFXQaXNXIoA&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Stock Photos/Pictures: Tanzanian woman - Arusha, Tanzania | African people,  African image, People",
+            "link": "https://www.pinterest.com/pin/3166662210469545/",
+            "original": "https://i.pinimg.com/originals/28/91/8c/28918c590fd666dc275b25896a9ae398.jpg"
+        },
+        {
+            "position": 46,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxJ0qMAl4yd3mu6ME871870-FhvYQbs-9Sg&usqp=CAU",
+            "source": "eac.int",
+            "title": "50MAWS Platform to help connect Tanzanian business women to much needed  markets",
+            "link": "https://www.eac.int/press-releases/146-gender,-community-development-civil-society/1407-50mws-platform-to-help-connect-tanzanian-business-women-to-much-needed-markets",
+            "original": "https://www.eac.int/images/Press_Releases/oie_30172651S9v2ea7z.jpg"
+        },
+        {
+            "position": 47,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ3kepnNunJRMvOWP9V19ukq0idg1q8MvFXw&usqp=CAU",
+            "source": "cnn.com",
+            "title": "These women got married. But it wasn't for love - CNN",
+            "link": "https://www.cnn.com/2019/05/04/africa/tanzania-women-marriage-intl/index.html",
+            "original": "https://cdn.cnn.com/cnnnext/dam/assets/190501163650-01-as-equals-tanzania-women-marriage-large-169.jpg"
+        },
+        {
+            "position": 48,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrD3PujyMLmAXHlo0CuzJe3Z-9zMB5gSz2dQ&usqp=CAU",
+            "source": "facebook.com",
+            "title": "Tanzanian Women - Photos | Facebook",
+            "link": "https://www.facebook.com/Tanzanian-Women-297367793714483/photos/",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=298054326979163"
+        },
+        {
+            "position": 49,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG1WAjv-8MxMKhxEREbbeUFcW06HB-xR9Lpg&usqp=CAU",
+            "source": "livebettermagazine.com",
+            "title": "Empowering Women in Tanzania | livebetter Magazine",
+            "link": "http://livebettermagazine.com/article/empowering-women-in-tanzania/",
+            "original": "http://livebettermagazine.com/wp-content/uploads/2014/07/ricefarmers2.jpg"
+        },
+        {
+            "position": 50,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabBWu8kbiN03ah07V8NlVE7glTYR5DufyGw&usqp=CAU",
+            "source": "wdn.org",
+            "title": "Tanzanian Woman MP Blazing the Trail for Other African Women | Women's  Democracy Network",
+            "link": "https://www.wdn.org/news/tanzanian-woman-mp-blazing-trail-other-african-women",
+            "original": "https://www.wdn.org/sites/default/files/styles/huge/public/2018-10/IRI-0970.jpg?itok=4wn4glFg"
+        },
+        {
+            "position": 51,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDSb8Rssi0usLLZ81aqkIPShCnddMY6zMTbA&usqp=CAU",
+            "source": "youtube.com",
+            "title": "Tanzanian Women: East African DATING Guide (Zanzibar) - YouTube",
+            "link": "https://www.youtube.com/watch?v=WvlvDKxxw6Y",
+            "original": "https://i.ytimg.com/vi/WvlvDKxxw6Y/maxresdefault.jpg"
+        },
+        {
+            "position": 52,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWeGwuAwJ5-nyORaCFapNwtxF0iTit9b1hUA&usqp=CAU",
+            "source": "globalgiving.org \u00b7 Out of stock",
+            "title": "Build a Business for 13 Tanzanian Women - GlobalGiving",
+            "link": "https://www.globalgiving.org/projects/train-13-tanzanian-women-in-business-management/",
+            "original": "https://files.globalgiving.org/pfil/32615/ph_32615_119478.jpg?m=1523443244000"
+        },
+        {
+            "position": 53,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDi-l3AsLiR0dNUOylK-ngRHWEkqcvzXIGNw&usqp=CAU",
+            "source": "theconversation.com",
+            "title": "Why Tanzanian women entrepreneurs don't apply for formal loans",
+            "link": "https://theconversation.com/why-tanzanian-women-entrepreneurs-dont-apply-for-formal-loans-102429",
+            "original": "https://images.theconversation.com/files/234301/original/file-20180830-195319-hw4ka2.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip"
+        },
+        {
+            "position": 54,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYpc1IDuTZ6ypE8wnn9UjXSnpSTdbaMaR9eg&usqp=CAU",
+            "source": "singita.com",
+            "title": "Transforming the Future of Women in Tanzania - Bush Story | Singita",
+            "link": "https://singita.com/archive/community-development/transforming-future-women-tanzania/",
+            "original": "https://singita.com/img/wp-content-uploads-2019-10-women_empowerment_2-1024x640.jpg"
+        },
+        {
+            "position": 55,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8CbipEfuoYq9aJTjmPRc3c9tPC3b5sxlS6Q&usqp=CAU",
+            "source": "str8talkmagazine.com",
+            "title": "Str8talk Magazine",
+            "link": "https://str8talkmagazine.com/index.php/2019/07/11/of-prostitution-contracting-stis-tanzanian-woman-confesses/",
+            "original": "https://str8talkmagazine.com/wp-content/uploads/2019/07/SUZAN-MICHAEL.jpg"
+        },
+        {
+            "position": 56,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0-4ZcONt9a27bxa-9gi9xQPzRjkCpyUHLFw&usqp=CAU",
+            "source": "nationalclothing.org",
+            "title": "National outfit of Tanzania. Male kanzu and female kanga are the main folk  garments - Nationalclothing.org",
+            "link": "http://nationalclothing.org/africa/59-tanzania/134-national-outfit-of-tanzania-male-kanzu-and-female-kanga-are-the-main-folk-garments.html",
+            "original": "http://nationalclothing.org/images/2017/03/Tanzanian-women.jpg"
+        },
+        {
+            "position": 57,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKJ_6UxX15Bft6DPvwu6iPpn8d2RNdg2Clw&usqp=CAU",
+            "source": "face2faceafrica.com",
+            "title": "Meet 'Mama Beijing', the Tanzanian woman who chaired the historic Beijing  conference on women in 1995 - Face2Face Africa",
+            "link": "https://face2faceafrica.com/article/meet-mama-beijing-the-tanzanian-woman-who-chaired-the-historic-beijing-conference-on-women-in-1995",
+            "original": "https://cdn.face2faceafrica.com/www/wp-content/uploads/2020/11/mama.jpg"
+        },
+        {
+            "position": 58,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfLGBguDBJ8fGr_YHFafGaDtqFy6ABbf6oQ&usqp=CAU",
+            "source": "the-star.co.ke",
+            "title": "Tanzanian women with Kenyan spouses protest over IDs",
+            "link": "https://www.the-star.co.ke/counties/coast/2020-09-06-tanzanian-women-with-kenyan-spouses-protest-over-ids/",
+            "original": "https://lh3.googleusercontent.com/l4JIbmnVUKaHUHwf3SOQG_Amz-ZMA42hjwKp40Ieen4-5piH6DDJj8ma-8NOhFKGMoW37ouOGusI4EPTgl_Mv0vJj5Zz=s750"
+        },
+        {
+            "position": 59,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPemt92zguGhfmXjFMffy9__PVVbIj7Q_7A&usqp=CAU",
+            "source": "vidoboy.com",
+            "title": "VIDEO | Tanzanian Women All Stars \u2013 Superwoman (Mp4) Download - VIDOBOY  MEDIA",
+            "link": "https://www.vidoboy.com/2020/03/video-tanzanian-women-all-stars.html",
+            "original": "https://1.bp.blogspot.com/-1uctuDQCVBI/Xl4hSOxYDMI/AAAAAAAAEgE/hoX7xAI-x_oW0BGbSkeumvnt4JtY0ZZFwCLcBGAsYHQ/s1600/Superwoman-VIDEO-ALL-640x327.jpg"
+        },
+        {
+            "position": 60,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXdfZLdsvx5d5LTHWoVePqZ4YWGVrBFWhZA&usqp=CAU",
+            "source": "notjustok.com",
+            "title": "Tanzanian Women... - Superwoman | Video & MP3 Download | Notjustok",
+            "link": "https://notjustok.com/eastafrica/videos/tanzanian-women-superwoman-video-mp3-download/",
+            "original": "https://notjustok.com/eastafrica/wp-content/uploads/sites/3/2020/03/Tanzanian-Women-All-Stars-Superwoman.png"
+        },
+        {
+            "position": 61,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT28bL9V7s6MSnK5gvWXaCn6mrx_EJ_vfcEOw&usqp=CAU",
+            "source": "zoomtanzania.com",
+            "title": "Tanzanian Women Who Will Inspire You - Zoomtanzania Blog",
+            "link": "https://www.zoomtanzania.com/blog/tanzanian-women-will-inspire/",
+            "original": "https://www.zoomtanzania.com/blog/wp-content/uploads/sites/2/2017/07/Inspiring_women_jennifer-1024x445.jpg"
+        },
+        {
+            "position": 62,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4T0PVyuzyfUwsgXcPAyVxOVVlBYnaGMBHPg&usqp=CAU",
+            "source": "pri.org",
+            "title": "Reality TV's new stars: \"Female Food Heroes\" in Tanzania",
+            "link": "https://www.pri.org/stories/2015-07-22/reality-tvs-new-stars-are-tanzanian-farmers",
+            "original": "https://media.pri.org/s3fs-public/styles/open_graph/public/story/images/Tanzania_Food_Hero_exercise.jpg?itok=ZOZfx4iV"
+        },
+        {
+            "position": 63,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR666ny8U5_CsgOQ375Kf4RYu2vxND4HqO1Dg&usqp=CAU",
+            "source": "bloglaw.ku.edu",
+            "title": "Amid limited resources, KU Law student advocates for Tanzanian women",
+            "link": "https://bloglaw.ku.edu/practical-experience/legal-aid-tanzania/",
+            "original": "https://bloglaw.ku.edu/wp-content/uploads/2017/12/tawla-staff-BLOG.jpg"
+        },
+        {
+            "position": 64,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1XE16Z3AxQbetTWsiWpi2mEE5OegzW-F47Q&usqp=CAU",
+            "source": "africa.com",
+            "title": "Tanzanian Women Confront Stereotypes of What a Woman and Wife should be in  Islam - Africa.com",
+            "link": "https://africa.com/tanzanian-women-confront-stereotypes-of-what-a-woman-and-wife-should-be-in-islam/",
+            "original": "https://i0.wp.com/africa.com/wp-content/uploads/2021/01/3-2.jpg?fit=800%2C450&ssl=1"
+        },
+        {
+            "position": 65,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHli-EV1OiBjOp0pU9mSIasuVzTy1wN699Q&usqp=CAU",
+            "source": "democracyspeaks.org",
+            "title": "Tanzanian Woman MP Blazing the Trail for Other African Women | Democracy  Speaks",
+            "link": "https://www.democracyspeaks.org/blog/tanzanian-woman-mp-blazing-trail-other-african-women",
+            "original": "https://www.democracyspeaks.org/sites/default/files/styles/1180x450/public/fields/field_image/blog/IRI-1008.jpg?itok=xyc4yg6b"
+        },
+        {
+            "position": 66,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5m0C_y5JgMAotHRTXYdemk9KquWURWGTSg&usqp=CAU",
+            "source": "pinkpangea.com",
+            "title": "This is What It's Like to Be a Woman in Tanzania, Travel Information",
+            "link": "https://pinkpangea.com/2015/03/this-is-what-its-like-to-be-a-woman-in-tanzania/",
+            "original": "https://2kckmk1oabwe2e7tgb35crjv-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/14.jpeg"
+        },
+        {
+            "position": 67,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzxMgCqjcCnLfGeH2lb4ZeiimWSh_kubh8Kg&usqp=CAU",
+            "source": "ghafla.com",
+            "title": "Wema Sepetu throws shade to all Tanzanian women as she reclaims her throne  with new photos - Ghafla! Kenya",
+            "link": "http://www.ghafla.com/ke/wema-sepetu-throws-shade-tanzanian-women-reclaims-thrown-new-photos/",
+            "original": "http://www.ghafla.com/ke/wp-content/uploads/sites/4/2018/01/IMG_2313.jpg"
+        },
+        {
+            "position": 68,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaBpnIpnwZscjTjy0OA7MeABtZFHY46o0fzQ&usqp=CAU",
+            "source": "youtube.com",
+            "title": "Tanzanian Women All Stars - Superwoman (Official Video Lyrics) - YouTube",
+            "link": "https://www.youtube.com/watch?v=oLETSObw3Fo",
+            "original": "https://i.ytimg.com/vi/oLETSObw3Fo/maxresdefault.jpg"
+        },
+        {
+            "position": 69,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvOw0pmZnf9l8DwF8uht0WB-0-dSKH_WuQyQ&usqp=CAU",
+            "source": "hrw.org",
+            "title": "Abuse of Tanzanian Domestic Workers in Oman and the United Arab Emirates |  HRW",
+            "link": "https://www.hrw.org/report/2017/11/14/working-robot/abuse-tanzanian-domestic-workers-oman-and-united-arab-emirates",
+            "original": "https://www.hrw.org/sites/default/files/styles/embed_small/public/multimedia_images_2017/201711africa_tanzania_women14_0.jpg?itok=YA2SAyhH"
+        },
+        {
+            "position": 70,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKD-XCwzYaNJ0BbsR2zF4k6MfomjC6Dwh6jw&usqp=CAU",
+            "source": "tuko.co.ke",
+            "title": "20 HOTTEST Tanzanian Women Celebrities in 2019 \u25b7 Tuko.co.ke",
+            "link": "https://www.tuko.co.ke/282596-20-hottest-tanzanian-women-celebrities.html",
+            "original": "https://netstorage-tuko.akamaized.net/images/0fgjhs177gr3otmlbg.jpg?imwidth=900"
+        },
+        {
+            "position": 71,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmipMFIdgYSERyMByFkShx51Wg_FXFoTBSyA&usqp=CAU",
+            "source": "muhabarishaji.com",
+            "title": "VIDEO | Tanzanian Women All Stars \u2013 Superwoman | Muhabarishaji News Agency",
+            "link": "https://www.muhabarishaji.com/2020/03/video-tanzanian-women-all-stars-superwoman/",
+            "original": "https://i0.wp.com/djmwanga.com/wp-content/uploads/2020/03/Tanzanian-Women-All-Stars-%E2%80%93-Superwoman.png?resize=1920%2C1080&ssl=1"
+        },
+        {
+            "position": 72,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsW9pN2XvzGHKR3jspVCRq4jskA7_C0xTG3g&usqp=CAU",
+            "source": "oxfam.org",
+            "title": "Carolina, Tanzanian Female Food Hero: \u201cWhen women fight, nothing can stop  them\u201d | Oxfam International",
+            "link": "https://www.oxfam.org/en/carolina-tanzanian-female-food-hero-when-women-fight-nothing-can-stop-them",
+            "original": "https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/carolina_field.jpg"
+        },
+        {
+            "position": 73,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRilZm1RcwJ7k7umObcaGP7U-8D9GXAaPqgyw&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "15 Most Beautiful Tanzanian Women That Could Drive You Crazy | Beautiful,  Women, Girl model",
+            "link": "https://www.pinterest.com/pin/533746993309555768/",
+            "original": "https://i.pinimg.com/originals/18/db/69/18db69750cba2001a9a2b469346abb8e.jpg"
+        },
+        {
+            "position": 74,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEl-MQ585K3ql4dFEleJW84ap9aujaDM9GxA&usqp=CAU",
+            "source": "news.un.org",
+            "title": "Tanzanian women peacekeepers on the front line in the Democratic Republic  of the Congo | UN News",
+            "link": "https://news.un.org/en/gallery/572861",
+            "original": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/03/08_03_2019_Tanzanian_Female_Peacekeepers_FIB_MONUSCO_Woman.jpg/image770x420cropped.jpg"
+        },
+        {
+            "position": 75,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScbzDM4bQ48M_TV1MrlEtYjl2863V65dOKVA&usqp=CAU",
+            "source": "lovetv.co",
+            "title": "Tanzanian Women Are Choosing Each Other as Primary Partners",
+            "link": "https://www.lovetv.co/tanzanian-women-choosing-each-other-as-primary-partners/",
+            "original": "https://lovetv.co/wp-content/uploads/2017/03/bigstock-Maasai-Women-Makes-Traditional-136606538.jpg"
+        },
+        {
+            "position": 76,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFR7ZFxxrKJk5GamU9jl0wHOUng9Ff156gYQ&usqp=CAU",
+            "source": "healthpolicyproject.com",
+            "title": "First Lady of Tanzania Urges Women to Use Family Planning without Fear",
+            "link": "http://www.healthpolicyproject.com/index.cfm?ID=TanzaniaRAPIDWomen",
+            "original": "http://www.healthpolicyproject.com/ns/images/MamaKikwete_web.jpg"
+        },
+        {
+            "position": 77,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4D7XaQCeaYABder9e5mm3Itj2S1pGR_nFA&usqp=CAU",
+            "source": "flickr.com",
+            "title": "Alessandra Galie and Signe Nelgen with Tanzanian women cow\u2026 | Flickr",
+            "link": "https://www.flickr.com/photos/ilri/12747352863/",
+            "original": "https://live.staticflickr.com/3775/12747352863_7f07944ab0_b.jpg"
+        },
+        {
+            "position": 78,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTES-dsYoLsr6VYs7BMcKAlOJeyIac7956Uyw&usqp=CAU",
+            "source": "technoserve.org",
+            "title": "Young Tanzanian Entrepreneur Mentors Other Business Women",
+            "link": "https://www.technoserve.org/blog/incubating-success-young-tanzanian-entrepreneur-mentors-other-business-wome/",
+            "original": "https://www.technoserve.org/wp-content/uploads/2017/03/blog_from-student-to-mentor-a-business-womans-journey-1-1660x580.jpg?2020-12-02-165245"
+        },
+        {
+            "position": 79,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttM_T2cXU8-NsBocTSEJnSSKbWpMzh-bMvQ&usqp=CAU",
+            "source": "oxfamblogs.org",
+            "title": "Tanzania's women food producers \u2013 who are they? \u2013 Oxfam Horn, East and  Central Africa Blog",
+            "link": "https://www.oxfamblogs.org/eastafrica/?p=6401",
+            "original": "http://www.oxfamblogs.org/eastafrica/wp-content/uploads/2013/06/Photo-dump-Jan-2012-262.jpg"
+        },
+        {
+            "position": 80,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTz_wTRRsC6FMvoOcBq-avm1V-hs3k7Oz2g&usqp=CAU",
+            "source": "enmoregh.com",
+            "title": "Tanzania Archives - EnMore",
+            "link": "https://enmoregh.com/tag/tanzania/",
+            "original": "https://enmoregh.com/wp-content/uploads/2019/06/Tobacco-on-Privates.jpg"
+        },
+        {
+            "position": 81,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQBPm5IBoyd_EZMe6n64tS02ApUoyKTbukA&usqp=CAU",
+            "source": "amazon.com",
+            "title": "Amazon.com: Tanzanian Women in Their Own Words: Stories of Disability and  Illness (9780739140574): Sheryl Feinstein, Nicole C. D'Errico, Nancy  Scheper-Hughes: Books",
+            "link": "https://www.amazon.com/Tanzanian-Women-Their-Own-Words/dp/0739140574",
+            "original": "https://images-na.ssl-images-amazon.com/images/I/51k9j4+1pSL._SX331_BO1,204,203,200_.jpg"
+        },
+        {
+            "position": 82,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNDWJRf8EKeqD5nTxW7OUT85Wb28VGQY-4-A&usqp=CAU",
+            "source": "alamy.com",
+            "title": "Tanzanian women sat with mobile phones waiting to charge them at a  solar-powered charging booth, Miono Region, Tanzania Stock Photo - Alamy",
+            "link": "https://www.alamy.com/tanzanian-women-sat-with-mobile-phones-waiting-to-charge-them-at-a-solar-powered-charging-booth-miono-region-tanzania-image262986068.html",
+            "original": "https://c8.alamy.com/comp/W7T1BG/tanzanian-women-sat-with-mobile-phones-waiting-to-charge-them-at-a-solar-powered-charging-booth-miono-region-tanzania-W7T1BG.jpg"
+        },
+        {
+            "position": 83,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06s3h02QaWeNeKtF-Ot7Hno83QSEsrbQUaQ&usqp=CAU",
+            "source": "fides.org",
+            "title": "AFRICA/TANZANIA - Education for girls from poor families: religious women  in the front line - Agenzia Fides",
+            "link": "http://www.fides.org/en/news/67364-AFRICA_TANZANIA_Education_for_girls_from_poor_families_religious_women_in_the_front_line",
+            "original": "http://www.fides.org/app/webroot/files/appendeds/93/primopiano_9389.JPG"
+        },
+        {
+            "position": 84,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPrKYDUIYmSc4Nf9Ozv6NVY3AcxWL0zAqcA&usqp=CAU",
+            "source": "ippmedia.com",
+            "title": "11 Tanzanians get Women's Day gift: Their own Wikipedia profile",
+            "link": "https://www.ippmedia.com/en/news/11-tanzanians%20get-women%E2%80%99s-day-gift-their-own-wikipedia-profile",
+            "original": "https://www.ippmedia.com/sites/default/files/styles/image660/public/articles/2018/03/09/2.jpg?itok=XG9F_IbQ&timestamp=1520575160"
+        },
+        {
+            "position": 85,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Kg4HPxLI_NLRMLY0rAJ2L87jRFsm_QeHaw&usqp=CAU",
+            "source": "shutterstock.com",
+            "title": "Tanzanian Woman Images, Stock Photos & Vectors | Shutterstock",
+            "link": "https://www.shutterstock.com/search/tanzanian+woman",
+            "original": "https://image.shutterstock.com/image-photo/tanzania-masai-village-january-2020-260nw-1638988045.jpg"
+        },
+        {
+            "position": 86,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrCPdkuS7pfu64tzDPQDY6GAmaKYSIKdacyg&usqp=CAU",
+            "source": "globalgiving.org \u00b7 Out of stock",
+            "title": "Protecting Tanzanian Women and Girls from Violence - GlobalGiving",
+            "link": "https://www.globalgiving.org/projects/uzikwasa1/",
+            "original": "https://files.globalgiving.org/pfil/27056/pict_original.jpg?m=1488386446000"
+        },
+        {
+            "position": 87,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwIbx_FVNpIP3wiBEs-HAz6vLrylFKJn4xQ&usqp=CAU",
+            "source": "afrocharts.com",
+            "title": "Tanzanian Women All Stars | Tanzania - AfroCharts",
+            "link": "https://www.afrocharts.com/artist?id=106eb00c58",
+            "original": "https://media.afrocharts.com/file/afrocharts-media/uploads/2020/3/Tanzanian-Women-All-Stars-afrocharts.jpg"
+        },
+        {
+            "position": 88,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwslCnHxnsydtKxOy2HmaYmcCw90-vJb-E_Q&usqp=CAU",
+            "source": "middleeasteye.net",
+            "title": "I just want to go home': Tanzanian women describe abuse in Oman and UAE |  Middle East Eye",
+            "link": "https://www.middleeasteye.net/news/i-just-want-go-home-tanzanian-women-describe-abuse-oman-and-uae",
+            "original": "https://www.middleeasteye.net/sites/default/files/styles/article_page/public/main-images/Screen%20Shot%202017-11-14%20at%2011.55.00.png?itok=_-Sppj3x"
+        },
+        {
+            "position": 89,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJsOf5he7WXLlP2Cm6hSAQirkFcRGt_Tp6A&usqp=CAU",
+            "source": "illuminaija.com",
+            "title": "DOWNLOAD: Tanzanian Women All Stars \u2013 Superwoman (mp3) \u2022 illuminaija",
+            "link": "https://illuminaija.com/mp3-download-audio/download-tanzanian-women-all-stars-superwoman-mp3/",
+            "original": "https://illuminaija.com/wp-content/uploads/2020/03/Tanzanian-Women-All-Stars-Superwoman.jpg"
+        },
+        {
+            "position": 90,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpCobXIikR_00YGSjreeJZEGmnQvMW190eqA&usqp=CAU",
+            "source": "cnn.com",
+            "title": "Is Tanzania having a Hillary Clinton moment? - CNN",
+            "link": "https://www.cnn.com/2015/10/22/africa/tanzania-elections-hillary-clinton-moment/index.html",
+            "original": "https://cdn.cnn.com/cnnnext/dam/assets/151013154516-tanzania-election-rehema-mayuya-super-169.jpg"
+        },
+        {
+            "position": 91,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbx66KvxjG90a8W-Z5Y6ShWHnb5Oyv8Elz1w&usqp=CAU",
+            "source": "zoomtanzania.com",
+            "title": "Tanzanian Women Who Will Inspire You - Zoomtanzania Blog",
+            "link": "https://www.zoomtanzania.com/blog/tanzanian-women-will-inspire/",
+            "original": "https://www.zoomtanzania.com/blog/wp-content/uploads/sites/2/2017/07/Inspiring_Women_Flavina-1024x445.jpg"
+        },
+        {
+            "position": 92,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy6qCY0ycZb6VccodZtmZ6wfPNsiX2ay6GzA&usqp=CAU",
+            "source": "oxfamblogs.org",
+            "title": "Tanzanian women talk about land \u2013 Oxfam Horn, East and Central Africa Blog",
+            "link": "https://www.oxfamblogs.org/eastafrica/?p=5939",
+            "original": "http://www.oxfamblogs.org/eastafrica/wp-content/uploads/2013/03/Crowd.jpg"
+        },
+        {
+            "position": 93,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcY-bc0PJIinRoSu3y6IlCMWdCc5jNNABF5w&usqp=CAU",
+            "source": "helpage.org",
+            "title": "Promoting human rights and will-writing in Tanzania | Women's rights in  Tanzania | HelpAge International",
+            "link": "https://www.helpage.org/what-we-do/rights/womens-rights-in-tanzania/promoting-human-rights-and-willwriting-in-tanzania/",
+            "original": "https://www.helpage.org/silo/images/women-in-the-community-in-tanzania-have-been-empowered-by-what-they-have-learned_703x324.jpg"
+        },
+        {
+            "position": 94,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNISXMUA0u-9rdrYMjAKqtgIe46SEeqlIIA&usqp=CAU",
+            "source": "thecitizen.co.tz",
+            "title": "Helping Tanzanian women to access mental health care - The Citizen",
+            "link": "https://www.thecitizen.co.tz/tanzania/magazines/woman/-helping-tanzanian-women-to-access-mental-health-care-3212688",
+            "original": "https://www.thecitizen.co.tz/resource/image/3212690/landscape_ratio16x9/400/225/5e856a8b3af7ac3a0c611d71e5ae2439/Ca/woman-pic.jpg"
+        },
+        {
+            "position": 95,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVIP8L9aIdCZ4Jue5IwZqGBiefXSwxg8-sYg&usqp=CAU",
+            "source": "teeherivar.com \u00b7 In stock",
+            "title": "Tanzania Flag Girls Rock - Tanzanian Women Attitude",
+            "link": "https://teeherivar.com/product/tanzania-flag-girls-rock-tanzanian-women-attitude/",
+            "original": "https://teeherivar.com/wp-content/uploads/2020/09/200905AFD3586-2.jpg"
+        },
+        {
+            "position": 96,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7BTVKkQCRCvFTfhMArGpUGiDMJWCPXYe2w&usqp=CAU",
+            "source": "bbc.com",
+            "title": "Why some Tanzanian women are marrying women - BBC News",
+            "link": "https://www.bbc.com/news/world-africa-34059556",
+            "original": "https://c.files.bbci.co.uk/17855/production/_85014369_85014368.jpg"
+        },
+        {
+            "position": 97,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_MmDwcoFoO8RXIYRPWVQ1ssIHOcHadOoVg&usqp=CAU",
+            "source": "tenzidesign.com",
+            "title": "TENZI",
+            "link": "https://www.tenzidesign.com/",
+            "original": "https://images.squarespace-cdn.com/content/v1/5c800095da50d3214c591af7/1582126557404-WMFSHAH216EROUKKCXL8/ke17ZwdGBToddI8pDm48kKInUKqRwCShGOW65AhMrgF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmzRdow2MKoDNGJuOcT_AGWd2McBVGpGdiYChmGYNFV38TGvg1MyZ_ymkzEYVzBARQ/home%2Bbanner.jpg"
+        },
+        {
+            "position": 98,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnbjFl9PXbhkpZxYU67fdv7v2a99ayXp6gfA&usqp=CAU",
+            "source": "wft.or.tz",
+            "title": "OUR WORK \u2013 Women Fund Tanzania",
+            "link": "http://wft.or.tz/who-we-are/our-work-2/",
+            "original": "http://wft.or.tz/wp-content/uploads/2016/06/IMG_6515-2.jpg"
+        },
+        {
+            "position": 99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKuLt70a3UtGGZLepdNDo62JzCorUzqIilA&usqp=CAU",
+            "source": "theculturetrip.com",
+            "title": "Traditions and Customs Only People From Tanzania Will Understand",
+            "link": "https://theculturetrip.com/africa/tanzania/articles/traditions-and-customs-only-people-from-tanzania-will-understand/",
+            "original": "https://cdn.theculturetrip.com/wp-content/uploads/2017/12/young-masaai-women.jpg"
+        },
+        {
+            "position": 100,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREsdlmvJZ-yzwwaX6knuWQCe0qxnpf_uabjg&usqp=CAU",
+            "source": "msh.org",
+            "title": "Tanzania | Management Sciences for Health",
+            "link": "https://www.msh.org/blog-tags/tanzania?page=1",
+            "original": "https://www.msh.org/sites/default/files/tanzania_woman_5x6.jpg"
+        }
+    ]
+}

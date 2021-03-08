@@ -1,0 +1,903 @@
+{
+    "search_metadata": {
+        "id": "603c2d395187928f76cd9209",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/1c7542c01eaba8e1/603c2d395187928f76cd9209.json",
+        "created_at": "2021-02-28 23:54:33 UTC",
+        "processed_at": "2021-02-28 23:54:33 UTC",
+        "google_url": "https://www.google.com/search?q=nigerian+women&oq=nigerian+women&tbm=isch&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/1c7542c01eaba8e1/603c2d395187928f76cd9209.html",
+        "total_time_taken": 4.66
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "nigerian women",
+        "google_domain": "google.com",
+        "device": "desktop",
+        "tbm": "isch"
+    },
+    "search_information": {
+        "image_results_state": "Results for exact spelling",
+        "query_displayed": "nigerian women"
+    },
+    "suggested_searches": [
+        {
+            "name": "fashion",
+            "link": "https://www.google.com/search?q=nigerian+women&tbm=isch&chips=q:nigerian+women,g_1:fashion:XN1-4u7QB_4%3D&hl=en-US&sa=X&ved=2ahUKEwiu3PjI443vAhUVJFkKHXJvDJ8Q4lYoAHoECAEQGA",
+            "chips": "q:nigerian+women,g_1:fashion:XN1-4u7QB_4%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Anigerian%2Bwomen%2Cg_1%3Afashion%3AXN1-4u7QB_4%253D&device=desktop&engine=google&google_domain=google.com&q=nigerian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/f8a60e71d706b443bea12e211fa8649220ff108c94b6c9418281641bcaf2e044.jpeg"
+        },
+        {
+            "name": "natural",
+            "link": "https://www.google.com/search?q=nigerian+women&tbm=isch&chips=q:nigerian+women,g_1:natural:9cSrD8Yi06w%3D&hl=en-US&sa=X&ved=2ahUKEwiu3PjI443vAhUVJFkKHXJvDJ8Q4lYoAXoECAEQGg",
+            "chips": "q:nigerian+women,g_1:natural:9cSrD8Yi06w%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Anigerian%2Bwomen%2Cg_1%3Anatural%3A9cSrD8Yi06w%253D&device=desktop&engine=google&google_domain=google.com&q=nigerian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/f8a60e71d706b443bea12e211fa86492c8e55acd2604488189d5370729e8857f.jpeg"
+        },
+        {
+            "name": "yoruba",
+            "link": "https://www.google.com/search?q=nigerian+women&tbm=isch&chips=q:nigerian+women,g_1:yoruba:TznWy-haTRg%3D&hl=en-US&sa=X&ved=2ahUKEwiu3PjI443vAhUVJFkKHXJvDJ8Q4lYoAnoECAEQHA",
+            "chips": "q:nigerian+women,g_1:yoruba:TznWy-haTRg%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Anigerian%2Bwomen%2Cg_1%3Ayoruba%3ATznWy-haTRg%253D&device=desktop&engine=google&google_domain=google.com&q=nigerian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/f8a60e71d706b443bea12e211fa86492466a4bd198a9a6029bb959b3823b04d7.jpeg"
+        },
+        {
+            "name": "tribal",
+            "link": "https://www.google.com/search?q=nigerian+women&tbm=isch&chips=q:nigerian+women,g_1:tribal:KD5oHthPwyo%3D&hl=en-US&sa=X&ved=2ahUKEwiu3PjI443vAhUVJFkKHXJvDJ8Q4lYoA3oECAEQHg",
+            "chips": "q:nigerian+women,g_1:tribal:KD5oHthPwyo%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Anigerian%2Bwomen%2Cg_1%3Atribal%3AKD5oHthPwyo%253D&device=desktop&engine=google&google_domain=google.com&q=nigerian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/f8a60e71d706b443bea12e211fa86492209434b9481aaaa94761644f9de171d3.jpeg"
+        },
+        {
+            "name": "fulani",
+            "link": "https://www.google.com/search?q=nigerian+women&tbm=isch&chips=q:nigerian+women,g_1:fulani:W3zdYBmriwQ%3D&hl=en-US&sa=X&ved=2ahUKEwiu3PjI443vAhUVJFkKHXJvDJ8Q4lYoBHoECAEQIA",
+            "chips": "q:nigerian+women,g_1:fulani:W3zdYBmriwQ%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Anigerian%2Bwomen%2Cg_1%3Afulani%3AW3zdYBmriwQ%253D&device=desktop&engine=google&google_domain=google.com&q=nigerian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/f8a60e71d706b443bea12e211fa86492125ebdb1ae788af1220a4ac02362dff3.jpeg"
+        },
+        {
+            "name": "rural",
+            "link": "https://www.google.com/search?q=nigerian+women&tbm=isch&chips=q:nigerian+women,g_1:rural:iQv48c6p9wg%3D&hl=en-US&sa=X&ved=2ahUKEwiu3PjI443vAhUVJFkKHXJvDJ8Q4lYoBXoECAEQIg",
+            "chips": "q:nigerian+women,g_1:rural:iQv48c6p9wg%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Anigerian%2Bwomen%2Cg_1%3Arural%3AiQv48c6p9wg%253D&device=desktop&engine=google&google_domain=google.com&q=nigerian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/f8a60e71d706b443bea12e211fa864927ca08b9d0a9647f08531a12ffef8dc24.jpeg"
+        },
+        {
+            "name": "man",
+            "link": "https://www.google.com/search?q=nigerian+women&tbm=isch&chips=q:nigerian+women,g_1:man:rM9gRwn27F8%3D&hl=en-US&sa=X&ved=2ahUKEwiu3PjI443vAhUVJFkKHXJvDJ8Q4lYoBnoECAEQJA",
+            "chips": "q:nigerian+women,g_1:man:rM9gRwn27F8%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Anigerian%2Bwomen%2Cg_1%3Aman%3ArM9gRwn27F8%253D&device=desktop&engine=google&google_domain=google.com&q=nigerian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/f8a60e71d706b443bea12e211fa864924c1d62c14f2d98cc29bbd8b71f23c99c.jpeg"
+        },
+        {
+            "name": "group",
+            "link": "https://www.google.com/search?q=nigerian+women&tbm=isch&chips=q:nigerian+women,g_1:group:6wq1r67xtas%3D&hl=en-US&sa=X&ved=2ahUKEwiu3PjI443vAhUVJFkKHXJvDJ8Q4lYoB3oECAEQJg",
+            "chips": "q:nigerian+women,g_1:group:6wq1r67xtas%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Anigerian%2Bwomen%2Cg_1%3Agroup%3A6wq1r67xtas%253D&device=desktop&engine=google&google_domain=google.com&q=nigerian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/f8a60e71d706b443bea12e211fa864922e8958203a84b4144ab22ca14f18ebdd.jpeg"
+        },
+        {
+            "name": "office",
+            "link": "https://www.google.com/search?q=nigerian+women&tbm=isch&chips=q:nigerian+women,g_1:office&hl=en-US&sa=X&ved=2ahUKEwiu3PjI443vAhUVJFkKHXJvDJ8Q4lYoCHoECAEQKA",
+            "chips": "q:nigerian+women,g_1:office",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Anigerian%2Bwomen%2Cg_1%3Aoffice&device=desktop&engine=google&google_domain=google.com&q=nigerian+women&tbm=isch"
+        },
+        {
+            "name": "trousers",
+            "link": "https://www.google.com/search?q=nigerian+women&tbm=isch&chips=q:nigerian+women,g_1:trousers:X4HaN7eL2vg%3D&hl=en-US&sa=X&ved=2ahUKEwiu3PjI443vAhUVJFkKHXJvDJ8Q4lYoCXoECAEQKQ",
+            "chips": "q:nigerian+women,g_1:trousers:X4HaN7eL2vg%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Anigerian%2Bwomen%2Cg_1%3Atrousers%3AX4HaN7eL2vg%253D&device=desktop&engine=google&google_domain=google.com&q=nigerian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/f8a60e71d706b443bea12e211fa86492612f9695074a5bb0a35f58f691a69109.jpeg"
+        },
+        {
+            "name": "half",
+            "link": "https://www.google.com/search?q=nigerian+women&tbm=isch&chips=q:nigerian+women,g_1:half:9UAjbHwzn9I%3D&hl=en-US&sa=X&ved=2ahUKEwiu3PjI443vAhUVJFkKHXJvDJ8Q4lYoCnoECAEQKw",
+            "chips": "q:nigerian+women,g_1:half:9UAjbHwzn9I%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Anigerian%2Bwomen%2Cg_1%3Ahalf%3A9UAjbHwzn9I%253D&device=desktop&engine=google&google_domain=google.com&q=nigerian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/f8a60e71d706b443bea12e211fa86492e5441b30f0b76631450beeb50f63152c.jpeg"
+        }
+    ],
+    "images_results": [
+        {
+            "position": 1,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f5b94403df4642bff9efd268fde1589e7169eb2791da69852d.jpeg",
+            "source": "en.wikipedia.org",
+            "title": "Women in Nigeria - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Women_in_Nigeria",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/A_young_girl_pictured_with_her_friends%2C_Nigeria_%2838758526845%29.jpg"
+        },
+        {
+            "position": 2,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f58d18f651076cbebf2fb9c0f638de601983c346b53706f2a3.jpeg",
+            "source": "buzznigeria.com",
+            "title": "Nigerian Women: Interesting Facts That Distinguish Women From Nigeria",
+            "link": "https://buzznigeria.com/interesting-facts-that-make-nigerian-women-different-from-all-others/",
+            "original": "https://buzznigeria.com/wp-content/uploads/2015/10/beautiful-Nigerian-woman-1280x720.jpg"
+        },
+        {
+            "position": 3,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f56d7ce77f08293dbdbb625b1ae59ef76e3ac7cd7459b48d11.jpeg",
+            "source": "bbc.com",
+            "title": "Why single Nigerian women battle to rent homes - BBC News",
+            "link": "https://www.bbc.com/news/world-africa-45169688",
+            "original": "https://c.files.bbci.co.uk/154EC/production/_102967278_1f1ecc7c-a677-4e9f-838a-317186227aad.jpg"
+        },
+        {
+            "position": 4,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f5f1e1ad506acc2d898108efe0594d374609ff43bb8a4bc074.jpeg",
+            "source": "takepart.com",
+            "title": "It's Not Just Boko Haram\u2014Women in Nigeria Have It Rough | TakePart",
+            "link": "http://www.takepart.com/article/2015/07/01/being-female-nigeria",
+            "original": "http://www.takepart.com/sites/default/files/styles/large/public/Nigerian-women-MAIN.jpg"
+        },
+        {
+            "position": 5,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f591e8d8f355c75166298662c108ee5bc222245f9498d4c178.jpeg",
+            "source": "ge.com",
+            "title": "Listening and Learning for Success\u2014What Nigerian Women Entrepreneurs Need |  GE News",
+            "link": "https://www.ge.com/news/reports/listening-and-learning-for-success-what-nigerian-women-e",
+            "original": "https://www.ge.com/news/sites/default/files/Reports/2020-03/mary_mainart3.jpg"
+        },
+        {
+            "position": 6,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f5de484c30ba8c206fbd4460718e6507266a5299ae12199ae2.jpeg",
+            "source": "wemiibidun.com",
+            "title": "My Top 5 Nigerian Women in History - Life Musings",
+            "link": "http://www.wemiibidun.com/2018/03/my-top-5-nigerian-women-in-history.html",
+            "original": "https://4.bp.blogspot.com/-JzQeLWCM9C4/WrpOqt1GP7I/AAAAAAAADzw/VRvZiOWUU0MaofwxEHclB5uW7a6KvDVkACPcBGAYYCw/s1600/photo_2018-03-27_16-00-12.jpg"
+        },
+        {
+            "position": 7,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f539deb56d9338dafa90e7052f653fb2cef4dce6fa1a19128a.jpeg",
+            "source": "buzznigeria.com",
+            "title": "3 Nigerian Women Among Africa's Top Fierce Women In Entertainment",
+            "link": "https://buzznigeria.com/3-nigerians-among-africas-top-fierce-women-in-entertainment/",
+            "original": "https://buzznigeria.com/wp-content/uploads/2016/03/wom-e1458310897686.jpg"
+        },
+        {
+            "position": 8,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f5c98431dad87bc9a8f46cd4500f9906ed6a24113c494f7c39.jpeg",
+            "source": "womenentrepreneursgrowglobal.org",
+            "title": "Education Inequity in Nigeria is an Injustice to Women Entrepreneurs \u2013 Women  Entrepreneurs Grow Global\u00ae",
+            "link": "https://womenentrepreneursgrowglobal.org/2019/05/20/education-inequity-in-nigeria-is-an-injustice-to-women-entrepreneurs/",
+            "original": "https://womenentrepreneursgrowglobal.org/wp-content/uploads/2019/05/Nigerian-Women.png"
+        },
+        {
+            "position": 9,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f5cf248e67dcff05514f8d2c4c0621a0a0850f209caa4adc97.jpeg",
+            "source": "bbc.com",
+            "title": "Nigeria's Yoruba women announce their arrival in style - BBC News",
+            "link": "https://www.bbc.com/news/world-africa-53050001",
+            "original": "https://ichef.bbci.co.uk/news/976/cpsprodpb/9EFB/production/_112899604_dsc05926-edit.jpg"
+        },
+        {
+            "position": 10,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f56dead5332d6066ca52a49ff51951f8cbaaa31acda900e368.jpeg",
+            "source": "stylerave.com",
+            "title": "Famous Nigerian Women: 20 Of The Most Important Women In History",
+            "link": "https://www.stylerave.com/famous-nigerian-women-important-in-history/",
+            "original": "https://www.stylerave.com/wp-content/uploads/2020/03/F75E3DF7-AAD9-4290-ABE6-7792ED045669-e1583693502316.jpg"
+        },
+        {
+            "position": 11,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f58d18f651076cbebfa4921e88c4f2ba95956bccd16a7475dc.jpeg",
+            "source": "internationallovescout.com",
+            "title": "Meet Nigerian Mail Order Brides - Hot Nigerian Girls for Marriage",
+            "link": "https://www.internationallovescout.com/nigerian-brides",
+            "original": "https://www.internationallovescout.com/wp-content/uploads/2019/04/lovely-nigerian-women.jpg"
+        },
+        {
+            "position": 12,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f58d18f651076cbebf50e3cf362dd34159ab7f9ab1f4d130ab.jpeg",
+            "source": "guardian.ng",
+            "title": "A lot of Nigerian women suffer in silence | The Guardian Nigeria News -  Nigeria and World NewsGuardian Woman \u2014 The Guardian Nigeria News \u2013 Nigeria  and World News",
+            "link": "https://guardian.ng/guardian-woman/a-lot-of-nigerian-women-suffer-in-silence/",
+            "original": "https://guardian.ng/wp-content/uploads/2017/05/ASMAU-3.jpg"
+        },
+        {
+            "position": 13,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f58d18f651076cbebf1c0b29a209b6b1b8eb438654f0f5af82.jpeg",
+            "source": "voanews.com",
+            "title": "Nigerian Women Struggle to Win Political Offices | Voice of America -  English",
+            "link": "https://www.voanews.com/africa/nigerian-women-struggle-win-political-offices",
+            "original": "https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-04/3C04FF8C-2FAC-4AED-A929-887B2B8534BE.jpg?itok=D22HhFTI"
+        },
+        {
+            "position": 14,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f58d18f651076cbebf66fd8a7d773ff84f3305012f6ea320c3.jpeg",
+            "source": "vanguardngr.com",
+            "title": "Dr Iluyomade and the passion for Nigerian women - Vanguard News",
+            "link": "https://www.vanguardngr.com/2019/07/dr-iluyomade-and-the-passion-for-nigerian-women/",
+            "original": "https://live.mrf.io/statics/i/ps/i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/07/women.jpg?fit=703%2C717&ssl=1&width=1200&enable=upscale"
+        },
+        {
+            "position": 15,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f58d18f651076cbebf32fecf875f7553fb199531d2d2bdc29a.jpeg",
+            "source": "youtube.com",
+            "title": "NIGERIAN WOMEN: WHY YOU HAVE NO HUSBAND (and Why You Don't Need One) |  Nigeria Chronicles - YouTube",
+            "link": "https://www.youtube.com/watch?v=syeXIW81B9o",
+            "original": "https://i.ytimg.com/vi/syeXIW81B9o/maxresdefault.jpg"
+        },
+        {
+            "position": 16,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f58d18f651076cbebfba09036c036b552732744e0f84a30cbb.jpeg",
+            "source": "emu.edu",
+            "title": "Winston Fellow Tessy Gusim-Ndasule seeks to build peace among Nigerian women  of faith - EMU News",
+            "link": "https://emu.edu/now/news/2017/winston-fellow-tessy-gusim-ndasule-seeks-build-peace-among-nigerian-women-faith/",
+            "original": "https://emu.edu/now/news/wp-content/uploads/sites/43/2017/06/Theresa-Gusim-10.jpg"
+        },
+        {
+            "position": 17,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f58d18f651076cbebf085ee549e7cf082c0bc7ec8668e0388b.jpeg",
+            "source": "makingofchamps.com",
+            "title": "Top 10 Nigerian Female Athletes in 2019 (Part 2) | MAKING OF CHAMPIONS",
+            "link": "https://www.makingofchamps.com/2019/11/11/top-10-nigerian-female-athletes-in-2019-part-2/",
+            "original": "https://i2.wp.com/www.makingofchamps.com/wp-content/uploads/2019/11/Feature-photo-for-Top-10-Nigerian-women-part-2-1.jpg?fit=800%2C600&ssl=1"
+        },
+        {
+            "position": 18,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f58d18f651076cbebfeabc1ab7ba19c0ef2465ea7c3b9a283a.jpeg",
+            "source": "pinterest.com",
+            "title": "The Beauty Products Nigerian Women Swear By+#refinery29 | Beauty, Melanin  beauty, Summer beauty",
+            "link": "https://www.pinterest.com/pin/491385009338816064/",
+            "original": "https://i.pinimg.com/originals/7b/82/b8/7b82b8bd6896d8f91aa06b2615eec02f.jpg"
+        },
+        {
+            "position": 19,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f58d18f651076cbebf56be8cfeb654bc381895e49ad5a6f43f.jpeg",
+            "source": "umnews.org",
+            "title": "Empowering Nigerian women through microloans | United Methodist News Service",
+            "link": "https://www.umnews.org/en/news/empowering-nigerian-women-through-microloans",
+            "original": "https://www.umnews.org/-/media/umc-media/2018/10/18/16/20/nigeria-empowr-her-1-mom-baby.ashx?rev=a0e9e0a3fc934c3ea953b5583397de19&la=en&h=808&w=1200&mw=1200&hash=D80E4B98AC771D79F31C228E435713419FA89921"
+        },
+        {
+            "position": 20,
+            "thumbnail": "https://serpapi.com/searches/603c2d395187928f76cd9209/images/74b1bf2e5eb1d4f58d18f651076cbebfd818064ac3d285eb32f326d56d208c99.jpeg",
+            "source": "aljazeera.com",
+            "title": "Nigerian women brace for election upsets | Elections News | Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2019/3/8/nigerian-women-brace-for-election-upsets",
+            "original": "https://www.aljazeera.com/wp-content/uploads/2019/03/cce6eaefd192401fb072bafb72916b59_18.jpeg?resize=770%2C513"
+        },
+        {
+            "position": 21,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7s2vkoSlOIWqzvpVo2M6FDlgJREjnLWmVlg&usqp=CAU",
+            "source": "expatkings.com",
+            "title": "24 Most Beautiful Nigerian Women (Photos) - Expat Kings",
+            "link": "https://www.expatkings.com/nigerian-women/",
+            "original": "https://www.expatkings.com/wp-content/uploads/2018/02/images-26.jpeg"
+        },
+        {
+            "position": 22,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJrR56p29jncvL2qcFuHOwPjS0bD9o3RNOYQ&usqp=CAU",
+            "source": "channel4.com",
+            "title": "Everyday sexism: the reality of #Being Female In Nigeria \u2013 Channel 4 News",
+            "link": "https://www.channel4.com/news/everyday-sexism-my-experience-of-beingfemaleinnigeria",
+            "original": "http://www.channel4.com/media/images/Channel4/c4-news/01_YomiAdegoke_w--(None).jpg"
+        },
+        {
+            "position": 23,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS48rW-A4xthavz862Bs07S2tGZn7jdC54Lw&usqp=CAU",
+            "source": "voanews.com",
+            "title": "Bound By Magic, Nigerian Women Enslaved | Voice of America - English",
+            "link": "https://www.voanews.com/africa/bound-magic-nigerian-women-enslaved-0",
+            "original": "https://im-media.voltron.voanews.com/Drupal/01live-166/styles/892x501/s3/2019-04/E9D81910-EAA3-4039-BCE7-ABD159D948AE.jpg?itok=syot4UjH"
+        },
+        {
+            "position": 24,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNONW5-5Kb_iOH2rv9Nhkimm6szMJW3AKjQ&usqp=CAU",
+            "source": "negromanosphere.com",
+            "title": "5 Unique Things to Hate about Nigerian Women - Negromanosphere",
+            "link": "https://negromanosphere.com/5-unique-things-hate-nigerian-women/",
+            "original": "https://negromanosphere.com/wp-content/uploads/2018/02/Nigerian-girls.jpg"
+        },
+        {
+            "position": 25,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnZdjLa9zRDhWE9GIHWNUqdMoZCip9n7tZ4A&usqp=CAU",
+            "source": "mcsprogram.org",
+            "title": "Permanent Relief: Lifelong Contraceptives Give Nigerian Women Peace of Mind  | Maternal Child Survival Program",
+            "link": "https://www.mcsprogram.org/permanent-relief-lifelong-contraceptives-give-nigerian-women-peace-of-mind/",
+            "original": "https://www.mcsprogram.org/wp-content/uploads/2018/07/Nigeria-mini-lap-photo.png"
+        },
+        {
+            "position": 26,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gUzFc6fxW7q88CnfOBHNcyjYSPtxX6WoHw&usqp=CAU",
+            "source": "newyorkminutemag.com",
+            "title": "1 Million Women United in Nigerian Facebook Group - NYMM",
+            "link": "https://www.newyorkminutemag.com/women-find-safe-space-in-facebook-group/",
+            "original": "https://www.newyorkminutemag.com/wp-content/uploads/2017/07/23379499480_bf6b8af84d_k.jpg"
+        },
+        {
+            "position": 27,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqlFUUwb0YY65epa0m8Zzq3jpCF4s7MAA&usqp=CAU",
+            "source": "thenationonlineng.net",
+            "title": "Nigerian women, Owanbe and Aso Ebi - Latest Nigeria News, Nigerian  Newspapers, Politics",
+            "link": "https://thenationonlineng.net/nigerian-women-owanbe-and-aso-ebi/",
+            "original": "https://thenationonlineng.net/wp-content/uploads/2017/11/Owanbe.jpg"
+        },
+        {
+            "position": 28,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb47PJH4_r8wcW1bdLAN7WQnNhTGipnqAF0w&usqp=CAU",
+            "source": "nairametrics.com",
+            "title": "Here are the top Nigerian women in finance | Nairametrics",
+            "link": "https://nairametrics.com/2019/07/17/here-are-the-top-nigerian-women-in-finance/",
+            "original": "https://nairametrics.com/wp-content/uploads/2019/07/Women-in-Finance.jpg"
+        },
+        {
+            "position": 29,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6akblts-ZcTs40RdbVBJJLWzfJfuTXrxxw&usqp=CAU",
+            "source": "pmnewsnigeria.com",
+            "title": "Millions of Nigerian women, girls suffer feminisation of poverty - Fayemi -  P.M. News",
+            "link": "https://www.pmnewsnigeria.com/2019/05/13/millions-of-nigerian-women-girls-suffer-feminisation-of-poverty-fayemi/",
+            "original": "https://i1.wp.com/www.pmnewsnigeria.com/wp-content/uploads/2019/04/Erelu-Bisi-Fayemi-e1556379247123.jpeg?fit=563%2C700&ssl=1"
+        },
+        {
+            "position": 30,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRym9GN7ZgAdTWlK9Y8jMWQNlqy2lxyPZs2Pw&usqp=CAU",
+            "source": "mysalaryscale.com",
+            "title": "Top 10 Successful Nigerian Women that Made wealth by Adding Value",
+            "link": "https://www.mysalaryscale.com/blog/top-10-successful-nigerian-women-that-made-wealth-by-adding-value/",
+            "original": "https://www.mysalaryscale.com/blog/wp-content/uploads/2018/09/Header-image.jpg"
+        },
+        {
+            "position": 31,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR44HT1az6ufpQhjRxBjGmlePzusHwBErHWEw&usqp=CAU",
+            "source": "nigeriahealthwatch.com",
+            "title": "Giving Birth in Nigeria: The staggering odds facing pregnant women - Nigeria  Health Watch",
+            "link": "https://nigeriahealthwatch.com/giving-birth-in-nigeria-the-staggering-odds-facing-pregnant-women/",
+            "original": "https://nigeriahealthwatch.com/wp-content/uploads/2017/08/1_5DKUxvkWEQTK0cKg7X0dwg.jpeg"
+        },
+        {
+            "position": 32,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_LFTRpzB1Mi__YWl1op3Si3lu9p99xrJZA&usqp=CAU",
+            "source": "vanguardngr.com",
+            "title": "UN wants laws backing Nigerian women seeking political offices - Vanguard  News",
+            "link": "https://www.vanguardngr.com/2019/02/un-wants-laws-backing-nigerian-women-seeking-political-offices/",
+            "original": "https://live.mrf.io/statics/i/ps/i0.wp.com/www.vanguardngr.com/wp-content/uploads/2019/02/women-in-politics.gif?fit=500%2C293&ssl=1&width=1200&enable=upscale"
+        },
+        {
+            "position": 33,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ofIGwYUOcEtJSVzFott8pbzmd-C1Mzb04w&usqp=CAU",
+            "source": "urbanwomanmag.com",
+            "title": "Nigerian Women: Are We Doing Enough In Striving For Our Right To Vote And  Be Voted For? - Urban Woman Magazine",
+            "link": "https://urbanwomanmag.com/women-in-nigeria-the-right-to-vote/",
+            "original": "https://urbanwomanmag.com/wp-content/uploads/2019/02/nigerian-woman.png"
+        },
+        {
+            "position": 34,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiwdBTzH5rTGPAoU93f-Gy0GEw7Ws43KNDqw&usqp=CAU",
+            "source": "research.msu.edu",
+            "title": "MSU Receives $18.5M in USAID to 'Feed' Nigeria's, Sengal's Futures |  Research at Michigan State University",
+            "link": "https://research.msu.edu/msu-receives-18-5m-in-usaid-to-feed-nigerias-sengals-futures/",
+            "original": "https://research.msu.edu/wp-content/uploads/2015/11/nigeria.jpg"
+        },
+        {
+            "position": 35,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjhULMHiOe19UFWkXuKfmExxaxSuMGDkHeg&usqp=CAU",
+            "source": "globalseducer.com",
+            "title": "Dating Nigerian Women Without This Guide is Suicide - Global Seducer",
+            "link": "https://www.globalseducer.com/dating-nigerian-women/",
+            "original": "https://www.globalseducer.com/wp-content/uploads/2016/12/nigerian-woman-looking-at-white-man.jpg"
+        },
+        {
+            "position": 36,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfZi3BBT6uRAQDEJTV3mKo5wkvpO3q6NaSw&usqp=CAU",
+            "source": "guardian.ng",
+            "title": "Five most influential Nigerian women of 2016 | The Guardian Nigeria News -  Nigeria and World NewsGuardian Woman \u2014 The Guardian Nigeria News \u2013 Nigeria  and World News",
+            "link": "https://guardian.ng/guardian-woman/five-most-influential-nigerian-women-of-2016/",
+            "original": "https://guardian.ng/wp-content/uploads/2016/12/adi.jpg"
+        },
+        {
+            "position": 37,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrmgfWbLwS7XSsqQi1lwYmes4EvKFf98W8g&usqp=CAU",
+            "source": "latestreport.online",
+            "title": "Nigerian lady says Igbo women are the most romantic set of Nigerian women -  LatestReport",
+            "link": "https://latestreport.online/nigerian-lady-says-igbo-women-are-the-most-romantic-set-of-nigerian-women/",
+            "original": "https://lailasnews.com/wp-content/uploads/2020/09/3E469AF6-F1EF-4F7A-A0AD-6544F8F4B694-492x410.jpeg"
+        },
+        {
+            "position": 38,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT45KtWuuocU-ADdNRGviKpfg3Y6-L5hwZGlA&usqp=CAU",
+            "source": "chip.ng",
+            "title": "WCW: Nigerian Women-What makes Nigerian women special from other women |  Chip.ng",
+            "link": "https://chip.ng/2020/09/09/wcw-nigerian-women-what-makes-nigerian-women-special-from-other-women/",
+            "original": "https://chip.ng/wp-content/uploads/2020/09/NIGERIAN-WOMEN-2.jpg"
+        },
+        {
+            "position": 39,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy99MPYHNqTdSp51aFsakzA_hEyvY8D9WQAw&usqp=CAU",
+            "source": "youtube.com",
+            "title": "WHY NIGERIAN WOMEN ARE MARRIAGE \"OBSESSED\" - YouTube",
+            "link": "https://www.youtube.com/watch?v=A3FpVweYz7E",
+            "original": "https://i.ytimg.com/vi/A3FpVweYz7E/hqdefault.jpg"
+        },
+        {
+            "position": 40,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ19qS7zz5H1dOCQcvm9fmuVs4wvxfF16YBpg&usqp=CAU",
+            "source": "en.wikipedia.org",
+            "title": "Female empowerment in Nigeria - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Female_empowerment_in_Nigeria",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Nigerian_women.jpg"
+        },
+        {
+            "position": 41,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRakBipBLjfhPtyR6t7hXMaEgsAeHyZmgSiIg&usqp=CAU",
+            "source": "gulftoday.ae",
+            "title": "Nigerian women struggle with never ending miseries - GulfToday",
+            "link": "https://www.gulftoday.ae/opinion/2019/08/01/nigerian-women-struggle-with-never-ending-miseries",
+            "original": "http://www.gulftoday.ae/-/media/gulf-today/images/articles/opinion/2019/8/1/nigeria-women.ashx?h=450&w=750&hash=71FDC1BE4E2AB6A1C397E116F7A8E935"
+        },
+        {
+            "position": 42,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZG8KLdrqO3BuW8mZqkqoTzHcXBbyOBRt_Yw&usqp=CAU",
+            "source": "csmonitor.com",
+            "title": "Maraji and Taaooma: The Nigerian women flipping the script on comedy -  CSMonitor.com",
+            "link": "https://www.csmonitor.com/World/Africa/2020/0810/How-two-Nigerian-women-are-breaking-into-comedy-s-boys-club",
+            "original": "https://images.csmonitor.com/csm/2020/08/0805-FUNNYWOMEN.jpg?alias=standard_900x600"
+        },
+        {
+            "position": 43,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpzEJ3VCGbLPP8eODjofCh0ufDnmSAaZRF3w&usqp=CAU",
+            "source": "bbc.com",
+            "title": "End Sars protests: The Nigerian women leading the fight for change - BBC  News",
+            "link": "https://www.bbc.com/news/world-africa-55104025",
+            "original": "https://ichef.bbci.co.uk/news/976/cpsprodpb/8A14/production/_115684353_976549rinu.png"
+        },
+        {
+            "position": 44,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFDVhlZbwAgv4wsHah3ZP-tFEuAJ59hnK_A&usqp=CAU",
+            "source": "lacuna.org.uk",
+            "title": "Beyond Chibok: Nigerian Women in the Middle, Grasping for Peace | Lacuna  Magazine",
+            "link": "https://lacuna.org.uk/protest/chibok-girls/",
+            "original": "https://lacuna.org.uk/wp-content/uploads/2015/04/Nigerian-refugees-in-Gagamari-camp--1900x1250.jpg"
+        },
+        {
+            "position": 45,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5_pNm9VTZ1olk_GJS22Lb9L3JCkRdGJjDw&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Pin on Places to Visit",
+            "link": "https://www.pinterest.com/pin/606719381019740886/",
+            "original": "https://i.pinimg.com/originals/1f/0d/80/1f0d8071100b4c744a37a58c4346d837.jpg"
+        },
+        {
+            "position": 46,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2XzUVy_IjFUhnoO7MLwDYBCLKt5Krn9BluA&usqp=CAU",
+            "source": "dw.com",
+            "title": "How the \u2032Nigerian mafia\u2032 exploits African women in Europe | Europe| News  and current affairs from around the continent | DW | 25.12.2019",
+            "link": "https://www.dw.com/en/how-the-nigerian-mafia-exploits-african-women-in-europe/a-51696034",
+            "original": "https://m.dw.com/image/46970316_401.jpg"
+        },
+        {
+            "position": 47,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMEKEwtU4qFWaa48NIAMzvHun9CuANJZ8RA&usqp=CAU",
+            "source": "quora.com",
+            "title": "What can you say about Nigerian women? - Quora",
+            "link": "https://www.quora.com/What-can-you-say-about-Nigerian-women",
+            "original": "https://qph.fs.quoracdn.net/main-qimg-3dc77faf88b2d51aa33aac07cf816af8"
+        },
+        {
+            "position": 48,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQAdhCZd_Lxj9x3NiL_U4HfbDIFbwI01IHQ&usqp=CAU",
+            "source": "agogoayonews.com",
+            "title": "South African Men Believe Nigerian Women Are Not Beautiful Enough -",
+            "link": "https://agogoayonews.com/2020/02/26/south-african-men-believe-nigerian-women-are-not-beautiful-enough/",
+            "original": "https://agogoayonews.com/wp-content/uploads/2020/02/nig-women-1.jpg"
+        },
+        {
+            "position": 49,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5B9bqs75MMQjGrPtQnIgeAWg3k4L1vfsAyg&usqp=CAU",
+            "source": "glaziang.com",
+            "title": "Top 10 Nigerian Women Making History in Entertainment \u2013 Glazia",
+            "link": "https://glaziang.com/nigerian-women/",
+            "original": "https://i1.wp.com/glaziang.com/wp-content/uploads/2019/04/Chimamada.jpg?fit=1024%2C683&ssl=1"
+        },
+        {
+            "position": 50,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUkhZQXF56ADL5lWFHvRuvS1l3TAgCBX4RFg&usqp=CAU",
+            "source": "gettyimages.co.uk",
+            "title": "19,765 Nigerian Women Photos and Premium High Res Pictures - Getty Images",
+            "link": "https://www.gettyimages.co.uk/photos/nigerian-women",
+            "original": "https://media.gettyimages.com/photos/young-girl-in-her-hijab-picture-id1190029765?s=612x612"
+        },
+        {
+            "position": 51,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSIQLeNjlGhiIAMVdOtinzCIzp8oYMFVg7hQ&usqp=CAU",
+            "source": "ghgossip.com",
+            "title": "Nigerian Women Ranked The Most Promiscuous In Africa",
+            "link": "https://www.ghgossip.com/nigerian-women-ranked-the-most-promiscuous-in-africa/",
+            "original": "https://i2.wp.com/www.ghgossip.com/wp-content/uploads/2020/01/7922434_10mostcurvynigerianslayqueensinstagramqueens_jpeg775a0b62118d1c0b53ad11432d9be0a2.jpg?fit=720%2C405&ssl=1"
+        },
+        {
+            "position": 52,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAvopffCppZ5-Uscz74Apf_kaqGc3yiRj-A&usqp=CAU",
+            "source": "thejournal.ie",
+            "title": "For advice on sex and money, Nigerian women turn to Instagram",
+            "link": "https://www.thejournal.ie/nigeria-instagram-agony-aunt-2450220-Nov2015/",
+            "original": "https://c2.thejournal.ie/media/2015/11/shutterstock_173137136-752x501.jpg"
+        },
+        {
+            "position": 53,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Oi2w3E2DU0Yab-hi5clpWqd1RFg2uT4ZjQ&usqp=CAU",
+            "source": "theconversation.com",
+            "title": "What's stopping Nigerian women from being screened for cancer?",
+            "link": "https://theconversation.com/whats-stopping-nigerian-women-from-being-screened-for-cancer-49995",
+            "original": "https://images.theconversation.com/files/101600/original/image-20151111-9379-v77oko.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop"
+        },
+        {
+            "position": 54,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLOqZ-JEJFFbSfQugY_q_r7uu1e6R-DULxBg&usqp=CAU",
+            "source": "eurekalert.org",
+            "title": "Sequencing genomes of Nigerian women could help prevent many lethal breast  cancers | EurekAlert! Science News",
+            "link": "https://www.eurekalert.org/pub_releases/2018-08/uocm-sgo081718.php",
+            "original": "https://media.eurekalert.org/multimedia_prod/pub/web/178406_web.jpg"
+        },
+        {
+            "position": 55,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Azjwcz8tsVopRdu8na3bpH9u96Jl4J88tQ&usqp=CAU",
+            "source": "waitfashion.com",
+            "title": "Street Souk e Off-White insieme per supportare le \"young nigerian women\"",
+            "link": "https://www.waitfashion.com/en/street-souk-and-pff-white-together-to-support-the-young-nigerian-women/",
+            "original": "https://www.waitfashion.com/wp-content/uploads/2020/12/Senza-titolo-1-10.jpg"
+        },
+        {
+            "position": 56,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTYhBuORGRPx9l3KhSUVH1K0eYy1diYbfo7A&usqp=CAU",
+            "source": "bestbrides.org",
+            "title": "Nigerian Brides - Hot Single Ladies Looking For Their Man | BestBrides",
+            "link": "https://bestbrides.org/nigerian-brides/",
+            "original": "https://bestbrides.org/wp-content/uploads/2019/11/nigerian-2.jpg"
+        },
+        {
+            "position": 57,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmg63e-JFOOsAlbWgZh-YfoF--zwtVgijew&usqp=CAU",
+            "source": "scholarship-positions.com",
+            "title": "Nigerian Women Association of Georgia Scholarships in Nigeria",
+            "link": "https://scholarship-positions.com/nigerian-women-association-of-georgia-scholarships-in-nigeria/2020/04/25/",
+            "original": "https://scholarship-positions.com/wp-content/uploads/2020/04/Nigerian-Women-Association-of-Georgia-Scholarships-1024x597.png"
+        },
+        {
+            "position": 58,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDyN4FHXSCzNwjeFGIUTFl7atovFs_51WiDA&usqp=CAU",
+            "source": "sisicouture.com",
+            "title": "The Nigerian Women And Their Crazy Hair Styles - Sisi Couture",
+            "link": "https://sisicouture.com/the-nigerian-women-and-their-crazy-hair-styles/",
+            "original": "https://sisicouture.com/wp-content/uploads/2019/08/hair-1.jpg"
+        },
+        {
+            "position": 59,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM9lmcpMuCIJAa5nUN5jMWwvFF19Y7JZNHDw&usqp=CAU",
+            "source": "ghanacelebrities.com",
+            "title": "Nigerian Women Know Nothing About 'True Love' - 23-Year-Old Nigerian Guy  Set to Marry 46-Year-Old American Woman Says - GhanaCelebrities.Com",
+            "link": "https://www.ghanacelebrities.com/2020/01/21/nigerian-women-know-nothing-about-true-love-23-year-old-nigerian-guy-set-to-marry-46-year-old-american-woman-says/",
+            "original": "https://i0.wp.com/www.ghanacelebrities.com/wp-content/uploads/2020/01/nigerian-boy-american-bride-1.jpg?resize=700%2C394&ssl=1"
+        },
+        {
+            "position": 60,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLyYV778BxXxRR4M5d4cnp1bVWt6_qRpCN0w&usqp=CAU",
+            "source": "ned.org",
+            "title": "Nigerian Women Speak Up about Boko Haram for the First Time - NATIONAL  ENDOWMENT FOR DEMOCRACY",
+            "link": "https://www.ned.org/democracy-story/nigerian-women-speak-up-about-boko-haram-for-the-first-time/",
+            "original": "https://www.ned.org/wp-content/uploads/2020/03/CASE-STUDY_Resized_WAP_0.png"
+        },
+        {
+            "position": 61,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1s2sLx6ogJBPCj_0BSXO_wwB80Pc57-dgXA&usqp=CAU",
+            "source": "peacewomen.org",
+            "title": "Official Launch of the Nigerian Women Mediators Collaborative Initiative  (NWMCI) | PeaceWomen",
+            "link": "https://www.peacewomen.org/node/103787",
+            "original": "https://www.peacewomen.org/sites/default/files/styles/normal/public/abbi%20nwmci2.jpeg?itok=YN6deDGS"
+        },
+        {
+            "position": 62,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPnyEWltj_leAdwNuBYPM34ifxOcfMxLdqNw&usqp=CAU",
+            "source": "africanamericangolfersdigest.com",
+            "title": "Nigerian Women Part Of Record-Breaking Results For 2020 Women's Golf Day |  African American Golfer's Digest",
+            "link": "https://africanamericangolfersdigest.com/nigerian-women-part-of-record-breaking-results-for-2020-womens-golf-day/",
+            "original": "https://africanamericangolfersdigest.com/wp-content/uploads/2020/09/nigeria-national-womens-golf-day-1.jpg"
+        },
+        {
+            "position": 63,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm0sstGLaJeHh8sNZ_MwRJATFsV5DlLcf84g&usqp=CAU",
+            "source": "naijalifemagazine.com",
+            "title": "10 Things Nigerian Women Are Tired Of Hearing - Naijalife Magazine",
+            "link": "http://naijalifemagazine.com/blog/2017/03/13/10-things-nigerian-women-are-tired-of-hearing/",
+            "original": "http://naijalifemagazine.com/blog/wp-content/uploads/2017/03/Nigerian-WOmen-collage-800x445.jpg"
+        },
+        {
+            "position": 64,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJhQw8h9L0pJSQ8nBx0N1q7uDa8PvLHs6aSw&usqp=CAU",
+            "source": "sunnewsonline.com",
+            "title": "Nigerian women urged to be pacesetters in national development \u2013 The Sun  Nigeria",
+            "link": "https://www.sunnewsonline.com/nigerian-women-urged-to-be-pacesetters-in-national-development/",
+            "original": "https://sunnewsonline.com/wp-content/uploads/2017/03/IWD-Four.jpg"
+        },
+        {
+            "position": 65,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8vbDPgQM1WLIRuiroSpz-6uLJwWML3IRnQ&usqp=CAU",
+            "source": "techcabal.com",
+            "title": "Andela Will Teach Young Nigerian Women To Code In An All-Female Technology  Bootcamp | TechCabal",
+            "link": "https://techcabal.com/2014/10/15/andela-will-teach-young-nigerian-women-code-female-technology-bootcamp/",
+            "original": "https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/2014/09/african-woman.jpg"
+        },
+        {
+            "position": 66,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmv7n_cQAicN5fMIshX8IH-JxcBNA_2NDREQ&usqp=CAU",
+            "source": "beauty-around.com",
+            "title": "Top-18 Beautiful Nigerian Women. Photo Gallery",
+            "link": "http://beauty-around.com/en/tops/item/966-most-beautiful-nigerian-women",
+            "original": "http://beauty-around.com/images/sampledata/Nigerian_Women/14Eva%20Alordiah.jpg"
+        },
+        {
+            "position": 67,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvPy94VmzNvp9ERy_Yo7BPUr-peb8Dmjf3Q&usqp=CAU",
+            "source": "guardian.ng",
+            "title": "An Open Letter To The Nigerian Woman | The Guardian Nigeria News - Nigeria  and World NewsGuardian Life \u2014 The Guardian Nigeria News \u2013 Nigeria and World  News",
+            "link": "https://guardian.ng/life/life-features/an-open-letter-to-the-nigerian-woman/",
+            "original": "https://guardian.ng/wp-content/uploads/2018/03/Photo_-Pixabay.jpg"
+        },
+        {
+            "position": 68,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttdjDMYxgL8TKWwP4dFDm4DyMJJwnhTS2cA&usqp=CAU",
+            "source": "nigeriahealthwatch.com",
+            "title": "RICOM3 helps Nigerian women take ownership of their pregnancy journey;  Here's how - Nigeria Health Watch",
+            "link": "https://nigeriahealthwatch.com/ricom3-helps-nigerian-women-take-ownership-of-their-pregnancy-journey-heres-how/",
+            "original": "https://nigeriahealthwatch.com/wp-content/uploads/2020/12/Lagos2-900x600.jpg"
+        },
+        {
+            "position": 69,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkcl4peXJshXbe7JZy7HKi6ezchXO8j-OBnQ&usqp=CAU",
+            "source": "thisdaylive.com",
+            "title": "Dozie: Why Technology Skills Gap Exists among Nigerian WomenTHISDAYLIVE",
+            "link": "https://www.thisdaylive.com/index.php/2020/04/23/dozie-why-technology-skills-gap-exists-among-nigerian-women/",
+            "original": "https://live.mrf.io/statics/i/ps/storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/04/bed560ce-ifeoma-dozie.jpg?width=1200&enable=upscale"
+        },
+        {
+            "position": 70,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3pdd4CfPn45B4-QNY8ziCaMnqCERT2Vy5KQ&usqp=CAU",
+            "source": "queenmoremi.com",
+            "title": "International Women's Day: Ex BBNer Anto Lecky Pays Tribute to Iconic Nigerian  Women - Queen moremi",
+            "link": "http://queenmoremi.com/2019/03/international-womens-day-ex-bbner-anto-lecky-pays-tribute-to-iconic-nigerian-women/",
+            "original": "http://queenmoremi.com/wp-content/uploads/2019/03/20190308_170507.png"
+        },
+        {
+            "position": 71,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2YcJRN3piYPC2f-XYGY7A2Po6MuBm6kqWiA&usqp=CAU",
+            "source": "npr.org",
+            "title": "Voodoo-Using U.K. Nurse Sentenced For Trafficking Nigerian Women : NPR",
+            "link": "https://www.npr.org/2018/07/05/626088604/voodoo-using-u-k-nurse-sentenced-for-trafficking-nigerian-women",
+            "original": "https://media.npr.org/assets/img/2018/07/05/custody-image-joesphine-iyamu_custom-e40e8a799442eb212051e8af8b366e0ef06799d1-s800-c85.png"
+        },
+        {
+            "position": 72,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSux98bJNOWL71Nmr2AwgnTsx6AGqF_hW7r6A&usqp=CAU",
+            "source": "weetracker.com",
+            "title": "300 Nigerian Women Receive Financial Support To Further Grow Their  Businesses - WeeTracker",
+            "link": "https://weetracker.com/2019/05/07/nigerian-women-receive-financial-support-further-businesses/",
+            "original": "https://weetracker.com/wp-content/uploads/2019/05/women-bus.jpg"
+        },
+        {
+            "position": 73,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZrYMj6QRW5OBDaQKT7pi7d9SB0U3ZQxy5g&usqp=CAU",
+            "source": "facebook.com",
+            "title": "Nigerian Women Association Maryland Metro - Home | Facebook",
+            "link": "https://www.facebook.com/nigerianwomenassociation/",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2269582243342588"
+        },
+        {
+            "position": 74,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2ymmJcX1nXn3f5dY6jWcjuo0mAFYr7b9vA&usqp=CAU",
+            "source": "a360learninghub.org",
+            "title": "AFP: Nigerian women embrace family planning ahead of population boom |  Adolescents 360",
+            "link": "https://a360learninghub.org/nigerian-women-embrace-family-planning-ahead-of-population-boom/",
+            "original": "https://a360learninghub.org/wp-content/uploads/2019/01/P_2R2A2386-825x510.jpg"
+        },
+        {
+            "position": 75,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiFYhUCeSv2bdReHOEEMgDRosJFBqWo1Cwog&usqp=CAU",
+            "source": "lightinthewords.com",
+            "title": "NIGERIAN WOMEN ARE BREAKING RECORDS",
+            "link": "http://lightinthewords.com/nigerian-women-are-breaking-records/d2dreezxqaag4mc/",
+            "original": "http://lightinthewords.com/wp-content/uploads/2019/03/D2dREezXQAAG4Mc.jpg"
+        },
+        {
+            "position": 76,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jqj1yyBrnwT-68ZoXFn5P2VplL409_YsNg&usqp=CAU",
+            "source": "independent.ng",
+            "title": "10 Nigerian Women Make Forbes 'Most Powerful' List \u2013 Independent Newspapers  Nigeria",
+            "link": "https://www.independent.ng/10-nigerian-women-make-forbes-most-powerful-list/",
+            "original": "https://www.independent.ng/wp-content/uploads/Powerful-Women-3.jpg"
+        },
+        {
+            "position": 77,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdMx5MpmvPfK0dKbSNc4iJdPMXjCq9ZRRxIw&usqp=CAU",
+            "source": "sveltemag.com",
+            "title": "Native Wears For Nigerian Women \u2013 Svelte Magazine",
+            "link": "https://sveltemag.com/native-wears-for-nigerian-women/",
+            "original": "https://i0.wp.com/sveltemag.com/wp-content/uploads/2020/03/Native-Wears-For-Nigerian-Women.jpg?fit=800%2C516&ssl=1"
+        },
+        {
+            "position": 78,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4cX2Z3-Rqe9x8PYA4eF2t8xIm67vNO3NGow&usqp=CAU",
+            "source": "cfr.org",
+            "title": "Women in the Nigerian Delta Resist Election Violence and Rigging",
+            "link": "https://www.cfr.org/blog/women-nigerian-delta-resist-election-violence-and-rigging",
+            "original": "https://cdn.cfr.org/sites/default/files/styles/full_width_xl/public/image/2019/04/Nigeria-Election-Women-Voting-Niger-Delta-Harcourt.jpg"
+        },
+        {
+            "position": 79,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKr3tVaBKh6yI1zrkueyb_35Pskar41BnOA&usqp=CAU",
+            "source": "theconversation.com",
+            "title": "How Nigerian women are using WhatsApp to chat, learn and earn",
+            "link": "https://theconversation.com/how-nigerian-women-are-using-whatsapp-to-chat-learn-and-earn-105145",
+            "original": "https://images.theconversation.com/files/242020/original/file-20181024-48706-1sbbios.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop"
+        },
+        {
+            "position": 80,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY75vDgBvNOAAaolHwBE2qoM1NXu3B391_fQ&usqp=CAU",
+            "source": "carmart.ng",
+            "title": "Best Cars for Nigerian Women in 2021",
+            "link": "https://carmart.ng/public/blog/best-cars-for-nigerian-women/",
+            "original": "https://i2.wp.com/carmart-blog.s3.af-south-1.amazonaws.com/2020/02/Best-Cars-For-Nigerian-Women-In-2020.jpg?fit=1000%2C563&ssl=1"
+        },
+        {
+            "position": 81,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmeYmkLafAv4Hgjc71zv9f01U48tkOp_0OXA&usqp=CAU",
+            "source": "cnn.com",
+            "title": "Nigerian women take to the streets in protests against rape and sexual  violence - CNN",
+            "link": "https://www.cnn.com/2020/06/09/africa/nigeria-women-rape-protests/index.html",
+            "original": "https://cdn.cnn.com/cnnnext/dam/assets/200604095531-01-nigeria-uwaila-vera-omozuwa-large-169.jpg"
+        },
+        {
+            "position": 82,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLM7QJAjFx3inbQSuvg-Errx6BvvKKdkxaKg&usqp=CAU",
+            "source": "financialnigeria.com",
+            "title": "Ladima appoints exec of academy to support Nigerian women in film,  television",
+            "link": "http://www.financialnigeria.com/ladima-appoints-exec-of-academy-to-support-nigerian-women-in-film-television-sustainable-1119.html",
+            "original": "http://d2h59e6b7hdi10.cloudfront.net/WS/image_resize/?pic=aHR0cDovL2QyaDU5ZTZiN2hkaTEwLmNsb3VkZnJvbnQubmV0L3B1YmxpYy91cGxvYWQvc3VzdGFpbmFibGVfZGV2ZWxvcG1lbnRfaW1nLzExMTkvTHlkaWFfU29ib2d1bi0yMDE5MDQyMzEzMDYzOTQyNjAuanBn&height=407&width=610&color=FFFFFF"
+        },
+        {
+            "position": 83,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQJ3X6hnGXF_CeIPqZZ6cF-PPHcYS_esQRQ&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "Trafficked to Turin: the Nigerian women forced to work as prostitutes in  Italy | Global development | The Guardian",
+            "link": "https://www.theguardian.com/global-development/2016/aug/07/nigeria-trafficking-women-prostitutes-italy",
+            "original": "https://i.guim.co.uk/img/media/0246608334c8771e4c402550933e4e50ac63116d/0_31_3425_2055/3425.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&s=5a69e3656027fbe528c5da2efece18bf"
+        },
+        {
+            "position": 84,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMgYSJy3GZUGpQ-mi9qeNQrF4kZKpmnoSInQ&usqp=CAU",
+            "source": "facebook.com",
+            "title": "Nigerian Women Blog - Photos | Facebook",
+            "link": "https://www.facebook.com/Nigerianwivesconnection/photos/?ref=page_internal",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2427006280681288"
+        },
+        {
+            "position": 85,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBSc2NcAHgUU6h5tMIgzvWuHOIOJUx8DjK7A&usqp=CAU",
+            "source": "youtube.com",
+            "title": "You Know You're Dating a Nigerian Woman When... - YouTube",
+            "link": "https://www.youtube.com/watch?v=SN0zdm95Yvk",
+            "original": "https://i.ytimg.com/vi/SN0zdm95Yvk/maxresdefault.jpg"
+        },
+        {
+            "position": 86,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlI73G1f-oNZA327IqvtawpT-JprVENFcBLg&usqp=CAU",
+            "source": "punchng.com",
+            "title": "We don't enjoy female condoms, they make us uncomfortable \u2014 Nigerian women  \u2013 Punch Newspapers",
+            "link": "https://punchng.com/we-dont-enjoy-female-condoms-they-make-us-uncomfortable-nigerian-women/",
+            "original": "https://cdn.punchng.com/wp-content/uploads/2020/02/02022257/married-women.jpg"
+        },
+        {
+            "position": 87,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatyF5lg2nB8Suq425KdWN7ridBYgpQbc9pg&usqp=CAU",
+            "source": "healthsystemsglobal.org",
+            "title": "Why do Nigerian women choose 'traditional births' over local hospitals? |  Health Systems Global",
+            "link": "https://healthsystemsglobal.org/news/why-do-nigerian-women-choose-traditional-births-over-local-hospitals/",
+            "original": "https://healthsystemsglobal.org/wp-content/uploads/2019/05/ef0b78244c010a88538dc981f3b73b7a779ed858-scaled.jpg"
+        },
+        {
+            "position": 88,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTQZDGqDuRi52hqEFV3Uqvg7PbtKOGVbd-Jw&usqp=CAU",
+            "source": "africanfeminism.com",
+            "title": "Nigerian women Archives - African Feminism (AF)",
+            "link": "https://africanfeminism.com/tag/nigerian-women/",
+            "original": "https://africanfeminism.com/wp-content/uploads/2019/06/D6UFh5CWsAEfaqX-740x560.jpeg"
+        },
+        {
+            "position": 89,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkWzCYSwYOt_t1Cza4-gqPDKB4OmAn2dNTw&usqp=CAU",
+            "source": "humanrightscentre.org",
+            "title": "Nigerian Women Trapped in a Human Trafficking Circle | Czech Centre for  Human Rights and Democracy",
+            "link": "https://www.humanrightscentre.org/blog/nigerian-women-trapped-human-trafficking-circle",
+            "original": "https://www.humanrightscentre.org/sites/default/files/styles/detail/public/images/blog/TC1_0.jpg?itok=9-OtYGAb"
+        },
+        {
+            "position": 90,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBE6EYPZf8BZ1jSfi9nS2up79L79_9Ps5Yjg&usqp=CAU",
+            "source": "aa.com.tr",
+            "title": "Nigerian Muslim women decry discrimination",
+            "link": "https://www.aa.com.tr/en/africa/nigerian-muslim-women-decry-discrimination/1048680",
+            "original": "https://cdnuploads.aa.com.tr/uploads/Contents/2018/01/31/thumbs_b_c_04a25dd3b3321062f7772d468a6451bb.jpg?v=151701"
+        },
+        {
+            "position": 91,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ztavMWKMRppLPKzB5zoA2luRc1VK8aPvdQ&usqp=CAU",
+            "source": "nairametrics.com",
+            "title": "Nigerian women need over 50% representation in government by 2023 |  Nairametrics",
+            "link": "https://nairametrics.com/2020/10/30/nigerian-women-need-over-50-representation-in-government-by-2023/",
+            "original": "https://i0.wp.com/nairametrics.com/wp-content/uploads/2020/10/Nigerian-women-participating-in-election.jpeg?fit=900%2C561&ssl=1"
+        },
+        {
+            "position": 92,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_e8ZYFjtGs_F9kqwHv7gyVnaYCZTx-EMV2g&usqp=CAU",
+            "source": "fashionpoliceng.com",
+            "title": "19 Nigerian Women Who Are Making Natural Hair Covet-Worthy - FPN",
+            "link": "https://fashionpoliceng.com/beauty/hairstyles/nigerian-women-natural-hair/",
+            "original": "https://fashionpoliceng.com/wp-content/uploads/2016/11/Nigerian-women-natural-hair-fashionpolicenigeria-20.jpg"
+        },
+        {
+            "position": 93,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwduLY3SEQ7-3VMnEJGTU9gIJLVuZFz34w6w&usqp=CAU",
+            "source": "stylerave.com",
+            "title": "Top 10 Most Stylish Nigerian Celebrities Of 2019: Nigerian Women Fashion",
+            "link": "https://www.stylerave.com/the-top-10-most-stylish-nigerian-women-celebrities-2019/",
+            "original": "https://www.stylerave.com/wp-content/uploads/2019/11/PSX_20191130_180439.jpg"
+        },
+        {
+            "position": 94,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD5kNPzcGTAFBXp22GZROLOl7723vSmxNPkQ&usqp=CAU",
+            "source": "hightechwomen.org.ng",
+            "title": "High-Tech Center | For Nigerian Women & Youths",
+            "link": "http://www.hightechwomen.org.ng/",
+            "original": "http://www.hightechwomen.org.ng/wp-content/uploads/2018/11/DSC_0779-1000x450.jpg"
+        },
+        {
+            "position": 95,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHb9ITlk_bPKvUHjwYv2acjJUrG-F25Z3aXw&usqp=CAU",
+            "source": "depositphotos.com",
+            "title": "\u1408 Beautiful nigerian woman stock photos, Royalty Free nigerian woman images  | download on Depositphotos\u00ae",
+            "link": "https://depositphotos.com/stock-photos/nigerian-woman.html",
+            "original": "https://static4.depositphotos.com/1028879/390/i/600/depositphotos_3908452-stock-photo-beautiful-black-woman.jpg"
+        },
+        {
+            "position": 96,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhfEr_i_GWdpHDrkgd4MBmnDPzLjDcg0ZvhA&usqp=CAU",
+            "source": "bestbrides.info",
+            "title": "Nigerian Mail Order Brides & Dates: Women From Nigeria For Marriage And  Dating",
+            "link": "https://bestbrides.info/country/african/nigerian/",
+            "original": "https://bestbrides.info/wp-content/uploads/2019/12/whats-so-special-about-nigerian-brides-1170x780.jpg"
+        },
+        {
+            "position": 97,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzx2hD9cdIPzP8YZY1RwcQkY5DpR94A7NBtA&usqp=CAU",
+            "source": "cnn.com",
+            "title": "Nigerian women take to the streets in protests against rape and sexual  violence - CNN",
+            "link": "https://www.cnn.com/2020/06/09/africa/nigeria-women-rape-protests/index.html",
+            "original": "https://cdn.cnn.com/cnnnext/dam/assets/200608163347-02-lagos-domestic-abuse-large-169.jpg"
+        },
+        {
+            "position": 98,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmkwsW2qbcGznHZvA1M6trdesTyw13quArQ&usqp=CAU",
+            "source": "vibe.ng",
+            "title": "nigerian women - vibe.ng",
+            "link": "https://www.vibe.ng/7-reasons-marry-eastern-nigerian-woman/nigerian-women/",
+            "original": "https://i2.wp.com/www.vibe.ng/wp-content/uploads/2017/05/nigerian-women.jpg?fit=1600%2C1066&ssl=1"
+        },
+        {
+            "position": 99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpsMQlssGllh9kpQpY5oOdmySyX8g00ggMBQ&usqp=CAU",
+            "source": "idateadvice.com",
+            "title": "Six Things You Need To Know About Dating Nigerian Women Today",
+            "link": "https://idateadvice.com/six-things-you-need-to-know-about-dating-nigerian-women-today",
+            "original": "https://idateadvice.com/wp-content/uploads/2018/08/free-nigerian-women.jpg"
+        },
+        {
+            "position": 100,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS31UBISan5BifkgzLE6rfn4wM0gBRNf0FN9g&usqp=CAU",
+            "source": "premiumtimesng.com",
+            "title": "International Women's Day: Tonto Dikeh to host 10 ordinary Nigerian women",
+            "link": "https://www.premiumtimesng.com/entertainment/nollywood/316878-international-womens-day-tonto-dikeh-to-host-10-ordinary-nigerian-women.html",
+            "original": "https://i1.wp.com/media.premiumtimesng.com/wp-content/files/2019/01/Tonto-Dikeh.jpg?fit=1600%2C900&ssl=1"
+        }
+    ]
+}

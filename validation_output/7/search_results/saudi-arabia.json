@@ -1,0 +1,951 @@
+{
+    "search_metadata": {
+        "id": "603f469c38c0ef30067e7341",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7319d334ec453871/603f469c38c0ef30067e7341.json",
+        "created_at": "2021-03-03 08:19:40 UTC",
+        "processed_at": "2021-03-03 08:19:40 UTC",
+        "google_url": "https://www.google.com/search?q=saudi+women&oq=saudi+women&tbm=isch&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7319d334ec453871/603f469c38c0ef30067e7341.html",
+        "total_time_taken": 2.58
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "saudi women",
+        "google_domain": "google.com",
+        "device": "desktop",
+        "tbm": "isch"
+    },
+    "search_information": {
+        "image_results_state": "Results for exact spelling",
+        "query_displayed": "saudi women"
+    },
+    "suggested_searches": [
+        {
+            "name": "driving",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:driving:dtgc0FLfzkQ%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoAHoECAEQGA",
+            "chips": "q:saudi+women,g_1:driving:dtgc0FLfzkQ%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Adriving%3Adtgc0FLfzkQ%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/058cfb6fab7621c07d3275ea3d166776eebf121ceda9e7bc5b5ac0d190686bba.jpeg"
+        },
+        {
+            "name": "traditional",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:traditional:inJCTcVGWqY%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoAXoECAEQGg",
+            "chips": "q:saudi+women,g_1:traditional:inJCTcVGWqY%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Atraditional%3AinJCTcVGWqY%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/058cfb6fab7621c07d3275ea3d166776c08dc9becd00e00c9d71bc54622bb33f.jpeg"
+        },
+        {
+            "name": "dress",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:dress:XCnyN7U3svk%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoAnoECAEQHA",
+            "chips": "q:saudi+women,g_1:dress:XCnyN7U3svk%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Adress%3AXCnyN7U3svk%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/058cfb6fab7621c07d3275ea3d16677680eb76f11a117b87444f692a31956c94.jpeg"
+        },
+        {
+            "name": "stylish",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:stylish:OUYLgeG_YGU%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoA3oECAEQHg",
+            "chips": "q:saudi+women,g_1:stylish:OUYLgeG_YGU%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Astylish%3AOUYLgeG_YGU%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/058cfb6fab7621c07d3275ea3d16677633f7f436fbcb6c6e0001fe2e56bde46d.jpeg"
+        },
+        {
+            "name": "cute",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:cute:pFAshp6Q5mY%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoBHoECAEQIA",
+            "chips": "q:saudi+women,g_1:cute:pFAshp6Q5mY%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Acute%3ApFAshp6Q5mY%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/058cfb6fab7621c07d3275ea3d1667760955073b8f41030bf05550acf805763a.jpeg"
+        },
+        {
+            "name": "pregnant",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:pregnant:huv798R5BYE%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoBXoECAEQIg",
+            "chips": "q:saudi+women,g_1:pregnant:huv798R5BYE%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Apregnant%3Ahuv798R5BYE%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/058cfb6fab7621c07d3275ea3d1667760764e414afc025c08165b3ac1cf16b99.png"
+        },
+        {
+            "name": "royal family",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:royal+family:ip7l8hZpmxk%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoBnoECAEQJA",
+            "chips": "q:saudi+women,g_1:royal+family:ip7l8hZpmxk%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Aroyal%2Bfamily%3Aip7l8hZpmxk%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/058cfb6fab7621c07d3275ea3d16677670642c9161a281f2409e9878195aed37.jpeg"
+        },
+        {
+            "name": "man",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:man:5iGWpd09MDA%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoB3oECAEQJg",
+            "chips": "q:saudi+women,g_1:man:5iGWpd09MDA%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Aman%3A5iGWpd09MDA%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/058cfb6fab7621c07d3275ea3d16677686fd2bd611158f53195698e4c9ee26f6.jpeg"
+        },
+        {
+            "name": "women's",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:women%27s&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoCHoECAEQKA",
+            "chips": "q:saudi+women,g_1:women%27s",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Awomen%2527s&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch"
+        },
+        {
+            "name": "princess",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:princess:VUfJ-Hv5yM0%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoCXoECAEQKQ",
+            "chips": "q:saudi+women,g_1:princess:VUfJ-Hv5yM0%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Aprincess%3AVUfJ-Hv5yM0%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/058cfb6fab7621c07d3275ea3d166776380819f24133f2da0af439879fd8846d.jpeg"
+        },
+        {
+            "name": "real",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:real:2xG40J8sBcQ%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoCnoECAEQKw",
+            "chips": "q:saudi+women,g_1:real:2xG40J8sBcQ%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Areal%3A2xG40J8sBcQ%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/058cfb6fab7621c07d3275ea3d1667762231547cd068ee1c406e7c8d1eba4229.jpeg"
+        },
+        {
+            "name": "swimsuit",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:swimsuit:0QDigHeMm3w%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoC3oECAEQLQ",
+            "chips": "q:saudi+women,g_1:swimsuit:0QDigHeMm3w%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Aswimsuit%3A0QDigHeMm3w%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/058cfb6fab7621c07d3275ea3d166776334706885e4d90493af2bb630362cb8c.jpeg"
+        },
+        {
+            "name": "bedouin",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:bedouin:_IY5vlK0aE4%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoDHoECAEQLw",
+            "chips": "q:saudi+women,g_1:bedouin:_IY5vlK0aE4%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Abedouin%3A_IY5vlK0aE4%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqb7UhwOCBPKTJi4gmwz6ABKJ3_6-1ZQjKJxd9k6MYXFwfdR9k&usqp=CAU"
+        },
+        {
+            "name": "dark skinned",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:dark+skinned:Um5XUx-itNk%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoDXoECAEQMQ",
+            "chips": "q:saudi+women,g_1:dark+skinned:Um5XUx-itNk%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Adark%2Bskinned%3AUm5XUx-itNk%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3QvcZ0E5ltG2FSP3gkKGJ3KEW5LH9u2mA5NVYELNFrnw4T0b&usqp=CAU"
+        },
+        {
+            "name": "jeans",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:jeans:el6RcqEzeU0%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoDnoECAEQMw",
+            "chips": "q:saudi+women,g_1:jeans:el6RcqEzeU0%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Ajeans%3Ael6RcqEzeU0%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTvLa_eXH8V9d4uIuSWWGgOh7IEvgAGIUQ8h8LZsqjqkpmPxDe&usqp=CAU"
+        },
+        {
+            "name": "workplace",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:workplace:JyTC6cFmUmY%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoD3oECAEQNQ",
+            "chips": "q:saudi+women,g_1:workplace:JyTC6cFmUmY%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Aworkplace%3AJyTC6cFmUmY%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwWK4lP1mUBSICIr5pKx8KPwmq2JYotbeDwV4dwbf82xeqTTFT&usqp=CAU"
+        },
+        {
+            "name": "american",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:american&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoEHoECAEQNw",
+            "chips": "q:saudi+women,g_1:american",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Aamerican&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch"
+        },
+        {
+            "name": "group",
+            "link": "https://www.google.com/search?q=saudi+women&tbm=isch&chips=q:saudi+women,g_1:group:mRhtLSUmL_M%3D&hl=en-US&sa=X&ved=2ahUKEwjsubma2JPvAhWIFN8KHdQqDtMQ4lYoEXoECAEQOA",
+            "chips": "q:saudi+women,g_1:group:mRhtLSUmL_M%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Asaudi%2Bwomen%2Cg_1%3Agroup%3AmRhtLSUmL_M%253D&device=desktop&engine=google&google_domain=google.com&q=saudi+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqgbRzkB5zhiS7NUyd61SVlp99LeChiOe8yfW1L92ryLaBlKFu&usqp=CAU"
+        }
+    ],
+    "images_results": [
+        {
+            "position": 1,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c691d38ead902ca659fc9ca681571498ae04845a67ad28d8cbea.jpeg",
+            "source": "nytimes.com",
+            "title": "Are You a Woman in Saudi Arabia? Tell Us How, or if, Your Country Is  Changing - The New York Times",
+            "link": "https://www.nytimes.com/2018/06/14/reader-center/saudi-arabia-women-changes.html",
+            "original": "https://static01.nyt.com/images/2018/06/19/world/05saudi-print/merlin_139062738_49d4d186-9b33-46ab-841b-f2fad1d94f98-superJumbo.jpg"
+        },
+        {
+            "position": 2,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c69117f1ac15280a2ad5d6c23587297f47c2c5d454b1d062037f.jpeg",
+            "source": "aljazeera.com",
+            "title": "Saudi Arabia rules women can join the army | Saudi Arabia News | Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2019/10/9/saudi-arabia-rules-women-can-join-the-army",
+            "original": "https://www.aljazeera.com/wp-content/uploads/2019/10/3e2bd74463b344e6a35d35fa60358f11_18.jpeg?resize=770%2C513"
+        },
+        {
+            "position": 3,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c6916a0cab7adb10d7ff2faacba148fbccaa7c1f4b55d4f912fb.jpeg",
+            "source": "globalriskinsights.com",
+            "title": "The prospects for Saudi women's participation in the labor market | Global  Risk Insights",
+            "link": "https://globalriskinsights.com/2018/06/prospects-saudi-womens-participation-labor-market/",
+            "original": "https://44s2n02i19u61od84f3rzjqx-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/saudi-women-800x500_c.jpg"
+        },
+        {
+            "position": 4,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c69105b1b3a09aaa5feb28f57f962be4fcb32379c11cc9906065.jpeg",
+            "source": "theguardian.com",
+            "title": "Saudi Arabia allows women into stadium as it steps up reforms | Saudi  Arabia | The Guardian",
+            "link": "https://www.theguardian.com/world/2017/sep/24/saudi-arabia-allows-women-into-stadium-as-it-steps-up-reforms",
+            "original": "https://i.guim.co.uk/img/media/307cb9c076b9077f546f37bea01e0c5874f8edf1/0_32_3658_2196/master/3658.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=03458ab4e25f3c2770e7dfacf99a9c14"
+        },
+        {
+            "position": 5,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c6910afa3b578042af5932c3389c93753dd0955a0b892a5c8231.jpeg",
+            "source": "ndtv.com",
+            "title": "Saudi Arabia Women Absent From Family Can't Travel Alone, Despite Reforms",
+            "link": "https://www.ndtv.com/world-news/saudi-arabia-women-absent-from-family-can-t-travel-alone-despite-reforms-2121151",
+            "original": "https://c.ndtvimg.com/2019-10/h1s7lpvg_saudi-arabia-afp_625x300_23_October_19.jpg"
+        },
+        {
+            "position": 6,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c691a8690768517a1745f74af2151a1d61867150103014df13dc.jpeg",
+            "source": "arabnews.pk",
+            "title": "Saudi women don't need male permission to start businesses | Arab News PK",
+            "link": "https://www.arabnews.pk/node/1248781/saudi-arabia",
+            "original": "https://www.arabnews.pk/sites/default/files/styles/n_670_395/public/2018/02/17/1105226-2126644335.jpg?itok=Y6me0jtf"
+        },
+        {
+            "position": 7,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c691bf34b21da52f086da8eb225bbfa8124b38d4df5e8408d0a2.jpeg",
+            "source": "arabianbusiness.com",
+            "title": "How Saudi Arabia plans to enter women's football team in future World Cups  - Arabianbusiness",
+            "link": "https://www.arabianbusiness.com/culture-society/454910-how-saudi-arabia-plans-to-have-womens-football-team-at-future-world-cups",
+            "original": "https://www.arabianbusiness.com/public/styles/fb_share_style_image/public/images/2020/11/21/saudi-women-footballers.jpeg?itok=eMctlGh6"
+        },
+        {
+            "position": 8,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c691cfe74290a563fbec47e4c74c95f98ecc4231a73a20b92428.jpeg",
+            "source": "arabnews.com",
+            "title": "Divorce coach' podcast aims to end stigma of marriage breakup in Saudi  Arabia | Arab News",
+            "link": "https://www.arabnews.com/node/1725076/saudi-arabia",
+            "original": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2020/08/26/2245486-272498904.jpg?itok=3qEt2WBF"
+        },
+        {
+            "position": 9,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c691194ad916d23f5a8c9a3ca9e57b80bff6d498e802c761ca06.jpeg",
+            "source": "france24.com",
+            "title": "Saudi Arabia rules women are permitted to join the army",
+            "link": "https://www.france24.com/en/20191010-saudi-arabia-rules-women-are-permitted-to-join-the-army-1",
+            "original": "https://s.france24.com/media/display/520501f4-eb1d-11e9-8f55-005056a964fe/w:1280/p:1x1/Saudiwomen-m.jpg"
+        },
+        {
+            "position": 10,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c691f1227ef09efadc69135d5845809d4c6848fec8972a3d36f6.jpeg",
+            "source": "businessinsider.com",
+            "title": "Uber lets female drivers avoid male passengers in Saudi Arabia",
+            "link": "https://www.businessinsider.com/uber-lets-female-drivers-saudi-arabia-block-male-passengers-2019-4",
+            "original": "https://i.insider.com/5cb5ea3faefeef32ca70ce74?width=1200&format=jpeg"
+        },
+        {
+            "position": 11,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c69117f1ac15280a2ad5903e5d06ad961f1aaf7c37c29fea346b.jpeg",
+            "source": "emirateswoman.com",
+            "title": "Saudi Arabia ranked the number one country in the Middle East for women to  live \u2013 Emirates Woman",
+            "link": "https://emirateswoman.com/saudi-arabia-ranked-number-one-country-middle-east-women-live/",
+            "original": "https://i1.wp.com/emirateswoman.com/wp-content/uploads/2020/07/Amy-Roko-Saudi-women.png?w=800&crop=0,0,100,400px"
+        },
+        {
+            "position": 12,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c69117f1ac15280a2ad570f88af569bcf922714922431cd52fe5.jpeg",
+            "source": "alj.com",
+            "title": "A changing future: the economic role of women in Saudi Arabia | Abdul Latif  Jameel\u00ae",
+            "link": "https://www.alj.com/en/perspective/changing-future-economic-role-women-saudi-arabia/",
+            "original": "https://www.alj.com/app/uploads/2018/05/International-Womens-Day.jpg"
+        },
+        {
+            "position": 13,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c69117f1ac15280a2ad52dea6fffb926abff5fd8b9a61913baee.jpeg",
+            "source": "middleeasteye.net",
+            "title": "In pictures: Yes, Saudi women dress like... this | Middle East Eye",
+            "link": "https://www.middleeasteye.net/gallery/photos-saudi-womens-fashion-street-book-under-the-abaya-marriam-mossalli",
+            "original": "https://www.middleeasteye.net/sites/default/files/2019-04/1_marriam_mossalli_crop.jpg"
+        },
+        {
+            "position": 14,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c69117f1ac15280a2ad501a3d203748357465dcee4fd29da4bee.jpeg",
+            "source": "foreignpolicy.com",
+            "title": "What Do Saudi Women Want? \u2013 Foreign Policy",
+            "link": "https://foreignpolicy.com/2011/11/28/what-do-saudi-women-want/",
+            "original": "https://foreignpolicy.com/wp-content/uploads/2011/11/12657764921.jpg?w=625&h=456&quality=90"
+        },
+        {
+            "position": 15,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c69117f1ac15280a2ad5e0f97046d06ea6154bd8f91159336f25.jpeg",
+            "source": "cosmopolitanme.com",
+            "title": "6 #GirlBoss Saudi women that you should be following on IG | Cosmopolitan  Middle East",
+            "link": "https://www.cosmopolitanme.com/celebs/6-girlboss-saudi-women-that-you-should-be-following-on-ig",
+            "original": "https://www.cosmopolitanme.com/public/images/2020/09/23/saudiwomennationalday-lead.jpg"
+        },
+        {
+            "position": 16,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c69117f1ac15280a2ad5648f3a680f47e9a69e49c2e3103d5dc7.jpeg",
+            "source": "news.un.org",
+            "title": "Steps taken to end Saudi 'guardianship' system for women, 'encouraging'  start | | UN News",
+            "link": "https://news.un.org/en/story/2019/08/1043941",
+            "original": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/08-AUG-2019_FAO_Saudi-Arabia.jpg/image1170x530cropped.jpg"
+        },
+        {
+            "position": 17,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c69117f1ac15280a2ad58355c8a7f7d8ae6a0b7b0c5fb8eedfef.jpeg",
+            "source": "iranintl.com",
+            "title": "Hijabless Saudi women in the Streets of Saudi Arabia | Iran International",
+            "link": "https://iranintl.com/en/world/hijabless-saudi-women-streets-saudi-arabia",
+            "original": "https://iranintl.com/sites/default/files/styles/articles_landing/public/saudi_women.jpg?itok=MjI5fP4m"
+        },
+        {
+            "position": 18,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c69117f1ac15280a2ad5391dc67f8e4780454c1884aab421554b.jpeg",
+            "source": "time.com",
+            "title": "After the Driving Ban Saudi Women Look to Keep Change Coming | Time",
+            "link": "https://time.com/longform/saudi-arabia-driving-ban-rebrand-or-revolution/",
+            "original": "https://api.time.com/wp-content/uploads/2018/06/saudi-arabia-women-driver-ban-lifted-7.jpg"
+        },
+        {
+            "position": 19,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c69117f1ac15280a2ad584a837c68ab7703c5d0da60451cacd7b.jpeg",
+            "source": "bbc.com",
+            "title": "Saudi women in 'inside-out abaya' protest - BBC News",
+            "link": "https://www.bbc.com/news/world-middle-east-46222949",
+            "original": "https://c.files.bbci.co.uk/494D/production/_104356781_mediaitem104356780.jpg"
+        },
+        {
+            "position": 20,
+            "thumbnail": "https://serpapi.com/searches/603f469c38c0ef30067e7341/images/93fa8fee9da7c69117f1ac15280a2ad5b292845d8a4ec76fbb1b1cdad69d5f6f.jpeg",
+            "source": "english.alaraby.co.uk",
+            "title": "Women in Saudi Arabia struggle for work due to coronavirus pandem",
+            "link": "https://english.alaraby.co.uk/english/news/2020/6/4/saudi-women-struggle-for-work-due-to-coronavirus-pandemic",
+            "original": "https://english.alaraby.co.uk/english/file/getimagecustom/a1c83378-6931-4d42-94cb-f7d06f622704/850/479"
+        },
+        {
+            "position": 21,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqXJalU-gYAGpLReWrptvBh6R1Q58o43gFA&usqp=CAU",
+            "source": "thenationalnews.com",
+            "title": "First Saudi women's bowling team to compete at world games | The National",
+            "link": "https://www.thenationalnews.com/world/gcc/first-saudi-women-s-bowling-team-to-compete-at-world-games-1.885668",
+            "original": "https://www.thenationalnews.com/image/policy:1.885667:1563017057/Capture.jpg?f=16x9&w=1200&$p$f$w=62b3807"
+        },
+        {
+            "position": 22,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZ_M9rUGFEAYL5xNaAtIcoGgZMKIbVLK63A&usqp=CAU",
+            "source": "lowyinstitute.org",
+            "title": "Silencing women's voices in Saudi Arabia",
+            "link": "https://www.lowyinstitute.org/the-interpreter/silencing-womens-voices-saudi-arabia",
+            "original": "https://www.lowyinstitute.org/sites/default/files/GettyImages-1052200306.jpg"
+        },
+        {
+            "position": 23,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2KqVnl_-iDXDgLIbkq5La__6B68VCT8s5EQ&usqp=CAU",
+            "source": "elle.com",
+            "title": "Saudi Arabia to Loosen Male Guardianship System Restrictions",
+            "link": "https://www.elle.com/culture/career-politics/a28367284/saudi-arabia-relax-travel-restrictions-guardianship-system/",
+            "original": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/saudi-women-cheer-for-their-football-team-during-a-friendly-news-photo-1052200312-1562874459.jpg?crop=0.408xw:0.620xh;0.592xw,0.276xh&resize=480:*"
+        },
+        {
+            "position": 24,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuIhFCcY3UIOkvOoMR7I5Qk0XTCqyR4Abs3w&usqp=CAU",
+            "source": "greenprophet.com",
+            "title": "Saudi women take to the skies - Green Prophet",
+            "link": "https://www.greenprophet.com/2020/12/saudi-women-take-to-the-skies/",
+            "original": "https://www.greenprophet.com/wp-content/uploads/saudi-arabia-airlines-women.jpg"
+        },
+        {
+            "position": 25,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMZ9EoVvL0FAeTGOBRZ0pbZdwmxqNhNw2cw&usqp=CAU",
+            "source": "scoopempire.com",
+            "title": "50 Saudi Women Appointed as Public Prosecutors - Scoop Empire",
+            "link": "https://scoopempire.com/50-saudi-women-appointed-as-public-prosecutors/",
+            "original": "https://scoopempire.com/wp-content/uploads/2019/08/EC79ug8UcAAOAW7.jpeg"
+        },
+        {
+            "position": 26,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUUPOTphDIp2n8TBppyD1gBcWqdiMVCcF-w&usqp=CAU",
+            "source": "emirateswoman.com",
+            "title": "Saudi National Day: 8 incredible women you should be following \u2013 Emirates  Woman",
+            "link": "https://emirateswoman.com/saudi-national-day-8-incredible-women-you-should-be-following/",
+            "original": "https://emirateswoman.com/wp-content/uploads/2020/09/Saudi-National-Day-Saudi-women-.png"
+        },
+        {
+            "position": 27,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24zZxe4yCwmh-LjO42yXvnaU1rbpzbM-Iqg&usqp=CAU",
+            "source": "mainepublic.org",
+            "title": "Saudi Women's Rights Activists Appear In Riyadh Court | Maine Public",
+            "link": "https://www.mainepublic.org/post/saudi-womens-rights-activists-appear-riyadh-court",
+            "original": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/202001/703068184.jpg"
+        },
+        {
+            "position": 28,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9uKFy2wTicFlvG5XGk6BEG_dLLHh_xi3KbA&usqp=CAU",
+            "source": "nytimes.com",
+            "title": "Cellphones in Hand, Saudi Women Challenge Notions of Male Control - The New  York Times",
+            "link": "https://www.nytimes.com/2017/04/21/world/middleeast/saudi-arabia-women-male-guardianship-activists-social-media.html",
+            "original": "https://static01.nyt.com/images/2017/04/22/world/22saudi-1/22saudi-1-superJumbo.jpg"
+        },
+        {
+            "position": 29,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFoJw70Vb85B-O2zSXnpzcj6QNCjjNiJpb2Q&usqp=CAU",
+            "source": "latimes.com",
+            "title": "Saudi women, bucking tradition, forgo abaya - Los Angeles Times",
+            "link": "https://www.latimes.com/world-nation/story/2019-09-22/saudi-women-bucking-tradition-forgo-abaya",
+            "original": "https://ca-times.brightspotcdn.com/dims4/default/95964a3/2147483647/strip/true/crop/4401x2934+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F61%2Fac%2F635298e84740b04d4a0463b836f8%2Fafp-getty-saudi-women-abaya-society2.jpg"
+        },
+        {
+            "position": 30,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeK9p7POOOoDKw675ycPthKvUdduBAVQXxOw&usqp=CAU",
+            "source": "abcnews.go.com",
+            "title": "What life is like now for women in Saudi Arabia: Reporter's Notebook - ABC  News",
+            "link": "https://abcnews.go.com/International/life-now-women-saudi-arabia-reporters-notebook/story?id=53849924",
+            "original": "https://s.abcnews.com/images/International/saudi-arabia1-abc-ml-180119_1x1_992.jpg"
+        },
+        {
+            "position": 31,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyjKFMaL4LJWsX6IEbq-NrL18Pm6SKTdLKNw&usqp=CAU",
+            "source": "timesofisrael.com",
+            "title": "Saudi woman first to anchor nightly bulletin on state TV | The Times of  Israel",
+            "link": "https://www.timesofisrael.com/saudi-woman-becomes-first-to-anchor-nightly-bulletin-on-state-tv/",
+            "original": "https://static.timesofisrael.com/www/uploads/2018/09/asfasfasgasg-e1537820836499-640x400.png"
+        },
+        {
+            "position": 32,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgLXzVaLpEKwapr3aPFR57-BzJSEFgwyfOA&usqp=CAU",
+            "source": "middleeasteye.net",
+            "title": "In pictures: Yes, Saudi women dress like... this | Middle East Eye",
+            "link": "https://www.middleeasteye.net/gallery/photos-saudi-womens-fashion-street-book-under-the-abaya-marriam-mossalli",
+            "original": "https://www.middleeasteye.net/sites/default/files/styles/article_page/public/images-story/7_lina_mohamad.jpg?itok=rtFFz8Rm"
+        },
+        {
+            "position": 33,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCT3ksmhwAKreC8CqXtOOvRTW2HUZPnan2Ow&usqp=CAU",
+            "source": "thejakartapost.com",
+            "title": "Rebel' Saudi women shun obligatory abaya robe - Lifestyle - The Jakarta Post",
+            "link": "https://www.thejakartapost.com/life/2019/09/12/rebel-saudi-women-shun-obligatory-abaya-robe.html",
+            "original": "https://img.jakpost.net/c/2019/09/12/2019_09_12_79416_1568278673._large.jpg"
+        },
+        {
+            "position": 34,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HcalzqYe1qoaKGboeVMkVaH771bp_tch8Q&usqp=CAU",
+            "source": "timesofisrael.com",
+            "title": "Film charts how newly licensed Saudi women motorists try to drive social  change | The Times of Israel",
+            "link": "https://www.timesofisrael.com/film-charts-how-newly-licensed-saudi-women-motorists-try-to-drive-social-change/",
+            "original": "https://static.timesofisrael.com/www/uploads/2019/10/saudi02-1024x640.jpg"
+        },
+        {
+            "position": 35,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOiCm5c9WEpHNKmi6XOv5dSY9Ht1h0LwD3JQ&usqp=CAU",
+            "source": "thebuzzbusiness.com",
+            "title": "Unlocking new opportunities for Saudi women in tech | The Buzz Business",
+            "link": "https://www.thebuzzbusiness.com/unlocking-new-opportunities-for-saudi-women-in-tech/",
+            "original": "https://www.thebuzzbusiness.com/wp-content/uploads/2019/07/Deema-Al-Yahya.png"
+        },
+        {
+            "position": 36,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa2Ul0ILQECY3pnCCpzS_pj5V8wI_XPGHfvg&usqp=CAU",
+            "source": "qz.com",
+            "title": "In Saudi Arabia women must now be informed if they've been divorced \u2014 Quartz",
+            "link": "https://qz.com/1516082/women-in-saudi-arabia-to-now-be-informed-if-theyve-been-divorced/",
+            "original": "https://cms.qz.com/wp-content/uploads/2019/01/women-in-saudi-arabia-reforms-e1546790697236.jpg?quality=75&strip=all&w=1600&h=900&crop=1"
+        },
+        {
+            "position": 37,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSluk7R8hwyw12jI6nmQP3Hle7C7llyqUXkwg&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "The Guardian view on Saudi female drivers: going backward | Saudi Arabia |  The Guardian",
+            "link": "https://www.theguardian.com/commentisfree/2018/may/21/the-guardian-view-on-saudi-women-drivers-going-backward",
+            "original": "https://i.guim.co.uk/img/media/7c966d6191e70228f9b62638b9ef6c3fbe857426/0_100_5184_3110/master/5184.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=18ba836d3d550b3168b2468fa8f9c8eb"
+        },
+        {
+            "position": 38,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiG_eTp_uVUwjthMl7qK37zrqRlMGEKMCqRQ&usqp=CAU",
+            "source": "thearabweekly.com",
+            "title": "Saudi women frustrated by pandemic in quest for financial independence but  hopeful about future | | AW",
+            "link": "https://thearabweekly.com/saudi-women-frustrated-pandemic-quest-financial-independence",
+            "original": "https://thearabweekly.com/sites/default/files/styles/article_image_800x450_/public/2020-06/54-260-saudi-women.jpg?itok=86-QuDyH"
+        },
+        {
+            "position": 39,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7CByjLGgFpx_jaZRMnfNV_eTigeHKx7zo-g&usqp=CAU",
+            "source": "scmp.com",
+            "title": "Women's rights in Saudi Arabia: real change or cosmetic reforms? | South  China Morning Post",
+            "link": "https://www.scmp.com/week-asia/economics/article/3047952/womens-rights-saudi-arabia-real-change-or-cosmetic-reforms",
+            "original": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/d8/images/methode/2020/01/28/139f0004-41c1-11ea-9fd9-ecfbb38a9743_image_hires_212015.JPG?itok=doqYBDbM&v=1580217622"
+        },
+        {
+            "position": 40,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnI-yNEyo5gnB0jpXakEGsKrK15jDqJemNGQ&usqp=CAU",
+            "source": "republicworld.com",
+            "title": "Saudi Women Got Right To Vote And Contest Polls In 2011; Read About  Historic Policy Shift",
+            "link": "https://www.republicworld.com/world-news/rest-of-the-world-news/saudi-grants-women-right-to-vote-and-contest-elections-in-2011.html",
+            "original": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/j49wbetfz3jzbj6e_1601040234.jpeg?tr=w-758,h-433"
+        },
+        {
+            "position": 41,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUuMwYoUdvkAGw6dxIsFvH_X113YMBjSVjwg&usqp=CAU",
+            "source": "sa.undp.org",
+            "title": "Saudi women challenges and success | UNDP in Saudi Arabia",
+            "link": "https://www.sa.undp.org/content/saudi_arabia/en/home/presscenter/articles/2014/03/09/saudi-women-challenges-and-success.html",
+            "original": "https://www.sa.undp.org/content/dam/saudi_arabia/img/News/SA-human%20development.jpg"
+        },
+        {
+            "position": 42,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN5q47zO0VYHzhQrdKpqingiMHMvhECEOHOA&usqp=CAU",
+            "source": "forbes.com",
+            "title": "How This Saudi Arabian Female Entrepreneur Broke Barriers To Champion Women  In Motorsports",
+            "link": "https://www.forbes.com/sites/cherylrobinson/2020/02/23/how-this-saudi-arabian-female-entrepreneur-broke-barriers-to-champion-women-in-motorsports/",
+            "original": "https://specials-images.forbesimg.com/imageserve/982990818/960x0.jpg?fit=scale"
+        },
+        {
+            "position": 43,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDO7xJlCR2IqJi_aGFpe15L-sgQ83LEVGzSw&usqp=CAU",
+            "source": "businesstoday.in",
+            "title": "Saudi Arabia allows women to join armed forces- Business News",
+            "link": "https://www.businesstoday.in/current/world/saudi-arabia-allows-women-to-join-armed-forces/story/431911.html",
+            "original": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/saudi_505_220221092244.jpg?size=1200:675"
+        },
+        {
+            "position": 44,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHfvk1Sxam5Q2wT7DxKXCBYviFNSGdSzz1xA&usqp=CAU",
+            "source": "cbsnews.com",
+            "title": "Saudi Women, Unveiled - CBS News",
+            "link": "https://www.cbsnews.com/news/saudi-women-unveiled/",
+            "original": "https://cbsnews1.cbsistatic.com/hub/i/2018/03/18/877fbbbf-5570-4973-9191-253da5283a38/ot-saudiarabiaa.jpg"
+        },
+        {
+            "position": 45,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIOOJeAFCd7xoCaVDr6oQrM4lzKa0H11fXQ&usqp=CAU",
+            "source": "shethepeople.tv",
+            "title": "Probe Against Saudi Women Reporter For Wearing \"Indecent Clothes\" -  SheThePeople TV",
+            "link": "https://www.shethepeople.tv/news/probe-against-saudi-women-reporter-indecent-clothes/",
+            "original": "https://www.shethepeople.tv/wp-content/uploads/2018/06/Shireen-al-Rifaie-e1530176801422.jpg"
+        },
+        {
+            "position": 46,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRV8dLY4ru86h9QGa6-3ODiftgrUl4QQ_F1g&usqp=CAU",
+            "source": "golfweek.usatoday.com",
+            "title": "Solheim Cup stars set to compete in Saudi Arabia \u2014 where women fight for  basic freedoms",
+            "link": "https://golfweek.usatoday.com/2020/10/12/saudi-arabia-golf-women-human-rights/",
+            "original": "https://golfweek.usatoday.com/wp-content/uploads/sites/87/2020/10/Saudi-Arabia.jpg?w=1000&h=600&crop=1"
+        },
+        {
+            "position": 47,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8phO9KZ34R-CtFydR_BG5ExNL1Oa_0sT_cg&usqp=CAU",
+            "source": "en.wikipedia.org",
+            "title": "Women's rights in Saudi Arabia - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Women%27s_rights_in_Saudi_Arabia",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Saudi_in_niqap.jpg/170px-Saudi_in_niqap.jpg"
+        },
+        {
+            "position": 48,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSak7LreF_vIGisvR5gD-bsAgazV7CSZymwAw&usqp=CAU",
+            "source": "france24.com",
+            "title": "Is Australia targeting Saudi women fleeing oppression?",
+            "link": "https://www.france24.com/en/20190208-australia-targeting-saudi-women-fleeing-oppression",
+            "original": "https://s.france24.com/media/display/f7cf5950-3951-11e9-8598-005056a964fe/w:310/p:16x9/15012019_rahaf_qunun_freeland_0.jpg"
+        },
+        {
+            "position": 49,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JyMEYjrTnIwo-f6IqzIOPeXLNWM8e6yEww&usqp=CAU",
+            "source": "saudigazette.com.sa",
+            "title": "EY appoints first Saudi female partner - Saudi Gazette",
+            "link": "https://saudigazette.com.sa/article/573437",
+            "original": "https://saudigazette.com.sa/uploads/images/2019/07/29/1311600.JPG"
+        },
+        {
+            "position": 50,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucuuKvt_RsITH-ikYB8CvuBnYFXOgrpS8wg&usqp=CAU",
+            "source": "time.com",
+            "title": "After the Driving Ban Saudi Women Look to Keep Change Coming | Time",
+            "link": "https://time.com/longform/saudi-arabia-driving-ban-rebrand-or-revolution/",
+            "original": "https://api.time.com/wp-content/uploads/2018/06/saudi-arabia-women-driver-ban-lifted-15.jpg?quality=85"
+        },
+        {
+            "position": 51,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBrKaIXJ2gN6UKDoKQOsteje8bF7eS7CphyQ&usqp=CAU",
+            "source": "arabnews.com",
+            "title": "Women in Saudi Arabia are reaping rewards of reforms, envoy tells UN | Arab  News",
+            "link": "https://www.arabnews.com/node/1745296/saudi-arabia",
+            "original": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2020/10/07/2299731-1353717030.png?itok=JbRWYbHK"
+        },
+        {
+            "position": 52,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsEBsEsmTixT5WAAcAUDjNxXhS3wi8NAxDKg&usqp=CAU",
+            "source": "en.qantara.de",
+            "title": "Woman in Saudi Arabia: ''A Golden Age for Saudi Women'' - Qantara.de",
+            "link": "https://en.qantara.de/content/woman-in-saudi-arabia-a-golden-age-for-saudi-women",
+            "original": "https://en.qantara.de/sites/default/files/styles/slideshow_wide/public/uploads/2013/06/19/2-dar-el-hekma-0-16104155-101-00.jpg?itok=zYHpHqu0"
+        },
+        {
+            "position": 53,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqkQu6fGILOvTQfte9uBebyltu5Wti1DmTrQ&usqp=CAU",
+            "source": "ndtv.com",
+            "title": "Gasps As Saudi Woman, 33, Walks Through Mall Without Customary Abaya",
+            "link": "https://www.ndtv.com/world-news/at-risk-of-provoking-conservatives-saudi-women-shun-body-shrouding-robe-abaya-2100159",
+            "original": "https://c.ndtvimg.com/2019-09/4j5aec48_saudi-women-afp_625x300_13_September_19.jpg"
+        },
+        {
+            "position": 54,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8kTViFElP-0AJKfbecHGVrRnMnefP4gm5Ow&usqp=CAU",
+            "source": "fortune.com",
+            "title": "UN Women's Rights Commission Elects Saudi Arabia as Member | Fortune",
+            "link": "https://fortune.com/2017/04/25/un-womens-rights-saudi-arabia/",
+            "original": "https://content.fortune.com/wp-content/uploads/2017/04/78066755.jpg"
+        },
+        {
+            "position": 55,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3VwzgjA5SKl36Vt20KMeEqZKW7kdAXy1Asg&usqp=CAU",
+            "source": "businessliveme.com",
+            "title": "Let Saudi Women Find Their Own Way: Khawla Al-Kuraya | Businessliveme.com -  Business News Middle East | BLME",
+            "link": "https://www.businessliveme.com/featured/let-saudi-women-find-their-own-way/",
+            "original": "https://www.businessliveme.com/wp-content/uploads/2019/03/opinion-saudi-women.jpg"
+        },
+        {
+            "position": 56,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdn4Zsc18Jh2tRy2iW2bt49ZeX6Rf21rFPXA&usqp=CAU",
+            "source": "arabia5am.com",
+            "title": "KSA | Saudi Women Must Meet These Requirements To Join The Kingdom's Army \u2013  ARABIA5AM",
+            "link": "https://arabia5am.com/2019/10/23/ksa-saudi-women-must-meet-these-requirements-to-join-the-kingdoms-army/",
+            "original": "https://5amarabiahome.files.wordpress.com/2019/10/main_-_saudi_women_in_military.jpg?w=1000"
+        },
+        {
+            "position": 57,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDRh7CO10mrWXUXbUxPnMR6Z6Xox3LsPhCA&usqp=CAU",
+            "source": "gulfbusiness.com",
+            "title": "Saudi women can now start a business without male guardian's permission -  Gulf Business",
+            "link": "https://gulfbusiness.com/saudi-women-now-start-business-without-male-guardians-permission/",
+            "original": "https://gulfbusiness.com/wp-content/uploads/2017/12/Saudi-Women.jpg"
+        },
+        {
+            "position": 58,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNHD4ysDBUBi3pGu0p8dp_4qKyxKF2WcDVpQ&usqp=CAU",
+            "source": "cnn.com",
+            "title": "Saudi Arabia: Women attend first soccer match - CNN",
+            "link": "https://www.cnn.com/2018/01/12/middleeast/saudi-women-attend-first-soccer-match/index.html",
+            "original": "https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F180112140212-01-saudi-women-attend-soccer-match.jpg"
+        },
+        {
+            "position": 59,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ca8ocbRpyQr25MwNp8fIBGSou5I_hRtZhw&usqp=CAU",
+            "source": "bbc.com",
+            "title": "Saudi Arabia allows women to travel independently - BBC News",
+            "link": "https://www.bbc.com/news/world-middle-east-49201019",
+            "original": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/BE4D/production/_108171784_saudi_women_abha_airport_2_afp.jpg"
+        },
+        {
+            "position": 60,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsI9ERFZG_veY1P2H2AEuwxHFwGYV7KnJJ3A&usqp=CAU",
+            "source": "aninews.in",
+            "title": "Prominent Saudi women's rights activist released from prison after nearly 3  years",
+            "link": "https://www.aninews.in/news/world/middle-east/prominent-saudi-womens-rights-activist-released-from-prison-after-nearly-3-years20210211031109",
+            "original": "https://aniportalimages.s3.amazonaws.com/media/details/u7dfWoN6_400x400_Zl6iBM1.jpg"
+        },
+        {
+            "position": 61,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQopFMPdANO1vT8v_pg5Shls7cMY7RHtDk5A&usqp=CAU",
+            "source": "bakeryandsnacks.com",
+            "title": "PepsiCo's push to empower Saudi female entrepreneurs",
+            "link": "https://www.bakeryandsnacks.com/Article/2019/11/04/PepsiCo-s-push-to-empower-Saudi-female-entrepreneurs",
+            "original": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/bakeryandsnacks.com/news/manufacturers/pepsico-s-push-to-empower-saudi-female-entrepreneurs/10327735-1-eng-GB/PepsiCo-s-push-to-empower-Saudi-female-entrepreneurs_wrbm_large.jpg"
+        },
+        {
+            "position": 62,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7vwocLR_hiaw-HRwKY3f4WJwgRIUhXJHQqw&usqp=CAU",
+            "source": "twistislamophobia.org",
+            "title": "Saudi Women that excell on their fields - Twist IslamophobiaTwist  Islamophobia",
+            "link": "http://twistislamophobia.org/en/2020/05/19/saudi-women-excell-on-their-fields/",
+            "original": "http://twistislamophobia.org/wp-content/uploads/2020/05/Vogue_saudi-women_8-1.jpg"
+        },
+        {
+            "position": 63,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXWEilaPHtpC2YPQ6s99eSPSrObsqm5QvYyg&usqp=CAU",
+            "source": "aljazeera.com",
+            "title": "Leading Saudi women's rights activist al-Hathloul sentenced | Human Rights  News | Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2020/12/28/saudi-court-hands-jail-sentence-to-womens-rights-activist",
+            "original": "https://www.aljazeera.com/wp-content/uploads/2020/12/000_1JL486.jpg?resize=770%2C513"
+        },
+        {
+            "position": 64,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgZVY4sgR1Wgz1cDkYjzfuFcOychFreRGyw&usqp=CAU",
+            "source": "deseret.com",
+            "title": "Saudi Arabia to allow women to drive for the first time - Deseret News",
+            "link": "https://www.deseret.com/2017/9/26/20497899/saudi-arabia-to-allow-women-to-drive-for-the-first-time",
+            "original": "https://cdn.vox-cdn.com/thumbor/uQ0Hl3jm0R4Qo5sc-DJBnRTmVDA=/0x0:1200x829/1200x800/filters:focal(504x318:696x510)/cdn.vox-cdn.com/uploads/chorus_image/image/64482367/700479918.0.jpg"
+        },
+        {
+            "position": 65,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEOB_sHmOpbsxV0uj8peb0uSsu_dnyBu_VFA&usqp=CAU",
+            "source": "kgou.org",
+            "title": "Arrests Of Saudi Women's Rights Activists 'Point To The Limits Of Change' |  KGOU",
+            "link": "https://www.kgou.org/post/arrests-saudi-womens-rights-activists-point-limits-change",
+            "original": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201810/613042725.jpg"
+        },
+        {
+            "position": 66,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuprGolouHHeGvqWqgfC6uJTkzSKzhvIGq4w&usqp=CAU",
+            "source": "cnn.com",
+            "title": "Young Saudis are having fun. Now they want tourists to join them | CNN  Travel",
+            "link": "https://www.cnn.com/travel/article/saudi-arabia-fun-tourists/index.html",
+            "original": "http://cdn.cnn.com/cnnnext/dam/assets/201204171609-saudi-women-1.jpg"
+        },
+        {
+            "position": 67,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79ZxWj5OxZwDgsFFcZvJsYpL4emF-Pydmgg&usqp=CAU",
+            "source": "english.alarabiya.net",
+            "title": "How 2017 has made 2018 a landmark year for women in Saudi Arabia | Al  Arabiya English",
+            "link": "https://english.alarabiya.net/en/features/2018/03/07/How-2017-has-made-2018-a-landmark-year-for-women-in-Saudi-Arabia",
+            "original": "https://vid.alarabiya.net/images/2018/03/07/d3c16b42-85e4-4775-b47a-92281d411111/d3c16b42-85e4-4775-b47a-92281d411111_16x9_600x338.JPG"
+        },
+        {
+            "position": 68,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_2IQNeVG_v--0buDvbPnMGcnK3L78wPgYg&usqp=CAU",
+            "source": "globalvillagespace.com",
+            "title": "Reforms sweep across Saudi Arabia: More & more women are entering the  workforce",
+            "link": "https://www.globalvillagespace.com/reforms-sweep-across-saudi-arabia-more-more-women-are-entering-the-workforce/",
+            "original": "https://www.globalvillagespace.com/wp-content/uploads/2020/04/saudi.jpg"
+        },
+        {
+            "position": 69,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAAlpG0en2un0gTg5lD4PfbVEhKXA9aZgkaQ&usqp=CAU",
+            "source": "socialprotection.org",
+            "title": "Saudi Vision 2030 for women in the workforce | socialprotection.org",
+            "link": "https://socialprotection.org/discover/blog/saudi-vision-2030-women-workforce",
+            "original": "https://socialprotection.org/sites/default/files/13068132315_85a0d2c061_z_0.jpg"
+        },
+        {
+            "position": 70,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhL6wIgGlEax6lKwaw2KuukALs5jL46rOMmQ&usqp=CAU",
+            "source": "irishtimes.com",
+            "title": "Women in Saudi Arabia do not need to wear head cover, says crown prince",
+            "link": "https://www.irishtimes.com/news/world/middle-east/women-in-saudi-arabia-do-not-need-to-wear-head-cover-says-crown-prince-1.3433096",
+            "original": "https://www.irishtimes.com/polopoly_fs/1.3433095.1521501367!/image/image.jpg_gen/derivatives/box_620_330/image.jpg"
+        },
+        {
+            "position": 71,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFle4g8w862jF8nuSLDhbI5InzTfV8ZyHAWw&usqp=CAU",
+            "source": "m.economictimes.com",
+            "title": "Saudi women can join armed forces in latest widening of rights - The  Economic Times",
+            "link": "https://m.economictimes.com/news/international/saudi-arabia/saudi-women-can-join-armed-forces-in-latest-widening-of-rights/articleshow/81137093.cms",
+            "original": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-130781,resizemode-1,msid-81137093/news/international/saudi-arabia/saudi-women-can-join-armed-forces-in-latest-widening-of-rights.jpg"
+        },
+        {
+            "position": 72,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbnOkXkWr_QTVuPUyDvdtFOcSpnYhw2fhKOg&usqp=CAU",
+            "source": "takepart.com",
+            "title": "Saudi Women No Longer Need Ex-Husbands' Permission to Care for Their Kids |  TakePart",
+            "link": "http://www.takepart.com/article/2015/12/02/saudi-arabia-women",
+            "original": "http://www.takepart.com/sites/default/files/styles/large/public/saudi-women.jpg"
+        },
+        {
+            "position": 73,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX_soOaJsFX2_R5OQlGdzD2tRyhnxa3Ua6A&usqp=CAU",
+            "source": "voanews.com",
+            "title": "Some Saudi Women Wear Abayas Inside Out in Protest | Voice of America -  English",
+            "link": "https://www.voanews.com/world-news/middle-east-dont-use/some-saudi-women-wear-abayas-inside-out-protest",
+            "original": "https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-04/59A6F057-3AF4-4D3D-805D-A785D4AD9C0D.jpg?itok=EqjfVMst"
+        },
+        {
+            "position": 74,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlpCMFNyklHax13c8nmCoSOCoqmGWLxZSZKw&usqp=CAU",
+            "source": "thejakartapost.com",
+            "title": "Saudi women smoke in public to 'complete' their freedom - Lifestyle - The  Jakarta Post",
+            "link": "https://www.thejakartapost.com/life/2020/02/16/saudi-women-smoke-in-public-to-complete-their-freedom.html",
+            "original": "https://img.jakpost.net/c/2020/02/16/2020_02_16_86760_1581819904._large.jpg"
+        },
+        {
+            "position": 75,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4zMQerUstzyVY2Zp73t8Bj1tHANnjMkMMQ&usqp=CAU",
+            "source": "weforum.org",
+            "title": "This groundbreaking film is seeking to empower Saudi Arabia's women | World  Economic Forum",
+            "link": "https://www.weforum.org/agenda/2019/09/film-empower-saudi-women/",
+            "original": "https://assets.weforum.org/article/image/large_p9JxaCvRrsByCO6xqzWjDqqk6z7PHqZAiRjkuhKusUI.jpg"
+        },
+        {
+            "position": 76,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOajQiPTwr_574VLEYcHMKlsuP3BrVauJxQ&usqp=CAU",
+            "source": "wbur.org",
+            "title": "After Saudi Teen Granted Aslyum, A Look At Life For Women In The Kingdom |  On Point",
+            "link": "https://www.wbur.org/onpoint/2019/01/17/rahaf-mohammed-alqunun-asylum-canada-saudi-arabia-women",
+            "original": "http://d279m997dpfwgl.cloudfront.net/wp/2019/01/AP_19009245438788-1000x667.jpg"
+        },
+        {
+            "position": 77,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPIBC_ZInfizfYNzn_YvtbypLngJJHPksw_w&usqp=CAU",
+            "source": "thenationalnews.com",
+            "title": "Saudi Arabia gives women full control over childbirth procedures | The  National",
+            "link": "https://www.thenationalnews.com/world/mena/saudi-arabia-gives-women-full-control-over-childbirth-procedures-1.814840",
+            "original": "https://www.thenationalnews.com/image/policy:1.815341:1547902432/000_Nic6315648.jpg?f=16x9&w=1200&$p$f$w=2afaa8f"
+        },
+        {
+            "position": 78,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3iIuLqoRyR_PMhMzbNu86NxBNZPdL6ETr4Q&usqp=CAU",
+            "source": "harpersbazaararabia.com",
+            "title": "Empowering Social Media Posts of Saudi Women Celebrating The Lift Of The  Female Driving Ban | Harper's Bazaar Arabia",
+            "link": "https://www.harpersbazaararabia.com/people/culture/empowering-social-media-posts-of-saudi-women-driving-anniversary",
+            "original": "https://www.harpersbazaararabia.com/public/styles/fb_share_style_image/public/images/2019/06/25/saudi-women-driving.jpg?itok=_Xs4lVYD"
+        },
+        {
+            "position": 79,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDmtTaM0y7sk1_MrzL0N46rKi4ZDfTDH7UiA&usqp=CAU",
+            "source": "abcnews.go.com",
+            "title": "The journey to nowhere: Little hope for Saudi women since driving ban was  lifted - ABC News",
+            "link": "https://abcnews.go.com/International/journey-hope-saudi-women-driving-ban-lifted/story?id=63667888",
+            "original": "https://s.abcnews.com/images/International/saudi-woman-driving-01-gty-jt-190624_hpEmbed_10x7_992.jpg"
+        },
+        {
+            "position": 80,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8tIS-AC5xVncZ-lzbD8GBWxsMX7AsG8VVlw&usqp=CAU",
+            "source": "fivethirtyeight.com",
+            "title": "How Women In Saudi Arabia Lived Under King Abdullah | FiveThirtyEight",
+            "link": "https://fivethirtyeight.com/features/how-women-in-saudi-arabia-lived-under-king-abdullah/",
+            "original": "https://fivethirtyeight.com/wp-content/uploads/2015/01/476651817crop.jpg?w=575"
+        },
+        {
+            "position": 81,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo67AfSsxKHk8oxrFxFx-qHs2asnbaz5o5Ig&usqp=CAU",
+            "source": "flickr.com",
+            "title": "Beautiful Saudi women | aryam alzahrani | Flickr",
+            "link": "https://www.flickr.com/photos/143008956@N02/42530211145",
+            "original": "https://live.staticflickr.com/1785/42530211145_0a11da509d_b.jpg"
+        },
+        {
+            "position": 82,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHRwWDRTobpT05DBNRUKRCXpOXpcF4YQDYbw&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Saudi Arabia women beauty | Arabian women, Arab women, Beautiful hijab",
+            "link": "https://www.pinterest.com/pin/640355640760107882/",
+            "original": "https://i.pinimg.com/736x/a7/43/7f/a7437f221b09c7dc4d7a22c807a029bf.jpg"
+        },
+        {
+            "position": 83,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtVqWOFfgh4S4ZEmtEV3a_8wDo-pIE9x9C5Q&usqp=CAU",
+            "source": "time.com",
+            "title": "Women Haven't Really Won in Saudi Arabia\u2014Yet | Time",
+            "link": "https://time.com/4149557/saudi-arabia-elections-women-vote/",
+            "original": "https://api.time.com/wp-content/uploads/2015/12/saudi-election.jpg"
+        },
+        {
+            "position": 84,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS95NR2Xextu0ZRA2ls5NiAzjrjKPmP6tA3Q&usqp=CAU",
+            "source": "arabnews.com",
+            "title": "Young Saudi women take charge of T20's digital demands | Arab News",
+            "link": "https://www.arabnews.com/node/1754076/saudi-arabia",
+            "original": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2020/10/26/2322526-904321254.jpg?itok=M39FGVGC"
+        },
+        {
+            "position": 85,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAuMYYcuXjOM-GuVt9cODN_LrYw-_WriDtiQ&usqp=CAU",
+            "source": "qz.com",
+            "title": "Women driving in Saudi Arabia is about economics, not equality \u2014 Quartz",
+            "link": "https://qz.com/1313612/women-driving-in-saudi-arabia-is-about-economics-not-equality/",
+            "original": "https://cms.qz.com/wp-content/uploads/2018/06/RTS1TFQ0-e1529929396114.jpg?quality=75&strip=all&w=410&h=231"
+        },
+        {
+            "position": 86,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmIBUOpElBeE8ueXy2P2FWkcuOBtZgDUoe2A&usqp=CAU",
+            "source": "theweek.co.uk",
+            "title": "What are women banned from doing in Saudi Arabia? | The Week UK",
+            "link": "https://www.theweek.co.uk/60339/things-women-cant-do-in-saudi-arabia",
+            "original": "https://mediacloud.theweek.co.uk/image/private/s--4JFbMnjs--/v1603043543/theweek/2015/08/150819-saudi.jpg"
+        },
+        {
+            "position": 87,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-D35tHDZiqoQImj05FozGToewau5pESmSA&usqp=CAU",
+            "source": "latimes.com",
+            "title": "Saudi women take the wheel as decades-long driving ban ends - Los Angeles  Times",
+            "link": "https://www.latimes.com/world/la-fg-saudi-women-drivers-20180624-story.html",
+            "original": "https://ca-times.brightspotcdn.com/dims4/default/5e785e7/2147483647/strip/true/crop/2048x1151+0+0/resize/1486x835!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2F7b%2F8865264c112b3f821f14b13bbb05%2Fla-1529868890-ur38i4qeid-snap-image"
+        },
+        {
+            "position": 88,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jh04tkwz5vcA7_VwHnqewv3sdfQW8skMMQ&usqp=CAU",
+            "source": "straitstimes.com",
+            "title": "Saudi women to start own businesses without male permission, Middle East  News & Top Stories - The Straits Times",
+            "link": "https://www.straitstimes.com/world/middle-east/saudi-women-to-start-own-businesses-without-male-permission",
+            "original": "https://static.straitstimes.com.sg/s3fs-public/articles/2018/02/18/dw-saudi-women-business-180218.jpg"
+        },
+        {
+            "position": 89,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbtK_gGLFyRyvHnRYJxOWIZuZwg7Geu36Cgg&usqp=CAU",
+            "source": "emirateswoman.com",
+            "title": "9 inspiring Saudi women who have made an impact on the world \u2013 Emirates  Woman",
+            "link": "https://emirateswoman.com/9-inspiring-saudi-women-made-impact-world/",
+            "original": "https://emirateswoman.com/wp-content/uploads/2021/01/Influential-Saudi-women.png"
+        },
+        {
+            "position": 90,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfq6qmzm_mgZjIO1OJ3i7gR9OIJXTOfEv2kQ&usqp=CAU",
+            "source": "en.vogue.me",
+            "title": "The Final Goal: Getting a Women's Football Team in Saudi Arabia l Vogue  Arabia",
+            "link": "https://en.vogue.me/beauty/body/exercise/getting-a-womens-football-team-in-saudi-arabia/",
+            "original": "https://ar.vogue.me/image_provider/?w=750&h=&zc=1&q=80&cc=ffffff&src=https://en.vogue.me/wp-content/uploads/2018/06/Saja-Kamal-and-Munira-Al-Hamdan.jpg"
+        },
+        {
+            "position": 91,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7AC7SmGsaIfvCk-iY7LUQJZGceJEfR-TCQ&usqp=CAU",
+            "source": "theculturetrip.com",
+            "title": "Saudi Women Everyone Should Know About",
+            "link": "https://theculturetrip.com/middle-east/saudi-arabia/articles/saudi-women-everyone-should-know-about/",
+            "original": "https://img.theculturetrip.com/450x/smart/wp-content/uploads/2018/06/saudi-women.jpg"
+        },
+        {
+            "position": 92,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8xxfR7l_Oa9iPAxdCqtBkLEs1iXpqzO1jw&usqp=CAU",
+            "source": "bloomberg.com",
+            "title": "Saudi Arabia Gives Women Travel Rights in Major Policy Shakeup - Bloomberg",
+            "link": "https://www.bloomberg.com/news/articles/2019-08-01/saudi-to-allow-women-to-travel-without-permission-okaz-says",
+            "original": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if4yXPCWmAbg/v0/1000x-1.jpg"
+        },
+        {
+            "position": 93,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA57UQmrQGx_dQhU7dib8v62gB9aJEhoubmQ&usqp=CAU",
+            "source": "abouther.com",
+            "title": "Meet The Saudi Women That Dominated Forbes' Top 10 Powerlist | About Her",
+            "link": "https://www.abouther.com/node/26561/people/leading-ladies/meet-saudi-women-dominated-forbes%E2%80%99-top-10-powerlist",
+            "original": "https://www.abouther.com/sites/default/files/styles/760x506/public/2020/02/13/main6576778.jpg?itok=1ZZ8rb2D"
+        },
+        {
+            "position": 94,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSt4K2sUfsn0ch9tjvMRsfgE_D5s2FrSjnA&usqp=CAU",
+            "source": "cbc.ca",
+            "title": "With spotlight back on Saudi women's rights, Loujain al-Hathloul's fate  remains unknown | CBC News",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/with-spotlight-back-on-saudi-women-s-rights-loujain-al-hathloul-s-fate-remains-unknown-1.4981281",
+            "original": "https://i.cbc.ca/1.4981283.1547688244!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/saudi-women.jpg"
+        },
+        {
+            "position": 95,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVYdSVc8-zV7vcUxiPFXmHh-2DEWC-5Sh_w&usqp=CAU",
+            "source": "businessoffashion.com",
+            "title": "Saudi Women Spend Big on Makeup, Even If It's Just a Glimpse | News &  Analysis | BoF",
+            "link": "https://www.businessoffashion.com/articles/beauty/saudi-women-spend-big-on-makeup-even-if-its-just-a-glimpse",
+            "original": "https://images.businessoffashion.com/site/uploads/2018/04/shutterstock_227082028.jpg?auto=format%2Ccompress&crop=top&fit=crop&h=575&w=1023"
+        },
+        {
+            "position": 96,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4bdDl73aS7V8pMGQUFPScg6HMzMtFgENJHw&usqp=CAU",
+            "source": "icsft.net",
+            "title": "We demand Rights for Saudi Women! | ICSFT | INTERNATIONAL COUNCIL  SUPPORTING FAIR TRIAL and HUMAN RIGHTS",
+            "link": "https://www.icsft.net/8437/",
+            "original": "http://www.icsft.net/wp-content/uploads/2017/09/turnout-for-saudi-women-voters-is-extremely-low-1441036353.jpg"
+        },
+        {
+            "position": 97,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqbw9QjAeQDi3E_ugZtVzHSZSBlYxqmN0bQ&usqp=CAU",
+            "source": "asiamedia.lmu.edu",
+            "title": "SAUDI ARABIA: Women Driving in Saudi, Women's Rights Victory or Economic  Ploy? \u2014",
+            "link": "https://asiamedia.lmu.edu/2018/01/31/saudi-arabia-women-driving-in-saudi-womens-rights-victory-or-economic-ploy/",
+            "original": "https://asiamedia.lmu.edu/wp-content/uploads/2018/01/saudi-women-driving.png"
+        },
+        {
+            "position": 98,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7ZYOrXsGBJeiSq0jm3eqyfy0AASn8GLTMw&usqp=CAU",
+            "source": "gulfnews.com",
+            "title": "In first, Saudi women to be enlisted in army | Saudi \u2013 Gulf News",
+            "link": "https://gulfnews.com/world/gulf/saudi/in-first-saudi-women-to-be-enlisted-in-army-1.66872115",
+            "original": "https://imagevars.gulfnews.com/2019/10/03/Saudi-women-1570085731849_16d9066fe09_large.jpg"
+        },
+        {
+            "position": 99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMw_PPXviXcnk1cnWQo05NWtBce0dT-3RwiQ&usqp=CAU",
+            "source": "theconversation.com",
+            "title": "Saudi women are fighting for their freedom \u2013 and their hard-won victories  are growing",
+            "link": "https://theconversation.com/saudi-women-are-fighting-for-their-freedom-and-their-hard-won-victories-are-growing-121610",
+            "original": "https://images.theconversation.com/files/287237/original/file-20190807-144873-1304g57.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop"
+        },
+        {
+            "position": 100,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrKkTnnI8-2sDeeR8jVTQRM5ZNQkYiO6r4g&usqp=CAU",
+            "source": "themedialine.org",
+            "title": "Saudi Women Take To the Skies - The Media Line",
+            "link": "https://themedialine.org/people/saudi-women-take-to-the-skies/",
+            "original": "https://themedialine.org/wp-content/uploads/2020/12/imgonline-com-ua-Piconpic-XKtSoDd2D1kORow.jpg"
+        }
+    ]
+}

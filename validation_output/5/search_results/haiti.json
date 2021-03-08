@@ -1,0 +1,979 @@
+{
+    "search_metadata": {
+        "id": "603c2ca02b3c93733f26a9c7",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3db0404ceb5fcf2d/603c2ca02b3c93733f26a9c7.json",
+        "created_at": "2021-02-28 23:52:00 UTC",
+        "processed_at": "2021-02-28 23:52:00 UTC",
+        "google_url": "https://www.google.com/search?q=haitian+women&oq=haitian+women&tbm=isch&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/3db0404ceb5fcf2d/603c2ca02b3c93733f26a9c7.html",
+        "total_time_taken": 0.79
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "haitian women",
+        "google_domain": "google.com",
+        "device": "desktop",
+        "tbm": "isch"
+    },
+    "search_information": {
+        "image_results_state": "Results for exact spelling",
+        "query_displayed": "haitian women"
+    },
+    "suggested_searches": [
+        {
+            "name": "creole",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:creole:1US-_2HrSzE%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoAHoECAEQGA",
+            "chips": "q:haitian+women,g_1:creole:1US-_2HrSzE%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Acreole%3A1US-_2HrSzE%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/9f39e29178cf77f9f4fb3a839b46e836955bef25299f888d2edfa3fb0081c6ea.jpeg"
+        },
+        {
+            "name": "native",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:native:IRASnxM8EDc%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoAXoECAEQGg",
+            "chips": "q:haitian+women,g_1:native:IRASnxM8EDc%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Anative%3AIRASnxM8EDc%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/9f39e29178cf77f9f4fb3a839b46e836b489e3e4bad1d21f162276424b6cca80.jpeg"
+        },
+        {
+            "name": "mixed",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:mixed:4DR4l4rPcLc%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoAnoECAEQHA",
+            "chips": "q:haitian+women,g_1:mixed:4DR4l4rPcLc%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Amixed%3A4DR4l4rPcLc%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/9f39e29178cf77f9f4fb3a839b46e836d6df86f6ded8a1a0029797c722c43c67.jpeg"
+        },
+        {
+            "name": "rural",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:rural:0G92lD_H3QU%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoA3oECAEQHg",
+            "chips": "q:haitian+women,g_1:rural:0G92lD_H3QU%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Arural%3A0G92lD_H3QU%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/9f39e29178cf77f9f4fb3a839b46e836793873e9176371bbf634594da484b7e3.jpeg"
+        },
+        {
+            "name": "beach",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:beach:gLNwj8-EsJI%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoBHoECAEQIA",
+            "chips": "q:haitian+women,g_1:beach:gLNwj8-EsJI%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Abeach%3AgLNwj8-EsJI%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/9f39e29178cf77f9f4fb3a839b46e836f06c75656798e77d244f84c835775ec8.jpeg"
+        },
+        {
+            "name": "french",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:french:x0Us_cBDapo%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoBXoECAEQIg",
+            "chips": "q:haitian+women,g_1:french:x0Us_cBDapo%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Afrench%3Ax0Us_cBDapo%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/9f39e29178cf77f9f4fb3a839b46e836248ef051139d471d7a698e30632267d9.jpeg"
+        },
+        {
+            "name": "fashion",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:fashion&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoBnoECAEQJA",
+            "chips": "q:haitian+women,g_1:fashion",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Afashion&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch"
+        },
+        {
+            "name": "light",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:light:lTt921mZd2g%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoB3oECAEQJQ",
+            "chips": "q:haitian+women,g_1:light:lTt921mZd2g%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Alight%3AlTt921mZd2g%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/9f39e29178cf77f9f4fb3a839b46e8368cd700d73f08ae26ae1f6aaae45d45b4.jpeg"
+        },
+        {
+            "name": "smoking",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:smoking&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoCHoECAEQJw",
+            "chips": "q:haitian+women,g_1:smoking",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Asmoking&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch"
+        },
+        {
+            "name": "cultural",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:cultural:c5-yGQlt06I%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoCXoECAEQKA",
+            "chips": "q:haitian+women,g_1:cultural:c5-yGQlt06I%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Acultural%3Ac5-yGQlt06I%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/9f39e29178cf77f9f4fb3a839b46e836daf78a770fa2f742abe49f809fa5189d.jpeg"
+        },
+        {
+            "name": "eyes",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:eyes&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoCnoECAEQKg",
+            "chips": "q:haitian+women,g_1:eyes",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Aeyes&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch"
+        },
+        {
+            "name": "market",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:market&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoC3oECAEQKw",
+            "chips": "q:haitian+women,g_1:market",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Amarket&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch"
+        },
+        {
+            "name": "year",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:year&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoDHoECAEQLA",
+            "chips": "q:haitian+women,g_1:year",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Ayear&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch"
+        },
+        {
+            "name": "rich",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:rich:8qPAuqE3u60%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoDXoECAEQLQ",
+            "chips": "q:haitian+women,g_1:rich:8qPAuqE3u60%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Arich%3A8qPAuqE3u60%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVzmYaB5uk7PqHuKtC98fnKT3W2PAX3Cijk-3CycYLKsVQrNnJ&usqp=CAU"
+        },
+        {
+            "name": "elderly",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:elderly&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoDnoECAEQLw",
+            "chips": "q:haitian+women,g_1:elderly",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Aelderly&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch"
+        },
+        {
+            "name": "school",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:school&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoD3oECAEQMA",
+            "chips": "q:haitian+women,g_1:school",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Aschool&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch"
+        },
+        {
+            "name": "typical",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:typical:zzNzEnNQIlg%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoEHoECAEQMQ",
+            "chips": "q:haitian+women,g_1:typical:zzNzEnNQIlg%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Atypical%3AzzNzEnNQIlg%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi5DV-EE3N_VAjuEYpRhU-Aq6Sb6TNSVvVe7St8QZb_7CjpvS3&usqp=CAU"
+        },
+        {
+            "name": "american",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:american:5kuM0jhR96g%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoEXoECAEQMw",
+            "chips": "q:haitian+women,g_1:american:5kuM0jhR96g%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Aamerican%3A5kuM0jhR96g%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVujYnX9IFQWKPEkf_LU6caDsILOq0jjKiiBN0OQesHg-nOQl4&usqp=CAU"
+        },
+        {
+            "name": "polish",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:polish:b5D1YKgjqn0%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoEnoECAEQNQ",
+            "chips": "q:haitian+women,g_1:polish:b5D1YKgjqn0%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Apolish%3Ab5D1YKgjqn0%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj-mWLETGU7TiMQFQxWxeEpCBUQ696VEfwu0xF_zgC5HSx0xBD&usqp=CAU"
+        },
+        {
+            "name": "jacmel",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:jacmel:7fZpEhZ_pD0%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoE3oECAEQNw",
+            "chips": "q:haitian+women,g_1:jacmel:7fZpEhZ_pD0%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Ajacmel%3A7fZpEhZ_pD0%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsdFx_wyL_qacPKaVENFz9FMdivE0jby5gVAw3I_fr6A_mnKY9&usqp=CAU"
+        },
+        {
+            "name": "head",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:head&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoFHoECAEQOQ",
+            "chips": "q:haitian+women,g_1:head",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Ahead&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch"
+        },
+        {
+            "name": "new york",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:new+york&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoFXoECAEQOg",
+            "chips": "q:haitian+women,g_1:new+york",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Anew%2Byork&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch"
+        },
+        {
+            "name": "carnival",
+            "link": "https://www.google.com/search?q=haitian+women&tbm=isch&chips=q:haitian+women,g_1:carnival:TPfMJf21hms%3D&hl=en-US&sa=X&ved=2ahUKEwjt0dv_4o3vAhUITa0KHaq_DhoQ4lYoFnoECAEQOw",
+            "chips": "q:haitian+women,g_1:carnival:TPfMJf21hms%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Ahaitian%2Bwomen%2Cg_1%3Acarnival%3ATPfMJf21hms%253D&device=desktop&engine=google&google_domain=google.com&q=haitian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tM2gsog-tCib6dsj_JXwkqFHnIsB6_VY_fuBT77hOPglnfPv&usqp=CAU"
+        }
+    ],
+    "images_results": [
+        {
+            "position": 1,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc780fbc574ac38d9493e052b9c7e317f052e96ae553ee60a4f.jpeg",
+            "source": "berkeleyside.com",
+            "title": "Nathalie Joachim's world of Haitian women",
+            "link": "https://www.berkeleyside.com/2020/10/14/nathalie-joachims-world-of-haitian-women",
+            "original": "https://www.berkeleyside.com/wp-content/uploads/2020/10/nathalie-joachim-1000x806-1.jpg"
+        },
+        {
+            "position": 2,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7067a9f07c7ce892b267e2b87bb22618b2ef7130c2f724f87.jpeg",
+            "source": "hearttoheart.org",
+            "title": "Women of Haiti - Heart to Heart International",
+            "link": "https://www.hearttoheart.org/our-work/haiti-operations/women-of-haiti/",
+            "original": "https://www.hearttoheart.org/wp-content/uploads/2018/01/RosemaryBlurredBacklightenedcrop.jpg"
+        },
+        {
+            "position": 3,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc779a09e9635647cc7e609c88b9d1ca0ca8e8b224dac459c6c.jpeg",
+            "source": "ijdh.org",
+            "title": "Haitian Women: Enter At Center Stage",
+            "link": "http://www.ijdh.org/2010/03/topics/womens-issues/haitian-women-enter-at-center-stage/",
+            "original": "http://images.huffingtonpost.com/gen/153652/HAITIBLOG.jpg"
+        },
+        {
+            "position": 4,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc743c42963db5b37185e871483d4f549cea5e1d555cc161cb8.jpeg",
+            "source": "iom.int",
+            "title": "10 Years After 'Goudou Goudou' IOM Assists Haitian Women Artists Raise  Funds for the Vulnerable | International Organization for Migration",
+            "link": "https://www.iom.int/news/10-years-after-goudou-goudou-iom-assists-haitian-women-artists-raise-funds-vulnerable",
+            "original": "https://www.iom.int/sites/default/files/press_release/media/ht-pbn01202020.jpg"
+        },
+        {
+            "position": 5,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc777084d51f873179a3119063d5718a6df1a87f45aea819865.jpeg",
+            "source": "lunionsuite.com",
+            "title": "WomensHistoryMonth: 10 Women In Haiti Leading The Way And Inspiring a New  Generation",
+            "link": "https://www.lunionsuite.com/women-haiti-the-way-new-generation/",
+            "original": "https://www.lunionsuite.com/wp-content/uploads/2019/03/IMG_1015.jpg"
+        },
+        {
+            "position": 6,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc775d5078d9d3326bab33903c610c16db93c63d7ae676c35e0.jpeg",
+            "source": "pri.org",
+            "title": "This Haitian comedian revealed her trauma and became a voice for #MeToo",
+            "link": "https://www.pri.org/stories/2018-05-03/haitian-comedian-revealed-her-trauma-and-became-voice-metoo",
+            "original": "https://media.pri.org/s3fs-public/styles/story_main/public/story/images/Gaelle%204.jpg?itok=6cfnx-UW"
+        },
+        {
+            "position": 7,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc798947d6db548d320a56d4f41e7ad08eb7b9f623a24832315.jpeg",
+            "source": "timothyschwartzhaiti.com",
+            "title": "Explaining Gender in Haiti: Review of the Literature - Schwartz Research  Group",
+            "link": "https://timothyschwartzhaiti.com/haiti-gender-review-of-the-literature/",
+            "original": "https://timothyschwartzhaiti.com/wp-content/uploads/haitian-young-women.jpg"
+        },
+        {
+            "position": 8,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc754ca0829bb7ea09dec2fe85e5c5d21d4037499f825f35f72.jpeg",
+            "source": "cwsglobal.org",
+            "title": "International Women's Day: Haitian women carry a disproportionate burden |  CWS",
+            "link": "https://cwsglobal.org/blog/haitian-women/",
+            "original": "http://cwsglobal.org/wp-content/uploads/2016/03/Viergenie.jpg"
+        },
+        {
+            "position": 9,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7e3d2bb1c2d58774f58609bca245b65eb0aae322f4f0bc25f.jpeg",
+            "source": "pinterest.com",
+            "title": "Haitian Women- Don't they look cute? | Jamaica outfits, Haiti flag, Haiti",
+            "link": "https://www.pinterest.com/pin/495536765221988259/",
+            "original": "https://i.pinimg.com/originals/79/b8/e5/79b8e5987d16b9e7d7a3a5e094dbab55.jpg"
+        },
+        {
+            "position": 10,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7ffad00b3a5ab400b368d1577c8bcc63dc24b5a32cbb9b390.jpeg",
+            "source": "haiti.org",
+            "title": "The 13th Annual Haitian Ladies Brunch \u2013 Embassy of Haiti",
+            "link": "https://www.haiti.org/the-13th-annual-haitian-ladies-brunch/",
+            "original": "https://www.haiti.org/wp-content/uploads/2018/10/haitian-ladies-brunch-2018-129.jpg"
+        },
+        {
+            "position": 11,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7067a9f07c7ce892b51977b6b99fc7a71c82cfd4ae93e59a0.jpeg",
+            "source": "facebook.com",
+            "title": "Global Network of Young Haitian Women Professionals - Home | Facebook",
+            "link": "https://www.facebook.com/GlobalNetworkOfYoungHaitianWomenProfessionals/",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=580809685367924"
+        },
+        {
+            "position": 12,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7067a9f07c7ce892bcb4cf98bcd2f859e05d07e0f3bb2903d.jpeg",
+            "source": "youtube.com",
+            "title": "Haitian Woman Thanks Jackson Memorial Staff For Saving Her Life - YouTube",
+            "link": "https://www.youtube.com/watch?v=qqAGpoxY6gc",
+            "original": "https://i.ytimg.com/vi/qqAGpoxY6gc/maxresdefault.jpg"
+        },
+        {
+            "position": 13,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7067a9f07c7ce892bacf905b5b6e906e247bfdbb2266da03b.jpeg",
+            "source": "pinterest.com",
+            "title": "Pin by Armchair Traveler on Haiti. French: Ha\u00efti ; Haitian Creole Ayiti ,  officially the Republic of Haiti | African people, Haitian, Woman face",
+            "link": "https://www.pinterest.com/pin/498632989964550185/",
+            "original": "https://i.pinimg.com/originals/b6/49/48/b6494872fd8b28b1bacab9a5821b69a5.jpg"
+        },
+        {
+            "position": 14,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7067a9f07c7ce892bfb3f1b2613bab4828c3deb4ee51ee50d.jpeg",
+            "source": "rexfoundation.org",
+            "title": "Music Heals International at Work in Haiti | Rex Foundation",
+            "link": "https://www.rexfoundation.org/grantee-news/music-heals-international-at-work-in-haiti/",
+            "original": "https://www.rexfoundation.org/wp-content/uploads/2020/01/musicheals2.jpg"
+        },
+        {
+            "position": 15,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7067a9f07c7ce892bf647d7340262bdd6daaa15ebf1106920.jpeg",
+            "source": "timothyschwartzhaiti.com",
+            "title": "Violent Women in Haiti: Ethnographic and Survey Data - Schwartz Research  Group",
+            "link": "https://timothyschwartzhaiti.com/violent-women-haiti/",
+            "original": "https://timothyschwartzhaiti.com/wp-content/uploads/women-of-rural-haiti.jpg"
+        },
+        {
+            "position": 16,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7067a9f07c7ce892bd0976c053ba880338586094c44003612.jpeg",
+            "source": "ht.usembassy.gov",
+            "title": "Graduation of the first cohort of 35 Haitian women from the Academy for  Women Entrepreneurs (AWE) | U.S. Embassy in Haiti",
+            "link": "https://ht.usembassy.gov/graduation-of-the-first-cohort-of-35-haitian-women-from-the-academy-for-women-entrepreneurs-awe/",
+            "original": "https://d2v9ipibika81v.cloudfront.net/uploads/sites/100/5ec705ebf0369591d9923bc1_49358236096_60d180df3a_k-p-1600-1140x684.jpeg"
+        },
+        {
+            "position": 17,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7067a9f07c7ce892b8ea111defe2f4f562a0ca9763fee7106.jpeg",
+            "source": "en.wikipedia.org",
+            "title": "Women in Haiti - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Women_in_Haiti",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Haitian_Elegance_%288222064720%29.jpg"
+        },
+        {
+            "position": 18,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7067a9f07c7ce892be0c5149cfd5c06aee82899134a40988a.jpeg",
+            "source": "firstperson.oxfamamerica.org",
+            "title": "With grease and wrenches, Haitian women upend stereotypes | Oxfam",
+            "link": "https://firstperson.oxfamamerica.org/with-grease-and-wrenches-haitian-women-upend-stereotypes/",
+            "original": "https://s3.amazonaws.com/blog.oxfamamerica.org/firstperson/2013/01/RS47956_Haiti_MechanicalSchool_AFP011-scr.jpg"
+        },
+        {
+            "position": 19,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7067a9f07c7ce892b9a8a8396486d8e2b379e024c87b5f83a.jpeg",
+            "source": "datehookup.dating",
+            "title": "How to find hookups in Haiti: how do people get laid with Haitian girls",
+            "link": "https://datehookup.dating/apps/hookups-haitian/",
+            "original": "https://datehookup.dating/apps/wp-content/uploads/2020/05/Haiti-hookups.jpg"
+        },
+        {
+            "position": 20,
+            "thumbnail": "https://serpapi.com/searches/603c2ca02b3c93733f26a9c7/images/e51c4dab123bebc7067a9f07c7ce892bc085103a3f806153d9b7e10997cbe064.jpeg",
+            "source": "ipsnews.net",
+            "title": "Women of Haitian Descent Bear the Brunt of Dominican Migration Policy |  Inter Press Service",
+            "link": "http://www.ipsnews.net/2016/02/women-of-haitian-descent-bear-the-brunt-of-dominican-migration-policy/",
+            "original": "http://cdn.ipsnews.net/Library/2016/02/Dominican-3.jpg"
+        },
+        {
+            "position": 21,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc0gG7ykReLovIzKZzBz0N4lDYZnnkNFJRfQ&usqp=CAU",
+            "source": "mylatinabride.com",
+            "title": "Haitian Women: Meet Single Haitian Ladies - MyLatinaBride.com",
+            "link": "https://mylatinabride.com/haitian-women/",
+            "original": "https://mylatinabride.com/wp-content/uploads/2020/04/latina-16.jpg"
+        },
+        {
+            "position": 22,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwPWtlnKBK0WYyytvvpvYV0SlY9Io9ZFj8jw&usqp=CAU",
+            "source": "cnn.com",
+            "title": "These young women paint a picture of Haitians' daily struggles",
+            "link": "https://www.cnn.com/2019/02/20/world/gallery/nadia-todres-haiti-women/index.html",
+            "original": "https://cdn.cnn.com/cnnnext/dam/assets/190219170411-05-nadia-todres-haiti-super-tease.jpg"
+        },
+        {
+            "position": 23,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jE5bjeanCzyVNAcyBT_TRAlADjMTkb8yNw&usqp=CAU",
+            "source": "globalseducer.com",
+            "title": "Haitian Women: The Dating Guide to Meet Singles - Global Seducer",
+            "link": "https://www.globalseducer.com/haitian-women/",
+            "original": "https://www.globalseducer.com/wp-content/uploads/2017/12/beautiful-haitian-girl-outdoors-14.jpg"
+        },
+        {
+            "position": 24,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVAAee0R7i8ybi_CV2H8bGZpoeJQLw4OnlMw&usqp=CAU",
+            "source": "globalgiving.org \u00b7 Out of stock",
+            "title": "Train 180 Haitian Women in Beekeeping - GlobalGiving",
+            "link": "https://www.globalgiving.org/projects/haitian-women-beekeeping/",
+            "original": "https://files.globalgiving.org/pfil/30961/pict_large.jpg?m=1510949925000"
+        },
+        {
+            "position": 25,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXpL5xA2QBB3yfzwRGITlbDBcia7yuXVfXA&usqp=CAU",
+            "source": "crudem.org",
+            "title": "Women in Haiti: Ending Gender Violence - The CRUDEM Foundation, Inc",
+            "link": "http://crudem.org/women-in-haiti-ending-gender-violence/",
+            "original": "http://crudem.org/wp-content/uploads/2014/01/Woman-5.jpg"
+        },
+        {
+            "position": 26,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkejbVZptY04fQ7MtnDmC8DRQNCQ2fmVeESw&usqp=CAU",
+            "source": "dreamstime.com",
+            "title": "Rural Haitian Women Wash Clothes By Hand In The River In Northern Haiti.  Editorial Photography - Image of woman, friend: 188194837",
+            "link": "https://www.dreamstime.com/rural-haitian-women-wash-clothes-hand-river-northern-haiti-woman-her-friend-acknowledge-american-missionaries-as-image188194837",
+            "original": "https://thumbs.dreamstime.com/z/rural-haitian-women-wash-clothes-hand-river-northern-haiti-woman-her-friend-acknowledge-american-missionaries-as-188194837.jpg"
+        },
+        {
+            "position": 27,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-osN7-cnFoE82c-ZYV4HbwidUgpxJzq7qxw&usqp=CAU",
+            "source": "largeup.com",
+            "title": "Toppa Top 10: The Hottest Haitian Women - LargeUp",
+            "link": "http://www.largeup.com/2014/11/05/top-10-the-hottest-haitian-women/",
+            "original": "https://www.largeup.com/wp-content/uploads/2014/11/600full-anastagia-pierre.jpg"
+        },
+        {
+            "position": 28,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfJlL0-kwmFTbYYcvuV4PsPa3kRXYioZGLg&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Haitian women showing their pride. | Haiti history, Haitian art, Haiti",
+            "link": "https://www.pinterest.com/pin/440156563561398848/",
+            "original": "https://i.pinimg.com/originals/6d/c3/35/6dc335ef43d99b394e04c895871ab694.jpg"
+        },
+        {
+            "position": 29,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVOmaP1B_KSIFYT_c2BQu9RNgXAkBzsuJgw&usqp=CAU",
+            "source": "99brides.com",
+            "title": "Haitian Brides \u2013 Meet Beautiful Haitian Women For Marriage Online",
+            "link": "https://99brides.com/haitian-brides/",
+            "original": "https://99brides.com/wp-content/uploads/2019/12/haitian-brides.jpg"
+        },
+        {
+            "position": 30,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJhNJR2DxLerNzwhcByOleTZQazK0Kt9GkA&usqp=CAU",
+            "source": "ipsnews.net",
+            "title": "Haitian Women Still Waiting for a Seat at the Table | Inter Press Service",
+            "link": "http://www.ipsnews.net/2013/07/haitian-women-still-waiting-for-a-seat-at-the-table/",
+            "original": "http://cdn.ipsnews.net/Library/2013/07/haitifemme640-629x421.jpg"
+        },
+        {
+            "position": 31,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MdIkzg4Mcbh8C1_MAWoyi6Vg2-O_JjD3Zg&usqp=CAU",
+            "source": "genderinhaiti.wordpress.com",
+            "title": "Gender in Haiti",
+            "link": "https://genderinhaiti.wordpress.com/womens-rights/",
+            "original": "https://genderinhaiti.files.wordpress.com/2018/04/haiti-women_755_13_mg_8319-e1523473147304.jpg?w=1400&h=400&crop=1"
+        },
+        {
+            "position": 32,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1RVV82Qqv7TRV_-3ydt8DR-gK8bxsQccJg&usqp=CAU",
+            "source": "lunionsuite.com",
+            "title": "10 Haitian Female Artist You Should Add To Your Playlist",
+            "link": "https://www.lunionsuite.com/haitian-female-artist-playlist/",
+            "original": "https://www.lunionsuite.com/wp-content/uploads/2017/09/FullSizeRender-35.jpg"
+        },
+        {
+            "position": 33,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Pb_pqlT7hN6r8jIJvacNXNfETvF47ydp8g&usqp=CAU",
+            "source": "capitalandmain.com",
+            "title": "The Haitian Women Who Live in California's Golden Purgatory |",
+            "link": "https://capitalandmain.com/the-haitian-women-who-live-in-californias-golden-purgatory-0222",
+            "original": "https://capitalandmain.com/wp-content/uploads/2018/02/Sams-1.jpg"
+        },
+        {
+            "position": 34,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpgqsp78fbxZ7TXndiKevKyVLDmCfMQdueUw&usqp=CAU",
+            "source": "everychildthrives.com",
+            "title": "Haitian women talk leadership amid crisis | Every Child Thrives - W.K.  Kellogg Foundation",
+            "link": "https://everychildthrives.com/haitian-women-talk-leadership-amid-crisis/",
+            "original": "https://everychildthrives.com/wp-content/uploads/2020/01/Gisele_square.jpg"
+        },
+        {
+            "position": 35,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPjXnT3bxU5vZ7Ch9qklLbOyfWtbWtdphgg&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Lovely Haitian Women | Haitian clothing, Jamaica outfits, Haitian flag  clothing",
+            "link": "https://www.pinterest.com/pin/241013017535172393/",
+            "original": "https://i.pinimg.com/originals/f0/15/68/f01568a9303344381bcb234aefcfe0ab.jpg"
+        },
+        {
+            "position": 36,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRksdCA-zw_6fsgYf1vE9pQWAHiTiCsXAIYog&usqp=CAU",
+            "source": "largeup.com",
+            "title": "Toppa Top 10: The Hottest Haitian Women - Page 3 of 12 - LargeUp",
+            "link": "https://www.largeup.com/2014/11/05/top-10-the-hottest-haitian-women/3/",
+            "original": "https://www.largeup.com/wp-content/uploads/2014/11/190944_1.1.jpg"
+        },
+        {
+            "position": 37,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fcUL93EEEAHyl6Ll2_SQ2a_-5rmUgNmtbw&usqp=CAU",
+            "source": "youtube.com",
+            "title": "Top 10 Most Beautiful Haitian Women 2018 - YouTube",
+            "link": "https://www.youtube.com/watch?v=TfGl6XSXfRk",
+            "original": "https://i.ytimg.com/vi/TfGl6XSXfRk/maxresdefault.jpg"
+        },
+        {
+            "position": 38,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzNpXSW5wYWmrJNPv1OHKtWbtGE-fAi4-yGw&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "120 Beautiful Haitian Women in the world ideas | haitian, haiti, carribean",
+            "link": "https://www.pinterest.com/peplaapparel/beautiful-haitian-women-in-the-world/",
+            "original": "https://i.pinimg.com/750x/c1/75/7b/c1757b7bf871b4d170b89fd728f43c43.jpg"
+        },
+        {
+            "position": 39,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSHo9RqG6XW1XsaiH4u8v4P7X4gJLqmfbeg&usqp=CAU",
+            "source": "miamiherald.com",
+            "title": "Cervical cancer leading to unnecessary deaths in Haiti | Miami Herald",
+            "link": "https://www.miamiherald.com/latest-news/article217050190.html",
+            "original": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/262ed016-e0d7-4e45-b868-33fdda87346a/e2670840-671b-48e7-9faf-1e5ee3756b06/1280x720/match/image.jpg"
+        },
+        {
+            "position": 40,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSME3GCm95dwzxxSxpAYH5I2lN4J_r8bULsnw&usqp=CAU",
+            "source": "spanglishbaby.com",
+            "title": "Celebrating Haitian Women on International Women\u00b4s Day | SpanglishBaby",
+            "link": "http://spanglishbaby.com/2012/03/celebrating-haitian-women-on-international-women%C2%B4s-day/",
+            "original": "http://farm8.staticflickr.com/7006/6791307467_b5e4a25168_z.jpg"
+        },
+        {
+            "position": 41,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaiP0tXKtkOJ1UZqwG7SObj-2eBzKQfdFUwA&usqp=CAU",
+            "source": "diningforwomen.org",
+            "title": "MamaBaby Haiti | Dining for Women",
+            "link": "https://diningforwomen.org/programs/mama-baby-haiti/",
+            "original": "https://diningforwomen.org/wp-content/uploads/2014/09/Mama-Baby-Haiti-5.jpg"
+        },
+        {
+            "position": 42,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9a-8VXWlV8MrLpeXjvSCqr_2T91tFDdRjuQ&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "64 Beauty of Haiti: Gorgeous Haitian Women ideas | beauty, haitian, women",
+            "link": "https://www.pinterest.com/nonstandardboy/beauty-of-haiti-gorgeous-haitian-women/",
+            "original": "https://i.pinimg.com/474x/13/ea/95/13ea95e247d84dfc9847b0e44a38ea39--supernatural-kinky-hair.jpg"
+        },
+        {
+            "position": 43,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NJvfxWf1vLArs3xbPpNzEGJtJGBhFz_Y4w&usqp=CAU",
+            "source": "voanews.com",
+            "title": "Haitian Women's Rights Groups Demand Justice for Raped Female Prisoners |  Voice of America - English",
+            "link": "https://www.voanews.com/americas/haitian-womens-rights-groups-demand-justice-raped-female-prisoners",
+            "original": "https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-11/_private_var_mobile_Containers_Data_Application_9F325E9F-BE3B-458C-A168-E1CB4C89DA3C_tmp_2CD33484-B853-4E51-B50E-30FCDAA461A9_Image.jpeg?itok=2yxbKoHu"
+        },
+        {
+            "position": 44,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROeBWBDK6NEjnTmAxzh7x-YR5CrKkBT4H05w&usqp=CAU",
+            "source": "hearttoheart.org",
+            "title": "Women of Haiti - Heart to Heart International",
+            "link": "https://www.hearttoheart.org/our-work/haiti-operations/women-of-haiti/",
+            "original": "https://www.hearttoheart.org/wp-content/uploads/2018/01/Zette-Nozylus.jpg"
+        },
+        {
+            "position": 45,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR3drO3kaAnDGPUjT8wZwYxoXtJ6jePCnwg&usqp=CAU",
+            "source": "prosperitycandle.com",
+            "title": "Haiti - Prosperity Candle",
+            "link": "https://www.prosperitycandle.com/pages/haiti",
+            "original": "https://cdn.shopify.com/s/files/1/0236/6289/files/Candle_Makers_Haiti_99d833bc-e847-43eb-a585-7e5f36205f0d_grande.jpg?v=1499521897"
+        },
+        {
+            "position": 46,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAT0h-jKdxmbdCpIh_lB0tkF3ysZHm2V-6lg&usqp=CAU",
+            "source": "afab-kafanm.org",
+            "title": "Association of Haitian Women in BostonAssociation of Haitian Women in Boston",
+            "link": "http://afab-kafanm.org/wp/",
+            "original": "http://afab-kafanm.org/wp/wp-content/uploads/afab-celebration-2020.jpg"
+        },
+        {
+            "position": 47,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvZl71pnSLOLdDcMxwisT4yaHJT9cileQKw&usqp=CAU",
+            "source": "largeup.com",
+            "title": "Toppa Top 10: The Hottest Haitian Women - LargeUp",
+            "link": "http://www.largeup.com/2014/11/05/top-10-the-hottest-haitian-women/",
+            "original": "https://i2.wp.com/www.largeup.com/wp-content/uploads/2014/10/phyllisia-ross-haitian-women.jpg?fit=3727%2C2485&ssl=1"
+        },
+        {
+            "position": 48,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvfrOgJcPHGckrOSxp48p39jZyxGBaR__ag&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Haitian women are goddesses of beauty. | African beauty, Beauty, Fitness  beauty",
+            "link": "https://www.pinterest.com/pin/516928863450341510/",
+            "original": "https://i.pinimg.com/originals/ed/56/35/ed5635be9629f94d58944e56ad8ef048.jpg"
+        },
+        {
+            "position": 49,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNd9ufb0fbNGLZGDa_e9YpjLGa7EBfv1AGOQ&usqp=CAU",
+            "source": "latinawomenbrides.com",
+            "title": "Haitian Brides: Find Hot Haiti Mail Order Bride For Marriage",
+            "link": "https://latinawomenbrides.com/haitian/",
+            "original": "https://latinawomenbrides.com/wp-content/uploads/2020/09/haitian-1.jpg"
+        },
+        {
+            "position": 50,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiApAyS0RQ7kFYSIRJhAMJhAKoDWzSDvLs4Q&usqp=CAU",
+            "source": "haitianrefugees.org",
+            "title": "Haitian Women for Haitian Refugees thanks you for your support | Haitian  Women for Haitian Refugees",
+            "link": "https://haitianrefugees.org/thanks-you-for-your-support/",
+            "original": "https://haitianwomen.files.wordpress.com/2010/08/img_0868.jpg"
+        },
+        {
+            "position": 51,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn-HrEroo7haVw-WksfS9Jb5IDNFufkoZDKg&usqp=CAU",
+            "source": "remezcla.com",
+            "title": "Herstory: 11 Haitian Women to Celebrate During Hispanic Heritage Month",
+            "link": "https://remezcla.com/lists/culture/herstory-haitian-women-to-celebrate/",
+            "original": "https://remezcla.com/wp-content/uploads/2019/09/Haitian_herstory.jpg"
+        },
+        {
+            "position": 52,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWLmfSk5NDvjAE7stI_A7KG_In9eTeOunPA&usqp=CAU",
+            "source": "haitianrefugees.org",
+            "title": "Haitian Women for Haitian Refugees thanks you for your support | Haitian  Women for Haitian Refugees",
+            "link": "https://haitianrefugees.org/thanks-you-for-your-support/",
+            "original": "https://haitianwomen.files.wordpress.com/2010/08/rosewhitedress.jpg"
+        },
+        {
+            "position": 53,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRetCmzIbt8Lu-bOtHqymGOOy34NgqbykgA&usqp=CAU",
+            "source": "tracceconsulenzaambientale.it",
+            "title": "Haitian Woman: In 5 Easy Steps - TRACCE S.A.S DI ANDREA SILLANI",
+            "link": "http://www.tracceconsulenzaambientale.it/haitian-woman-in-5-easy-steps/",
+            "original": "https://sites.duke.edu/wcwp/files/2010/05/P5140678.jpg"
+        },
+        {
+            "position": 54,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB0WaDCpY1euyIqTSPZGSeZI220kL0ihhUVQ&usqp=CAU",
+            "source": "atlantablackstar.com",
+            "title": "20 of the Most Stunningly Beautiful Black Women of Haitian Descent",
+            "link": "https://atlantablackstar.com/2014/10/02/20-stunningly-beautiful-black-women-haiti/",
+            "original": "http://atlantablackstar.com/wp-content/uploads/2014/09/Sophia-Clerius.jpg"
+        },
+        {
+            "position": 55,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM9f51xJENA_EnCwYwHu6LYQA6Mt5XsnpgQw&usqp=CAU",
+            "source": "blogs.ifas.ufl.edu",
+            "title": "AREA Project Holds Conference with Aim of Empowering New Generation of Haitian  Women - UF/IFAS Area Project",
+            "link": "http://blogs.ifas.ufl.edu/area/2019/07/09/area-project-holds-conference-with-aim-of-empowering-new-generation-of-haitian-women/",
+            "original": "http://blogs.ifas.ufl.edu/area/files/2019/07/women-conference-web-banner-2.jpg"
+        },
+        {
+            "position": 56,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOScJegth9uzQixFKc7_SluwsGDFPU_3ovCA&usqp=CAU",
+            "source": "genderinhaiti.wordpress.com",
+            "title": "Gender in Haiti",
+            "link": "https://genderinhaiti.wordpress.com/poto-mitan/",
+            "original": "https://genderinhaiti.files.wordpress.com/2018/03/haitianwomen1_bendepp1.jpg?w=1000&h=400&crop=1"
+        },
+        {
+            "position": 57,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmoAv7QqJfhSbntI1DPOI6KWmpDec69NqbmA&usqp=CAU",
+            "source": "timothyschwartzhaiti.com",
+            "title": "The Sexual Moral Economy in Rural Haiti - Schwartz Research Group",
+            "link": "https://timothyschwartzhaiti.com/rural-haiti-life/",
+            "original": "https://timothyschwartzhaiti.com/wp-content/uploads/teat2.jpeg"
+        },
+        {
+            "position": 58,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp9WGGt2DF4K6df5gnlW9XuEhUH7mQ-qOv7g&usqp=CAU",
+            "source": "boston.com",
+            "title": "Faces of Haiti - Photos - The Big Picture - Boston.com",
+            "link": "http://www.boston.com/bigpicture/2010/01/faces_of_haiti.html",
+            "original": "http://inapcache.boston.com/universal/site_graphics/blogs/bigpicture/haiti_01_22/h27_21787571.jpg"
+        },
+        {
+            "position": 59,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPBJ6G7WQUhKTY5rMzrcVx9M2zpxXimTVRQ&usqp=CAU",
+            "source": "publichealth.med.miami.edu",
+            "title": "Rhoda Moise Presents Dissertation on Cervical Cancer Prevention and Control  in Haitian Women",
+            "link": "https://www.publichealth.med.miami.edu/news/feature-stories/2020/2019-1/rhoda-moise/index.html",
+            "original": "https://www.publichealth.med.miami.edu/_assets/images/news/newsletter/rhoda_moise_edited.jpg"
+        },
+        {
+            "position": 60,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFBn318BH-DZ6IMdGwiYIvbIp3meeObg0F8Q&usqp=CAU",
+            "source": "usatoday.com",
+            "title": "Haiti after the earthquake: Some returning home are creating jobs",
+            "link": "https://www.usatoday.com/story/news/world/2017/12/22/these-haitian-women-were-doing-great-u-s-and-then-returned-aid-quake-hit-nation/938639001/",
+            "original": "https://www.gannett-cdn.com/-mm-/3ab256a7c4a0b70027bfdee0b267b29e505926bf/c=0-294-1992-2950/local/-/media/2017/12/10/USATODAY/USATODAY/636485169463518911-XXX-1170.JPG"
+        },
+        {
+            "position": 61,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADKDPEMuiyLWC_9wLX7eVN1iOrHfKD6VxyA&usqp=CAU",
+            "source": "bestlatinawomen.com",
+            "title": "Hot Haitian Women: Why They're So Perfect For Marriage?",
+            "link": "https://bestlatinawomen.com/haitian-women/",
+            "original": "https://bestlatinawomen.com/wp-content/uploads/2020/06/haiti1.jpg"
+        },
+        {
+            "position": 62,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXwQQA3k7HvkcRqNlVXN1GUYR6aHn7zQw6MA&usqp=CAU",
+            "source": "joycemeetsworld.com",
+            "title": "Caribbean Heritage Month: 5 Haitian Women of Influence \u2014 Joyce Meets World",
+            "link": "https://www.joycemeetsworld.com/blog/2018/6/9/caribbean-heritage-month-5-haitian-women-of-influence",
+            "original": "http://static1.squarespace.com/static/59e62e610100276238d6e439/59e6db08e45a7c7ff0bc836d/5b1c7eb2575d1f37d72d4518/1541359417416/haitian+women.jpg?format=1500w"
+        },
+        {
+            "position": 63,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4lMsfNT6AUbUtQs1rC6JjGNmG-2g8qmQvA&usqp=CAU",
+            "source": "genderinhaiti.wordpress.com",
+            "title": "Gender in Haiti",
+            "link": "https://genderinhaiti.wordpress.com/ruralwomen/",
+            "original": "https://genderinhaiti.files.wordpress.com/2018/03/woman-with-bokit.jpg?w=775"
+        },
+        {
+            "position": 64,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgTDF0vSTHebHz6Z457CtGGzQi3JtzT6487A&usqp=CAU",
+            "source": "dw.com",
+            "title": "Haitian women take rebuilding into their own hands | Globalization | DW |  10.01.2013",
+            "link": "https://www.dw.com/en/haitian-women-take-rebuilding-into-their-own-hands/a-16508154",
+            "original": "https://m.dw.com/image/16505572_401.jpg"
+        },
+        {
+            "position": 65,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCEGNCoDf1YLj_h6WND1U0QDLSb9v5UYQz1g&usqp=CAU",
+            "source": "globalpressjournal.com",
+            "title": "All-Female Rara Bands: Haitian Women Break Musical Barriers",
+            "link": "https://globalpressjournal.com/americas/haiti/female-rara-bands-haitian-women-break-musical-barriers/",
+            "original": "https://globalpressjournal.com/wp-content/uploads/2018/03/GPJ-NEWS-HAITI-Rara-de-femme14_web_L.jpg"
+        },
+        {
+            "position": 66,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScukJxB6u4mmJGgkKx06VUU4Yd7GZXy9WtUg&usqp=CAU",
+            "source": "m.rankontre.com",
+            "title": "Dating Haitian Women | Rankontre Relationship Blog | Rankontre App",
+            "link": "https://m.rankontre.com/dating/dating-haitian-women/",
+            "original": "https://m.rankontre.com/wp-content/uploads/2020/10/AdobeStock_260267203.jpeg"
+        },
+        {
+            "position": 67,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uWoekiclKezW-JqpR7TJj-f6EkkTB_bt_w&usqp=CAU",
+            "source": "laprogressive.com",
+            "title": "Haitian Women: Rea Dol vs. the Republic of NGOs",
+            "link": "https://www.laprogressive.com/haitian-women-rea-dol-republic-ngos/",
+            "original": "https://www.laprogressive.com/wp-content/uploads/2010/03/aaaaGN2010-03-16-rea.png"
+        },
+        {
+            "position": 68,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR14nD49FVkHvJ6I_667lgKVvxpzFOIgDPUCA&usqp=CAU",
+            "source": "france24.com",
+            "title": "Haitian women, one year after the earthquake - Inside the Americas",
+            "link": "https://www.france24.com/en/20110113-haiti-women-rape-earthquake-port-au-prince-recovery-babyboom",
+            "original": "https://s.france24.com/media/display/02a79fd4-0a33-11e9-a273-005056a964fe/w:1280/p:1x1/WOMEN%202_1.jpg"
+        },
+        {
+            "position": 69,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtgIWM7bDj773Inqufi6lAeQJBuakqpPG5iA&usqp=CAU",
+            "source": "cronkite.asu.edu",
+            "title": "Haitian Women Cross Border to Give Birth",
+            "link": "https://cronkite.asu.edu/projects/buffett/dr/giving_birth_full.html",
+            "original": "https://cronkite.asu.edu/projects/buffett/dr/images/slider_jimani_hospital/jimani_hospital14.jpg"
+        },
+        {
+            "position": 70,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagGFprI3YpJb2otD-a42T-PhxWYvPYBlqAg&usqp=CAU",
+            "source": "haitianrefugees.org",
+            "title": "Haitian Women for Haitian Refugees thanks you for your support | Haitian  Women for Haitian Refugees",
+            "link": "https://haitianrefugees.org/thanks-you-for-your-support/",
+            "original": "https://haitianwomen.files.wordpress.com/2010/08/img_0631.jpg"
+        },
+        {
+            "position": 71,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0NQlu4aUs5B9pDp9zmkiuHjWS8uvfhkyBw&usqp=CAU",
+            "source": "fairobserver.com",
+            "title": "After Hurricane in Haiti, Women Are Ready to Lead - Fair Observer",
+            "link": "https://www.fairobserver.com/region/latin_america/haiti-latest-news-headlines-hurricane-haitian-23043/",
+            "original": "https://www.fairobserver.com/wp-content/uploads/2016/11/Hurricane-in-Haiti-and-Haitian-women-news.jpg"
+        },
+        {
+            "position": 72,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOpIkMpwAThKj2DSP71RVk-sLenvsEhTkqA&usqp=CAU",
+            "source": "commons.wikimedia.org",
+            "title": "File:US Navy 100119-N-6266K-027 Two young Haitian women wash themselves  outside their make-shift home outside Gheskio Field Hospital in Haiti.jpg -  Wikimedia Commons",
+            "link": "https://commons.wikimedia.org/wiki/File:US_Navy_100119-N-6266K-027_Two_young_Haitian_women_wash_themselves_outside_their_make-shift_home_outside_Gheskio_Field_Hospital_in_Haiti.jpg",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/6/61/US_Navy_100119-N-6266K-027_Two_young_Haitian_women_wash_themselves_outside_their_make-shift_home_outside_Gheskio_Field_Hospital_in_Haiti.jpg"
+        },
+        {
+            "position": 73,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdfzRPKCrFVBmKtO_5phpd7Bvmll4yoactOg&usqp=CAU",
+            "source": "largeup.com",
+            "title": "Toppa Top 10: The Hottest Haitian Women - LargeUp",
+            "link": "http://www.largeup.com/2014/11/05/top-10-the-hottest-haitian-women/",
+            "original": "https://i2.wp.com/www.largeup.com/wp-content/uploads/2014/10/garcelle-beauvais-haitian-women-600x400.jpg?resize=600%2C400"
+        },
+        {
+            "position": 74,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfc45eDvwRRIt8eCFvEyp2LOUtBQ8xCDrew&usqp=CAU",
+            "source": "worldpulse.com",
+            "title": "Haitian Women Mourn the Dead and Recommit to the Living (International  Womens Day Part I) | World Pulse",
+            "link": "https://www.worldpulse.com/community/users/beverly-bell/posts/9468",
+            "original": "https://www.worldpulse.com/sites/default/files/styles/post_cover_image/public/post/3953/9468/post_cover_image/9b5b2bb69eb014d249a9284297966617/haiti_100216_1575.jpg?itok=ehkGvgXK"
+        },
+        {
+            "position": 75,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjDXtOb0oLLdGOifPNroOIxS8mpvd_30elQ&usqp=CAU",
+            "source": "shutterstock.com",
+            "title": "Haitian Women High Res Stock Images | Shutterstock",
+            "link": "https://www.shutterstock.com/search/haitian+women",
+            "original": "https://image.shutterstock.com/image-photo/portrait-plump-young-haitian-woman-260nw-1904697865.jpg"
+        },
+        {
+            "position": 76,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFPjmnRU2IfEeABWmxzi2_uRll0NQQ0FibfQ&usqp=CAU",
+            "source": "intlawgrrls.com",
+            "title": "IntLawGrrls: Protecting Women's Rights in the Reconstruction of Haiti",
+            "link": "http://www.intlawgrrls.com/2010/06/protecting-womens-rights-in.html",
+            "original": "http://1.bp.blogspot.com/_vkDIml_Ibpg/TCFJeJUZQBI/AAAAAAAAMXg/axlgOqYnfW0/s1600/haiti.jpg"
+        },
+        {
+            "position": 77,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZEz4DY7zWsCAm3lahNCU8GP0FEqFb1c8Qw&usqp=CAU",
+            "source": "fierce.wearemitu.com",
+            "title": "Latina Reads: 12 Haitian Women Authors To Make Room For On Your Bookshelves  \u2013 Fierce",
+            "link": "https://fierce.wearemitu.com/fierce-boss-ladies/haitian-women-authors-make-room-your-bookshelves/",
+            "original": "https://d18ufwot1963hr.cloudfront.net/wp-content/uploads/sites/2/2018/07/05162414/BeFunky-collage-14.jpg"
+        },
+        {
+            "position": 78,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LM2NJMEG-WvDrzNlX7cnDOah53tFThEF-A&usqp=CAU",
+            "source": "courant.com",
+            "title": "Knitter's Helping Haitian Women - Hartford Courant",
+            "link": "https://www.courant.com/community/hc-ugc-article-knitters-helping-haitian-women-2016-04-01-story.html",
+            "original": "https://www.courant.com/resizer/DRb4FeRuzM7rGdvC4yfoErcyodU=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/THOJTRJDVZDDXKXUSQ2HREDPSU.jpg"
+        },
+        {
+            "position": 79,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6E0ijN6cyouVHexJixaLNp66CwISjN586Q&usqp=CAU",
+            "source": "istockphoto.com",
+            "title": "846 Beautiful Haitian Women Stock Photos, Pictures & Royalty-Free Images -  iStock",
+            "link": "https://www.istockphoto.com/photos/beautiful-haitian-women",
+            "original": "https://media.istockphoto.com/photos/portrait-of-a-woman-smiling-at-the-camera-picture-id480341748?k=6&m=480341748&s=612x612&w=0&h=zMwjjpsNMLaXP9mIPeVLrvG_WGap8-0KVWhwVnxjPKw="
+        },
+        {
+            "position": 80,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvRqxD1ThRvi_t4G6XXumASnundD1aBVCnQ&usqp=CAU",
+            "source": "haitianparents.com",
+            "title": "5 reasons why many of our Haitian-American women are still single \u2013  Haitianparents.com",
+            "link": "https://haitianparents.com/2014/08/01/5-reasons-why-many-of-our-haitian-american-women-are-still-single/",
+            "original": "https://haitianparents.files.wordpress.com/2014/08/fotolia_24282267_xs.jpg?w=371&h=247&crop=1"
+        },
+        {
+            "position": 81,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKiQ6R3FB82KXOgmAp8pAUHlWsBcRlBKqNzg&usqp=CAU",
+            "source": "tripadvisor.com",
+            "title": "Haitian women working to make bracelets. - Picture of Papillon Enterprise,  Haiti - Tripadvisor",
+            "link": "https://www.tripadvisor.com/LocationPhotoDirectLink-g147307-d5237885-i297506635-Papillon_Enterprise-Port_au_Prince_Ouest_Department_Haiti.html",
+            "original": "https://media-cdn.tripadvisor.com/media/photo-p/11/bb/97/4b/haitian-women-working.jpg"
+        },
+        {
+            "position": 82,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqkPZTlFlTuvrxgGCnOXn75cKHvMAgIoqZcw&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Traditional dress for woman in Haiti is a long, colorful skirt, a blouse  and a headscarf. | Haitian clothing, Mission trip outfits, American dress",
+            "link": "https://www.pinterest.com/pin/417849671648829326/",
+            "original": "https://i.pinimg.com/originals/42/98/57/429857b854b1d7613e0a952d8fa67eda.jpg"
+        },
+        {
+            "position": 83,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wXo5vBhP4Qurt8bp-bMz-11Q1LHW2Bf7SQ&usqp=CAU",
+            "source": "wisewomanchildbirth.blogspot.com",
+            "title": "Women in Charge: Haitian Friends",
+            "link": "http://wisewomanchildbirth.blogspot.com/2013/07/haitian-friends.html",
+            "original": "http://2.bp.blogspot.com/-ftzYwm2DLEE/Ue7glxEbOrI/AAAAAAAABsY/Wc8ebVYWAKs/s1600/IMG_3192.jpg"
+        },
+        {
+            "position": 84,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVKUwnu6e1haqFBwYozYN_bnhQmRT6MasVsg&usqp=CAU",
+            "source": "divabetic.org",
+            "title": "Colorful Headwraps Cover Up Climbing A1C's Among Haitian Women - Divabetic",
+            "link": "https://divabetic.org/2017/03/23/colorful-headwraps-cover-climbing-a1cs-among-haitian-women/",
+            "original": "https://i2.wp.com/divabetic.org/wp-content/uploads/2017/03/tumblr_ndew42tt091rtmgpxo1_1280.jpg?resize=800%2C525"
+        },
+        {
+            "position": 85,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvY-d_nYTIPYfoZQ9SzEGdH6219-jtKsyvug&usqp=CAU",
+            "source": "globalboston.bc.edu",
+            "title": "Association of Haitian Women - Global Boston",
+            "link": "https://globalboston.bc.edu/index.php/home/ethnic-groups/haitians/association-of-haitian-women/",
+            "original": "https://globalboston.bc.edu/wp-content/uploads/2018/12/AFAB-2018-crop.jpg"
+        },
+        {
+            "position": 86,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGLeAjm1SMhTQ_YgAXdjuq3CgtulD1d50Tw&usqp=CAU",
+            "source": "ipsnews.net",
+            "title": "Haitian Women Struggle to Keep Hope Alive | Inter Press Service",
+            "link": "http://www.ipsnews.net/2010/09/haitian-women-struggle-to-keep-hope-alive/",
+            "original": "http://cdn.ipsnews.net/Library/52897-20100920.jpg"
+        },
+        {
+            "position": 87,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4cGGEsCGPkpTHKmx6d3hPV9RNMnQ7UiN3A&usqp=CAU",
+            "source": "elitemailorderbrides.org",
+            "title": "Haitian Women: Find Your Love Among Amazing Single Haitian Ladies",
+            "link": "https://elitemailorderbrides.org/haitian-women/",
+            "original": "https://elitemailorderbrides.org/wp-content/uploads/2020/04/haiti1.jpg"
+        },
+        {
+            "position": 88,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRv0mbSpwL1ZO6HNFFcTayZAp5E7QPmoTAFQ&usqp=CAU",
+            "source": "flickr.com",
+            "title": "Investing in Haitian Women | As neighbours, family and frien\u2026 | Flickr",
+            "link": "https://www.flickr.com/photos/unitednationsdevelopmentprogramme/4497005148",
+            "original": "https://live.staticflickr.com/4023/4497005148_480d8636df_b.jpg"
+        },
+        {
+            "position": 89,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxi4BUtyZs0UaUtriMTTYURGppYYSEum18Nw&usqp=CAU",
+            "source": "voanews.com",
+            "title": "Haitian Women Seek Support for Children Fathered by UN Troops | Voice of  America - English",
+            "link": "https://www.voanews.com/americas/haitian-women-seek-support-children-fathered-un-troops",
+            "original": "https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-04/A3A3D9D9-4304-425A-BA79-A7A76329A835.jpg?itok=U1HpgXwj"
+        },
+        {
+            "position": 90,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkIIaV5u9c2oYqqU4FEj_k7YIuv9ySLd0aw&usqp=CAU",
+            "source": "pih.org",
+            "title": "Mental, Emotional Toll of COVID-19 on Haitian Teen Girls and Young Women |  Partners In Health",
+            "link": "https://www.pih.org/article/mental-emotional-toll-covid-19-haitian-teen-girls-and-young-women",
+            "original": "https://www.pih.org/sites/default/files/styles/article_xlarge/public/2020-06/thumbnail_Nadia%20Todres-%20127.jpg?itok=Dx4OaEKx"
+        },
+        {
+            "position": 91,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ55Oc2jgs5UNJJ_AGkSLHiaRlVaC2ojfz5Q&usqp=CAU",
+            "source": "haitiantimes.com",
+            "title": "6 Haitian Women To Celebrate For Women's History Month \u2013 The Haitian Times",
+            "link": "https://haitiantimes.com/2015/03/18/6-haitian-women-to-celebrate-for-womens-history-month/",
+            "original": "https://i2.wp.com/pbs.twimg.com/profile_images/532929879608524800/SrDT3jeG_400x400.jpeg?resize=276%2C276&ssl=1"
+        },
+        {
+            "position": 92,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPu9IcJT54j5GFOHMmCaeg_cN1GIam0Un-3Q&usqp=CAU",
+            "source": "haitifriends.org",
+            "title": "6 Haitian Women To Celebrate For Women's History Month \u2014 Haiti Friends",
+            "link": "http://www.haitifriends.org/friends-blog/2015/4/1/6-haitian-women-to-celebrate-for-womens-history-month",
+            "original": "http://static1.squarespace.com/static/53e4d12ae4b0b8dd830ee407/t/551be2e3e4b08245f4c0733c/1427890917171/?format=1500w"
+        },
+        {
+            "position": 93,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj35HFB1FEfvKi0CrWMMV8Lw7JL2_sHxPYAQ&usqp=CAU",
+            "source": "buildon.org",
+            "title": "Verose's Story: A Strong Haitian Woman Leading by Example | buildOn",
+            "link": "https://www.buildon.org/stories/veroses-story-a-strong-woman-leading-by-example-in-haiti",
+            "original": "http://www.buildon.org/wp-content/uploads/2015/03/IMG_6569.jpg"
+        },
+        {
+            "position": 94,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxdB1MDFhRl1dOeAPh_hZKj3QM99rHcx37g&usqp=CAU",
+            "source": "byrslf.co",
+            "title": "Newsflash: I'm Haitian. Like really, really, really Haitian. | by  Rose-Ingrid Gracia | Be Yourself",
+            "link": "https://byrslf.co/newsflash-im-haitian-2e01cdfc034",
+            "original": "https://miro.medium.com/max/10170/1*aC0kG0J17WBnm6ZkhlyLvQ.jpeg"
+        },
+        {
+            "position": 95,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtqpfvlF7x17ZdzgJpVLp5tDqOjQpjxn1fQ&usqp=CAU",
+            "source": "mcohen.co.il",
+            "title": "An Unbiased View of Haitian Women - \u05db\u05d4\u05df \u05e8\u05d4\u05d9\u05d8\u05d9\u05dd",
+            "link": "https://mcohen.co.il/an-unbiased-view-of-haitian-women/",
+            "original": "https://www.haiti.org/wp-content/uploads/2018/10/haitian-ladies-brunch-2018-133.jpg"
+        },
+        {
+            "position": 96,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7NHvwFtXWRtAUsP3ttJ5JsKQp_OfpoKUHQ&usqp=CAU",
+            "source": "msmagazine.com",
+            "title": "Madan Sara\" Tells the Story of Haitian Women Both Ordinary and  Extraordinary - Ms. Magazine",
+            "link": "https://msmagazine.com/2021/02/28/madan-sara-review-haitian-women-haiti/",
+            "original": "https://msmagazine.com/wp-content/uploads/2021/02/22Madan-Sara22-Tells-the-Story-About-Haitian-Women-Who-Are-Both-Ordinary-and-Extraordinary-1024x1024.jpeg"
+        },
+        {
+            "position": 97,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkg2movtQdsu_l4-WIxFo4xFqbVaWt8G6uYw&usqp=CAU",
+            "source": "haitiangirlsfest.org",
+            "title": "Haitian Women Experiences \u2014 Haitian Girls Fest",
+            "link": "https://www.haitiangirlsfest.org/haitiangirlsconfidential/2014/1/23/get-out-there",
+            "original": "https://images.squarespace-cdn.com/content/v1/5ce8a63822826c0001dd179b/1559264947821-613Z1YB0HRRPSLZV4RUA/ke17ZwdGBToddI8pDm48kEpkzlq0i_5NmSE9RL9-WqpZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFGxLw-OhR6fjPYgd3r2NJT54sidvHhyJhj-ZL1mAa1ltsQWGar195b-4f7CxV-eiQ/Sandra.jpg"
+        },
+        {
+            "position": 98,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXSgXNSmSjQKxLwg_fLmh70oQ5ZCVKfDQHFQ&usqp=CAU",
+            "source": "globalgiving.org \u00b7 Out of stock",
+            "title": "Raise the Voices of Haitian Women! - GlobalGiving",
+            "link": "https://www.globalgiving.org/projects/raise-the-voices-of-haitian-women/",
+            "original": "https://files.globalgiving.org/pfil/16621/ph_16621_58338.jpg?m=1393866220000"
+        },
+        {
+            "position": 99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhb9caz-pSCf5y7t3lsd2Spvrzdse-e_rAQ&usqp=CAU",
+            "source": "chesinternational.org",
+            "title": "Working in Partnership for the Empowerment of Haitian Women Entrepreneurs \u2013  Communities for Haitian Entrepreneurs and Startups, Inc",
+            "link": "https://chesinternational.org/2015/09/13/working-in-partnership-for-the-empowerment-of-haitian-women-entrepreneurs/",
+            "original": "https://chesinternational.org/wp-content/uploads/2015/09/Gonaive-Day-1-68.jpg"
+        },
+        {
+            "position": 100,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTEAqGuryOflt4M-8eZ2h11gh6gIuUPC0oUA&usqp=CAU",
+            "source": "heraldextra.com",
+            "title": "Haitian women become crime targets after quake | World News |  heraldextra.com",
+            "link": "https://www.heraldextra.com/news/world/haitian-women-become-crime-targets-after-quake/article_c2cae1b8-b474-5929-9562-7e16eef007d2.html",
+            "original": "https://bloximages.chicago2.vip.townnews.com/heraldextra.com/content/tncms/assets/v3/editorial/b/b5/bb54e1e6-f2ad-5f35-bd63-d1c0cee3d8f8/bb54e1e6-f2ad-5f35-bd63-d1c0cee3d8f8.preview-300.jpg?crop=198%2C198%2C50%2C0&resize=1200%2C1200&order=crop%2Cresize"
+        }
+    ]
+}

@@ -1,0 +1,929 @@
+{
+    "search_metadata": {
+        "id": "6033ca1208429c76f6346240",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2c7873cff12c68be/6033ca1208429c76f6346240.json",
+        "created_at": "2021-02-22 15:13:22 UTC",
+        "processed_at": "2021-02-22 15:13:22 UTC",
+        "google_url": "https://www.google.com/search?q=gambian+women&oq=gambian+women&tbm=isch&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/2c7873cff12c68be/6033ca1208429c76f6346240.html",
+        "total_time_taken": 1.26
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "gambian women",
+        "google_domain": "google.com",
+        "device": "desktop",
+        "tbm": "isch"
+    },
+    "search_information": {
+        "image_results_state": "Results for exact spelling",
+        "query_displayed": "gambian women"
+    },
+    "suggested_searches": [
+        {
+            "name": "traditional",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:traditional:wUr8EpDuyp4%3D&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoAHoECAEQGQ",
+            "chips": "q:gambian+women,g_1:traditional:wUr8EpDuyp4%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Atraditional%3AwUr8EpDuyp4%253D&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/cdc0f78af2899469f5c96c78e1b9a4bf07ff03e74edcb78ca4ce2233aca24305.jpeg"
+        },
+        {
+            "name": "man",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:man&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoAXoECAEQGw",
+            "chips": "q:gambian+women,g_1:man",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Aman&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch"
+        },
+        {
+            "name": "hijab",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:hijab&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoAnoECAEQHA",
+            "chips": "q:gambian+women,g_1:hijab",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Ahijab&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch"
+        },
+        {
+            "name": "beauty",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:beauty:zqXfLSFzO90%3D&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoA3oECAEQHQ",
+            "chips": "q:gambian+women,g_1:beauty:zqXfLSFzO90%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Abeauty%3AzqXfLSFzO90%253D&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/cdc0f78af2899469f5c96c78e1b9a4bfdd37da34f0cfe4b2adde93dc1069795b.jpeg"
+        },
+        {
+            "name": "fashion",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:fashion&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoBHoECAEQHw",
+            "chips": "q:gambian+women,g_1:fashion",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Afashion&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch"
+        },
+        {
+            "name": "market",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:market&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoBXoECAEQIA",
+            "chips": "q:gambian+women,g_1:market",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Amarket&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch"
+        },
+        {
+            "name": "half",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:half&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoBnoECAEQIQ",
+            "chips": "q:gambian+women,g_1:half",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Ahalf&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch"
+        },
+        {
+            "name": "marriage",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:marriage:Hk25aiSynDk%3D&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoB3oECAEQIg",
+            "chips": "q:gambian+women,g_1:marriage:Hk25aiSynDk%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Amarriage%3AHk25aiSynDk%253D&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/cdc0f78af2899469f5c96c78e1b9a4bfd62a87f17af611388ea389c0237e05ef.jpeg"
+        },
+        {
+            "name": "old",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:old:D6ukMr7ZUVY%3D&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoCHoECAEQJA",
+            "chips": "q:gambian+women,g_1:old:D6ukMr7ZUVY%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Aold%3AD6ukMr7ZUVY%253D&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/cdc0f78af2899469f5c96c78e1b9a4bf0c69b822719940dfbe7430a2a2a9b87b.jpeg"
+        },
+        {
+            "name": "tribal",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:tribal&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoCXoECAEQJg",
+            "chips": "q:gambian+women,g_1:tribal",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Atribal&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch"
+        },
+        {
+            "name": "yahya jammeh",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:yahya+jammeh&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoCnoECAEQJw",
+            "chips": "q:gambian+women,g_1:yahya+jammeh",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Ayahya%2Bjammeh&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch"
+        },
+        {
+            "name": "art",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:art:WNnvJC-6pEQ%3D&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoC3oECAEQKA",
+            "chips": "q:gambian+women,g_1:art:WNnvJC-6pEQ%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Aart%3AWNnvJC-6pEQ%253D&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/cdc0f78af2899469f5c96c78e1b9a4bf33207228491a35da425e5b15a44b9ca1.jpeg"
+        },
+        {
+            "name": "melvnin",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:melvnin&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoDHoECAEQKg",
+            "chips": "q:gambian+women,g_1:melvnin",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Amelvnin&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch"
+        },
+        {
+            "name": "work",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:work&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoDXoECAEQKw",
+            "chips": "q:gambian+women,g_1:work",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Awork&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch"
+        },
+        {
+            "name": "white",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:white:e0VaPLMAiXg%3D&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoDnoECAEQLA",
+            "chips": "q:gambian+women,g_1:white:e0VaPLMAiXg%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Awhite%3Ae0VaPLMAiXg%253D&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvXH7ZsqURBAW7ZWKr3mPHujWRKvW5pQR-KSznTCnga2rQB4m&usqp=CAU"
+        },
+        {
+            "name": "food",
+            "link": "https://www.google.com/search?q=gambian+women&tbm=isch&chips=q:gambian+women,g_1:food&hl=en-US&sa=X&ved=2ahUKEwjOhYzx4_3uAhUEJd8KHZ-FD9cQ4lYoD3oECAEQLg",
+            "chips": "q:gambian+women,g_1:food",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Agambian%2Bwomen%2Cg_1%3Afood&device=desktop&engine=google&google_domain=google.com&q=gambian+women&tbm=isch"
+        }
+    ],
+    "images_results": [
+        {
+            "position": 1,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab9e2f010bfe4912f47da71df61f0688df563c57bc082650df.jpeg",
+            "source": "hrw.org",
+            "title": "Gambia's Women Break Their Silence ...hrw.org",
+            "link": "https://www.hrw.org/news/2019/06/26/gambias-women-break-their-silence",
+            "original": "https://www.hrw.org/sites/default/files/multimedia_images_2019/201906africa_gambia_toufah2_0.jpg"
+        },
+        {
+            "position": 2,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab7adca1f0524f4ce374cc404b363b17e7d0473e7e05733c01.jpeg",
+            "source": "theculturetrip.com",
+            "title": "9 Inspiring Women to Know from The Gambiatheculturetrip.com",
+            "link": "https://theculturetrip.com/africa/the-gambia/articles/9-inspiring-women-to-know-from-the-gambia/",
+            "original": "https://cdn.theculturetrip.com/wp-content/uploads/2018/09/gambia-239849_1920.jpg"
+        },
+        {
+            "position": 3,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab9421a486bd09151459147530fb2f19d02322dc1a96032f04.jpeg",
+            "source": "study.soas.ac.uk",
+            "title": "women and household empowerment ...study.soas.ac.uk",
+            "link": "https://study.soas.ac.uk/gambia-women-empowerment/",
+            "original": "https://study.soas.ac.uk/wp-content/uploads/2019/12/Gambia-women-WP.png"
+        },
+        {
+            "position": 4,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20abd38b3aa5c4fea62e1fd684bee3fbeb325e7a2833143c08cd.jpeg",
+            "source": "alamy.com",
+            "title": "Young Gambian woman Stock Photo - Alamyalamy.com",
+            "link": "https://www.alamy.com/young-gambian-woman-image69901222.html",
+            "original": "https://c8.alamy.com/comp/E1M7M6/young-gambian-woman-E1M7M6.jpg"
+        },
+        {
+            "position": 5,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab9b920b9be81470de98047074a6b83a5b1814872bfa52aeae.jpeg",
+            "source": "the-sun.com",
+            "title": "sex paradise for British grans ...the-sun.com",
+            "link": "https://www.the-sun.com/lifestyle/1557529/gambia-sex-brit-nans/",
+            "original": "https://www.thesun.co.uk/wp-content/uploads/2019/03/NINTCHDBPICT000477595483.jpg"
+        },
+        {
+            "position": 6,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab6de0af7e84c0fcea73e6481abbad977ccf7c141fff6cd630.jpeg",
+            "source": "travelasvolunteer.com",
+            "title": "GAMBIA WOMEN CLUB - Treasures of West ...travelasvolunteer.com",
+            "link": "http://www.travelasvolunteer.com/gambia-women-club/",
+            "original": "http://www.kidsaretheworld.com/wp-content/uploads/13.02.2014GamnbiaPorokaUM_711.jpg"
+        },
+        {
+            "position": 7,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20abdfdf5c53ce5879fd33d5b94c5923569560905f6c90ed09ea.jpeg",
+            "source": "ictj.org",
+            "title": "Violations Against Gambian Women Must ...ictj.org",
+            "link": "https://www.ictj.org/news/violations-against-gambian-women-must-be-acknowledged",
+            "original": "https://www.ictj.org/sites/default/files/Gambia_YouthTownhallDance_Soma_Dec_2018web.jpg"
+        },
+        {
+            "position": 8,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab92d6ff378886d8bc51d0416d8e518bda1295575509a87901.jpeg",
+            "source": "alamy.com",
+            "title": "Young Gambian woman Stock Photo - Alamyalamy.com",
+            "link": "https://www.alamy.com/young-gambian-woman-image69901223.html",
+            "original": "https://c8.alamy.com/comp/E1M7M7/young-gambian-woman-E1M7M7.jpg"
+        },
+        {
+            "position": 9,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab6524f5ed8316dbb0679888e8df7ebcd654363f905da004d5.jpeg",
+            "source": "mamostv.tv",
+            "title": "Swedish Police Opens Investigation into ...mamostv.tv",
+            "link": "https://mamostv.tv/swedish-police-opens-investigation-into-the-death-of-gambian-woman/",
+            "original": "https://www.mamostv.tv/wp-content/uploads/2019/09/Ndella.jpg"
+        },
+        {
+            "position": 10,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab7781267c1736b42dc2558a91e07b7161001e2776dbff8142.jpeg",
+            "source": "qz.com",
+            "title": "Gambia bans female circumcision and ...qz.com",
+            "link": "https://qz.com/africa/586480/gambia-bans-female-circumcision-and-then-orders-women-to-cover-their-hair-at-work/",
+            "original": "https://cms.qz.com/wp-content/uploads/2016/01/gambian-women-in-the-capital-city-of-banjul.jpg?quality=75&strip=all&w=1600&h=900&crop=1"
+        },
+        {
+            "position": 11,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab7adca1f0524f4ce3dd1bb85e1d116cf99a50f4fa2facd964.jpeg",
+            "source": "theculturetrip.com",
+            "title": "9 Inspiring Women to Know from The Gambiatheculturetrip.com",
+            "link": "https://theculturetrip.com/africa/the-gambia/articles/9-inspiring-women-to-know-from-the-gambia/",
+            "original": "https://theculturetrip.com/wp-content/uploads/2018/09/isatou-touray1-dr--indepenedent-candidate-gainako-1.jpg"
+        },
+        {
+            "position": 12,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab7adca1f0524f4ce3adfb0207dc3b22b5a6bba4c5ea451413.jpeg",
+            "source": "wbur.org",
+            "title": "Young Gambian Women Denied U.S. Travel ...wbur.org",
+            "link": "https://www.wbur.org/news/2017/06/09/natick-high-school-gambia",
+            "original": "http://d279m997dpfwgl.cloudfront.net/wp/2017/06/0609_natick-gambia-courtesy.png"
+        },
+        {
+            "position": 13,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab7adca1f0524f4ce325a3a0fc14f8549c19dc255d5da1bb71.jpeg",
+            "source": "dailymail.co.uk",
+            "title": "Man to wed Gambian woman after two ...dailymail.co.uk",
+            "link": "https://www.dailymail.co.uk/femail/article-3035747/Man-wed-Gambian-cafe-owner-despite-two-failed-marriages-women-country-including-bigamist-left-close-bankruptcy.html",
+            "original": "https://i.dailymail.co.uk/i/pix/2015/04/12/14/277CC29A00000578-0-image-a-5_1428844904287.jpg"
+        },
+        {
+            "position": 14,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab7adca1f0524f4ce39e8d8f4261fc8d1a3f157856218f63bb.jpeg",
+            "source": "youtube.com",
+            "title": "Gambia: IFAD invests in rural women ...youtube.com",
+            "link": "https://www.youtube.com/watch?v=Ngjwhey0URE",
+            "original": "https://i.ytimg.com/vi/Ngjwhey0URE/maxresdefault.jpg"
+        },
+        {
+            "position": 15,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab7adca1f0524f4ce33a479f22c77dcafc5293810d41c73ee2.jpeg",
+            "source": "pinterest.com",
+            "title": "Slim & Sexy Ebony ...pinterest.com",
+            "link": "https://www.pinterest.com/pin/361625045077446418/",
+            "original": "https://i.pinimg.com/originals/e3/4c/af/e34caf4f09d1dc522e820bbe95edb2b4.jpg"
+        },
+        {
+            "position": 16,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab7adca1f0524f4ce30020c90739e75aa8bfce24d0671f7c72.jpeg",
+            "source": "standard.gm",
+            "title": "German Lady Claims Gambian 'husband ...standard.gm",
+            "link": "https://standard.gm/german-lady-claims-gambian-husband-dupes-her-over-e4000/",
+            "original": "https://standard.gm/wp-content/uploads/2020/05/IMG-20200504-WA0039-696x495.jpg"
+        },
+        {
+            "position": 17,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab7adca1f0524f4ce31c1fd49750e75f08b27bacc718d82c2a.jpeg",
+            "source": "twitter.com",
+            "title": "Gambia Women's Chamber of Commerce ...twitter.com",
+            "link": "https://twitter.com/gmwomenschamber",
+            "original": "https://pbs.twimg.com/media/DyvPqC-XgAM8Kai.jpg"
+        },
+        {
+            "position": 18,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab7adca1f0524f4ce3a382661d4e2683724eb78807a95436f5.jpeg",
+            "source": "lawhubgambia.com",
+            "title": "Spotlight: Women's Act 2010 \u2014 Law Hub ...lawhubgambia.com",
+            "link": "https://www.lawhubgambia.com/lawhug-net/spotlight-women-act-2010",
+            "original": "https://images.squarespace-cdn.com/content/v1/5a7c2ca18a02c7a46149331c/1520501312139-8V9MBYP5TOGDO8OTP6QC/ke17ZwdGBToddI8pDm48kA_SSaoz4elkj-HsZd8gX3Z7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWPwZyNcweDIvdeL5kotwkIXjs9g0WibSO_cU-Ijy4Pwg6poS-6WGGnXqDacZer4yQ/TYW.jpg"
+        },
+        {
+            "position": 19,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab7adca1f0524f4ce364b178cf4b007831e7b5464857643df9.jpeg",
+            "source": "gambia.co.uk",
+            "title": "Inspirational Women in The Gambia ...gambia.co.uk",
+            "link": "https://www.gambia.co.uk/blog/inspirational-women-in-the-gambia",
+            "original": "https://www.gambia.co.uk/docs/blog/wp-content/uploads/2016/03/IMG_2291-2.jpg"
+        },
+        {
+            "position": 20,
+            "thumbnail": "https://serpapi.com/searches/6033ca1208429c76f6346240/images/5c6920002cac20ab7adca1f0524f4ce388c2761098b7e3022aec9cd326e86476.jpeg",
+            "source": "dreamstime.com",
+            "title": "Gambian Women Photos - Free & Royalty ...dreamstime.com",
+            "link": "https://www.dreamstime.com/photos-images/gambian-women.html",
+            "original": "https://thumbs.dreamstime.com/b/gambian-village-african-women-kids-cottages-gambia-west-africa-http-www-onedayonearth-org-photo-album-show-id-37687660.jpg"
+        },
+        {
+            "position": 21,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiSny_D8YYsY2Dod06et9vCbdJknsNyv-SBg&usqp=CAU",
+            "source": "express.co.uk",
+            "title": "Why Gambia is the place to go for love ...express.co.uk",
+            "link": "https://www.express.co.uk/life-style/life/570384/Gamble-love-Gambia-David-Tungate",
+            "original": "https://cdn.images.express.co.uk/img/dynamic/130/590x/Gambia-570384.jpg"
+        },
+        {
+            "position": 22,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVIAqEeVDSznvtxsBNHYWu-cGgBLMiXBYCg&usqp=CAU",
+            "source": "showbizgambia.weebly.com",
+            "title": "TOP MOST BEAUTIFUL GAMBIAN WOMEN ...showbizgambia.weebly.com",
+            "link": "http://showbizgambia.weebly.com/top-most-beautiful-gambian-women.html",
+            "original": "http://showbizgambia.weebly.com/uploads/6/9/9/0/6990223/8682225_orig.jpg"
+        },
+        {
+            "position": 23,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0yNR5D_Sbv5GxSt0AC5t98TEyjr0e55I9g&usqp=CAU",
+            "source": "mirror.co.uk",
+            "title": "failed marriages to Gambian women David ...mirror.co.uk",
+            "link": "https://www.mirror.co.uk/news/real-life-stories/after-two-failed-marriages-gambian-5502084",
+            "original": "https://i2-prod.mirror.co.uk/incoming/article5492163.ece/ALTERNATES/s1200c/David-Tungate.jpg"
+        },
+        {
+            "position": 24,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDQy6qXJ0BFYaeDKwSobUI8MaZtgqA8rgmQ&usqp=CAU",
+            "source": "gettyimages.com",
+            "title": "34 Gambian Baby Photos and Premium High ...gettyimages.com",
+            "link": "https://www.gettyimages.com/photos/gambian-baby",
+            "original": "https://media.gettyimages.com/photos/doctor-gives-infant-a-vaccination-injection-in-the-gambia-picture-id528704424?s=612x612"
+        },
+        {
+            "position": 25,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxaE3o12Im8Nav-Ge_GboZ3vyUcsyLhf0uyQ&usqp=CAU",
+            "source": "facebook.com",
+            "title": "\ud83d\udd25 Ladies on fire \ud83d\udd25 - Beautiful Gambian ...facebook.com",
+            "link": "https://www.facebook.com/GlamGambianWomen/posts/-ladies-on-fire-/1188262441272757/",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=195115070980763"
+        },
+        {
+            "position": 26,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGvxjttPtpJU3HbAVwcO_gwXBGsXi2uiEcNg&usqp=CAU",
+            "source": "fyenetwork.com",
+            "title": "15 Gambian Women Kicking Ass in 2020 \u2013 Fyenfyenetwork.com",
+            "link": "https://fyenetwork.com/fifteen-gambian-women-kicking-ass-in-2020/",
+            "original": "https://fyenetwork.com/wp-content/uploads/2019/02/pexels-photo-936048.jpeg"
+        },
+        {
+            "position": 27,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCGw9AdEPPtIqd2vfwB758dsjOprDg8VvBg&usqp=CAU",
+            "source": "awafc.org",
+            "title": "GWA-FC - All Women Are Free To Chooseawafc.org",
+            "link": "http://www.awafc.org/gwa-fc.html",
+            "original": "http://www.awafc.org/uploads/1/4/7/4/14740918/published/gambian-women-4.jpg?1551127283"
+        },
+        {
+            "position": 28,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkga42A7MbH6kkTLuSCA4_3VMct5EtRrWXuQ&usqp=CAU",
+            "source": "facebook.com",
+            "title": "Facebookfacebook.com",
+            "link": "https://www.facebook.com/WhatsOnGambia/photos/a.324846747630106.75120.320979324683515/1254446678003437/?type=3&comment_tracking=%7B%22tn%22%3A%22O%22%7D",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1254446678003437"
+        },
+        {
+            "position": 29,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH4zi06nis3w9Be80JEd1qHWaNu8srGOtO0g&usqp=CAU",
+            "source": "thenewhumanitarian.org",
+            "title": "MeToo' year breaks silence on rapethenewhumanitarian.org",
+            "link": "https://www.thenewhumanitarian.org/news-feature/2020/02/05/Gambia-SGBV-gender-Jammeh-MeToo",
+            "original": "https://assets.irinnews.org/styles/responsive_large/s3/gambia-sgbv-gender-jammeh-metoo.jpg?8CeSZeVN5FmzYfYnOnyfs0pb97klNeOl&itok=RoCQYB4n"
+        },
+        {
+            "position": 30,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWsIKuCAjAuOdt0hUlUS2TrzgmVE68_OcOEw&usqp=CAU",
+            "source": "shutterstock.com",
+            "title": "Gambia Rosie Sturdy Boyfriend Dembo ...shutterstock.com",
+            "link": "https://www.shutterstock.com/editorial/image-editorial/the-gambia-rosie-sturdy-and-boyfriend-dembo-1998-rosie-sturdy-an-english-women-who-gave-up-a-comfortable-life-to-set-up-a-clinic-in-a-remote-gambian-village-rosie-was-married-to-husband-peter-for-27-years-they-shared-a-a600-000-home-in-forest-1053775a",
+            "original": "https://editorial01.shutterstock.com/wm-preview-1500/1053775a/fb258bb5/the-gambia-rosie-sturdy-and-boyfriend-dembo-1998-rosie-sturdy-an-english-women-who-gave-up-a-comfortable-life-to-set-up-a-clinic-in-a-remote-gambian-village-rosie-was-married-to-husband-peter-for-27-years-they-shared-a-a600-000-home-in-forest-shutterstock-editorial-1053775a.jpg"
+        },
+        {
+            "position": 31,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaiK9BdoEKMTRIYVXvImudElOEduYSXTYPXg&usqp=CAU",
+            "source": "unops.org",
+            "title": "barriers for women in The Gambia | UNOPSunops.org",
+            "link": "https://www.unops.org/news-and-stories/news/breaking-down-barriers-for-women-in-the-gambia",
+            "original": "https://content.unops.org/photos/News-and-Stories/News/_image1920x900/Gambia-1920-900.jpg?mtime=20190614164914"
+        },
+        {
+            "position": 32,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbCn2UY2PEk9bPu11fKh38fQ167dHqC3HHQ&usqp=CAU",
+            "source": "gistmania.com",
+            "title": "Gambia Is The New Haven For Old British ...gistmania.com",
+            "link": "https://www.gistmania.com/talk/topic,138248.msg3341253.html",
+            "original": "https://3.bp.blogspot.com/-zjM8c0OHinM/UMHdGfBKZzI/AAAAAAAAwDo/l5bXjSw6MWs/s1600/0.jpg"
+        },
+        {
+            "position": 33,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQycA0sGD5dHelUensFDdlUsyyd9W9U_WOOxA&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "Gambian community project helps women ...theguardian.com",
+            "link": "https://www.theguardian.com/global-development/2015/sep/18/the-gambia-recycling-innovation-centre-womens-initiative",
+            "original": "https://i.guim.co.uk/img/media/0061331db0bbd2f38632e024cffcb92ba1f26ad6/0_138_4272_2563/master/4272.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=dd09c6494ea0973094f705b2995e1f3c"
+        },
+        {
+            "position": 34,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH3mmRQL3B7qgF-U8NgRYgnmUdwT92hxSUCA&usqp=CAU",
+            "source": "youtube.com",
+            "title": "I Hate About Gambian Women Response ...youtube.com",
+            "link": "https://www.youtube.com/watch?v=LZKnwahfa1E",
+            "original": "https://i.ytimg.com/vi/LZKnwahfa1E/hqdefault.jpg"
+        },
+        {
+            "position": 35,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpObuTadoych-udgPWlqayfY9KaJLKFxz28A&usqp=CAU",
+            "source": "alamy.com",
+            "title": "Gambian Women High Resolution Stock ...alamy.com",
+            "link": "https://www.alamy.com/stock-photo/gambian-women.html",
+            "original": "https://c8.alamy.com/comp/DT268A/gambian-women-working-on-fish-market-stall-serrekunda-market-serrekunda-DT268A.jpg"
+        },
+        {
+            "position": 36,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWNuJhHabHa-quqbgQ6_JveA8xqM_N11thQ&usqp=CAU",
+            "source": "showbizgambia.weebly.com",
+            "title": "Top 10 Most Beautiful Gambian Women ...showbizgambia.weebly.com",
+            "link": "http://showbizgambia.weebly.com/top-10-most-beautiful-gambian-women.html",
+            "original": "http://showbizgambia.weebly.com/uploads/6/9/9/0/6990223/2261057.jpg?410"
+        },
+        {
+            "position": 37,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1OB1-_KQ--DaCyUJUex7xGl2PwdPzMI6q7Q&usqp=CAU",
+            "source": "ictj.org",
+            "title": "Traditional Communicators, Women Lead ...ictj.org",
+            "link": "https://www.ictj.org/news/traditional-communicators-women-lead-way-justice-gambia",
+            "original": "https://www.ictj.org/sites/default/files/Kaneling.jpg"
+        },
+        {
+            "position": 38,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzGQs4MyFs6qiw8VFlrPmRcBQqdUWKLD8QQ&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Beauty from Gambian | Beauty body girl ...pinterest.com",
+            "link": "https://www.pinterest.com/pin/534872893217475228/",
+            "original": "https://i.pinimg.com/originals/8e/97/03/8e970363e6ee56ef88a5b6538c2cd70a.jpg"
+        },
+        {
+            "position": 39,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4NIBdXt-hbu7aAf0NR9P6GEHwZOufFNYnw&usqp=CAU",
+            "source": "gofundme.com",
+            "title": "Fundraiser by Matida Bojang : Gambian ...gofundme.com",
+            "link": "https://www.gofundme.com/f/gambian-women039s-lives-matter",
+            "original": "https://d2g8igdw686xgo.cloudfront.net/51316806_1600460683833355_r.jpeg"
+        },
+        {
+            "position": 40,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnltWrNWXFpluC2_CedXUX80l1h7NAfOz1Vw&usqp=CAU",
+            "source": "theecologist.org",
+            "title": "Gambia - recycling for women's wealth ...theecologist.org",
+            "link": "https://theecologist.org/2014/aug/13/gambia-recycling-womens-wealth-and-independence",
+            "original": "https://theecologist.org/sites/default/files/styles/inline_l/public/NG_media/382595.jpg?itok=Ti4iiWsJ"
+        },
+        {
+            "position": 41,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-WOe2boMwUMdLFoErVCyA_Ljawdqlpj2r6Q&usqp=CAU",
+            "source": "middleeasteye.net",
+            "title": "Beirut explosion: Gambia accused of ...middleeasteye.net",
+            "link": "https://www.middleeasteye.net/beirut-explosion-gambia-domestic-workers",
+            "original": "http://www.middleeasteye.net/sites/default/files/images-story/gambian%20women.jpg"
+        },
+        {
+            "position": 42,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdraxvoIgG6kVgh9gRywK2P2Owx6xbzrrp2A&usqp=CAU",
+            "source": "shutterstock.com",
+            "title": "Gambia Women HD Stock Images | Shutterstockshutterstock.com",
+            "link": "https://www.shutterstock.com/search/gambia+women",
+            "original": "https://image.shutterstock.com/image-photo/farafenni-gambia-january-11-2017-260nw-560009407.jpg"
+        },
+        {
+            "position": 43,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3z43X1dF6wm7jT_jLwEOw_HsoUTCVf_8mgA&usqp=CAU",
+            "source": "gm.usembassy.gov",
+            "title": "Ambassador Alsup, Gambian Women Press ...gm.usembassy.gov",
+            "link": "https://gm.usembassy.gov/ambassador-alsup-gambian-women-press-for-progress-at-tea/",
+            "original": "https://d2v9ipibika81v.cloudfront.net/uploads/sites/176/1a-1140x684.jpg"
+        },
+        {
+            "position": 44,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpUr1c2BE3rP1rxuuOsxfVKP6uF-hwlAJAmQ&usqp=CAU",
+            "source": "humanium.org",
+            "title": "Ex-President Yahya Jammeh ...humanium.org",
+            "link": "https://www.humanium.org/en/gambian-women-are-speaking-out/",
+            "original": "https://i.ytimg.com/vi/0P0mQJyzosc/maxresdefault.jpg"
+        },
+        {
+            "position": 45,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1estIhekapqidlkJeIGNWTfxeoFTUEfI5OQ&usqp=CAU",
+            "source": "theworldnews.net",
+            "title": "GAMBIA: FOREIGN MINISTRY SPOKESMAN ...theworldnews.net",
+            "link": "https://theworldnews.net/gm-news/gambia-foreign-ministry-spokesman-snubs-gambian-women-fighting-women-trafficking-as-he-refuses-to-talk-to-activists-who-are-demanding-for-the-repatriation-of-trafficked-gambian-ladies-in-lebanon-lovette-jallow-says-saikou-ceesay-has-also-blocked-her-on-facebook",
+            "original": "https://www.freedomnewspaper.com/wp-content/uploads/2020/08/LOVETTE-JALLOW-2.jpg"
+        },
+        {
+            "position": 46,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCkUGKddC0Gl7QZ7qNH6GJ4PwRHkf7v4NHw&usqp=CAU",
+            "source": "ghpage.com",
+            "title": "I'll be the first female Gambian ...ghpage.com",
+            "link": "https://www.ghpage.com/first-female-gambian-president-soon-princess-shyngel/139454/",
+            "original": "https://www.ghpage.com/wp-content/uploads/2020/07/Princess-Shyngle-Fi.jpg"
+        },
+        {
+            "position": 47,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4UFx1O09nZlpuGOWrpeRAvakkfnE6Wvir_A&usqp=CAU",
+            "source": "alamy.com",
+            "title": "Gambian Women High Resolution Stock ...alamy.com",
+            "link": "https://www.alamy.com/stock-photo/gambian-women.html",
+            "original": "https://c8.alamy.com/comp/A1H7P1/young-women-dance-to-drum-band-nightclub-bakau-the-gambia-A1H7P1.jpg"
+        },
+        {
+            "position": 48,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspi_l4bmqlbfqQBvFg94BasUHewofxTlKDw&usqp=CAU",
+            "source": "chronicle.gm",
+            "title": "Why Young Gambian Women Are Embracing ...chronicle.gm",
+            "link": "https://www.chronicle.gm/amp/why-young-gambian-women-are-embracing-the-veil/",
+            "original": "https://www.chronicle.gm/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-31-at-5.58.54-PM1-300x242.jpeg"
+        },
+        {
+            "position": 49,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNOHs5KWBmOHEBmFfUmBA8MZxlLO5KlDinA&usqp=CAU",
+            "source": "urbanislandz.com",
+            "title": "Spice Apologize For Calling Out Gambian ...urbanislandz.com",
+            "link": "https://urbanislandz.com/2019/06/26/spice-apologize-for-calling-out-gambian-women-for-bleaching/",
+            "original": "https://urbanislandz.com/wp-content/uploads/2018/11/Spice-new-image.jpg"
+        },
+        {
+            "position": 50,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzpizNExrSzXJ9ZOhAwGu3w1gEp-lshCLRQw&usqp=CAU",
+            "source": "wbur.org",
+            "title": "Gambia's #MeToo: Beauty Pageant Winner ...wbur.org",
+            "link": "https://www.wbur.org/hereandnow/2019/07/23/toufah-jallow-gambia-president-me-too",
+            "original": "http://d279m997dpfwgl.cloudfront.net/wp/2019/07/Jallow-1000x863.jpg"
+        },
+        {
+            "position": 51,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSyaXRAXnfT-YQn6uVN-ra0lBQEpH7iAvw8A&usqp=CAU",
+            "source": "mamostv.tv",
+            "title": "Its Advancement ...mamostv.tv",
+            "link": "https://mamostv.tv/gambia-a-countrys-respect-for-its-women-is-directly-proportionate-to-its-advancement/",
+            "original": "https://mamostv.tv/wp-content/uploads/2019/10/Ndey-Fatou-Jammeh.jpg"
+        },
+        {
+            "position": 52,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpj1yHRCFti3OrS8ZwhpgC_0YKtjlrchUAZw&usqp=CAU",
+            "source": "dreamstime.com",
+            "title": "Gambian Women Photos - Free & Royalty ...dreamstime.com",
+            "link": "https://www.dreamstime.com/photos-images/gambian-women.html",
+            "original": "https://thumbs.dreamstime.com/z/people-banjul-gambia-mar-unidentified-gambian-women-her-little-baby-stay-porch-mar-major-ethnic-group-52170287.jpg"
+        },
+        {
+            "position": 53,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlHCNpA7Z_zVD6-lPoq3gB3CN11njYNarLjQ&usqp=CAU",
+            "source": "gambiano.net",
+            "title": "3 Gambian women nominated into the 2017 ...gambiano.net",
+            "link": "https://gambiano.net/3-gambian-women-nominated-into-the-2017-african-woman-awards/",
+            "original": "https://gambiano.net/wp-content/uploads/2017/04/3-gambian-women-nominated.jpg"
+        },
+        {
+            "position": 54,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_Ac_ehaonUOZ3gGc6apf8gI8rPHADrcI1g&usqp=CAU",
+            "source": "ipsnews.net",
+            "title": "The Gambia's Women Demand a Seat at the ...ipsnews.net",
+            "link": "http://www.ipsnews.net/2014/03/gambias-women-demand-seat-political-table/",
+            "original": "http://cdn.ipsnews.net/Library/2014/03/Dr-Isatou-Touray-629x472.jpg"
+        },
+        {
+            "position": 55,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHVQK9coCEZFuK377V6mMjYuQdXaLtSyWBg&usqp=CAU",
+            "source": "standard.gm",
+            "title": "45 Stranded Gambian Women In Lebanon To ...standard.gm",
+            "link": "https://standard.gm/45-stranded-gambian-women-in-lebanon-to-return-soon-naatip/",
+            "original": "https://standard.gm/wp-content/uploads/2020/07/jesse-696x392.jpg"
+        },
+        {
+            "position": 56,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyZgnNslezEyEIMLkp8i-GS87btoYv7W_Ag&usqp=CAU",
+            "source": "africablogs.wordpress.com",
+            "title": "Tourism and Travel Association Gambia ...africablogs.wordpress.com",
+            "link": "https://africablogs.wordpress.com/category/tourism-and-travel-association-gambia/",
+            "original": "https://africablogs.files.wordpress.com/2009/11/gambia_tourism_tourism_travel_gambia.jpeg"
+        },
+        {
+            "position": 57,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv4d-shJqrNqMAsRlj0PslkFrLxwYF8LYENA&usqp=CAU",
+            "source": "fredericknewspost.com",
+            "title": "Gambian prison ...fredericknewspost.com",
+            "link": "https://www.fredericknewspost.com/news/politics_and_government/i-did-not-know-that-i-would-survive-frederick-woman-recounts-life-in-gambian-prison/article_a71cac18-d4dc-51dd-b7ef-fb4f12c9d0d9.html",
+            "original": "https://bloximages.newyork1.vip.townnews.com/fredericknewspost.com/content/tncms/assets/v3/editorial/f/e9/fe920221-1c8a-5fed-9b75-a483d65fad93/58e058d09f26e.image.jpg?resize=1200%2C816"
+        },
+        {
+            "position": 58,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ01QRSlkXuahEjsIxXmIctMWHYVek5jF_PPA&usqp=CAU",
+            "source": "cherryfun.com",
+            "title": "Gambian woman Aisha personal ad ...cherryfun.com",
+            "link": "http://www.cherryfun.com/personals-id28631.html",
+            "original": "http://www.cherryfun.com/photos/58/28631-aisha-47d9003aee.jpg"
+        },
+        {
+            "position": 59,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnyQzVhP_68oqoZyhf62OLQy48JKZqqw54A&usqp=CAU",
+            "source": "japantimes.co.jp",
+            "title": "In detailed testimony, Gambian women ...japantimes.co.jp",
+            "link": "https://www.japantimes.co.jp/news/2019/11/01/world/gambian-women-allege-sex-abuse-by-jammeh/",
+            "original": "https://cdn-japantimes.com/wp-content/uploads/2019/11/f-gambia-a-20191102.png"
+        },
+        {
+            "position": 60,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeobUOIgMfF02hB9Y4z_2kzOGc5PjiKD6qDA&usqp=CAU",
+            "source": "facebook.com",
+            "title": "Lady of The Gambia Zineb Jammeh ...facebook.com",
+            "link": "https://www.facebook.com/ZinebJammeh/posts/1026859024096160?comment_id=1027822163999846",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1026858444096218"
+        },
+        {
+            "position": 61,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtAMcMRH6aWFtSP6wv1czESm_8jdOUxLv78g&usqp=CAU",
+            "source": "picfair.com",
+            "title": "Gambian Women - License, download or ...picfair.com",
+            "link": "https://www.picfair.com/pics/07248200-gambian-women",
+            "original": "https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/g_south,l_text:style_gothic2:%C2%A9%20Mary%20Payne,o_20,y_10/g_center,l_watermark4,o_25,y_50/v1537609119/iwvouyqmlx9cfhgepbwo.jpg"
+        },
+        {
+            "position": 62,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxiWtTRDKmwWvdSxZ5Eua9S96UyDWReM3WtA&usqp=CAU",
+            "source": "pinterest.co.uk",
+            "title": "Gambian women, looking so colourful ...pinterest.co.uk",
+            "link": "https://www.pinterest.co.uk/pin/534028468283974867/",
+            "original": "https://i.pinimg.com/originals/fc/e8/ae/fce8ae698578e1d9d6917fa11781b177.jpg"
+        },
+        {
+            "position": 63,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLmYp0O_H0myd59-A0hCdLd3ePRCh4yxsf7w&usqp=CAU",
+            "source": "businessingambia.com",
+            "title": "9 Gambian Women Entrepreneurs Shares ...businessingambia.com",
+            "link": "https://businessingambia.com/gambia-women-entrepreneurs/",
+            "original": "https://i1.wp.com/businessingambia.com/wp-content/uploads/2018/03/Collage-feature.jpg?resize=678%2C368&ssl=1"
+        },
+        {
+            "position": 64,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwATbvSLT-YYOH_wHTiKAcGpNyqtudtrmX5Q&usqp=CAU",
+            "source": "theculturetrip.com",
+            "title": "9 Inspiring Women to Know from The Gambiatheculturetrip.com",
+            "link": "https://theculturetrip.com/africa/the-gambia/articles/9-inspiring-women-to-know-from-the-gambia/",
+            "original": "https://img.theculturetrip.com/450x/smart/wp-content/uploads/2018/09/climateheroes-isatouceesay-08-686x1030-2.jpg"
+        },
+        {
+            "position": 65,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4OhIL-9VcWer9VI4MfAnuW2_CXkuFGMciaw&usqp=CAU",
+            "source": "borgenproject.org",
+            "title": "The Gambia ...borgenproject.org",
+            "link": "https://borgenproject.org/womens-rights-in-the-gambia/",
+            "original": "https://borgenproject.org/wp-content/uploads/Womens-Rights-in-the-Gambia-1030x682.jpg"
+        },
+        {
+            "position": 66,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW04W6Y8W7rGk8M14-TyoORpgeEJOYCPyIHQ&usqp=CAU",
+            "source": "line.17qq.com",
+            "title": "Attractive Women of Gambia (Page 1 ...line.17qq.com",
+            "link": "https://line.17qq.com/articles/swsasewcx.html",
+            "original": "https://img.17qq.com/images/arrtaaswaqx.jpeg"
+        },
+        {
+            "position": 67,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtI8B7MDZRByIUSqtlIIL8r79T88pJdsTmQ&usqp=CAU",
+            "source": "mirror.co.uk",
+            "title": "I was dumped by Gambian toyboy love-rat ...mirror.co.uk",
+            "link": "https://www.mirror.co.uk/news/real-life-stories/am-stupidest-woman-britain-dumped-3493799",
+            "original": "https://i2-prod.mirror.co.uk/incoming/article3492822.ece/ALTERNATES/s615/Denise-Hardwick-and-her-second-Gambian-partner-Daniel.jpg"
+        },
+        {
+            "position": 68,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRIMxA51OfNnoSxHu89_F4seJ7ghCbMQtwMQ&usqp=CAU",
+            "source": "newdev.gambia.com",
+            "title": "Empower Gambian Women ...newdev.gambia.com",
+            "link": "https://newdev.gambia.com/woman-power-awamarys-relentless-journey-to-empower-gambian-women-end-sgbv/",
+            "original": "https://www.chronicle.gm/wp-content/uploads/2020/08/IMG-20191118-WA0091.jpg"
+        },
+        {
+            "position": 69,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYSRNr8accN__qNDwzFiMFzcfivvrBamFChg&usqp=CAU",
+            "source": "awafc.org",
+            "title": "GWA-FC - All Women Are Free To Chooseawafc.org",
+            "link": "http://www.awafc.org/gwa-fc.html",
+            "original": "http://www.awafc.org/uploads/1/4/7/4/14740918/published/gambian-women-awafc-2.jpg?1551113285"
+        },
+        {
+            "position": 70,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnfpWzrSVHd0EJflvdO6NOi5TV9KHKIgQDA&usqp=CAU",
+            "source": "thepoint.gm",
+            "title": "Rafela here to empower Gambian women ...thepoint.gm",
+            "link": "https://thepoint.gm/africa/gambia/headlines/rafela-here-to-empower-gambian-women-bcc-mayoress",
+            "original": "https://thepoint.gm/assets/Featured-Articles/Rohey-Malick-Lowe-v5__ScaleMaxWidthWzcwMF0.jpg"
+        },
+        {
+            "position": 71,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ExW3EzRVSTWLRTue5LgMtUXoJTTiU3Hc_w&usqp=CAU",
+            "source": "the-sun.com",
+            "title": "sex paradise for British grans ...the-sun.com",
+            "link": "https://www.the-sun.com/lifestyle/1557529/gambia-sex-brit-nans/",
+            "original": "https://www.thesun.co.uk/wp-content/uploads/2019/03/NINTCHDBPICT000477307933.jpg"
+        },
+        {
+            "position": 72,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG18dtNWs0SI9V5gRTEJw9FREoW1NRvPJ_6g&usqp=CAU",
+            "source": "radiodubplate.com",
+            "title": "Spice Apologize For Calling Out Gambian ...radiodubplate.com",
+            "link": "https://www.radiodubplate.com/2019/06/spice-apologize-for-calling-out-gambian-women-for-bleaching/",
+            "original": "http://www.radiodubplate.com/wp-content/uploads/2019/06/Spice-official.jpg"
+        },
+        {
+            "position": 73,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwDx9Se7pzrsam6lPdry7n1tHKSFqHHBl7g&usqp=CAU",
+            "source": "peacecorps.gov",
+            "title": "Projects take root in The Gambiapeacecorps.gov",
+            "link": "https://www.peacecorps.gov/stories/projects-take-root-gambia/",
+            "original": "https://s3.amazonaws.com/files.peacecorps.gov/images/SB1.df6d3978.original.fill-800x450.jpg"
+        },
+        {
+            "position": 74,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2xp0yPPXspcyMVajtk9FQ5SZXhqNK1mMdhQ&usqp=CAU",
+            "source": "voicegambia.com",
+            "title": "evacuate stranded Gambian women ...voicegambia.com",
+            "link": "https://www.voicegambia.com/2020/08/17/ca-urges-govt-to-evacuate-stranded-gambian-women-in-middle-east/",
+            "original": "https://i2.wp.com/www.voicegambia.com/wp-content/uploads/2020/09/A1-5.jpg?resize=1210%2C642&ssl=1"
+        },
+        {
+            "position": 75,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAzf6Cqm0qL1uhXAfQ17mpzLcALZyfYrthg&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Black girl white hair, Dark skin women ...pinterest.com",
+            "link": "https://www.pinterest.com/pin/344455071484119386/",
+            "original": "https://i.pinimg.com/originals/5c/83/41/5c83414d173610299f0484cca4d2c6d9.jpg"
+        },
+        {
+            "position": 76,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrNpeTz_uVZ8g7fRgZY8iBxS1T9SUepbcrdw&usqp=CAU",
+            "source": "transitionsabroad.com",
+            "title": "Return to Gambia | The Smallest Country ...transitionsabroad.com",
+            "link": "https://www.transitionsabroad.com/listings/travel/narrative_travel_writing/return-to-gambia-smallest-country-in-africa.shtml",
+            "original": "https://www.transitionsabroad.com/listings/travel/narrative_travel_writing/images/gambian-women-holding-plastic-purses.jpg"
+        },
+        {
+            "position": 77,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR97rrWdBxEUTOi6qVEdMpDv5R0ezd0FwxR5w&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "Gambian pageant winner accuses ex ...theguardian.com",
+            "link": "https://www.theguardian.com/global-development/2019/jun/26/gambian-beauty-queen-accuses-ex-president-yahya-jammeh-of-rape",
+            "original": "https://i.guim.co.uk/img/media/db4dd73d05c3102a32fb0a03af3ddc9c366a6d05/0_42_3024_1814/master/3024.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7b0056a541cf3c64f43abcdf44b94994"
+        },
+        {
+            "position": 78,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_BTQmU0Zz1iOkZ_Uoix9ugenVo0wYdn00vA&usqp=CAU",
+            "source": "dailymail.co.uk",
+            "title": "Man to wed Gambian woman after two ...dailymail.co.uk",
+            "link": "https://www.dailymail.co.uk/femail/article-3035747/Man-wed-Gambian-cafe-owner-despite-two-failed-marriages-women-country-including-bigamist-left-close-bankruptcy.html",
+            "original": "https://i.dailymail.co.uk/i/pix/2015/04/12/14/277C5EFF00000578-0-image-a-12_1428845522919.jpg"
+        },
+        {
+            "position": 79,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrm9SyegwcTO0X8zGHks-EJSWMgHQxO2NCFA&usqp=CAU",
+            "source": "theculturetrip.com",
+            "title": "9 Inspiring Women to Know from The Gambiatheculturetrip.com",
+            "link": "https://theculturetrip.com/africa/the-gambia/articles/9-inspiring-women-to-know-from-the-gambia/",
+            "original": "https://img.theculturetrip.com/wp-content/uploads/2018/09/maxresdefault.jpg"
+        },
+        {
+            "position": 80,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIgzw6MGp_9TjdNxaorudK7sfMQ-TavXhtxQ&usqp=CAU",
+            "source": "whatson-gambia.com",
+            "title": "Makeup enhances the beauty of Gambian ...whatson-gambia.com",
+            "link": "http://www.whatson-gambia.com/index.php/lifestyle/496-makeup-enhances-the-beauty-of-gambian-women-a-chat-with-the-owner-of-fabs-fashion-cosmetics",
+            "original": "http://www.whatson-gambia.com/images/041514/fab/Fabs1.jpg"
+        },
+        {
+            "position": 81,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMY8C-E7cAQ_lFgO8VAqWo-7e1vw_pLkoU0w&usqp=CAU",
+            "source": "globalgiving.org \u00b7 Out of stock",
+            "title": "Assist 500 Gambian women to become ...globalgiving.org \u00b7 Out of stock",
+            "link": "https://www.globalgiving.org/projects/gambian-women-become-entrepreneurs/",
+            "original": "https://files.globalgiving.org/pfil/8056/ph_8056_26844.jpg?m=1304438364000"
+        },
+        {
+            "position": 82,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOzhmGEMEV8R4llcAprivPCtde5Oo-dFjKAA&usqp=CAU",
+            "source": "newarkadvertiser.co.uk",
+            "title": "Bags of bras pour in to help Gambian womennewarkadvertiser.co.uk",
+            "link": "https://www.newarkadvertiser.co.uk/news/bra-vo-bags-of-bras-pour-in-to-help-gambian-women-9075599/",
+            "original": "https://www.newarkadvertiser.co.uk/_media/img/25PRVSYBANMCTBM1OVLQ.jpg"
+        },
+        {
+            "position": 83,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR959RCw4YH9y-1mjiq58F35CsZNJM5iszgSw&usqp=CAU",
+            "source": "nepad.org",
+            "title": "The Gambian Women's Bureau | AUDA-NEPADnepad.org",
+            "link": "https://www.nepad.org/nepadspanishfund/project/gambian-womens-bureau",
+            "original": "https://www.nepad.org/sites/default/files/styles/521_800/public/2018-05/shutterstock_136566623.jpg?itok=n_tNzVaI"
+        },
+        {
+            "position": 84,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_0kcg1Ky9a5mZj8uZx1MXtxRgMSfpkLs5g&usqp=CAU",
+            "source": "shutterstock.com",
+            "title": "Gambia Women HD Stock Images | Shutterstockshutterstock.com",
+            "link": "https://www.shutterstock.com/search/gambia+women",
+            "original": "https://image.shutterstock.com/image-photo/banjul-gambia-mar-14-2013-260nw-174247946.jpg"
+        },
+        {
+            "position": 85,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv3nxL6ijQFwOdDw5XRF1zdkY2T4dulqCHnw&usqp=CAU",
+            "source": "blogs.worldbank.org",
+            "title": "From the smiling coast of Africa to the ...blogs.worldbank.org",
+            "link": "https://blogs.worldbank.org/africacan/smiling-coast-africa-world-what-gambia-can-teach-us-about-women-and-household-empowerment",
+            "original": "https://blogs.worldbank.org/sites/default/files/styles/hero/public/blogs-images/2019-12/smiling-coast-africa-world-what-gambia-can-teach-us-about-women-and-household-empowerment-1140x500.jpg?itok=9-3Bxe3m"
+        },
+        {
+            "position": 86,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabX1LCQvOymHnpd5z7lWYYTYNUXxYJ5UCgg&usqp=CAU",
+            "source": "accessgambia.com",
+            "title": "Association For Gambian Women Empowermentaccessgambia.com",
+            "link": "https://www.accessgambia.com/extra/association-for-gambian-women-empowerment.html",
+            "original": "https://www.accessgambia.com/tag/large/association-gambian-women-empowerment.jpg"
+        },
+        {
+            "position": 87,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0MeVPq7ZIImwD_yrkRMAtUzI3SfYNOvU51Q&usqp=CAU",
+            "source": "chronicle.gm",
+            "title": "Empower Gambian Women ...chronicle.gm",
+            "link": "https://www.chronicle.gm/woman-power-awamarys-relentless-journey-to-empower-gambian-women-end-sgbv/",
+            "original": "https://www.chronicle.gm/wp-content/uploads/2020/08/maxresdefault-1.jpg"
+        },
+        {
+            "position": 88,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZvTXLpVWHvB0tPyGLaEswMKV2-U2CL7KmEQ&usqp=CAU",
+            "source": "lindaikejisblog.com",
+            "title": "Gambian President who ordered women ...lindaikejisblog.com",
+            "link": "https://www.lindaikejisblog.com/2016/04/see-wife-of-gambian-president-who.html",
+            "original": "https://3.bp.blogspot.com/-NUUP-2Xd5cI/VxyEPlo73RI/AAAAAAAI-Hg/yRkH5R-EjXQuUnQDkLOSTMrf9a0iAQhvACLcB/s1600/gambia.jpg"
+        },
+        {
+            "position": 89,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvlmEwn_6cKZ_WKdbcTSIVYzsCUKdKvaMSBA&usqp=CAU",
+            "source": "commons.wikimedia.org",
+            "title": "File:Gambia Market.JPG - Wikimedia Commonscommons.wikimedia.org",
+            "link": "https://commons.wikimedia.org/wiki/File:Gambia_Market.JPG",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gambia_Market.JPG"
+        },
+        {
+            "position": 90,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIP4oPd_u4HHx5IZmQgmL82w1LOB9f_3kpcg&usqp=CAU",
+            "source": "whatson-gambia.com",
+            "title": "Time for Gambian women to rejoice!whatson-gambia.com",
+            "link": "http://www.whatson-gambia.com/index.php/news/1922-time-for-gambian-women-to-rejoice",
+            "original": "http://www.whatson-gambia.com/images/071117/Gambian%20women.jpg"
+        },
+        {
+            "position": 91,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVAaFkkGqSbGJ5NAci6zHgkf-1YTh6y8q2nw&usqp=CAU",
+            "source": "fatunetwork.net",
+            "title": "Gambian Women In Lebanon Take On The ...fatunetwork.net",
+            "link": "https://fatunetwork.net/were-not-here-for-sex-work-gambian-women-in-lebanon-take-on-the-government-and-critics-as-one-says-its-not-sex-work-that-took-them-to-the-middle-east-nation/",
+            "original": "https://fatunetwork.net/wp-content/uploads/2020/08/lebanon-protest.jpg"
+        },
+        {
+            "position": 92,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGvA2_BmFPJlOMAU4eUsb5Vyl7GMzbNK08Kg&usqp=CAU",
+            "source": "gettyimages.fi",
+            "title": "638 Gambian Women Photos and Premium ...gettyimages.fi",
+            "link": "https://www.gettyimages.fi/photos/gambian-women?page=8",
+            "original": "https://media.gettyimages.com/photos/solo-female-traveller-in-gambia-picture-id547567903?s=612x612"
+        },
+        {
+            "position": 93,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-9zO0h51NNDcJdfdWASyHoZL-6FxjwOaIUQ&usqp=CAU",
+            "source": "globalseducer.com",
+            "title": "How to Date Gambian Women (and Get a ...globalseducer.com",
+            "link": "https://www.globalseducer.com/gambian-women/",
+            "original": "https://www.globalseducer.com/wp-content/uploads/2017/12/gambian-girl-smiling.jpg"
+        },
+        {
+            "position": 94,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-TDmyDf1bUbt0pznludMG4a8X4IIshclG7g&usqp=CAU",
+            "source": "voicegambia.com",
+            "title": "Gambian women entrepreneurs celebrate ...voicegambia.com",
+            "link": "https://www.voicegambia.com/2020/12/09/gambian-women-entrepreneurs-celebrate-aweps-10-years-anniversary/",
+            "original": "https://i1.wp.com/www.voicegambia.com/wp-content/uploads/2020/12/A1-41.jpg?resize=1210%2C642&ssl=1"
+        },
+        {
+            "position": 95,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1AM_0uDgknBqmDTOc9CN7pCTlJa7Lpw_hw&usqp=CAU",
+            "source": "nytimes.com",
+            "title": "Women in Gambia Describe Torture After ...nytimes.com",
+            "link": "https://www.nytimes.com/2019/11/12/world/africa/gambia-witch-hunt-testimony.html",
+            "original": "https://static01.nyt.com/images/2019/09/27/world/xxwitchhunt1/xxwitchhunt1-superJumbo.jpg"
+        },
+        {
+            "position": 96,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zW57OWcJQqTwIaZLwt-SJS_3qGRpWWuwEQ&usqp=CAU",
+            "source": "youtube.com",
+            "title": "What Is So Unique About Gambian Women ...youtube.com",
+            "link": "https://www.youtube.com/watch?v=3ocgJJFxY7Q",
+            "original": "https://i.ytimg.com/vi/3ocgJJFxY7Q/maxresdefault.jpg"
+        },
+        {
+            "position": 97,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zo4b75XTBmBmu_O4yRMrJZ6A5WuK5zpLxg&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "afrikanattire: Sene-gambian fashion ...pinterest.com",
+            "link": "https://www.pinterest.com/pin/325736985520667762/",
+            "original": "https://i.pinimg.com/originals/84/9d/b8/849db878c8f7d3b2c59edc4663b44b5e.jpg"
+        },
+        {
+            "position": 98,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1cwrlx-xLdZX87bVEZ_iCVUGNlndrj9ht8A&usqp=CAU",
+            "source": "thetropixs.com",
+            "title": "Spice Issues Apology To Women In Gambia ...thetropixs.com",
+            "link": "https://thetropixs.com/spice-issues-apology-to-women-in-gambia-over-bleaching-comment/",
+            "original": "https://thetropixs.com/wp-content/uploads/2019/02/Spice.png"
+        },
+        {
+            "position": 99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3QaKu5apt9UCkWzbTydjsCNVH4NstJukjMA&usqp=CAU",
+            "source": "fredericknewspost.com",
+            "title": "Gambian prison ...fredericknewspost.com",
+            "link": "https://www.fredericknewspost.com/news/politics_and_government/i-did-not-know-that-i-would-survive-frederick-woman-recounts-life-in-gambian-prison/article_a71cac18-d4dc-51dd-b7ef-fb4f12c9d0d9.html",
+            "original": "https://bloximages.newyork1.vip.townnews.com/fredericknewspost.com/content/tncms/assets/v3/editorial/0/27/0278a7c4-48f2-58da-9f9e-e3f11a2085bc/58e058d027412.image.jpg?resize=1200%2C797"
+        },
+        {
+            "position": 100,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToFyYT89N5bgRDaI5wp0sjurqINgWELcjXrg&usqp=CAU",
+            "source": "showbizgambia.weebly.com",
+            "title": "ShowbizGambia - Homeshowbizgambia.weebly.com",
+            "link": "http://showbizgambia.weebly.com/",
+            "original": "http://showbizgambia.weebly.com/uploads/6/9/9/0/6990223/2617881_orig.jpg"
+        }
+    ]
+}

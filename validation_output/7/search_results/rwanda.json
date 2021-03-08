@@ -1,0 +1,918 @@
+{
+    "search_metadata": {
+        "id": "603f467c2b3c93330e46cb8e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e9af4bb308fbb51c/603f467c2b3c93330e46cb8e.json",
+        "created_at": "2021-03-03 08:19:08 UTC",
+        "processed_at": "2021-03-03 08:19:08 UTC",
+        "google_url": "https://www.google.com/search?q=rwandan+women&oq=rwandan+women&tbm=isch&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/e9af4bb308fbb51c/603f467c2b3c93330e46cb8e.html",
+        "total_time_taken": 4.65
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "rwandan women",
+        "google_domain": "google.com",
+        "device": "desktop",
+        "tbm": "isch"
+    },
+    "search_information": {
+        "image_results_state": "Results for exact spelling",
+        "query_displayed": "rwandan women"
+    },
+    "suggested_searches": [
+        {
+            "name": "pretty",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:pretty:UX8NtAclRbA%3D&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoAHoECAEQGA",
+            "chips": "q:rwandan+women,g_1:pretty:UX8NtAclRbA%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Apretty%3AUX8NtAclRbA%253D&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/b43ad5f0c0b6b347054d7d34b2d76b48e09489ebb6eca35f79a95fb11c30aa3a.jpeg"
+        },
+        {
+            "name": "model",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:model:PHXsoAms5eY%3D&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoAXoECAEQGg",
+            "chips": "q:rwandan+women,g_1:model:PHXsoAms5eY%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Amodel%3APHXsoAms5eY%253D&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/b43ad5f0c0b6b347054d7d34b2d76b480f029b5016806610d66d86965eeb9b40.jpeg"
+        },
+        {
+            "name": "happy",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:happy:GCwddmE2440%3D&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoAnoECAEQHA",
+            "chips": "q:rwandan+women,g_1:happy:GCwddmE2440%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Ahappy%3AGCwddmE2440%253D&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/b43ad5f0c0b6b347054d7d34b2d76b48981b1c2688e87b79a260b50ed6e7c11b.jpeg"
+        },
+        {
+            "name": "dress",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:dress:26sl_gPijcg%3D&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoA3oECAEQHg",
+            "chips": "q:rwandan+women,g_1:dress:26sl_gPijcg%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Adress%3A26sl_gPijcg%253D&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/b43ad5f0c0b6b347054d7d34b2d76b4844ec6284a41c687151355aa65af18c59.jpeg"
+        },
+        {
+            "name": "clothing",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:clothing&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoBHoECAEQIA",
+            "chips": "q:rwandan+women,g_1:clothing",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Aclothing&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch"
+        },
+        {
+            "name": "marriage",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:marriage:mfu8Jcm7fzs%3D&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoBXoECAEQIQ",
+            "chips": "q:rwandan+women,g_1:marriage:mfu8Jcm7fzs%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Amarriage%3Amfu8Jcm7fzs%253D&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/b43ad5f0c0b6b347054d7d34b2d76b484eef7c341f1c914b7b6d065a89702e72.jpeg"
+        },
+        {
+            "name": "mushanana",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:mushanana&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoBnoECAEQIw",
+            "chips": "q:rwandan+women,g_1:mushanana",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Amushanana&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch"
+        },
+        {
+            "name": "wedding",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:wedding&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoB3oECAEQJA",
+            "chips": "q:rwandan+women,g_1:wedding",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Awedding&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch"
+        },
+        {
+            "name": "sport",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:sport&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoCHoECAEQJQ",
+            "chips": "q:rwandan+women,g_1:sport",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Asport&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch"
+        },
+        {
+            "name": "natural",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:natural&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoCXoECAEQJg",
+            "chips": "q:rwandan+women,g_1:natural",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Anatural&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch"
+        },
+        {
+            "name": "wear",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:wear&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoCnoECAEQJw",
+            "chips": "q:rwandan+women,g_1:wear",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Awear&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch"
+        },
+        {
+            "name": "beach",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:beach:RcOGl-PIXk8%3D&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoC3oECAEQKA",
+            "chips": "q:rwandan+women,g_1:beach:RcOGl-PIXk8%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Abeach%3ARcOGl-PIXk8%253D&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/b43ad5f0c0b6b347054d7d34b2d76b487a7b35936e383d2b861428d91b82b57c.jpeg"
+        },
+        {
+            "name": "haircut",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:haircut&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoDHoECAEQKg",
+            "chips": "q:rwandan+women,g_1:haircut",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Ahaircut&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch"
+        },
+        {
+            "name": "police",
+            "link": "https://www.google.com/search?q=rwandan+women&tbm=isch&chips=q:rwandan+women,g_1:police:tKwNizJg3nQ%3D&hl=en-US&sa=X&ved=2ahUKEwiG9_eL2JPvAhWol60KHZRqAVEQ4lYoDXoECAEQKw",
+            "chips": "q:rwandan+women,g_1:police:tKwNizJg3nQ%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Arwandan%2Bwomen%2Cg_1%3Apolice%3AtKwNizJg3nQ%253D&device=desktop&engine=google&google_domain=google.com&q=rwandan+women&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQilh7rXGotQh7PLIQq1RjrcGFGF4DvuM-u1Zruk1XLohD01iEC&usqp=CAU"
+        }
+    ],
+    "images_results": [
+        {
+            "position": 1,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef40ba02079b759b09dd58af009f73c3d8ffb21939e67192c9.jpeg",
+            "source": "inclusivesecurity.org",
+            "title": "8 Rwandan Women Rising",
+            "link": "https://www.inclusivesecurity.org/2017/07/08/8-rwandan-women-rising/",
+            "original": "https://www.inclusivesecurity.org/wp-content/uploads/2017/06/rising-cover-taller-1.jpg"
+        },
+        {
+            "position": 2,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef3006930780bd9475d1f641d25bc0c0a7232b99ad2e068968.jpeg",
+            "source": "blog.akilahinstitute.org",
+            "title": "5 Ways Rwanda Leads on Women's Empowerment | by Davis College and Akilah |  Davis College and Akilah",
+            "link": "https://blog.akilahinstitute.org/5-ways-rwanda-leads-on-women-empowerment-6ae3c976463a",
+            "original": "https://miro.medium.com/max/2574/1*NvkgbDQJQwu_8oy5tjzKVA.jpeg"
+        },
+        {
+            "position": 3,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81efcc806703b153c1396dc1da51926061ead2356b8b02830d0f.jpeg",
+            "source": "newtimes.co.rw",
+            "title": "Are Rwandan women ready to embrace beauty pageants? | The New Times | Rwanda",
+            "link": "https://www.newtimes.co.rw/section/read/185643",
+            "original": "https://www.newtimes.co.rw/sites/default/files/main/articles/2015/02/04/1423070881DSC_6698.jpg"
+        },
+        {
+            "position": 4,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef2f0119bc3720c8b9d6be3ba51ff0de2fa2f59d450fb0c6ea.jpeg",
+            "source": "npr.org",
+            "title": "Rwanda Is The No. 1 Country For Women In Power But They Still Face  Challenges In Daily Life : Goats and Soda : NPR",
+            "link": "https://www.npr.org/sections/goatsandsoda/2016/07/29/487360094/invisibilia-no-one-thought-this-all-womans-debate-team-could-crush-it",
+            "original": "https://media.npr.org/assets/img/2016/07/28/ap_100517045033_wide-d5b894503a94a4bbe50697342ef08078bd8c9d4d.jpg?s=1400"
+        },
+        {
+            "position": 5,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef63e81eb53cb509d816ea97e4b1d0415661f9a6a6c4211a44.jpeg",
+            "source": "africanexponent.com",
+            "title": "The World Economic Forum Thinks Rwandan Women Are the Happiest In Africa |  The African Exponent.",
+            "link": "https://www.africanexponent.com/bpost/5114-will-the-gender-equality-gap-ever-be-closed",
+            "original": "https://d7nm3c5ruslmy.cloudfront.net/africanexponent-com-client/images/africanexponent.com/general/rwanda-women1549492963033_aspR_1.755_w1125_h641_e.jpg"
+        },
+        {
+            "position": 6,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81efd198cb8bae99770ffccab09d1a2baaa14531ec20b0160421.jpeg",
+            "source": "swaneehunt.org",
+            "title": "Rwandan women at the head of the class - Swanee Hunt",
+            "link": "https://www.swaneehunt.org/2017/07/13/rwandan-women-head-class/",
+            "original": "https://www.swaneehunt.org/wp-content/uploads/2017/07/swanee-and-akilah-students-group-240x300.jpg"
+        },
+        {
+            "position": 7,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef46c6f580c6ed634b6b0017409ff9d125b9fbcc40c1d92e2d.jpeg",
+            "source": "aljazeera.com",
+            "title": "How the courage of a few Rwandan women changed the world | Courts News | Al  Jazeera",
+            "link": "https://www.aljazeera.com/opinions/2019/4/7/how-the-courage-of-a-few-rwandan-women-changed-the-world",
+            "original": "https://www.aljazeera.com/wp-content/uploads/2019/04/6875b9f0078e4cc0baa8f6fb8b75ff67_18.jpeg?resize=770%2C513"
+        },
+        {
+            "position": 8,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef59f1ea4c53f18e7500872b1731e4d864887f297cba858420.jpeg",
+            "source": "rw.usembassy.gov",
+            "title": "U.S. Embassy Honors Three Rwandan Women of Courage | U.S. Embassy in Rwanda",
+            "link": "https://rw.usembassy.gov/u-s-embassy-honors-three-rwandan-women-of-courage-2019/",
+            "original": "https://d2v9ipibika81v.cloudfront.net/uploads/sites/147/Untitled-design-16.jpg"
+        },
+        {
+            "position": 9,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81efecfcbc4009e0bab96400794eca9448431bab5f01480aac3c.jpeg",
+            "source": "swaneehunt.org",
+            "title": "In Rwanda, women's voices rising - Swanee Hunt",
+            "link": "https://www.swaneehunt.org/2017/06/09/rwanda-womens-voices-rising/",
+            "original": "https://www.swaneehunt.org/wp-content/uploads/2017/06/IMG_0718-e1497030405392-1024x709.jpg"
+        },
+        {
+            "position": 10,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81efac294f91f5e8ccbc5664f6998f0b2b98ea2cb8884b78111b.jpeg",
+            "source": "pri.org",
+            "title": "Rebuilding Rwanda: Women in politics | The World from PRX",
+            "link": "https://www.pri.org/stories/2013-12-23/rebuilding-rwanda-women-politics",
+            "original": "https://media.pri.org/s3fs-public/styles/story_main/public/photos/2013-December/rwanda3.jpg?itok=B-hCWiry"
+        },
+        {
+            "position": 11,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef3006930780bd94750c72bf0750bbf0aee113f11808bbcb8e.jpeg",
+            "source": "newsweek.com",
+            "title": "Rwandan Genocide Survivors Urge U.N. Action on Sexual Violence",
+            "link": "https://www.newsweek.com/rwanda-women-genocide-uncondemned-documentary-512245",
+            "original": "https://d.newsweek.com/en/full/512244/the-uncondemned-rwanda-1020.jpg?w=1600&h=1600&q=88&f=b1cf767ab7031c48fab55a215bf38ae5"
+        },
+        {
+            "position": 12,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef3006930780bd94758983fdc678cf1e988d63f788dc3b0850.jpeg",
+            "source": "voanews.com",
+            "title": "Once Vulnerable, Genocide Survivor Aims to Empower Rwandan Women | Voice of  America - English",
+            "link": "https://www.voanews.com/africa/once-vulnerable-genocide-survivor-aims-empower-rwandan-women",
+            "original": "https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-06/A146DC4B-A915-4FC8-AA7A-C2911099ACF3.jpg?itok=3au8_Uhf"
+        },
+        {
+            "position": 13,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef3006930780bd9475c09a23e3fb6887f8c7e384bc9b0ab71c.jpeg",
+            "source": "commons.wikimedia.org",
+            "title": "File:Kigali celebration for the women of Rwandan Women Rising  (35411652835).jpg - Wikimedia Commons",
+            "link": "https://commons.wikimedia.org/wiki/File:Kigali_celebration_for_the_women_of_Rwandan_Women_Rising_%2835411652835%29.jpg",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Kigali_celebration_for_the_women_of_Rwandan_Women_Rising_%2835411652835%29.jpg"
+        },
+        {
+            "position": 14,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef3006930780bd947528bda4df25c54b91f1bb27fb2bff2669.jpeg",
+            "source": "pinterest.com",
+            "title": "Gusaba, Rwandan wedding ceremony | African wedding attire, African wedding,  African fashion women",
+            "link": "https://www.pinterest.com/pin/404690716503847184/",
+            "original": "https://i.pinimg.com/originals/50/8a/39/508a39137478f38e3d6d5b08dbbf7514.jpg"
+        },
+        {
+            "position": 15,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef3006930780bd9475129d6b6fc137b4e888b0753a96fa85b6.jpeg",
+            "source": "youtube.com",
+            "title": "10 MOST BEAUTIFUL WOMEN IN RWANDA!!! - YouTube",
+            "link": "https://www.youtube.com/watch?v=UI_W5nB-mR0",
+            "original": "https://i.ytimg.com/vi/UI_W5nB-mR0/maxresdefault.jpg"
+        },
+        {
+            "position": 16,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef3006930780bd947534723c5dd5a1454c600f27d2dd2d6fb1.jpeg",
+            "source": "borgenproject.org",
+            "title": "Rwandan Women | The Borgen Project",
+            "link": "https://borgenproject.org/tag/rwandan-women/",
+            "original": "https://borgenproject.org/wp-content/uploads/11062957545_893ff521de_k.jpg"
+        },
+        {
+            "position": 17,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef3006930780bd94751bb616e24430e2be7f0e39bda808ee69.jpeg",
+            "source": "ourworld.unu.edu",
+            "title": "Tech Entrepreneur Encourages Rwanda's Young Women to Venture into ICT - Our  World",
+            "link": "https://ourworld.unu.edu/en/tech-entrepreneur-encourages-rwandas-young-women-to-venture-into-ict",
+            "original": "https://i.unu.edu/media/ourworld.unu.edu-en/article/11704/Tech-Entrepreneur-Encourages-Rwandas-Young-Women-to-Venture-into-ICT.jpg"
+        },
+        {
+            "position": 18,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef3006930780bd9475d2265879250c7d97549fa01f535641a0.jpeg",
+            "source": "facebook.com",
+            "title": "Rwandan women are Beautiful \u2764\u2764\u2764... - Rwanda the Heart of Africa | Facebook",
+            "link": "https://www.facebook.com/RwandaTheHeartOfAfrica/posts/rwandan-women-are-beautiful-rwandan-women-are-pillar-of-our-societya-strong-wome/2261496560551376/",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2261496517218047"
+        },
+        {
+            "position": 19,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef3006930780bd9475c8027681d9dac3e00c54ef2ac1f8d154.jpeg",
+            "source": "twitter.com",
+            "title": "Rogers Atukunda sur Twitter : \"#RegionalImbalance: Juicy Rwandan women sold  off as brides in Mityana to men who pay Shs80,000 to a middleman to ferry  the beauties from Rwanda. The sophisticated bride",
+            "link": "https://twitter.com/rarrigz/status/1065508740839944192?lang=fr",
+            "original": "https://pbs.twimg.com/media/DslyipGWoAAj1Dz.jpg"
+        },
+        {
+            "position": 20,
+            "thumbnail": "https://serpapi.com/searches/603f467c2b3c93330e46cb8e/images/e9581937302b81ef3006930780bd94758a2578d0025ed369d3654b5faec804ba.jpeg",
+            "source": "newsofrwanda.com",
+            "title": "Paul Kagame | When Rwandan women learn from the best News Of Rwanda \u2013 Rwanda  News",
+            "link": "http://www.newsofrwanda.com/ibikorwa/4196/paul-kagame-rwandan-women-learn/",
+            "original": "http://newsofrwanda.com/wp-content/uploads/2012/03/When-Rwandan-women.png"
+        },
+        {
+            "position": 21,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYcbVpmfgURQ8KrdtW9BrA4W-T6kAWG28Ng&usqp=CAU",
+            "source": "amazon.com",
+            "title": "Rwandan Women Rising: Hunt, Swanee: 9780822362579: Amazon.com: Books",
+            "link": "https://www.amazon.com/Rwandan-Women-Rising-Swanee-Hunt/dp/0822362570",
+            "original": "https://images-na.ssl-images-amazon.com/images/I/81Hrz+8kELL.jpg"
+        },
+        {
+            "position": 22,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYmePMFWcPPB3aLEzDAzZ1oGxpyaP4SI5zQ&usqp=CAU",
+            "source": "foreignaffairs.com",
+            "title": "The Rise of Rwanda's Women | Foreign Affairs",
+            "link": "https://www.foreignaffairs.com/articles/rwanda/2014-03-30/rise-rwandas-women",
+            "original": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/x_large_1x/public/public-assets/legacy/images/Hunt_RiseofRwanda1.jpg.jpg?itok=RVbuyMc7"
+        },
+        {
+            "position": 23,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW1KUK1leAw7N77NV4d2zTy6-gxIQMAcWEg&usqp=CAU",
+            "source": "traveler.marriott.com",
+            "title": "Rwanda Reborn, Brought to You By Women - Marriott Bonvoy Traveler",
+            "link": "https://traveler.marriott.com/culture-and-style/rwanda-reborn-brought-women/",
+            "original": "https://traveler.marriott.com/wp-content/uploads/2016/10/DSC_0247_RwandaLadies.jpg?1477926468"
+        },
+        {
+            "position": 24,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWeCzhCDNsBByKQ6WNAMg6UdAendVuFy7YTg&usqp=CAU",
+            "source": "npr.org",
+            "title": "Rwanda Is The No. 1 Country For Women In Power But They Still Face  Challenges In Daily Life : Goats and Soda : NPR",
+            "link": "https://www.npr.org/sections/goatsandsoda/2016/07/29/487360094/invisibilia-no-one-thought-this-all-womans-debate-team-could-crush-it",
+            "original": "https://media.npr.org/assets/img/2016/07/25/debate-team-1_wide-80ee8691b5e49a9b545d6aec9946e17f4aa3087a.jpg?s=1400"
+        },
+        {
+            "position": 25,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNzNMyGdCprMS-KHsnkX_ypaKCUYz_ul0Flw&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "Widows of the genocide: how Rwanda's women are rebuilding their lives |  Conflict and arms | The Guardian",
+            "link": "https://www.theguardian.com/global-development/2014/apr/07/widows-genocide-rwanda-women",
+            "original": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/commercial/2010/11/19/1290178850232/Odette-Kayiere-left-winne-006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=caee74140d65515de9e1043db74e462a"
+        },
+        {
+            "position": 26,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWsoefAcYAB56V0TZIA-YSvdjtNcOwfSrWtQ&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Pin on Rwandan Women",
+            "link": "https://www.pinterest.com/pin/520306563180375823/",
+            "original": "https://i.pinimg.com/originals/a3/ee/e1/a3eee19e5fb31df30173214916667d1a.jpg"
+        },
+        {
+            "position": 27,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb31sgBSkRFtNS_oB1MCqCFukIRW8dUYrmOw&usqp=CAU",
+            "source": "blackdresstraveler.com",
+            "title": "Pretty Powerful: Same Sky Bracelets Made By Rwandan Women (Wine With Wanda )",
+            "link": "https://www.blackdresstraveler.com/2010/03/pretty-powerful-same-sky-bracelets-made-by-rwandan-women.html",
+            "original": "http://wandamann.typepad.com/.a/6a00e553bc02c9883301310f9d64e7970c-pi"
+        },
+        {
+            "position": 28,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHRoV0nE-YFeMt8F8K1yN-Z0sAlsX-Jac9Q&usqp=CAU",
+            "source": "ktpress.rw",
+            "title": "Rwanda Launches Search for 5000 Women, Youth Entrepreneurs \u2013 KT PRESS",
+            "link": "https://www.ktpress.rw/2018/10/rwanda-launches-search-for-5000-women-youth-entrepreneurs/",
+            "original": "https://www.ktpress.rw/wp-content/uploads/2018/10/Some-of-the-women-behind-the-success-of-GEW-Rwanda.jpg"
+        },
+        {
+            "position": 29,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpV6sMttKbQbAHic_gMdPNy_9Vj239THSe4A&usqp=CAU",
+            "source": "dw.com",
+            "title": "Rwanda \u2013 real equality or gender-washing? | Africa | DW | 07.03.2019",
+            "link": "https://www.dw.com/en/rwanda-real-equality-or-gender-washing/a-47804771",
+            "original": "https://m.dw.com/image/45962085_401.jpg"
+        },
+        {
+            "position": 30,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTFG-4gA6eVPG5vFNqrwVYmyE7YQJu_n7n-A&usqp=CAU",
+            "source": "huffpost.com",
+            "title": "Rwanda, A Success Story Of Women Empowerment | HuffPost",
+            "link": "https://www.huffpost.com/entry/rwanda-a-success-story-of-women-empowerment_b_5a4f1d87e4b0ee59d41c09ad",
+            "original": "https://img.huffingtonpost.com/asset/5a4f2c3a1c0000270068eb28.jpg?ops=crop_23_26_3837_2473,scalefit_630_noupscale"
+        },
+        {
+            "position": 31,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSnKUfqr_LJXVjOTJi7J6C-O9IazuavhZabQ&usqp=CAU",
+            "source": "sheleadsafrica.org",
+            "title": "Rwandan women Archives | She Leads Africa | #1 destination for young  African ambitious women",
+            "link": "https://sheleadsafrica.org/tag/rwandan-women/",
+            "original": "https://sheleadsafrica.org/wp-content/uploads/2017/03/caroline-numuhire-feature-1024x785.jpg"
+        },
+        {
+            "position": 32,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFOBH7e-RIbH2Utb6IKcRi7NKNuA415onzUg&usqp=CAU",
+            "source": "rwandawomennetwork.org",
+            "title": "Home - Rwanda Women Network",
+            "link": "https://rwandawomennetwork.org/",
+            "original": "https://rwandawomennetwork.org/wp-content/uploads/2020/06/iStock-904417040.jpg"
+        },
+        {
+            "position": 33,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh94QjNDM8TIjLsCanfO22cSTDSZZ0tvGgjQ&usqp=CAU",
+            "source": "borgenmagazine.com",
+            "title": "Buy from Women: Agriculture Support for Rwandan Women - BORGEN",
+            "link": "https://www.borgenmagazine.com/buy-women-agriculture-support-rwandan/",
+            "original": "https://www.borgenmagazine.com/wp-content/uploads/2016/09/Buy-from-Women-Agricultural-Finance-for-Women-in-Rwanda.jpg"
+        },
+        {
+            "position": 34,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiIXsO0ZpyeKvbUcVkZvzCUh6aat3EahXd7g&usqp=CAU",
+            "source": "rw.usembassy.gov",
+            "title": "U.S. Embassy Honors Three Rwandan Women of Courage | U.S. Embassy in Rwanda",
+            "link": "https://rw.usembassy.gov/2017-women-of-courage/",
+            "original": "https://d2v9ipibika81v.cloudfront.net/uploads/sites/147/2017/03/IMG_7631.jpg"
+        },
+        {
+            "position": 35,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0riHvwGUHoRrcZQczJk_C7P0Hn0aqZWIFA&usqp=CAU",
+            "source": "face2faceafrica.com",
+            "title": "Why the only two Rwandan women who tried to run for president against  Kagame ended up in jail - Face2Face Africa",
+            "link": "https://face2faceafrica.com/article/why-the-only-two-rwandan-women-who-tried-to-run-for-president-against-kagame-ended-up-in-jail",
+            "original": "https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/08/Victoire-Ingabire-two-thumbs-up-041712.jpg"
+        },
+        {
+            "position": 36,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWs1nICYEdiER1Q7b6jsYQ2G4HEFtEe9-kbQ&usqp=CAU",
+            "source": "borgenproject.org",
+            "title": "Women in Government: Representation in Rwanda | The Borgen Project",
+            "link": "https://borgenproject.org/women-in-government-representation-in-rwanda/",
+            "original": "https://borgenproject.org/wp-content/uploads/2887501783_8677d27e26_b-530x352.jpg"
+        },
+        {
+            "position": 37,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNv0MKdBxcE7foLC_W1c-WvD6hjNZHQF1jiQ&usqp=CAU",
+            "source": "nobelwomensinitiative.org",
+            "title": "Rwandan women rebuild: 20 years of reconciliation - Nobel Women's Initiative",
+            "link": "https://nobelwomensinitiative.org/rwandan-women-rebuild-20-years-of-reconciliation/",
+            "original": "https://nobelwomensinitiative.org/wp-content/uploads/2014/04/1604810_10152242784976737_1747969295_n-300x300.jpg"
+        },
+        {
+            "position": 38,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5KKtEU5dt4QKmT3lAGcqDyJ88xYddFuhakg&usqp=CAU",
+            "source": "imgur.com",
+            "title": "Beautiful Rwandan women - Imgur",
+            "link": "https://imgur.com/t/rwanda/7VMnOw9",
+            "original": "https://i.imgur.com/7VMnOw9.png"
+        },
+        {
+            "position": 39,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ3_5WvFGNPBy6addEVNdkdyHfQfQGXCPGOQ&usqp=CAU",
+            "source": "inclusivesecurity.org",
+            "title": "How Women Rebuilt Rwanda \u2014 Inclusive Security",
+            "link": "https://www.inclusivesecurity.org/how-women-rebuilt-rwanda/",
+            "original": "https://www.inclusivesecurity.org/wp-content/themes/InclusiveSecurity/images/swanee-quote-pic.jpg"
+        },
+        {
+            "position": 40,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWHFJHVtxIkM3NfdRncZOS7LXo3t2TzzIRXA&usqp=CAU",
+            "source": "icco-cooperation.org",
+            "title": "STARS in Rwanda empowers women to take leadership roles at work and at home  - ICCO EN",
+            "link": "https://www.icco-cooperation.org/en/blogs/stars-in-rwanda-empowers-women-to-take-leadership-roles-at-work-and-at-home/",
+            "original": "https://www.icco-cooperation.org/en/wp-content/uploads/sites/2/2020/06/Screen-Shot-2020-06-19-at-10.16.38-AM.png"
+        },
+        {
+            "position": 41,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHlFf8ZW-qgJ4wqDU1rMrX1kZaMHR6Dn4fw&usqp=CAU",
+            "source": "newsecuritybeat.org",
+            "title": "Empowerment Without Equity? The Uncertain Progress of Rwanda's Female  Peace-Builders",
+            "link": "https://www.newsecuritybeat.org/2014/10/empowerment-equity-uncertain-progress-rwandas-female-peace-builders/",
+            "original": "https://www.newsecuritybeat.org/wp-content/uploads/2014/10/Rwandan-parliamentarians.jpg"
+        },
+        {
+            "position": 42,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAvq0gwqLagm_fluQsMDlr2ss-uaoK0sAG2Q&usqp=CAU",
+            "source": "takepart.com",
+            "title": "How Rwanda (Sort of) Beat the U.S. at Gender Equality | TakePart",
+            "link": "http://www.takepart.com/article/2014/10/29/what-changed-rwanda-make-it-one-top-10-countries-gender-equality",
+            "original": "http://www.takepart.com/sites/default/files/styles/large/public/rwandawomen.jpg"
+        },
+        {
+            "position": 43,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcMzlsFIKpoqYJJ74rPnLHu77D7-AsLlk7g&usqp=CAU",
+            "source": "one.org",
+            "title": "Photo Essay: Radiant Women of Rwanda - ONE",
+            "link": "https://www.one.org/us/blog/photo-essay-radiant-women-of-rwanda/",
+            "original": "https://cdn.one.org/us/wp-content/uploads/2015/07/0M4A6947-e1437416126113.jpg"
+        },
+        {
+            "position": 44,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKt5nq9XxTi2bBpmlLPpw9ID_c6B51FvFrfg&usqp=CAU",
+            "source": "packard.org",
+            "title": "New Rwanda Photo Collection Celebrates Women and Young Leaders - The David  and Lucile Packard Foundation",
+            "link": "https://www.packard.org/insights/perspectives/new-rwanda-photo-collection-celebrates-women-and-young-leaders/",
+            "original": "https://www.packard.org/wp-content/uploads/2020/02/https___www.imagesofempowerment.org_wp-content_uploads_TT_PA-1799312_093-scaled-1.jpg"
+        },
+        {
+            "position": 45,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5POgeBeY4i7A62yKkRYAS5Un_kdBHEmAw1g&usqp=CAU",
+            "source": "pinterest.com",
+            "title": "Good morning beautiful people\u2764\ufe0f. Rwandan women in their culture attire.  #rwandanbeauties #rw\u2026 | Good morning beautiful people, African beauty,  Beautiful black women",
+            "link": "https://www.pinterest.com/pin/494551602825602948/",
+            "original": "https://i.pinimg.com/originals/35/ba/5c/35ba5c1b589b4aac50f933e2b687ba63.jpg"
+        },
+        {
+            "position": 46,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LF8mnenvfLgpK8B1QZv69iuBrZlMEiWCWw&usqp=CAU",
+            "source": "un.org",
+            "title": "Rwandan women: AIDS therapy beyond drugs | Africa Renewal",
+            "link": "https://www.un.org/africarenewal/magazine/april-2006/rwandan-women-aids-therapy-beyond-drugs",
+            "original": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/rwandan-women.jpg"
+        },
+        {
+            "position": 47,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaTYyGwMivsSyByiwcj1Fdkg3uhYlsqGDcxw&usqp=CAU",
+            "source": "wdef.com",
+            "title": "Rwandan women rebuild their country from the ground up after genocide - WDEF",
+            "link": "https://wdef.com/2019/01/13/rwandan-women-rebuild-their-country-from-the-ground-up-after-genocide/",
+            "original": "https://wdef.com/wp-content/uploads/2019/01/musabyimana-marie-gaudence-is-a-member-of-a-womens-farming-cooperative-in-rural-rwanda-the-cooperative-is-funded-by-humanity-unified-3.jpg"
+        },
+        {
+            "position": 48,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdakvvPjgsgQqPSrs6IuC-f9elYsVpG8MF5w&usqp=CAU",
+            "source": "news.wjct.org",
+            "title": "Rwanda Honors Dead, Celebrates Progress, 20 Years After Genocide | WJCT NEWS",
+            "link": "https://news.wjct.org/post/rwanda-honors-dead-celebrates-progress-20-years-after-genocide",
+            "original": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/300298047.jpg"
+        },
+        {
+            "position": 49,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ95vFDrAPdP5ZAcWrUH-DHN66gCBJfUEvQMA&usqp=CAU",
+            "source": "news24.com",
+            "title": "A woman who tried to run for the Rwandan presidency still faces 20 years in  jail | W24",
+            "link": "https://www.news24.com/w24/work/jobs/another-woman-who-runs-for-the-rwandan-presidency-faces-20-years-in-jail-20180827",
+            "original": "https://cdn.24.co.za/files/Cms/General/d/5595/f641b12381be490a91b4bbd615ee7f55.jpg"
+        },
+        {
+            "position": 50,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3k-O3jd8hHjxFn5YQWB3ZAo1CTidxvV7QA&usqp=CAU",
+            "source": "cremacoffeegarage.com.au",
+            "title": "Empowering Women Through Rwanda's Coffee Washing Stations | Crema Coffee  Garage Australia",
+            "link": "https://cremacoffeegarage.com.au/blog/empowering-women-through-rwandas-coffee-washing-stations",
+            "original": "https://cremacoffeegarage.com.au/pub/media/wysiwyg/trekkers/rwandan-coffee-producers-kitenge-assets.jpg"
+        },
+        {
+            "position": 51,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCHCesApDBNS1Oqqgp7afdRwXdvdfCWScBFQ&usqp=CAU",
+            "source": "lionessesofafrica.com",
+            "title": "Meet 20 women entrepreneurs who are spearheading a new entrepreneurial  spirit in Rwanda \u2014 Lionesses of Africa",
+            "link": "https://www.lionessesofafrica.com/blog/2016/4/15/meet-20-women-entrepreneurs-who-are-spearheading-a-new-entrepreneurial-spirit-in-rwanda",
+            "original": "http://static1.squarespace.com/static/52440ddbe4b03b33d728e5ea/52447c94e4b0c55940eca0ff/5710a8fb2fe131aa27439b58/1460825686614/RwandaFeature.jpg?format=1500w"
+        },
+        {
+            "position": 52,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPx1-2p46djxI9Zj5KP2ZQBf4EE0KI3TLTPQ&usqp=CAU",
+            "source": "diplomatmagazine.nl",
+            "title": "Celebrating the Remarkable Women of Rwanda - Diplomat magazine : Diplomat  magazine",
+            "link": "http://www.diplomatmagazine.nl/2018/04/10/celebrating-the-remarkable-women-of-rwanda/",
+            "original": "http://www.diplomatmagazine.nl/wp-content/uploads/Schermafbeelding-2018-03-26-om-16.54.05-e1523339258389.png"
+        },
+        {
+            "position": 53,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnQ3KWRlOSOjvYYVCHrOusOlk8JO33DWGDg&usqp=CAU",
+            "source": "representwomen.org",
+            "title": "Public Versus Private Realms: Women's Empowerment in Rwanda - RepresentWomen",
+            "link": "https://www.representwomen.org/public_versus_private_realms_women_s_empowerment_in_rwanda",
+            "original": "https://d3n8a8pro7vhmx.cloudfront.net/representwomen/pages/719/attachments/original/1500318186/rwanda_parliament.jpg?1500318186"
+        },
+        {
+            "position": 54,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jZDocX6Lx2Q9zzqwvandFg4EMb4en9ikgg&usqp=CAU",
+            "source": "usnews.com",
+            "title": "Could the Rwandan Genocide Happen Again? | US News",
+            "link": "https://www.usnews.com/news/articles/2014/04/09/could-the-rwandan-genocide-happen-again",
+            "original": "https://media.beam.usnews.com/67/20/5638dbd44ae3857602ba68eae5f2/140409-rwanda-editorial.jpg"
+        },
+        {
+            "position": 55,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmkqlFXVHZVLaKVmGMOX1sFbigxaQHmu6Lg&usqp=CAU",
+            "source": "theguardian.com",
+            "title": "Rwanda's women make strides towards equality 20 years after the genocide |  Conflict and arms | The Guardian",
+            "link": "https://www.theguardian.com/global-development/2014/apr/07/rwanda-women-empowered-impoverished",
+            "original": "https://i.guim.co.uk/img/static/sys-images/Environment/Pix/pictures/2014/4/2/1396438985776/Rwandan-parliament-009.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a771a3481f787ab391566fdaa8fce8f9"
+        },
+        {
+            "position": 56,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaJd8sl_lZsGSUC4723oSUrJezycGVnK83Mg&usqp=CAU",
+            "source": "twitter.com",
+            "title": "Women in Rwandan Energy (WIRE) (@WIREwomenRW) | Twitter",
+            "link": "https://twitter.com/wirewomenrw",
+            "original": "https://pbs.twimg.com/media/EIxDB3XWwAAUwAg.jpg"
+        },
+        {
+            "position": 57,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4sjYciSppE4aelmb3ldzZYnvnZX90RbnzA&usqp=CAU",
+            "source": "theeastafrican.co.ke",
+            "title": "Rwanda women leaders in business - The East African",
+            "link": "https://www.theeastafrican.co.ke/tea/rwanda-today/rwanda-women-leaders-in-business--1323182",
+            "original": "https://www.theeastafrican.co.ke/resource/image/1323184/landscape_ratio16x9/400/225/dd76cb31fbf3eabeac713818827ef4af/th/top3.jpg"
+        },
+        {
+            "position": 58,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4D095Dv7lQ8AjRUWT7HAo5tla41Ud1ht0Ww&usqp=CAU",
+            "source": "warriorthoughts101.blogspot.com",
+            "title": "Warrior Thoughts: Some of The 25 'Most' Inspiring Rwandan Women",
+            "link": "http://warriorthoughts101.blogspot.com/2014/09/some-of-25-most-inspiring-rwandan-women.html",
+            "original": "https://3.bp.blogspot.com/-wF_PX6pGs60/VAmabVFvDMI/AAAAAAAAAaE/6G97zrEbtfg/w1200-h630-p-k-no-nu/Women_0.jpeg"
+        },
+        {
+            "position": 59,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE1CkCGBlfPTCazkX0wlhgw8BM6UuT3VAVXQ&usqp=CAU",
+            "source": "theculturetrip.com",
+            "title": "These Rwandan Women are Baking Their Way to Empowerment",
+            "link": "https://theculturetrip.com/africa/rwanda/articles/these-rwandan-women-are-baking-their-way-to-empowerment/",
+            "original": "https://img.theculturetrip.com/wp-content/uploads/2018/04/1522318470_tmp_1522318405_tmp_img_2708_2.jpg"
+        },
+        {
+            "position": 60,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSViuSJCSM9QlTYF0fu7OLJmBGar-MFrx133w&usqp=CAU",
+            "source": "newsofrwanda.com",
+            "title": "Rwanda Women: Beyond the Power of Position News Of Rwanda \u2013 Rwanda News",
+            "link": "http://www.newsofrwanda.com/featured1/26005/rwanda-women-beyond-the-power-of-position/",
+            "original": "http://www.newsofrwanda.com/wp-content/uploads/2015/01/Rwandan-women-have-been-empowered-on-all-fronts.jpg"
+        },
+        {
+            "position": 61,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRy_NufJOT3j5zudL0otZN7uo_LWOSNHQEQ&usqp=CAU",
+            "source": "blog.akilahinstitute.org",
+            "title": "5 Ways Rwanda Leads on Women's Empowerment | by Davis College and Akilah |  Davis College and Akilah",
+            "link": "https://blog.akilahinstitute.org/5-ways-rwanda-leads-on-women-empowerment-6ae3c976463a",
+            "original": "https://miro.medium.com/max/2048/1*xjeBL7SR3C7K8MHZnYIMbw.jpeg"
+        },
+        {
+            "position": 62,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0N6XaBwbuenzkRy41WUz_xAHOIEiDpdS1RA&usqp=CAU",
+            "source": "afdb.org",
+            "title": "Rwandan women making a difference at water treatment plant | African  Development Bank - Building today, a better Africa tomorrow",
+            "link": "https://www.afdb.org/en/success-stories/rwandan-women-making-difference-water-treatment-plant-30237",
+            "original": "https://www.afdb.org/sites/default/files/a1-kigali-story.jpg"
+        },
+        {
+            "position": 63,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6gFwjOAev0q7a-ifsfeKPzT1-V4czZe5CA&usqp=CAU",
+            "source": "takepart.com",
+            "title": "To Hell and Back: How Rwanda's Women Helped It Become a World Leader |  TakePart",
+            "link": "http://www.takepart.com/article/2015/07/29/rwanda-women",
+            "original": "http://www.takepart.com/sites/default/files/styles/large/public/rwandawomen_0.jpg"
+        },
+        {
+            "position": 64,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4nFKa9FG7zslzyyC4vi8fGMDKIqx2-auTA&usqp=CAU",
+            "source": "swaneehunt.org",
+            "title": "Rwandan women-owned businesses rise - Swanee Hunt",
+            "link": "https://www.swaneehunt.org/2017/09/11/rwandan-women-owned-businesses-rise/",
+            "original": "https://www.swaneehunt.org/wp-content/uploads/2017/09/Fig-5.4-e1505138371896.jpg"
+        },
+        {
+            "position": 65,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQKhXdNCEMyy4NZqRXYkh0gI4-_snqCfewpA&usqp=CAU",
+            "source": "alamy.com",
+            "title": "Rwandan Women High Resolution Stock Photography and Images - Alamy",
+            "link": "https://www.alamy.com/stock-photo/rwandan-women.html",
+            "original": "https://c8.alamy.com/comp/PRT3WX/rwandan-women-in-kigali-rwanda-PRT3WX.jpg"
+        },
+        {
+            "position": 66,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLWD2viiClRLFdR02xLDJ8vIifznT_vw07qQ&usqp=CAU",
+            "source": "globalgiving.org \u00b7 Out of stock",
+            "title": "Reports on Teach 30 Rwandan Women to Read, Write & Calculate - GlobalGiving",
+            "link": "https://www.globalgiving.org/projects/teach-30-rwandan-women-to-read-write-and-calculate/reports/?pageNo=1",
+            "original": "https://files.globalgiving.org/pfil/8074/pict_original.jpg?m=1304525280000"
+        },
+        {
+            "position": 67,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG3cLVEHOPF44RhuHzZeT7MB-ONGntKXMiFA&usqp=CAU",
+            "source": "youtube.com",
+            "title": "The real women Rwanda-Theatre/Eliane Umuhire - YouTube",
+            "link": "https://www.youtube.com/watch?v=aP-4gfT3dJI",
+            "original": "https://i.ytimg.com/vi/aP-4gfT3dJI/maxresdefault.jpg"
+        },
+        {
+            "position": 68,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfkqAJmgRm0YkF0MnDLkjcl4DP2ySyXPgOA&usqp=CAU",
+            "source": "rw.usembassy.gov",
+            "title": "U.S. Ambassador Honors Rwandan Women of Courage on International Women's  Day | U.S. Embassy in Rwanda",
+            "link": "https://rw.usembassy.gov/rwandan-women-courage/",
+            "original": "https://d2v9ipibika81v.cloudfront.net/uploads/sites/147/2016/03/Untitled-design-16.png"
+        },
+        {
+            "position": 69,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAEvsvseHObhqkYyBF5KI0OR5BRV5rxFKnQ&usqp=CAU",
+            "source": "azizilife.com",
+            "title": "International Women's Day 2019: Celebrating Rwandan Women \u2013 Azizi Life",
+            "link": "https://azizilife.com/international-womens-day/",
+            "original": "https://i2.wp.com/azizilife.com/wp-content/uploads/2018/08/image.png?resize=1024%2C423&ssl=1"
+        },
+        {
+            "position": 70,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAExPNge1eMyXkl47aw72pzfEB9ylTjfPqTg&usqp=CAU",
+            "source": "alamy.com",
+            "title": "Rwandan Women High Resolution Stock Photography and Images - Alamy",
+            "link": "https://www.alamy.com/stock-photo/rwandan-women.html",
+            "original": "https://c8.alamy.com/comp/M7TJ46/rwandan-women-walking-with-their-umbrella-M7TJ46.jpg"
+        },
+        {
+            "position": 71,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfNszvlAJRF0vlFAid2r1sctX0dkMSHFoPXA&usqp=CAU",
+            "source": "inclusivesecurity.org",
+            "title": "This Rwandan Woman's Journey to Elected Office Began in the US",
+            "link": "https://www.inclusivesecurity.org/2017/10/11/rwandan-womans-journey-elected-office-began-us/",
+            "original": "https://www.inclusivesecurity.org/wp-content/uploads/2018/01/Fig-2.11-1024x671.jpg"
+        },
+        {
+            "position": 72,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKiNgInqbCyQ8E9UK-68XBFNx7YnH7LNeYoQ&usqp=CAU",
+            "source": "sqoop.co.ug",
+            "title": "Rwandan women sold off as brides in Mityana \u2013 Sqoop \u2013 Get Uganda  entertainment news, celebrity gossip, videos and photos",
+            "link": "https://www.sqoop.co.ug/201811/four-one-one/rwandan-women-sold-off-as-brides-in-mityana.html",
+            "original": "http://www.sqoop.co.ug/wp-content/uploads/2018/11/rwanda.jpg"
+        },
+        {
+            "position": 73,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNh14rhq5yRomOJhZdkV7bziepfrfN3bXukg&usqp=CAU",
+            "source": "isiswomen.org",
+            "title": "Women in Post-Genocide Rwanda:Facing the Past to Build a Future",
+            "link": "https://www.isiswomen.org/index.php?option=com_content&view=article&id=1413:women-in-post-genocide-rwandafacing-the-past-to-build-a-future-&catid=169:multiple-intolerance-mounting-resistance&Itemid=452",
+            "original": "https://www.isiswomen.org/images/stories/wia/wia20093/Women_in_Kigali.jpg"
+        },
+        {
+            "position": 74,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmkxozL5Gi1oquMjWCJ_L6R3hUX3MMegLxg&usqp=CAU",
+            "source": "e-ir.info",
+            "title": "Breaking the Silence: Rwandan Women Survivors Give Testimony and Find a  Voice",
+            "link": "https://www.e-ir.info/2014/04/27/breaking-the-silence-rwandan-women-survivors-give-testimony-and-find-a-voice/",
+            "original": "https://www.e-ir.info/wp-content/uploads/2014/04/Julien-Harneis.jpg"
+        },
+        {
+            "position": 75,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhlICG-Hq9R5OWbfWFM-rBAmBVowwM_gn_Eg&usqp=CAU",
+            "source": "borgenproject.org",
+            "title": "Gender Equality in Rwanda | The Borgen Project",
+            "link": "https://borgenproject.org/gender-equality-in-rwanda-2/",
+            "original": "https://borgenproject.org/wp-content/uploads/4469862744_81970938c4_b.jpg"
+        },
+        {
+            "position": 76,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemle6mWkXNtOOb61rp0ZkCT6onU0SdB_kJg&usqp=CAU",
+            "source": "newtimes.co.rw",
+            "title": "African women in politics: Miles to go before parity is achieved | The New  Times | Rwanda",
+            "link": "https://www.newtimes.co.rw/news/african-women-politics-miles-go-parity-achieved",
+            "original": "https://www.newtimes.co.rw/sites/default/files/main/articles/2019/05/08/rwanda-has-the-highest-percentage-of-women-in-parliament-worldwide.jpg"
+        },
+        {
+            "position": 77,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcncXAnIjg6eJFsiSFQlvP1m1Ag0g2F3oFw&usqp=CAU",
+            "source": "flickr.com",
+            "title": "Rwandan women after class | Taken at a Mosque in Kigali | Flickr",
+            "link": "https://www.flickr.com/photos/sultan/2120209410",
+            "original": "https://live.staticflickr.com/2236/2120209410_707815a2ce_b.jpg"
+        },
+        {
+            "position": 78,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg3tuhKRmsBWVA97H0rneHYDblhyuO705Neg&usqp=CAU",
+            "source": "afjn.org",
+            "title": "Rwandan Women Healing the Nation Post-Genocide",
+            "link": "https://afjn.org/rwandan-women-healing-the-nation-post-genocide/",
+            "original": "https://afjn.org/wp-content/uploads/2017/06/Screen-Shot-2017-06-29-at-4.07.40-PM.png"
+        },
+        {
+            "position": 79,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXDsqWp3xmlF2oaDe4BWq9HjGKnjAqRtRJdg&usqp=CAU",
+            "source": "pbs.org",
+            "title": "Rwandan Genocide Survivor Denise Uwimana Tells Her Story | Video | Amanpour  & Company | PBS",
+            "link": "https://www.pbs.org/wnet/amanpour-and-company/video/rwandan-genocide-survivor-denise-uwimana-tells-her-story/",
+            "original": "https://www.pbs.org/wnet/amanpour-and-company/files/2019/04/9kOZ1J5-asset-mezzanine-16x9-19PFrxL.jpg"
+        },
+        {
+            "position": 80,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkb1NxDdXrXuilnX8SzSGSj6GK-rwYJ4dLA&usqp=CAU",
+            "source": "bbc.com",
+            "title": "My father, the rapist': Hidden victims of Rwanda's genocide - BBC News",
+            "link": "https://www.bbc.com/news/world-africa-48673713",
+            "original": "https://ichef.bbci.co.uk/news/976/cpsprodpb/5700/production/_107427222_bc0c40fb-4764-4ec5-a67a-bbc903520923.jpg"
+        },
+        {
+            "position": 81,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-g2I1YrKrT8qD7UFHXNDkt72GNmQ4xS3Pg&usqp=CAU",
+            "source": "commons.wikimedia.org",
+            "title": "File:Kigali celebration for the women of Rwandan Women Rising  (35426418905).jpg - Wikimedia Commons",
+            "link": "https://commons.wikimedia.org/wiki/File:Kigali_celebration_for_the_women_of_Rwandan_Women_Rising_%2835426418905%29.jpg",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kigali_celebration_for_the_women_of_Rwandan_Women_Rising_%2835426418905%29.jpg"
+        },
+        {
+            "position": 82,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_MW_7WC9bi6_Smm5iQL56wJGo7C7PWn9gw&usqp=CAU",
+            "source": "womenignitingchange.com",
+            "title": "25 Years After the Rwandan Genocide, We Need to Keep Our Focus on Young  Women - Women Igniting Change",
+            "link": "https://womenignitingchange.com/global-womens-issues/25-years-after-the-rwandan-genocide-we-need-to-keep-our-focus-on-young-women/",
+            "original": "https://womenignitingchange.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-24-at-3.25.45-PM.png"
+        },
+        {
+            "position": 83,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTxE3adPAh5gUusvJ5V_zGTTHhEpXaao6zA&usqp=CAU",
+            "source": "shutterstock.com",
+            "title": "Group Rwandan Women Colorful Traditionals Clothes Stock Photo (Edit Now)  1355148464",
+            "link": "https://www.shutterstock.com/image-photo/group-rwandan-women-colorful-traditionals-clothes-1355148464",
+            "original": "https://image.shutterstock.com/image-photo/group-rwandan-women-colorful-traditionals-600w-1355148464.jpg"
+        },
+        {
+            "position": 84,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF55Es_8eP-cll_faCJlPt4mNHS4QwbAPfmg&usqp=CAU",
+            "source": "washingtonpost.com",
+            "title": "Thousands of women were raped during Rwanda's genocide. Now their kids are  coming of age. | The Washington Post",
+            "link": "http://www.washingtonpost.com/sf/world/2017/06/11/rwandas-children-of-rape-are-coming-of-age-against-the-odds/",
+            "original": "http://www.washingtonpost.com/sf/world/wp-content/uploads/sites/15/2017/05/RwandaRapeLEDE.jpg"
+        },
+        {
+            "position": 85,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwd0rjp45ciea_lZG0G5QbwACeF7RAiCE6g&usqp=CAU",
+            "source": "trumpetnews.co.ug",
+            "title": "Intel Brief: How Rwandan Female 'Spy' Planned to Lure Ugandan Officials  into Espionage - Trumpet News",
+            "link": "https://trumpetnews.co.ug/intel-brief-how-rwandan-female-spy-planned-to-lure-ugandan-officials-into-espionage/",
+            "original": "https://trumpetnews.co.ug/wp-content/uploads/2019/06/Kenty-Diana.jpeg"
+        },
+        {
+            "position": 86,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhyg5TmfEkDeNcvpBSnmyiBokwKZsZkGvQw&usqp=CAU",
+            "source": "medium.com",
+            "title": "Kagame's Rwanda Was Brutal On Rwandan Women In 2019 | by David Himbara |  Medium",
+            "link": "https://medium.com/@david.himbara_27884/kagames-rwanda-was-brutal-on-rwandan-women-in-2019-e4a7058d9667",
+            "original": "https://miro.medium.com/max/1838/1*r2titZSF5LTMcXMk2ViI5Q@2x.jpeg"
+        },
+        {
+            "position": 87,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgm4lJpf2IONDy4EA9KtemXfLOBbwqnGDtg&usqp=CAU",
+            "source": "modoyoga.com",
+            "title": "Supporting The Abari Collective & Rwandan Women - Modo Yoga Seattle",
+            "link": "https://modoyoga.com/seattle/supporting-the-abari-collective-rwandan-women/",
+            "original": "https://modoyoga.com/seattle/wp-content/uploads/sites/138/2020/01/BlogKarmaJan2020.jpg"
+        },
+        {
+            "position": 88,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZD-DRov1qcOdshn8uWuM1205v3kBLdCNpA&usqp=CAU",
+            "source": "esaro.unfpa.org",
+            "title": "UNFPA ESARO | Family planning is not a 'women's issue' but a development  issue as it impacts the economy \u2013 Rwandan Prime Minister",
+            "link": "https://esaro.unfpa.org/en/news/family-planning-not-%E2%80%98womens-issue%E2%80%99-development-issue-it-impacts-economy-%E2%80%93-rwandan-prime",
+            "original": "https://esaro.unfpa.org/sites/default/files/styles/news_detail/public/news/Dr%20Natalia%20Kanem%20UNFPA%20Executive%20Director%2C%20H.E%20Martine%20Moise%20First%20Lady%20of%20Haiti%2C%20H.E%20Jeannette%20Kagame%20First%20Lady%20of%20Rwanda%2C%20Chris%20Elias%20Bill%20and%20Melinda%20Gates%20Foundation%201000%203.jpg?itok=7m6w3dxJ"
+        },
+        {
+            "position": 89,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGLMlf2GAbjR_ZeKQbxubeExFyiI7-EjYqA&usqp=CAU",
+            "source": "borgenmagazine.com",
+            "title": "Akilah Institute Plans to Empower Rwandan Women - BORGEN",
+            "link": "https://www.borgenmagazine.com/akilah-institute-plans-empower-rwandan-women/",
+            "original": "https://www.borgenmagazine.com/wp-content/uploads/2014/06/Akilah-Institute.jpg"
+        },
+        {
+            "position": 90,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRvj6gIaftPs0fUqCGhGyBMh9uLAOCAhuYwA&usqp=CAU",
+            "source": "icrc.org",
+            "title": "Breaking stereotypes: Empowering women during armed conflicts | ICRC",
+            "link": "https://www.icrc.org/en/document/rwanda-stereotypes-empowering-women-during-armed-conflicts",
+            "original": "https://www.icrc.org/sites/default/files/styles/amp_thumbnail_image_1-1/public/document/image/rwanda-empowering-women-conflict-story-article-01.jpg?itok=9otrT6b4"
+        },
+        {
+            "position": 91,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQEy9r1eZ3hp3g3V5oFzGvjfG_RRZsxLHjQ&usqp=CAU",
+            "source": "girltalkhq.com",
+            "title": "Rwanda: From Genocide To The Highest % Of Women In Government Globally",
+            "link": "https://www.girltalkhq.com/rwanda-from-genocide-to-the-highest-of-women-in-government-globally/",
+            "original": "https://girltalkhq.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-14-at-3.04.46-PM.png"
+        },
+        {
+            "position": 92,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBoyJ7BtlRC_K1kjDWYj5w1ZA86y2P_idRJQ&usqp=CAU",
+            "source": "calendar.smu.edu",
+            "title": "Centers and Institutes - Rwandan Women Rising",
+            "link": "https://calendar.smu.edu/site/centersinstitutes/event/tower-center--women-in-politics/",
+            "original": "https://calendarmedia.blob.core.windows.net/assets/0afe5661-4263-4104-b494-826c2ff9cde5.png"
+        },
+        {
+            "position": 93,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD801bDFqVUcsuJnkQgE-0dUm7Ob5k9gDmBA&usqp=CAU",
+            "source": "face2faceafrica.com",
+            "title": "Second Rwandan woman jailed after opposing Kagame in elections granted bail  - Face2Face Africa",
+            "link": "https://face2faceafrica.com/article/second-rwandan-woman-jailed-after-opposing-kagame-in-elections-granted-bail",
+            "original": "https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/10/ob_aed80a_diane-rwigara-mu-rukiko.jpg"
+        },
+        {
+            "position": 94,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQWqJUPYo5C8VgcS3HEPUTrZqYOvWlS80Ig&usqp=CAU",
+            "source": "africanpostonline.com",
+            "title": "The Rwandan Woman: A Privileged African Woman? | African Post Online",
+            "link": "https://africanpostonline.com/the-rwandan-woman-a-privileged-african-woman/",
+            "original": "https://africanpostonline.com/wp-content/uploads/00491039_a408cc900fd9638eb394d21c6bc767d6_arc614x376_w1200.jpg"
+        },
+        {
+            "position": 95,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpaytmXy8cnFNJQFXJtD5vgdyiBaMowT5FOQ&usqp=CAU",
+            "source": "voanews.com",
+            "title": "Rwandan Parliament's Female Majority Focuses on Equality | Voice of America  - English",
+            "link": "https://www.voanews.com/africa/rwandan-parliaments-female-majority-focuses-equality",
+            "original": "https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-04/4F3BB3AA-E5C7-45E3-BB49-41D3ACEB4738.jpg?itok=1rhOt-Q6"
+        },
+        {
+            "position": 96,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTX8ZeR9PJP4rCvGdjAJ8ukPMfDaLl51ATTA&usqp=CAU",
+            "source": "line.17qq.com",
+            "title": "Most Beautiful Rwandan Women (Page 1) - Line.17QQ.com",
+            "link": "https://line.17qq.com/articles/dopjz.html",
+            "original": "https://img.17qq.com/images/gpbpfz.jpeg"
+        },
+        {
+            "position": 97,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFH7oDiZOOT8L_kl9GMJQi26z9sR89FUILkA&usqp=CAU",
+            "source": "globalgiving.org \u00b7 Out of stock",
+            "title": "Reports on Teach 75 Rwandan Women to Sew Handicrafts - GlobalGiving",
+            "link": "https://www.globalgiving.org/projects/training-in-handicrafts-for-75-rwandan-women/reports/",
+            "original": "https://files.globalgiving.org/pfil/30295/pict_large.jpg?m=1509330628000"
+        },
+        {
+            "position": 98,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHzHDOxj_O77fNcfqzrGJqfN2D2kqf6PmUSQ&usqp=CAU",
+            "source": "newyorkminutemag.com",
+            "title": "Rwandan Women Build Wool Industry and, In Turn, Their Independence",
+            "link": "https://www.newyorkminutemag.com/rwandan-women/",
+            "original": "https://www.newyorkminutemag.com/wp-content/uploads/2019/04/PIXNIO-44815-2250x1464-1000x600.jpg"
+        },
+        {
+            "position": 99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWstGDVapdkMErefvbcQrEryuOgZceqnh7PA&usqp=CAU",
+            "source": "thebigphotos.com",
+            "title": "Beautiful Rwandan Woman \u00b7 The Big Photos",
+            "link": "http://thebigphotos.com/beautiful-rwandan-woman/",
+            "original": "http://thebigphotos.com/wp-content/uploads/2018/11/beautiful-rwandan-woman.jpg"
+        },
+        {
+            "position": 100,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAbv0xp_-2LH4oRrS4kVbzfGNDALbz8wk88w&usqp=CAU",
+            "source": "gettyimages.ie",
+            "title": "Rwandan Women News Photo - Getty Images",
+            "link": "https://www.gettyimages.ie/detail/news-photo/rwandan-women-news-photo/635935581",
+            "original": "https://media.gettyimages.com/photos/rwandan-women-picture-id635935581"
+        }
+    ]
+}
