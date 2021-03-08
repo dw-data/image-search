@@ -7,9 +7,9 @@ It was written by [Rodrigo Menegat](https://github.com/RodrigoMenegat) and can b
 - [English](https://www.dw.com/en/google-image-search-cements-national-stereotypes-of-racy-women/a-56767605)
 - [German](https://www.dw.com/de/datenanalyse-wie-google-sexistische-klischees-pusht/a-56782817)
 - [Spanish](https://www.dw.com/es/la-b%C3%BAsqueda-de-im%C3%A1genes-de-google-consolida-los-estereotipos-de-mujeres/a-56776907)
-- [Portuguese](#)
+- [Portuguese](https://www.dw.com/pt-br/como-o-google-contribui-para-perpetuar-estere%C3%B3tipos-sexistas/a-56789034)
+- [Chinese](https://p.dw.com/p/3qIOY)
 - [Ukrainian](#)
-- [Chinese](#)
 
 ## Data analysis
 
